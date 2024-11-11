@@ -1,0 +1,3 @@
+# python-dotenv # REMOVE ON DEPLOYMENT
+google-generativeai
+transformers
