@@ -5,7 +5,7 @@ from google.generativeai.types import (
 )
 from dataclasses import dataclass, asdict
 from enum import Enum
-from .basellm import BaseLLM, ChatSession
+from src.models.basellm import BaseLLM, ChatSession
 import os
 
 try:
@@ -103,8 +103,8 @@ class Gemini(BaseLLM):
 
         self.model = genai.GenerativeModel(**settings)
 
-    def generate(self, prompt:str, return_response:bool=False):
-        response = self.model.generate_content(prompt)
+    def generate(self, prompt:str, return_response:bool=False, **kwargs):
+        response = self.model.generate_content(prompt, **kwargs)
         if return_response:
             return response
         return response.text

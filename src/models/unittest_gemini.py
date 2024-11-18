@@ -1,5 +1,5 @@
 import unittest
-from gemini import Gemini, GeminiConfig
+from src.models.gemini import Gemini, GeminiConfig
 
 class TestGemini(unittest.TestCase):
     def setUp(self):

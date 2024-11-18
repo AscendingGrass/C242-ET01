@@ -4,10 +4,10 @@ class BaseLLM:
     def __init__(self, model_name):
         self.model_name = model_name
 
-    def generate(self, prompt):
+    def generate(self, prompt, **kwargs):
         raise NotImplementedError
     
-    def chat(self, messages):
+    def get_chat_session(self, history=[]):
         raise NotImplementedError
     
 class ChatSession:
@@ -18,4 +18,5 @@ class ChatSession:
         raise NotImplementedError
 
     def chat(self, message):
+        
         raise NotImplementedError

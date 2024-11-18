@@ -1,3 +1,4 @@
 python-dotenv # REMOVE ON DEPLOYMENT
 google-generativeai
-transformers
+unsloth # only works on linux
+ollama
