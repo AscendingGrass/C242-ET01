@@ -2,13 +2,18 @@ import sys
 sys.path.insert(0, ".")
 
 import unittest
-from src.models.unsloth_model import UnslothModel, UnslothConfig
+from src.models.ollama_model import OllamaModel, OllamaConfig
 
-class TestUnsloth(unittest.TestCase):
+
+class TestOllama(unittest.TestCase):
     @classmethod
     def setUpClass(self):
-        self.config = UnslothConfig()
-        self.model = UnslothModel(model_config=self.config)
+        self.config = OllamaConfig(
+            options=dict(
+                top_k=1
+            )
+        )
+        self.model = OllamaModel(model_config=self.config)
 
     def test_generate(self):
         try:
