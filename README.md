@@ -44,3 +44,8 @@
 
 ### 7. Using the Wrapper
 - Refer to the example script located at `C242-ET01/example_gemini.py` to learn how to use the wrapper.
+
+---
+
+## Our Webapps
+[Dicoding Generative AI Web Application](https://github.com/RayaSatriatama/Dicoding-GenAI-WebApps/tree/main)
