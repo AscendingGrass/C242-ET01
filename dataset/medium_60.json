@@ -1,0 +1,1180 @@
+[
+    {
+        "context": "Protokol internet adalah seperangkat aturan yang mengatur komunikasi data melalui internet.  TCP/IP adalah protokol internet yang paling umum digunakan. TCP (Transmission Control Protocol) memastikan pengiriman data yang andal, sedangkan IP (Internet Protocol) menangani pengalamatan dan routing data. HTTP (Hypertext Transfer Protocol) digunakan untuk mengakses situs web.  HTTPS adalah versi HTTP yang aman yang mengenkripsi data untuk melindungi informasi sensitif.  DNS (Domain Name System) menerjemahkan nama domain yang mudah diingat (seperti google.com) ke alamat IP numerik yang digunakan oleh komputer.  Firewall adalah sistem keamanan yang memantau dan mengontrol lalu lintas jaringan masuk dan keluar berdasarkan aturan keamanan yang telah ditentukan.  VPN (Virtual Private Network) membuat koneksi aman melalui jaringan publik, seperti internet.Server web adalah komputer yang menyimpan dan mengirimkan situs web.  Mereka menjalankan perangkat lunak server web, seperti Apache atau Nginx, yang menangani permintaan HTTP dari browser web.  Server web dapat menangani banyak permintaan secara bersamaan.  Load balancing mendistribusikan lalu lintas jaringan di beberapa server untuk meningkatkan kinerja dan ketersediaan.  Cloud computing menyediakan sumber daya komputasi, seperti server, penyimpanan, dan perangkat lunak, melalui internet.  CDN (Content Delivery Network) adalah jaringan server yang terdistribusi secara geografis yang mengirimkan konten web, seperti video dan gambar, ke pengguna berdasarkan lokasi mereka. Server web adalah jantung dari internet, memungkinkan kita untuk mengakses informasi dari seluruh dunia. Mereka bekerja tanpa lelah di balik layar, memproses jutaan permintaan setiap hari.  Keamanan server web sangat penting untuk melindungi data sensitif dari akses yang tidak sah.  Protokol keamanan, seperti HTTPS dan SSL, mengenkripsi data yang ditransmisikan antara browser web dan server web.Internet of Things (IoT) menghubungkan perangkat sehari-hari ke internet, memungkinkan mereka untuk mengumpulkan dan bertukar data.  Smart home menggunakan perangkat IoT untuk mengotomatiskan tugas, seperti mengontrol pencahayaan dan suhu.  5G adalah standar jaringan seluler generasi kelima yang menawarkan kecepatan data yang lebih tinggi dan latensi yang lebih rendah.  Keamanan IoT adalah masalah penting, karena perangkat IoT yang terhubung dapat rentan terhadap serangan siber.  Data mining adalah proses mengekstrak pengetahuan yang berguna dari data dalam jumlah besar.  Big data mengacu pada kumpulan data yang terlalu besar dan kompleks untuk diproses oleh metode tradisional.  Kecerdasan buatan (AI) menggunakan algoritma untuk meniru kecerdasan manusia.Server adalah tulang punggung dari banyak layanan online yang kita gunakan setiap hari, mulai dari media sosial hingga perbankan online.  Mereka menyimpan data kita, memproses transaksi kita, dan menghubungkan kita dengan orang lain di seluruh dunia.  Ketika Anda mengakses situs web, browser web Anda mengirimkan permintaan HTTP ke server web, yang kemudian mengirimkan kembali file-file yang diperlukan untuk menampilkan halaman web tersebut.  Proses ini terjadi dalam hitungan detik, memungkinkan kita untuk mengakses informasi dengan cepat dan efisien.  Internet telah merevolusi cara kita berkomunikasi, bekerja, dan mengakses informasi.  Ini telah menghubungkan dunia dengan cara yang belum pernah terjadi sebelumnya, memungkinkan kita untuk berbagi ide, belajar, dan berkolaborasi dengan orang lain di seluruh dunia.  HTTP adalah protokol tanpa status, yang berarti setiap permintaan diperlakukan secara independen.  Cookie digunakan untuk menyimpan informasi tentang sesi pengguna, seperti item di keranjang belanja online.Jaringan komputer memungkinkan kita untuk berbagi sumber daya, seperti printer dan file, dan untuk berkomunikasi satu sama lain melalui email, pesan instan, dan video conference.  Topologi jaringan menggambarkan tata letak fisik atau logis dari jaringan.  Topologi umum termasuk bus, bintang, ring, dan mesh.  Ethernet adalah teknologi jaringan area lokal (LAN) yang paling umum digunakan.  Wi-Fi memungkinkan perangkat untuk terhubung ke jaringan tanpa kabel.  Switch jaringan menghubungkan beberapa perangkat di LAN, sedangkan router menghubungkan LAN ke internet.  Keamanan jaringan sangat penting untuk melindungi data sensitif dari akses yang tidak sah.  Firewall, sistem deteksi intrusi, dan perangkat lunak antivirus adalah komponen penting dari keamanan jaringan.  OSI model adalah kerangka kerja konseptual yang menstandardisasi komunikasi antar sistem komputer.  Ini terdiri dari tujuh lapisan: fisik, tautan data, jaringan, transport, sesi, presentasi, dan aplikasi. Setiap lapisan memiliki fungsi tertentu dalam proses komunikasi.Jaringan komputer telah mengubah cara kita bekerja, berkomunikasi, dan mengakses informasi.  Mereka memungkinkan kita untuk berkolaborasi dalam proyek, berbagi ide, dan terhubung dengan orang lain di seluruh dunia.  Dari email hingga media sosial hingga cloud computing, jaringan komputer telah menjadi bagian integral dari kehidupan kita sehari-hari.  Mereka telah memungkinkan kita untuk bekerja dari jarak jauh, belajar online, dan mengakses informasi dari mana saja di dunia.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Dalam konteks komunikasi data melalui internet, jelaskan perbedaan mendasar antara TCP dan IP dalam TCP/IP, dan bagaimana keduanya bekerja sama untuk memastikan pengiriman data yang andal.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "TCP menangani pengalamatan, sementara IP memastikan pengiriman data yang andal melalui koneksi."
+                        },
+                        {
+                            "id": "b",
+                            "text": "IP menangani segmentasi data, sedangkan TCP bertanggung jawab atas routing paket."
+                        },
+                        {
+                            "id": "c",
+                            "text": "TCP menjamin pengiriman data yang andal melalui koneksi dan kontrol aliran, sedangkan IP menangani pengalamatan dan perutean paket."
+                        },
+                        {
+                            "id": "d",
+                            "text": "TCP dan IP keduanya menangani pengalamatan dan perutean, dengan TCP berfokus pada jaringan lokal dan IP pada jaringan luas."
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "TCP bertanggung jawab atas koneksi yang andal dan kontrol aliran data, sedangkan IP menangani pengalamatan dan perutean paket individu melalui jaringan."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "HTTP menyediakan kerahasiaan dan integritas data yang cukup untuk transaksi sensitif seperti perbankan online tanpa perlu protokol tambahan.",
+                    "correct_answer": false,
+                    "explanation": "HTTP tidak mengenkripsi data. HTTPS, yang menggunakan SSL/TLS, diperlukan untuk transaksi sensitif."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Selain menerjemahkan nama domain ke alamat IP, apa peran penting lain dari DNS dalam arsitektur internet?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengelola load balancing antar server web."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menyediakan layanan caching untuk mempercepat resolusi nama domain."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Bertindak sebagai firewall untuk melindungi jaringan dari serangan DNS."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengirimkan konten web langsung ke pengguna akhir."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "DNS caching meningkatkan kinerja dengan menyimpan hasil resolusi nama domain."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari teknologi berikut yang berkontribusi secara langsung terhadap keamanan jaringan komputer?  Pilih semua yang benar.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Firewall"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Load Balancing"
+                        },
+                        {
+                            "id": "c",
+                            "text": "VPN"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sistem Deteksi Intrusi"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Firewall, VPN dan Sistem Deteksi Intrusi secara langsung meningkatkan keamanan. Load Balancing terutama untuk kinerja dan ketersediaan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana load balancing meningkatkan kinerja dan ketersediaan server web, terutama dalam lingkungan dengan lalu lintas tinggi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Dengan meningkatkan kecepatan pemrosesan setiap server web individual."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Dengan mendistribusikan permintaan klien di beberapa server, mencegah kelebihan beban dan memastikan kontinuitas layanan jika satu server gagal."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Dengan menyimpan salinan cache dari konten web di setiap server, mengurangi latensi untuk pengguna akhir."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Dengan menerjemahkan nama domain ke alamat IP, memungkinkan klien untuk terhubung ke server yang sesuai."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Load balancing mendistribusikan beban kerja, mencegah satu server menjadi kewalahan dan menyediakan redundansi jika terjadi kegagalan server."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Jaringan komputer adalah kumpulan komputer dan perangkat lain yang terhubung satu sama lain untuk berbagi sumber daya dan informasi. Jaringan ini dapat berkisar dari jaringan rumah kecil yang menghubungkan beberapa komputer dan printer hingga internet global yang menghubungkan miliaran perangkat.  Jaringan komputer memungkinkan kita untuk berbagi file, mengakses internet, mengirim email, dan berkomunikasi satu sama lain secara real time. Ada berbagai jenis jaringan komputer, masing-masing dengan karakteristik dan kegunaannya sendiri.  LAN (Local Area Network) adalah jaringan yang terbatas pada area geografis yang kecil, seperti rumah, kantor, atau sekolah.  WAN (Wide Area Network) adalah jaringan yang mencakup area geografis yang luas, seperti negara atau benua.  Internet adalah contoh WAN terbesar.  MAN (Metropolitan Area Network) adalah jaringan yang mencakup kota atau wilayah metropolitan.  Jaringan komputer menggunakan berbagai protokol, yaitu seperangkat aturan yang mengatur komunikasi data, untuk memastikan bahwa data ditransmisikan dengan benar.  TCP/IP adalah protokol yang paling umum digunakan di internet.  Protokol lain termasuk HTTP, FTP, dan SMTP.  Topologi jaringan menggambarkan tata letak fisik atau logis dari jaringan.  Topologi umum termasuk bus, bintang, ring, dan mesh.  Setiap topologi memiliki kelebihan dan kekurangannya sendiri dalam hal kinerja, keandalan, dan biaya. Keamanan jaringan sangat penting untuk melindungi data sensitif dari akses yang tidak sah.  Firewall, sistem deteksi intrusi, dan perangkat lunak antivirus adalah komponen penting dari keamanan jaringan.  Praktik keamanan yang baik, seperti kata sandi yang kuat dan pembaruan perangkat lunak secara teratur, juga penting untuk menjaga keamanan jaringan.  Jaringan nirkabel, seperti Wi-Fi, telah menjadi semakin populer dalam beberapa tahun terakhir.  Wi-Fi memungkinkan perangkat untuk terhubung ke jaringan tanpa kabel, memberikan fleksibilitas dan mobilitas yang lebih besar.  Namun, jaringan nirkabel juga dapat lebih rentan terhadap serangan siber jika tidak diamankan dengan benar. Cloud computing adalah model untuk memungkinkan akses jaringan yang nyaman sesuai permintaan ke kumpulan sumber daya komputasi bersama yang dapat dikonfigurasi (misalnya, jaringan, server, penyimpanan, aplikasi, dan layanan) yang dapat dengan cepat disediakan dan dirilis dengan upaya manajemen minimal atau interaksi penyedia layanan. Cloud computing telah merevolusi cara bisnis dan individu menggunakan teknologi.  Ini menyediakan akses ke sumber daya komputasi yang kuat tanpa perlu investasi perangkat keras dan perangkat lunak yang besar.  Layanan cloud umum termasuk penyimpanan data, perangkat lunak sebagai layanan (SaaS), dan platform sebagai layanan (PaaS).  Jaringan komputer telah mengubah cara kita hidup, bekerja, dan berkomunikasi.  Mereka telah menghubungkan dunia dengan cara yang belum pernah terjadi sebelumnya, memungkinkan kita untuk berbagi informasi, berkolaborasi dalam proyek, dan terhubung dengan orang lain di seluruh dunia.  Dengan terus berkembangnya teknologi, jaringan komputer akan terus memainkan peran yang semakin penting dalam kehidupan kita. Server web adalah program komputer yang mendistribusikan halaman web sesuai permintaan. Ketika klien, biasanya browser web atau perayap web, mengirimkan permintaan untuk halaman web yang terletak di server web, server merespons dengan mengirimkan file yang diminta ke klien yang membuat halaman web yang diminta tersedia untuk dilihat. Server web memungkinkan pengguna di seluruh dunia untuk mengakses situs web melalui internet. Mereka bertanggung jawab untuk menyimpan, memproses, dan mengirimkan halaman web ke pengguna akhir.  Server web menjalankan perangkat lunak khusus yang memungkinkan mereka untuk berkomunikasi dengan browser web dan mengirimkan konten web yang diminta.  Ketika Anda mengetikkan alamat web di browser Anda, browser Anda mengirimkan permintaan ke server web yang menghosting situs web tersebut.  Server web kemudian memproses permintaan tersebut dan mengirimkan kembali file-file yang diperlukan untuk menampilkan situs web tersebut di browser Anda.  Proses ini terjadi dalam hitungan detik, memungkinkan Anda untuk mengakses informasi dari seluruh dunia dengan cepat dan efisien. HTTP (Hypertext Transfer Protocol) adalah protokol yang digunakan untuk mentransfer data melalui World Wide Web.  Ketika Anda mengakses situs web, browser Anda mengirimkan permintaan HTTP ke server web, yang kemudian mengirimkan kembali halaman web yang diminta.  HTTPS (Hypertext Transfer Protocol Secure) adalah versi HTTP yang aman yang mengenkripsi komunikasi antara browser Anda dan server web, melindungi informasi sensitif dari akses yang tidak sah.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan perbedaan antara LAN, WAN, dan MAN, serta berikan contoh skenario penggunaan yang tepat untuk setiap jenis jaringan.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "LAN untuk area geografis yang luas, WAN untuk jaringan lokal, dan MAN untuk jaringan metropolitan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "LAN untuk jaringan rumah, WAN untuk internet, dan MAN untuk jaringan kampus universitas."
+                        },
+                        {
+                            "id": "c",
+                            "text": "LAN untuk jaringan kantor kecil, WAN untuk menghubungkan kantor cabang di berbagai negara, dan MAN untuk jaringan kota."
+                        },
+                        {
+                            "id": "d",
+                            "text": "LAN untuk komunikasi global, WAN untuk jaringan regional, dan MAN untuk jaringan pribadi."
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "LAN cocok untuk jaringan lokal, WAN untuk jaringan luas yang mencakup jarak geografis yang besar, dan MAN untuk jaringan di area metropolitan."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Mengingat meningkatnya popularitas Wi-Fi, apakah firewall menjadi kurang penting untuk keamanan jaringan nirkabel?",
+                    "correct_answer": false,
+                    "explanation": "Firewall tetap penting untuk keamanan jaringan nirkabel karena mereka menyediakan lapisan perlindungan penting terhadap ancaman eksternal, terlepas dari bagaimana perangkat terhubung ke jaringan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Selain TCP/IP, sebutkan dua protokol lain yang umum digunakan dalam jaringan komputer dan jelaskan fungsi masing-masing.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "DHCP untuk alokasi alamat IP dinamis dan DNS untuk menerjemahkan nama domain ke alamat IP."
+                        },
+                        {
+                            "id": "b",
+                            "text": "FTP untuk transfer file dan SMTP untuk mengirim email."
+                        },
+                        {
+                            "id": "c",
+                            "text": "HTTP untuk mengakses situs web dan HTTPS untuk komunikasi yang aman."
+                        },
+                        {
+                            "id": "d",
+                            "text": "ICMP untuk pesan kontrol internet dan ARP untuk resolusi alamat."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "FTP dan SMTP adalah protokol umum yang digunakan untuk transfer file dan email."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan praktik keamanan yang baik untuk melindungi jaringan komputer dari akses yang tidak sah? Pilih semua yang benar.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menggunakan kata sandi yang kuat dan unik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Membagikan kata sandi dengan rekan kerja"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menginstal pembaruan perangkat lunak secara teratur"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengaktifkan otentikasi multi-faktor"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Kata sandi yang kuat, pembaruan perangkat lunak, dan otentikasi multi-faktor penting untuk keamanan. Membagikan kata sandi adalah praktik yang buruk."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana cloud computing mengubah cara bisnis dan individu menggunakan teknologi? Berikan contoh spesifik dari layanan cloud dan manfaatnya.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Dengan menyediakan akses ke sumber data"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Dengan meningkatkan kecepatan internet dan menyediakan perangkat keras yang lebih kuat."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Dengan menawarkan skalabilitas, fleksibilitas, dan penghematan biaya melalui layanan seperti SaaS dan PaaS, menghilangkan kebutuhan akan investasi perangkat keras dan perangkat lunak yang besar."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Dengan menyediakan platform untuk pengembangan perangkat lunak dan otomatisasi tugas."
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Cloud computing menawarkan skalabilitas, fleksibilitas, dan penghematan biaya melalui berbagai layanan seperti SaaS (Software as a Service) dan PaaS (Platform as a Service), menghilangkan kebutuhan untuk investasi yang besar dalam perangkat keras dan perangkat lunak."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Internet, jaringan global yang menghubungkan miliaran komputer dan perangkat, telah merevolusi cara kita berkomunikasi, bekerja, dan mengakses informasi.  Internet memungkinkan kita untuk mengirim email, menjelajahi web, melakukan streaming video, dan terhubung dengan orang lain di seluruh dunia secara real time.  Internet menggunakan serangkaian protokol, yaitu seperangkat aturan yang mengatur komunikasi data, untuk memastikan bahwa data ditransmisikan dengan benar antara perangkat.  Protokol inti internet adalah TCP/IP (Transmission Control Protocol/Internet Protocol).  TCP memastikan pengiriman data yang andal, sedangkan IP menangani pengalamatan dan perutean data.  Protokol lain yang umum digunakan di internet termasuk HTTP (Hypertext Transfer Protocol) untuk mengakses situs web, FTP (File Transfer Protocol) untuk mentransfer file, dan SMTP (Simple Mail Transfer Protocol) untuk mengirim email. Arsitektur internet didesain untuk desentralisasi dan redundansi, yang berarti tidak ada satu titik kegagalan pun.  Jika satu bagian dari internet gagal, data dapat dialihkan melalui jalur alternatif.  Desain ini membuat internet sangat tangguh dan tahan terhadap gangguan.  World Wide Web (WWW) seringkali keliru dianggap sama dengan internet, tetapi sebenarnya WWW hanyalah salah satu layanan yang berjalan di atas internet.  WWW adalah sistem dokumen hiperteks yang saling terhubung yang diakses melalui internet.  Situs web dihosting di server web dan diakses menggunakan browser web, seperti Chrome, Firefox, atau Safari.  Perkembangan teknologi web, seperti HTML5, CSS3, dan JavaScript, telah memungkinkan pembuatan situs web yang interaktif dan dinamis. Keamanan siber menjadi semakin penting karena semakin banyak kehidupan kita yang bergantung pada internet.  Serangan siber, seperti malware, phishing, dan denial-of-service attack, dapat menyebabkan kerusakan yang signifikan pada individu dan organisasi.  Penting untuk mengambil langkah-langkah untuk melindungi diri dari serangan siber, seperti menggunakan kata sandi yang kuat, memperbarui perangkat lunak secara teratur, dan berhati-hati terhadap email dan tautan yang mencurigakan.  Jaringan komputer, yang membentuk dasar dari internet, memungkinkan komputer dan perangkat lain untuk berbagi sumber daya dan informasi.  Jaringan dapat berkisar dari jaringan rumah kecil yang menghubungkan beberapa komputer dan printer hingga jaringan perusahaan besar yang menghubungkan ribuan pengguna.  Jaringan komputer menggunakan berbagai topologi, yaitu tata letak fisik atau logis dari jaringan.  Topologi umum termasuk bus, bintang, ring, dan mesh.  Setiap topologi memiliki kelebihan dan kekurangannya sendiri dalam hal kinerja, keandalan, dan biaya. Server web adalah komputer yang menyimpan dan mengirimkan situs web.  Mereka menjalankan perangkat lunak server web, seperti Apache atau Nginx, yang menangani permintaan HTTP dari browser web.  Server web dapat menangani banyak permintaan secara bersamaan, memungkinkan jutaan pengguna untuk mengakses situs web setiap hari.  Ketika Anda mengetikkan alamat web di browser Anda, browser Anda mengirimkan permintaan HTTP ke server web yang menghosting situs web tersebut.  Server web kemudian memproses permintaan tersebut dan mengirimkan kembali file-file yang diperlukan untuk menampilkan situs web tersebut di browser Anda. Proses ini terjadi dalam hitungan detik, memungkinkan Anda untuk mengakses informasi dari seluruh dunia dengan cepat dan efisien.   Keamanan server web sangat penting untuk melindungi data sensitif dari akses yang tidak sah.  Protokol keamanan, seperti HTTPS dan SSL, mengenkripsi data yang ditransmisikan antara browser web dan server web. Teknologi cloud computing memungkinkan individu dan organisasi untuk mengakses sumber daya komputasi, seperti server, penyimpanan, dan perangkat lunak, melalui internet.  Cloud computing menawarkan skalabilitas, fleksibilitas, dan penghematan biaya dibandingkan dengan solusi hosting tradisional.  Layanan cloud umum termasuk penyimpanan data, perangkat lunak sebagai layanan (SaaS), dan platform sebagai layanan (PaaS).  Internet of Things (IoT) mengacu pada jaringan perangkat fisik yang terhubung ke internet, yang dapat mengumpulkan dan bertukar data.  Perangkat IoT berkisar dari peralatan rumah tangga pintar hingga sensor industri.  IoT memiliki potensi untuk merevolusi berbagai industri, mulai dari perawatan kesehatan hingga manufaktur.  Keamanan IoT merupakan pertimbangan penting, karena perangkat IoT yang terhubung dapat rentan terhadap serangan siber.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan bagaimana arsitektur internet yang terdesentralisasi dan redundan berkontribusi pada ketahanan dan kemampuannya untuk menahan gangguan. Berikan contoh bagaimana data dialihkan dalam kasus kegagalan jaringan.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Desentralisasi berarti semua data disimpan di satu lokasi pusat, memastikan akses cepat bahkan selama gangguan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Redundansi memungkinkan beberapa jalur antara dua titik, sehingga data dapat dialihkan melalui jalur alternatif jika salah satu jalur gagal."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Arsitektur internet bergantung pada satu penyedia layanan, membuat internet rentan terhadap gangguan."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Desentralisasi dan redundansi tidak berpengaruh pada ketahanan internet terhadap gangguan."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Redundansi dalam arsitektur internet memungkinkan data untuk dialihkan melalui jalur alternatif jika terjadi kegagalan, memastikan ketahanan terhadap gangguan."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "World Wide Web (WWW) dan internet adalah entitas yang sama dan dapat digunakan secara bergantian.",
+                    "correct_answer": false,
+                    "explanation": "WWW adalah layanan yang berjalan di atas internet, bukan internet itu sendiri. Internet adalah infrastruktur jaringan, sedangkan WWW adalah sistem dokumen hiperteks yang saling terhubung yang diakses melalui internet."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan peran server web dalam menyampaikan konten web kepada pengguna dan bagaimana perangkat lunak server web seperti Apache dan Nginx memfasilitasi proses ini. Sertakan contoh bagaimana server web menangani banyak permintaan secara bersamaan.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Server web menerjemahkan nama domain ke alamat IP, memungkinkan pengguna untuk mengakses situs web menggunakan nama domain yang mudah diingat."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Server web menyimpan file situs web dan memproses permintaan HTTP dari browser web, mengirimkan kembali file yang diminta untuk ditampilkan kepada pengguna. Mereka dapat menangani banyak permintaan secara bersamaan melalui mekanisme seperti multithreading atau multiprocessing."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Server web bertindak sebagai firewall, melindungi situs web dari akses yang tidak sah."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Server web menyediakan antarmuka bagi pengguna untuk mengunggah dan mengunduh file."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Server web menyimpan, memproses, dan mengirimkan konten web. Perangkat lunak server web menangani permintaan HTTP dan dapat menangani banyak permintaan secara bersamaan, memungkinkan akses ke situs web oleh banyak pengguna."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan jenis serangan siber yang umum yang dapat membahayakan keamanan siber? Pilih semua yang benar.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Malware"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Phishing"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Enkripsi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Denial-of-service attack"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Malware, phishing, dan denial-of-service adalah jenis serangan siber. Enkripsi adalah metode keamanan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan perbedaan antara cloud computing dan solusi hosting tradisional, serta berikan contoh layanan cloud dan manfaatnya bagi individu dan organisasi.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Cloud computing dan hosting tradisional keduanya memerlukan investasi perangkat keras dan perangkat lunak yang signifikan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Cloud computing menawarkan skalabilitas, fleksibilitas, dan penghematan biaya melalui layanan sesuai permintaan seperti penyimpanan data, SaaS, dan PaaS, sedangkan hosting tradisional bergantung pada infrastruktur fisik milik sendiri."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Hosting tradisional menawarkan lebih banyak skalabilitas dan fleksibilitas daripada cloud computing."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Cloud computing hanya cocok untuk bisnis besar, sedangkan hosting tradisional lebih cocok untuk individu."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Cloud computing menawarkan keunggulan signifikan dibandingkan hosting tradisional dalam hal skalabilitas, fleksibilitas, dan penghematan biaya dengan menyediakan sumber daya sesuai permintaan melalui internet."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Jaringan komputer memungkinkan berbagai perangkat, seperti komputer, ponsel, dan printer, untuk terhubung dan berbagi informasi satu sama lain.  Jaringan dapat berkisar dari jaringan rumah kecil hingga internet global yang luas.  Ada berbagai jenis jaringan, termasuk LAN (Local Area Network), WAN (Wide Area Network), dan MAN (Metropolitan Area Network).  Setiap jenis jaringan memiliki karakteristik dan kegunaannya sendiri. Protokol jaringan adalah seperangkat aturan yang mengatur komunikasi data antara perangkat di jaringan.  TCP/IP (Transmission Control Protocol/Internet Protocol) adalah protokol yang paling umum digunakan di internet.  Protokol lain termasuk HTTP (Hypertext Transfer Protocol) untuk mengakses situs web, FTP (File Transfer Protocol) untuk mentransfer file, dan SMTP (Simple Mail Transfer Protocol) untuk mengirim email.  Model OSI (Open Systems Interconnection) adalah kerangka kerja konseptual yang menstandardisasi komunikasi antar sistem komputer.  Model ini terdiri dari tujuh lapisan, masing-masing dengan fungsi tertentu dalam proses komunikasi. Keamanan jaringan sangat penting untuk melindungi data sensitif dari akses yang tidak sah.  Firewall, sistem deteksi intrusi, dan perangkat lunak antivirus adalah komponen penting dari keamanan jaringan.  Praktik keamanan yang baik, seperti kata sandi yang kuat dan pembaruan perangkat lunak secara teratur, juga penting untuk menjaga keamanan jaringan.  Kriptografi digunakan untuk mengamankan komunikasi dengan mengenkripsi data, membuatnya tidak dapat dibaca oleh pihak yang tidak berwenang.  Algoritma kriptografi, seperti AES dan RSA, digunakan untuk mengenkripsi dan mendekripsi data.  VPN (Virtual Private Network) membuat koneksi aman melalui jaringan publik, seperti internet, memungkinkan pengguna untuk mengakses sumber daya jaringan dengan aman dari lokasi terpencil. Cloud computing menyediakan akses sesuai permintaan ke sumber daya komputasi bersama, seperti server, penyimpanan, dan perangkat lunak, melalui internet.  Layanan cloud umum termasuk penyimpanan data, perangkat lunak sebagai layanan (SaaS), dan platform sebagai layanan (PaaS).  Cloud computing menawarkan skalabilitas, fleksibilitas, dan penghematan biaya dibandingkan dengan solusi hosting tradisional.  Edge computing memproses data lebih dekat ke sumbernya, mengurangi latensi dan bandwidth yang dibutuhkan.  IoT (Internet of Things) menghubungkan perangkat sehari-hari ke internet, memungkinkan mereka untuk mengumpulkan dan bertukar data.  Smart home, kendaraan yang terhubung, dan perangkat yang dapat dikenakan adalah contoh aplikasi IoT.  Keamanan IoT merupakan pertimbangan penting, karena perangkat IoT yang terhubung dapat rentan terhadap serangan siber.Server web adalah komputer yang menyimpan dan mengirimkan situs web.  Mereka menjalankan perangkat lunak server web, seperti Apache atau Nginx, yang menangani permintaan HTTP dari browser web.  Server web dapat menangani banyak permintaan secara bersamaan.  Load balancing mendistribusikan lalu lintas jaringan di beberapa server untuk meningkatkan kinerja dan ketersediaan. DNS (Domain Name System) menerjemahkan nama domain yang mudah diingat (seperti google.com) ke alamat IP numerik yang digunakan oleh komputer.  HTTP (Hypertext Transfer Protocol) adalah protokol yang digunakan untuk mengakses situs web.  HTTPS adalah versi HTTP yang aman yang mengenkripsi data untuk melindungi informasi sensitif.   Arsitektur client-server adalah model komputasi terdistribusi di mana server menyediakan layanan ke beberapa klien.  Klien mengirimkan permintaan ke server, dan server merespons dengan memberikan layanan yang diminta.  Web browser adalah contoh aplikasi klien yang digunakan untuk mengakses situs web yang dihosting di server web. Teknologi 5G menawarkan kecepatan data yang jauh lebih tinggi dan latensi yang lebih rendah dibandingkan dengan generasi jaringan seluler sebelumnya.  5G memungkinkan aplikasi baru, seperti augmented reality dan virtual reality, dan mendukung pertumbuhan IoT.  Kecerdasan buatan (AI) dan machine learning (ML) digunakan dalam jaringan komputer untuk mengotomatiskan tugas, meningkatkan kinerja, dan meningkatkan keamanan.  AI dan ML dapat digunakan untuk mendeteksi anomali, memprediksi kegagalan, dan mengoptimalkan lalu lintas jaringan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan perbedaan antara LAN, WAN, dan MAN, berikan contoh masing-masing, dan bahas faktor-faktor yang perlu dipertimbangkan ketika memilih jenis jaringan yang tepat untuk skenario tertentu.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "LAN digunakan untuk area geografis yang luas, WAN untuk jaringan lokal, dan MAN untuk jaringan pribadi."
+                        },
+                        {
+                            "id": "b",
+                            "text": "LAN untuk jaringan rumah atau kantor kecil, WAN untuk menghubungkan jaringan LAN di berbagai lokasi, dan MAN untuk jaringan di area metropolitan, dengan pertimbangan seperti biaya, skalabilitas, dan kebutuhan keamanan."
+                        },
+                        {
+                            "id": "c",
+                            "text": "LAN untuk komunikasi global, WAN untuk jaringan regional, dan MAN untuk jaringan perkotaan."
+                        },
+                        {
+                            "id": "d",
+                            "text": "LAN untuk jaringan pribadi, WAN untuk jaringan publik, dan MAN untuk jaringan kampus."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Jawaban ini dengan benar mendefinisikan LAN, WAN, dan MAN, memberikan contoh, dan menyoroti faktor-faktor kunci yang mempengaruhi pemilihan, seperti biaya, skalabilitas, dan keamanan."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Mengingat bahwa protokol seperti TCP/IP memastikan pengiriman data yang andal, apakah pemeriksaan integritas data melalui metode seperti checksum masih diperlukan dalam komunikasi jaringan?",
+                    "correct_answer": true,
+                    "explanation": "Meskipun TCP/IP memastikan pengiriman yang andal, checksum dan metode integritas data lainnya masih penting untuk mendeteksi kesalahan yang mungkin diperkenalkan selama transmisi atau penyimpanan, seperti gangguan atau kerusakan data."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan Model OSI dan tujuh lapisannya. Berikan contoh bagaimana setiap lapisan berkontribusi pada proses komunikasi jaringan yang lengkap.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Model OSI adalah model jaringan fisik yang mendefinisikan kabel dan konektor yang digunakan dalam jaringan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Model OSI adalah kerangka kerja konseptual dengan tujuh lapisan: Fisik, Data Link, Jaringan, Transport, Sesi, Presentasi, dan Aplikasi, masing-masing menangani aspek spesifik komunikasi data, dari transmisi bit fisik hingga interaksi aplikasi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Model OSI adalah protokol jaringan yang digunakan untuk mengakses situs web."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Model OSI adalah jenis topologi jaringan."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Model OSI adalah kerangka kerja konseptual yang menstandardisasi komunikasi jaringan melalui tujuh lapisan, masing-masing dengan peran tertentu."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan teknik kriptografi yang digunakan untuk mengamankan komunikasi jaringan? Pilih semua yang benar.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Enkripsi AES"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Firewall"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Enkripsi RSA"
+                        },
+                        {
+                            "id": "d",
+                            "text": "VPN"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c"
+                    ],
+                    "explanation": "AES dan RSA adalah algoritma enkripsi. Firewall dan VPN adalah teknologi keamanan yang lebih luas."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana cloud computing dan edge computing saling melengkapi dalam konteks IoT? Berikan contoh bagaimana kedua paradigma komputasi ini bekerja sama untuk mendukung aplikasi IoT.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Edge computing dan cloud computing identik dan dapat digunakan secara bergantian."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Edge computing memproses data secara lokal di perangkat IoT atau gateway terdekat, mengurangi latensi dan bandwidth yang dibutuhkan, sedangkan cloud computing menyediakan penyimpanan, analisis, dan pemrosesan data yang lebih luas untuk data agregat."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Edge computing hanya cocok untuk aplikasi IoT yang sederhana, sedangkan cloud computing diperlukan untuk aplikasi yang kompleks."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Cloud computing menangani semua pemrosesan data dalam aplikasi IoT, sedangkan edge computing hanya bertanggung jawab untuk pengumpulan data."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Edge computing menangani pemrosesan data secara lokal, sementara cloud computing menyediakan sumber daya untuk analisis dan penyimpanan yang lebih luas. Keduanya bekerja sama untuk mendukung aplikasi IoT."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Protokol internet (IP) adalah seperangkat aturan yang mengatur format data yang dikirim melalui internet atau jaringan lokal.  IP mendefinisikan bagaimana komputer dan perangkat lain berkomunikasi satu sama lain.  Alamat IP adalah pengidentifikasi unik untuk setiap perangkat yang terhubung ke jaringan.  Ada dua versi utama IP: IPv4 dan IPv6.  IPv4 menggunakan alamat 32-bit, sedangkan IPv6 menggunakan alamat 128-bit.  Perbedaan utama lainnya adalah IPv6 memiliki ruang alamat yang jauh lebih besar daripada IPv4.  HTTP (Hypertext Transfer Protocol) adalah protokol yang digunakan untuk mentransfer data melalui World Wide Web.  Ketika Anda mengakses situs web, browser Anda mengirimkan permintaan HTTP ke server web, yang kemudian mengirimkan kembali halaman web yang diminta.  HTTPS (Hypertext Transfer Protocol Secure) adalah versi HTTP yang aman yang mengenkripsi komunikasi antara browser Anda dan server web, melindungi informasi sensitif dari akses yang tidak sah.  Server web adalah komputer yang menyimpan dan mengirimkan situs web.  Mereka menjalankan perangkat lunak server web, seperti Apache atau Nginx, yang menangani permintaan HTTP dari browser web.  Server web dapat menangani banyak permintaan secara bersamaan.  Load balancing mendistribusikan lalu lintas jaringan di beberapa server untuk meningkatkan kinerja dan ketersediaan.  DNS (Domain Name System) menerjemahkan nama domain yang mudah diingat (seperti google.com) ke alamat IP numerik yang digunakan oleh komputer. Keamanan jaringan sangat penting dalam dunia digital saat ini.  Firewall, sistem deteksi intrusi, dan perangkat lunak antivirus adalah alat penting untuk melindungi jaringan dari ancaman siber.  Serangan siber dapat berupa malware, phishing, denial-of-service attack, dan banyak lagi.  Penting untuk mengikuti praktik keamanan terbaik, seperti menggunakan kata sandi yang kuat, memperbarui perangkat lunak secara teratur, dan mendidik pengguna tentang ancaman siber. Jaringan komputer memungkinkan kita untuk berbagi sumber daya, seperti printer dan file, dan untuk berkomunikasi satu sama lain melalui email, pesan instan, dan video conference.  Topologi jaringan menggambarkan tata letak fisik atau logis dari jaringan.  Topologi umum termasuk bus, bintang, ring, dan mesh.  Ethernet adalah teknologi LAN yang paling umum digunakan.  Wi-Fi memungkinkan perangkat untuk terhubung ke jaringan tanpa kabel.  Switch jaringan menghubungkan beberapa perangkat di LAN, sedangkan router menghubungkan LAN ke internet.  Model OSI adalah kerangka kerja konseptual yang menstandardisasi komunikasi antar sistem komputer. Ini terdiri dari tujuh lapisan: fisik, tautan data, jaringan, transport, sesi, presentasi, dan aplikasi.  Setiap lapisan memiliki fungsi tertentu dalam proses komunikasi. Cloud computing menyediakan akses sesuai permintaan ke sumber daya komputasi bersama, seperti server, penyimpanan, dan perangkat lunak, melalui internet.  Layanan cloud umum termasuk penyimpanan data, perangkat lunak sebagai layanan (SaaS), dan platform sebagai layanan (PaaS).  Cloud computing menawarkan skalabilitas, fleksibilitas, dan penghematan biaya dibandingkan dengan solusi hosting tradisional.  Edge computing memproses data lebih dekat ke sumbernya, mengurangi latensi dan bandwidth yang dibutuhkan.  IoT (Internet of Things) menghubungkan perangkat sehari-hari ke internet, memungkinkan mereka untuk mengumpulkan dan bertukar data.  Smart home, kendaraan yang terhubung, dan perangkat yang dapat dikenakan adalah contoh aplikasi IoT.  Keamanan IoT merupakan pertimbangan penting, karena perangkat IoT yang terhubung dapat rentan terhadap serangan siber.   Big data mengacu pada kumpulan data yang terlalu besar dan kompleks untuk diproses oleh metode tradisional.  Data mining adalah proses mengekstrak pengetahuan yang berguna dari data dalam jumlah besar.  Kecerdasan buatan (AI) dan machine learning (ML) digunakan dalam jaringan komputer untuk mengotomatiskan tugas, meningkatkan kinerja, dan meningkatkan keamanan.  AI dan ML dapat digunakan untuk mendeteksi anomali, memprediksi kegagalan, dan mengoptimalkan lalu lintas jaringan. VPN (Virtual Private Network) menciptakan koneksi aman melalui jaringan publik, seperti internet, yang memungkinkan pengguna untuk mengakses sumber daya jaringan dengan aman dari lokasi terpencil.  Penggunaan VPN semakin populer karena meningkatnya kebutuhan akan keamanan dan privasi online.  TCP (Transmission Control Protocol) memastikan pengiriman data yang andal dengan memecah data menjadi paket-paket kecil dan melacak pengiriman setiap paket.  Jika paket hilang atau rusak, TCP akan meminta pengiriman ulang paket tersebut. 5G adalah standar jaringan seluler generasi kelima yang menawarkan kecepatan data yang jauh lebih tinggi dan latensi yang lebih rendah dibandingkan dengan generasi sebelumnya.  5G memungkinkan aplikasi baru, seperti augmented reality dan virtual reality, dan mendukung pertumbuhan IoT.  Kecerdasan buatan (AI) dan pembelajaran mesin (ML) digunakan dalam jaringan komputer untuk mengotomatiskan tugas, meningkatkan kinerja, dan meningkatkan keamanan.  AI dan ML dapat digunakan untuk mendeteksi anomali, memprediksi kegagalan, dan mengoptimalkan lalu lintas jaringan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan perbedaan utama antara IPv4 dan IPv6, termasuk format alamat, ruang alamat, dan dampaknya terhadap kinerja jaringan.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "IPv4 dan IPv6 menggunakan format alamat yang sama, tetapi IPv6 memiliki ruang alamat yang lebih besar."
+                        },
+                        {
+                            "id": "b",
+                            "text": "IPv4 menggunakan alamat 32-bit, sedangkan IPv6 menggunakan alamat 128-bit, menghasilkan ruang alamat yang jauh lebih besar untuk IPv6 dan berpotensi meningkatkan kinerja routing."
+                        },
+                        {
+                            "id": "c",
+                            "text": "IPv6 lebih lambat dari IPv4 karena alamatnya yang lebih panjang."
+                        },
+                        {
+                            "id": "d",
+                            "text": "IPv4 lebih aman daripada IPv6."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "IPv6 menawarkan ruang alamat yang jauh lebih besar dan penyederhanaan header, yang dapat menyebabkan peningkatan kinerja routing."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Mengingat HTTP dan HTTPS sama-sama digunakan untuk mengakses situs web, apakah penggunaan HTTPS selalu diperlukan, atau adakah skenario di mana HTTP dapat diterima?",
+                    "correct_answer": false,
+                    "explanation": "HTTPS harus selalu diutamakan ketika berurusan dengan informasi sensitif karena HTTP mentransmisikan data dalam teks biasa, membuatnya rentan terhadap intersepsi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana load balancing meningkatkan kinerja dan ketersediaan server web? Jelaskan berbagai algoritma load balancing dan bagaimana mereka mendistribusikan lalu lintas klien.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Load balancing meningkatkan kinerja server web individual dengan meningkatkan kecepatan pemrosesannya."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Load balancing mendistribusikan lalu lintas klien di beberapa server menggunakan algoritma seperti round-robin, least connections, dan IP hash, meningkatkan kinerja dan menyediakan redundansi jika terjadi kegagalan server."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Load balancing menyimpan salinan cache konten web di setiap server, mengurangi latensi untuk pengguna akhir."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Load balancing menerjemahkan nama domain ke alamat IP, memungkinkan klien untuk terhubung ke server yang sesuai."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Load balancing menggunakan berbagai algoritma untuk mendistribusikan lalu lintas klien, mengoptimalkan penggunaan sumber daya dan memastikan ketersediaan tinggi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan praktik terbaik untuk keamanan jaringan? Pilih semua yang benar.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menggunakan kata sandi yang kuat dan unik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menginstal pembaruan perangkat lunak secara teratur"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengabaikan peringatan keamanan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mendidik pengguna tentang ancaman siber"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Kata sandi yang kuat, pembaruan perangkat lunak, dan pendidikan pengguna adalah praktik keamanan yang baik. Mengabaikan peringatan keamanan berbahaya."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana cloud computing, edge computing, dan IoT saling terkait? Berikan contoh bagaimana ketiga teknologi ini bekerja sama dalam skenario dunia nyata.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Cloud computing, edge computing, dan IoT adalah teknologi independen yang tidak berinteraksi satu sama lain."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Dalam pengaturan kota pintar, sensor IoT mengumpulkan data, edge computing memproses data secara lokal untuk respons waktu nyata, dan cloud computing menyimpan dan menganalisis data agregat untuk wawasan dan pengambilan keputusan jangka panjang."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Edge computing menggantikan kebutuhan akan cloud computing dalam aplikasi IoT."
+                        },
+                        {
+                            "id": "d",
+                            "text": "IoT hanya digunakan dalam jaringan rumah kecil dan tidak ada hubungannya dengan cloud atau edge computing."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Edge, cloud, dan IoT sering bekerja sama. Edge memproses data secara lokal, cloud menyediakan analisis dan penyimpanan, dan IoT mengumpulkan data."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Jaringan komputer, landasan dunia digital kita yang saling terhubung, memfasilitasi komunikasi dan kolaborasi tanpa batas melintasi batas geografis. Dari jaringan lokal kecil yang menghubungkan perangkat di rumah atau kantor hingga jaringan global luas yang mendukung internet, jaringan komputer telah merevolusi cara kita berinteraksi, bekerja, dan mengakses informasi. Protokol jaringan, seperti TCP/IP, HTTP, dan FTP, menetapkan aturan dan standar untuk transmisi data yang efisien dan andal. TCP/IP, khususnya, berfungsi sebagai tulang punggung internet, yang memungkinkan komunikasi yang mulus antara miliaran perangkat di seluruh dunia.  HTTP memfasilitasi akses ke situs web dan sumber daya online lainnya, sementara FTP memungkinkan transfer file yang efisien antar perangkat. Keamanan jaringan sangat penting untuk melindungi data dan sistem kita yang berharga dari ancaman siber yang terus berkembang. Firewall bertindak sebagai penjaga gerbang, mengontrol lalu lintas jaringan dan mencegah akses yang tidak sah. Sistem deteksi intrusi memantau aktivitas jaringan yang mencurigakan dan memberi tahu administrator tentang potensi pelanggaran. Perangkat lunak antivirus memindai file dan program untuk malware, melindungi perangkat dari infeksi.  Selain langkah-langkah ini, praktik keamanan yang baik, seperti menggunakan kata sandi yang kuat dan memperbarui perangkat lunak secara teratur, sangat penting untuk menjaga postur keamanan yang kuat.  Teknologi kriptografi memainkan peran penting dalam mengamankan komunikasi dan melindungi data sensitif. Algoritma enkripsi mengubah data menjadi bentuk yang tidak dapat dibaca, mencegah akses yang tidak sah selama transmisi atau penyimpanan. VPN (Virtual Private Networks) menawarkan lapisan keamanan tambahan dengan membuat koneksi aman melalui jaringan publik, seperti internet.  VPN mengenkripsi lalu lintas internet, melindunginya dari mata-mata dan memastikan privasi online. Cloud computing telah muncul sebagai model komputasi yang transformatif, menyediakan akses sesuai permintaan ke sumber daya komputasi bersama melalui internet. Layanan cloud, seperti penyimpanan data, perangkat lunak sebagai layanan (SaaS), dan platform sebagai layanan (PaaS), menawarkan skalabilitas, fleksibilitas, dan penghematan biaya dibandingkan dengan solusi hosting tradisional.  Edge computing, paradigma komputasi terdistribusi, membawa pemrosesan data lebih dekat ke sumbernya, mengurangi latensi dan bandwidth yang dibutuhkan.  IoT (Internet of Things), jaringan perangkat fisik yang saling terhubung, menghasilkan sejumlah besar data yang dapat dimanfaatkan untuk wawasan yang berharga.  Teknologi data mining memungkinkan ekstraksi pengetahuan dan pola yang bermakna dari kumpulan data yang besar ini. Kecerdasan buatan (AI) dan pembelajaran mesin (ML) semakin terintegrasi ke dalam jaringan komputer, yang memungkinkan otomatisasi tugas, peningkatan kinerja, dan langkah-langkah keamanan yang ditingkatkan. Algoritma AI dan ML dapat menganalisis lalu lintas jaringan, mendeteksi anomali, dan memprediksi potensi kegagalan, meningkatkan proaktif dan ketahanan jaringan. Server web memainkan peran penting dalam menyampaikan konten web kepada pengguna di seluruh dunia.  Mereka menyimpan file situs web dan memproses permintaan HTTP dari browser web, mengirimkan halaman web yang diminta ke pengguna. Load balancing mendistribusikan lalu lintas jaringan di beberapa server, memastikan kinerja dan ketersediaan yang optimal bahkan selama periode permintaan yang tinggi.  DNS (Domain Name System) menerjemahkan nama domain yang mudah dibaca manusia ke alamat IP numerik yang sesuai, memungkinkan perangkat untuk menemukan dan terhubung ke situs web dan server lain di internet.  Teknologi 5G, standar jaringan seluler generasi kelima, menawarkan kecepatan data yang jauh lebih cepat, latensi yang lebih rendah, dan peningkatan kapasitas dibandingkan dengan pendahulunya.  Kemajuan ini memungkinkan aplikasi baru dan inovatif di berbagai bidang, termasuk augmented reality, virtual reality, dan Internet of Things (IoT). Jaringan komputer telah menjadi tulang punggung masyarakat modern kita, memungkinkan kita untuk terhubung, berkomunikasi, dan mengakses informasi dengan cara yang belum pernah terjadi sebelumnya.  Evolusi jaringan yang berkelanjutan, didorong oleh inovasi teknologi seperti 5G, cloud computing, dan AI, menjanjikan untuk lebih meningkatkan kehidupan kita dan membuka kemungkinan baru untuk kolaborasi dan kemajuan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan peran TCP/IP dalam arsitektur internet dan bagaimana protokol ini memfasilitasi komunikasi antara miliaran perangkat. Bandingkan dan bedakan TCP dan IP, dengan menyoroti fungsi masing-masing.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "TCP/IP adalah protokol untuk mengakses situs web."
+                        },
+                        {
+                            "id": "b",
+                            "text": "TCP/IP adalah seperangkat protokol inti yang memungkinkan komunikasi internet, dengan TCP memastikan pengiriman data yang andal dan IP menangani pengalamatan dan perutean."
+                        },
+                        {
+                            "id": "c",
+                            "text": "TCP/IP hanya digunakan dalam jaringan lokal kecil."
+                        },
+                        {
+                            "id": "d",
+                            "text": "TCP dan IP memiliki fungsi yang sama dalam TCP/IP."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "TCP/IP adalah fondasi internet, dengan TCP mengelola pengiriman data yang andal dan IP menangani pengalamatan dan perutean."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Mengingat pentingnya keamanan jaringan, apakah firewall cukup untuk melindungi jaringan dari semua ancaman siber, atau apakah tindakan keamanan tambahan diperlukan? Jelaskan alasan Anda.",
+                    "correct_answer": false,
+                    "explanation": "Meskipun firewall penting, firewall saja tidak cukup.  Tindakan keamanan yang komprehensif, termasuk IDS, perangkat lunak antivirus, dan praktik terbaik, diperlukan untuk perlindungan yang kuat."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana teknologi kriptografi, termasuk algoritma enkripsi dan VPN, berkontribusi pada keamanan jaringan? Berikan contoh spesifik tentang bagaimana teknologi ini melindungi data sensitif.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kriptografi membuat jaringan lebih cepat."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Algoritma enkripsi mengubah data menjadi bentuk yang tidak dapat dibaca untuk mencegah akses yang tidak sah, sementara VPN membuat koneksi aman melalui jaringan publik, lebih lanjut melindungi data selama transmisi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kriptografi hanya digunakan untuk menyimpan data, bukan untuk transmisi data."
+                        },
+                        {
+                            "id": "d",
+                            "text": "VPN memperlambat koneksi jaringan."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Kriptografi mengenkripsi data untuk kerahasiaan, dan VPN menyediakan saluran aman untuk transmisi data, meningkatkan keamanan jaringan."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan layanan cloud computing yang umum? Pilih semua yang benar.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Penyimpanan data (seperti Dropbox atau Google Drive)"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perangkat lunak sebagai layanan (SaaS) (seperti Salesforce atau Google Workspace)"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Penjualan perangkat keras seperti GPU, CPU, dan RAM"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Platform sebagai layanan (PaaS) (seperti AWS Elastic Beanstalk atau Google App Engine)"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Penyimpanan data, SaaS, dan PaaS adalah contoh layanan cloud computing. Perangkat keras server lokal bukan layanan cloud."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana load balancing dan DNS bekerja sama untuk memastikan akses yang efisien dan andal ke situs web, terutama di lingkungan lalu lintas tinggi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Load balancing meningkatkan kecepatan pemrosesan setiap server web individual, sedangkan DNS menerjemahkan nama domain ke alamat IP."
+                        },
+                        {
+                            "id": "b",
+                            "text": "DNS menerjemahkan nama domain ke alamat IP dari load balancer, yang kemudian mendistribusikan lalu lintas di beberapa server web, memastikan kinerja dan ketersediaan yang tinggi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Load balancing menyimpan salinan cache dari konten web di setiap server, mengurangi latensi untuk pengguna akhir, sedangkan DNS mengelola email."
+                        },
+                        {
+                            "id": "d",
+                            "text": "DNS bertindak sebagai firewall, melindungi situs web dari akses yang tidak sah, sedangkan load balancing mengelola database."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "DNS mengarahkan pengguna ke load balancer, yang kemudian mendistribusikan lalu lintas di antara server, memastikan kinerja dan keandalan yang optimal."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Jaringan komputer membentuk dasar dari internet, menghubungkan miliaran perangkat di seluruh dunia dan memungkinkan komunikasi dan pertukaran informasi yang belum pernah terjadi sebelumnya.  Jaringan ini, mulai dari jaringan rumah kecil hingga jaringan perusahaan besar, mengandalkan protokol, perangkat keras, dan perangkat lunak khusus untuk berfungsi secara efektif dan aman. Protokol jaringan seperti TCP/IP, fondasi internet, menentukan aturan untuk transmisi data yang andal.  TCP memastikan integritas data dengan mengelola aliran paket data, sementara IP menangani pengalamatan dan routing data antar jaringan.  Protokol lain, seperti HTTP dan HTTPS, mengatur komunikasi antara browser web dan server web, memungkinkan akses ke situs web dan sumber daya online.  HTTPS, khususnya, mengenkripsi komunikasi untuk melindungi data sensitif selama transmisi. Keamanan jaringan adalah hal yang sangat penting untuk melindungi sistem dan data dari ancaman siber yang terus berkembang. Firewall bertindak sebagai garis pertahanan pertama, memfilter lalu lintas jaringan dan memblokir akses yang tidak sah.  Sistem deteksi intrusi (IDS) memantau aktivitas jaringan untuk perilaku yang mencurigakan, memberi tahu administrator tentang potensi pelanggaran.  Perangkat lunak antivirus memindai file dan aplikasi untuk malware, membantu mencegah dan mengurangi infeksi.  Praktik keamanan yang baik, seperti menggunakan kata sandi yang kuat, menerapkan autentikasi multi-faktor, dan menjaga perangkat lunak tetap mutakhir, sangat penting untuk menjaga postur keamanan yang kuat. Kriptografi memainkan peran penting dalam mengamankan komunikasi dan melindungi data sensitif.  Algoritma kriptografi yang kuat mengenkripsi data, menjadikannya tidak dapat dibaca oleh pihak yang tidak berwenang.  VPN (Virtual Private Networks) memperluas keamanan ini dengan membuat koneksi terenkripsi melalui jaringan publik seperti internet, melindungi data yang dikirim dan diterima. Cloud computing telah mengubah lanskap TI dengan menyediakan akses sesuai permintaan ke sumber daya komputasi bersama melalui internet.  Layanan cloud, termasuk penyimpanan data, perangkat lunak sebagai layanan (SaaS), dan platform sebagai layanan (PaaS), menawarkan skalabilitas, fleksibilitas, dan penghematan biaya.  Organisasi dapat memanfaatkan sumber daya cloud untuk memenuhi kebutuhan komputasi mereka tanpa investasi besar dalam infrastruktur fisik.  Edge computing melengkapi cloud computing dengan memproses data lebih dekat ke sumbernya, mengurangi latensi dan bandwidth yang dibutuhkan. Internet of Things (IoT), jaringan perangkat fisik yang terhubung ke internet, menghasilkan data dalam jumlah besar yang dapat dimanfaatkan untuk wawasan yang berharga.  Data mining memungkinkan ekstraksi pengetahuan dan pola dari kumpulan data yang besar ini.  Kecerdasan buatan (AI) dan pembelajaran mesin (ML) semakin diintegrasikan ke dalam jaringan untuk mengotomatiskan tugas, meningkatkan kinerja, dan meningkatkan keamanan.  Algoritma AI dan ML dapat menganalisis lalu lintas jaringan, mendeteksi anomali, dan meningkatkan respons terhadap ancaman. Server web adalah pusat dari World Wide Web, yang menyimpan dan mengirimkan situs web ke pengguna di seluruh dunia.  Mereka memproses permintaan HTTP dari browser web, mengirimkan halaman web yang diminta.  Load balancing mendistribusikan lalu lintas di beberapa server, memastikan kinerja dan ketersediaan yang optimal.  DNS (Domain Name System) bertindak sebagai buku telepon internet, menerjemahkan nama domain yang ramah pengguna ke alamat IP numerik yang digunakan komputer untuk menemukan satu sama lain.  Perkembangan teknologi web seperti HTML5, CSS3, dan JavaScript telah memperkaya pengalaman menjelajah web, memungkinkan situs web yang interaktif dan dinamis.  Teknologi 5G, standar jaringan seluler terbaru, menjanjikan kecepatan data yang lebih cepat, latensi yang lebih rendah, dan peningkatan bandwidth, membuka jalan bagi aplikasi baru dan inovatif. Jaringan komputer telah merevolusi cara kita hidup, bekerja, dan berinteraksi satu sama lain.  Dari email dan media sosial hingga e-commerce dan pendidikan online, jaringan telah menjadi bagian tak terpisahkan dari kehidupan kita sehari-hari.  Seiring kemajuan teknologi, jaringan komputer akan terus berkembang, menghubungkan kita dengan cara yang lebih inovatif dan bermakna.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan bagaimana protokol seperti TCP/IP, HTTP, dan HTTPS berkontribusi pada komunikasi yang aman dan andal di internet. Bandingkan dan bedakan HTTP dan HTTPS, dengan menyoroti pentingnya HTTPS dalam melindungi data sensitif.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "TCP/IP digunakan untuk mengakses situs web, sedangkan HTTP dan HTTPS digunakan untuk mengirim email."
+                        },
+                        {
+                            "id": "b",
+                            "text": "TCP/IP menyediakan fondasi untuk komunikasi internet, HTTP memungkinkan akses ke situs web, dan HTTPS menawarkan versi HTTP yang aman dengan mengenkripsi data untuk melindungi informasi sensitif."
+                        },
+                        {
+                            "id": "c",
+                            "text": "HTTP dan HTTPS identik, dan keduanya menyediakan komunikasi yang aman."
+                        },
+                        {
+                            "id": "d",
+                            "text": "TCP/IP hanya digunakan dalam jaringan lokal kecil."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Jawaban ini secara akurat menggambarkan peran TCP/IP, HTTP, dan HTTPS dalam komunikasi internet, menekankan pentingnya HTTPS untuk keamanan."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Perangkat lunak antivirus saja cukup untuk melindungi jaringan dari semua bentuk malware dan ancaman siber.",
+                    "correct_answer": false,
+                    "explanation": "Meskipun antivirus penting, ia bukan satu-satunya solusi. Strategi keamanan yang berlapis-lapis, termasuk firewall, IDS, dan praktik terbaik, diperlukan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan konsep cloud computing dan bagaimana cloud computing telah mengubah lanskap TI. Berikan contoh layanan cloud dan manfaatnya bagi organisasi.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Cloud computing adalah jenis topologi jaringan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Cloud computing menyediakan akses sesuai permintaan ke sumber daya komputasi bersama melalui internet, menawarkan skalabilitas, fleksibilitas, dan penghematan biaya kepada organisasi dengan menghilangkan kebutuhan akan investasi infrastruktur yang besar."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Cloud computing hanya cocok untuk bisnis kecil."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Cloud computing sama dengan edge computing."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Cloud computing menawarkan akses ke sumber daya sesuai permintaan, menyediakan skalabilitas dan penghematan biaya."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan praktik keamanan yang direkomendasikan untuk melindungi jaringan komputer dari ancaman siber? Pilih semua yang benar.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menggunakan kata sandi yang kuat dan unik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menuliskan kata sandi untuk akses mudah"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menerapkan autentikasi multi-faktor"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menjaga perangkat lunak tetap mutakhir"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Kata sandi yang kuat, MFA, dan pembaruan perangkat lunak penting. Menuliskan kata sandi sangat tidak aman."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana server web, load balancing, dan DNS bekerja sama untuk menyediakan akses yang efisien dan andal ke situs web?  Jelaskan peran masing-masing komponen dalam proses ini.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Server web menerjemahkan nama domain ke alamat IP, load balancing mengelola email, dan DNS menyimpan file situs web."
+                        },
+                        {
+                            "id": "b",
+                            "text": "DNS menerjemahkan nama domain ke alamat IP, load balancer mendistribusikan lalu lintas di beberapa server web, dan server web menyimpan dan mengirimkan konten situs web yang diminta."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Load balancing meningkatkan kecepatan pemrosesan setiap server web individual, DNS menyediakan enkripsi, dan server web mengelola database."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Server web bertindak sebagai firewall, load balancing mengelola akun pengguna, dan DNS menyediakan layanan cadangan data."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "DNS menyelesaikan nama domain, load balancer mendistribusikan lalu lintas, dan server web menyajikan konten."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Jaringan komputer, sistem yang saling terhubung yang memungkinkan perangkat untuk berkomunikasi dan berbagi sumber daya, telah menjadi bagian tak terpisahkan dari dunia modern kita. Dari jaringan rumah kecil yang menghubungkan komputer dan printer hingga internet global yang luas, jaringan memfasilitasi pertukaran informasi dan mendukung berbagai layanan penting. Protokol jaringan, seperti TCP/IP, HTTP, dan FTP, menyediakan kerangka kerja untuk komunikasi data yang efisien dan terstruktur. TCP/IP, suite protokol inti internet, memastikan transmisi data yang andal melalui jaringan.  HTTP memungkinkan akses ke situs web dan sumber daya online lainnya, sedangkan FTP memfasilitasi transfer file antar perangkat. Keamanan jaringan sangat penting untuk melindungi sistem dan data dari ancaman siber yang terus berkembang.  Firewall bertindak sebagai penjaga gerbang, mengontrol lalu lintas jaringan masuk dan keluar dan memblokir akses yang tidak sah.  Sistem deteksi intrusi (IDS) memantau aktivitas jaringan untuk perilaku yang mencurigakan, memberi tahu administrator tentang potensi pelanggaran keamanan.  Perangkat lunak antivirus memindai file dan program untuk malware, membantu mencegah dan memitigasi infeksi.  Selain itu, praktik keamanan yang baik, seperti menggunakan kata sandi yang kuat dan memperbarui perangkat lunak secara teratur, sangat penting untuk menjaga postur keamanan yang kuat. Kriptografi memainkan peran penting dalam mengamankan komunikasi dan melindungi data sensitif.  Algoritma enkripsi mengubah data menjadi bentuk yang tidak dapat dibaca, mencegah akses yang tidak sah selama transmisi atau penyimpanan.  VPN (Virtual Private Networks) membuat koneksi aman melalui jaringan publik seperti internet, melindungi data dari intersepsi dan memastikan privasi online. Cloud computing telah merevolusi cara individu dan organisasi mengakses dan menggunakan sumber daya komputasi.  Layanan cloud, termasuk penyimpanan data, perangkat lunak sebagai layanan (SaaS), dan platform sebagai layanan (PaaS), menyediakan akses sesuai permintaan ke sumber daya komputasi bersama melalui internet.  Model komputasi berbasis cloud ini menawarkan skalabilitas, fleksibilitas, dan penghematan biaya dibandingkan dengan solusi hosting tradisional.  Edge computing, paradigma komputasi terdistribusi, membawa pemrosesan data lebih dekat ke sumbernya, mengurangi latensi dan kebutuhan bandwidth. Internet of Things (IoT), jaringan perangkat fisik yang terhubung ke internet, menghasilkan sejumlah besar data yang dapat dimanfaatkan untuk mendapatkan wawasan yang berharga. Data mining memungkinkan ekstraksi pengetahuan dan pola yang bermakna dari kumpulan data yang besar ini.  Kecerdasan buatan (AI) dan pembelajaran mesin (ML) semakin terintegrasi ke dalam jaringan komputer untuk mengotomatiskan tugas, meningkatkan kinerja, dan meningkatkan keamanan.  Algoritma AI dan ML dapat menganalisis lalu lintas jaringan, mendeteksi anomali, dan meningkatkan respons ancaman siber.Server web memainkan peran penting dalam menyampaikan konten web kepada pengguna di seluruh dunia.  Mereka menyimpan file situs web dan memproses permintaan HTTP dari browser web, mengirimkan halaman web yang diminta ke pengguna.  Load balancing mendistribusikan lalu lintas jaringan di beberapa server, memastikan kinerja dan ketersediaan yang optimal, terutama selama periode permintaan puncak.  DNS (Domain Name System) bertindak sebagai buku telepon internet, menerjemahkan nama domain yang mudah diingat ke alamat IP numerik yang digunakan komputer untuk menemukan satu sama lain.  Perkembangan teknologi web seperti HTML5, CSS3, dan JavaScript telah memperkaya pengalaman menjelajah web, memungkinkan pembuatan situs web yang interaktif dan dinamis.  Teknologi 5G, standar jaringan seluler terbaru, menawarkan kecepatan data yang secara signifikan lebih cepat, latensi yang lebih rendah, dan peningkatan bandwidth, membuka jalan bagi aplikasi baru dan inovatif. Jaringan komputer telah mengubah secara mendasar cara kita hidup, bekerja, dan berinteraksi satu sama lain.  Dari email dan media sosial hingga e-commerce dan pendidikan online, jaringan telah menjadi bagian tak terpisahkan dari kehidupan kita sehari-hari.  Saat teknologi terus berkembang, jaringan komputer akan terus berkembang, menghubungkan kita dengan cara yang lebih inovatif dan bermakna. Model OSI (Open Systems Interconnection), kerangka kerja konseptual, menstandardisasi komunikasi antar sistem komputer dengan membaginya menjadi tujuh lapisan: fisik, tautan data, jaringan, transport, sesi, presentasi, dan aplikasi.  Setiap lapisan memiliki fungsi tertentu dalam proses komunikasi, memastikan interoperabilitas antara vendor dan teknologi yang berbeda.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan bagaimana TCP/IP memastikan transmisi data yang andal melalui jaringan.  Diskusikan peran TCP dan IP secara terpisah, dan bagaimana mereka bekerja sama untuk mencapai keandalan.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "TCP/IP mengirimkan data dalam satu bagian besar untuk memastikan keutuhannya."
+                        },
+                        {
+                            "id": "b",
+                            "text": "TCP memecah data menjadi paket, menetapkan koneksi, dan mengelola aliran dan integritas data, sementara IP menangani pengalamatan dan perutean paket individu."
+                        },
+                        {
+                            "id": "c",
+                            "text": "TCP/IP hanya digunakan untuk transfer file."
+                        },
+                        {
+                            "id": "d",
+                            "text": "TCP bertanggung jawab atas pengalamatan, sedangkan IP bertanggung jawab atas keandalan."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "TCP mengelola keandalan melalui kontrol aliran, koreksi kesalahan, dan pemesanan paket, sementara IP menangani pengalamatan dan perutean."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Mengingat bahwa VPN mengenkripsi lalu lintas internet, apakah menggunakan VPN menjamin anonimitas dan perlindungan lengkap dari semua bentuk pengawasan online?",
+                    "correct_answer": false,
+                    "explanation": "Meskipun VPN meningkatkan privasi, VPN tidak menjamin anonimitas lengkap.  Kebocoran DNS, log server VPN, dan faktor lainnya masih dapat membahayakan privasi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan konsep cloud computing dan berbagai jenis layanan yang ditawarkannya.  Berikan contoh spesifik dari setiap jenis layanan dan manfaatnya.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Cloud computing adalah menyimpan data di hard drive lokal."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Cloud computing menyediakan akses sesuai permintaan ke sumber daya bersama melalui internet, termasuk SaaS (misalnya, Salesforce untuk manajemen hubungan pelanggan), PaaS (misalnya, AWS Elastic Beanstalk untuk penerapan aplikasi), dan IaaS (misalnya, Amazon EC2 untuk server virtual)."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Cloud computing sama dengan jaringan lokal (LAN)."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Cloud computing hanya digunakan untuk mengirim email."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Cloud computing menawarkan berbagai layanan, termasuk SaaS, PaaS, dan IaaS, masing-masing memberikan tingkat abstraksi dan kontrol yang berbeda."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan contoh perangkat lunak berbahaya (malware)? Pilih semua yang benar.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Virus"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Worm"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Firewall"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Trojan horse"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Virus, worm, dan trojan horse adalah jenis malware. Firewall adalah mekanisme keamanan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan bagaimana load balancing berkontribusi pada peningkatan kinerja dan ketersediaan server web, dan bagaimana load balancing mengatasi tantangan lalu lintas yang tinggi dan potensi kegagalan server.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Load balancing meningkatkan kapasitas penyimpanan setiap server web individual."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Load balancing mendistribusikan lalu lintas klien di beberapa server, mencegah kelebihan beban pada satu server dan memastikan kontinuitas layanan jika terjadi kegagalan server."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Load balancing hanya berguna untuk jaringan kecil."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Load balancing menerjemahkan nama domain ke alamat IP."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Load balancing meningkatkan kinerja dan keandalan dengan mendistribusikan beban kerja dan menyediakan redundansi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Jaringan komputer, sistem saraf dunia digital, menghubungkan miliaran perangkat dan memungkinkan komunikasi dan kolaborasi yang belum pernah terjadi sebelumnya di seluruh dunia. Dari jaringan rumah kecil yang menghubungkan komputer pribadi dan printer hingga jaringan perusahaan besar yang mendukung operasi global, jaringan komputer telah merevolusi cara kita hidup, bekerja, dan berinteraksi. Protokol jaringan, seperangkat aturan yang mengatur komunikasi data, sangat penting untuk berfungsinya jaringan ini. TCP/IP, suite protokol inti internet, menyediakan mekanisme yang andal untuk transmisi data antar perangkat. TCP (Transmission Control Protocol) memastikan pengiriman data yang andal dengan menetapkan koneksi dan mengelola aliran paket data, sementara IP (Internet Protocol) menangani pengalamatan dan perutean data melalui jaringan. Protokol lain, seperti HTTP (Hypertext Transfer Protocol) dan HTTPS, memfasilitasi akses ke situs web dan sumber daya online. HTTPS, dengan kemampuan enkripsinya, melindungi data sensitif selama transmisi, menjaga keamanan dan privasi. Keamanan jaringan sangat penting di lanskap digital saat ini. Firewall bertindak sebagai garis pertahanan pertama, memfilter lalu lintas jaringan dan memblokir akses yang tidak sah. Sistem deteksi intrusi (IDS) memantau aktivitas jaringan secara real time, mencari pola dan anomali yang mencurigakan yang dapat mengindikasikan serangan siber.  Perangkat lunak antivirus memindai file dan aplikasi untuk malware, membantu mencegah dan mengurangi infeksi.  Praktik keamanan yang baik, seperti menggunakan kata sandi yang kuat, menerapkan autentikasi multi-faktor, dan menjaga perangkat lunak tetap mutakhir, sangat penting untuk mempertahankan postur keamanan yang kuat. Teknologi kriptografi memainkan peran penting dalam mengamankan komunikasi dan melindungi data sensitif dari akses yang tidak sah. Algoritma enkripsi mengubah data menjadi bentuk yang tidak dapat dibaca, menjadikannya tidak dapat dipahami oleh pihak yang tidak berwenang. VPN (Virtual Private Networks) menawarkan lapisan keamanan tambahan dengan membuat koneksi terenkripsi melalui jaringan publik, seperti internet. VPN mengenkripsi lalu lintas internet, melindunginya dari mata-mata dan memastikan privasi online. Cloud computing telah muncul sebagai model komputasi yang transformatif, menyediakan akses sesuai permintaan ke sumber daya komputasi bersama melalui internet. Layanan cloud, seperti penyimpanan data, perangkat lunak sebagai layanan (SaaS), dan platform sebagai layanan (PaaS), menawarkan skalabilitas, fleksibilitas, dan penghematan biaya dibandingkan dengan infrastruktur TI tradisional.  Edge computing, paradigma komputasi terdistribusi, membawa pemrosesan data lebih dekat ke sumbernya, mengurangi latensi dan kebutuhan bandwidth.  Edge computing sangat berguna untuk aplikasi yang peka terhadap waktu, seperti kendaraan otonom dan kota pintar. Internet of Things (IoT), jaringan perangkat fisik yang saling terhubung, menghasilkan data dalam jumlah besar yang dapat dimanfaatkan untuk mendapatkan wawasan yang berharga.  Data mining, proses ekstraksi pengetahuan dari kumpulan data yang besar, memungkinkan bisnis dan organisasi untuk mengidentifikasi tren, pola, dan anomali. Kecerdasan buatan (AI) dan pembelajaran mesin (ML) semakin terintegrasi ke dalam jaringan komputer untuk mengotomatiskan tugas, meningkatkan kinerja, dan meningkatkan keamanan.  Algoritma AI dan ML dapat menganalisis lalu lintas jaringan, mendeteksi anomali, dan memprediksi potensi kegagalan. Server web, komponen inti dari infrastruktur internet, menyimpan dan mengirimkan situs web kepada pengguna di seluruh dunia.  Mereka memproses permintaan HTTP dari browser web, mengirimkan kembali halaman web yang diminta.  Load balancing mendistribusikan lalu lintas jaringan di beberapa server, memastikan kinerja dan ketersediaan yang optimal bahkan selama periode permintaan yang tinggi.  DNS (Domain Name System) menerjemahkan nama domain yang mudah diingat ke alamat IP numerik, memungkinkan pengguna untuk mengakses situs web tanpa harus mengingat alamat IP yang kompleks.  Perkembangan teknologi web, seperti HTML5, CSS3, dan JavaScript, telah menyebabkan pengalaman web yang lebih interaktif dan dinamis.  Teknologi 5G menjanjikan kecepatan data yang lebih cepat, latensi yang lebih rendah, dan peningkatan bandwidth, membuka jalan bagi berbagai aplikasi dan layanan baru. Jaringan komputer telah menjadi sangat diperlukan untuk cara kita hidup, bekerja, dan berkomunikasi.  Dari email dan media sosial hingga e-commerce dan pendidikan online, jaringan telah mengubah interaksi kita dan memungkinkan kolaborasi global.  Seiring kemajuan teknologi, jaringan komputer akan terus berkembang, membentuk masa depan dunia digital kita yang saling terhubung.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana TCP dan IP bekerja sama untuk memastikan pengiriman data yang andal di internet, dan apa peran masing-masing protokol dalam proses ini?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "TCP menangani pengalamatan, sedangkan IP menangani keandalan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "TCP menjamin pengiriman data yang andal melalui koneksi, kontrol aliran, dan koreksi kesalahan, sedangkan IP menangani pengalamatan dan perutean paket individu."
+                        },
+                        {
+                            "id": "c",
+                            "text": "TCP dan IP keduanya melakukan fungsi yang sama."
+                        },
+                        {
+                            "id": "d",
+                            "text": "TCP/IP hanya digunakan dalam jaringan lokal."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "TCP bertanggung jawab atas keandalan, dan IP menangani pengalamatan dan perutean."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Apakah firewall, sistem deteksi intrusi (IDS), dan perangkat lunak antivirus cukup untuk memastikan keamanan jaringan yang komprehensif, atau apakah langkah-langkah keamanan tambahan diperlukan? Jelaskan alasan Anda.",
+                    "correct_answer": false,
+                    "explanation": "Meskipun penting, teknologi ini bukan satu-satunya solusi.  Praktik keamanan terbaik dan langkah-langkah lainnya juga diperlukan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana cloud computing telah mengubah cara individu dan organisasi mengelola sumber daya TI mereka?  Bandingkan cloud computing dengan infrastruktur TI tradisional dan diskusikan manfaat dari mengadopsi cloud computing.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Cloud computing sama dengan memiliki server lokal."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Cloud computing menyediakan akses sesuai permintaan ke sumber daya TI melalui internet, menawarkan skalabilitas, fleksibilitas, dan penghematan biaya dibandingkan dengan infrastruktur TI tradisional yang memerlukan investasi perangkat keras dan perangkat lunak yang besar."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Infrastruktur TI tradisional menawarkan lebih banyak fleksibilitas daripada cloud computing."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Cloud computing hanya digunakan untuk tujuan cadangan data."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Cloud computing menawarkan keunggulan signifikan dalam hal skalabilitas, fleksibilitas, dan penghematan biaya."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan teknik kriptografi yang digunakan untuk mengamankan komunikasi dan melindungi data sensitif? Pilih semua yang benar.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Algoritma enkripsi (seperti AES dan RSA)"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Phishing"
+                        },
+                        {
+                            "id": "c",
+                            "text": "VPN"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Malware"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c"
+                    ],
+                    "explanation": "Enkripsi dan VPN digunakan untuk keamanan. Phishing dan malware adalah ancaman keamanan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana load balancing, DNS, dan perkembangan teknologi web seperti HTML5, CSS3, dan JavaScript berkontribusi pada penyediaan dan akses ke konten web yang kaya dan responsif?  Jelaskan peran setiap teknologi dalam konteks ini.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Load balancing menyimpan file situs web, DNS mendistribusikan lalu lintas, dan HTML5, CSS3, dan JavaScript meningkatkan kecepatan internet."
+                        },
+                        {
+                            "id": "b",
+                            "text": "DNS menerjemahkan nama domain, load balancing mendistribusikan lalu lintas di server web, dan HTML5, CSS3, dan JavaScript memungkinkan pengembangan situs web yang interaktif dan dinamis."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Load balancing menyediakan enkripsi, DNS mengelola database, dan HTML5, CSS3, dan JavaScript digunakan untuk mengirim email."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Server web bertindak sebagai firewall, load balancing mengelola akun pengguna, dan DNS menyediakan layanan cadangan data."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Teknologi ini bekerja sama untuk menyediakan dan menyajikan konten web yang kaya dan responsif."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Jaringan komputer, tulang punggung infrastruktur digital kita, telah merevolusi cara kita berkomunikasi, berkolaborasi, dan mengakses informasi. Jaringan ini, mulai dari jaringan rumah kecil hingga internet global yang luas, memungkinkan perangkat untuk terhubung dan berbagi data dengan kecepatan dan efisiensi yang belum pernah terjadi sebelumnya. Protokol jaringan, seperangkat aturan yang mengatur transmisi data, sangat penting untuk berfungsinya jaringan ini.  TCP/IP, suite protokol yang mendasari internet, memungkinkan komunikasi yang andal dan efisien antara miliaran perangkat di seluruh dunia. TCP (Transmission Control Protocol) memastikan pengiriman data yang andal, sementara IP (Internet Protocol) menangani pengalamatan dan perutean data melalui jaringan yang kompleks.  Protokol lain, seperti HTTP (Hypertext Transfer Protocol) dan HTTPS, memungkinkan akses ke situs web dan sumber daya web.  HTTPS mengenkripsi komunikasi, melindungi data sensitif dari akses yang tidak sah. Keamanan jaringan sangat penting di dunia digital saat ini.  Firewall bertindak sebagai penjaga gerbang, mengontrol lalu lintas jaringan masuk dan keluar dan mencegah akses yang tidak sah.  Sistem deteksi intrusi (IDS) memantau aktivitas jaringan untuk perilaku yang mencurigakan, mengingatkan administrator tentang potensi pelanggaran.  Perangkat lunak antivirus memindai file dan aplikasi untuk malware, membantu mencegah dan memitigasi infeksi.  Praktik keamanan yang baik, seperti menggunakan kata sandi yang kuat, menerapkan autentikasi multi-faktor, dan menjaga perangkat lunak tetap mutakhir, sangat penting untuk postur keamanan yang kuat. Kriptografi memainkan peran penting dalam mengamankan komunikasi dan melindungi data sensitif dari intersepsi.  Algoritma kriptografi yang canggih mengenkripsi data, menjadikannya tidak dapat dibaca oleh pihak yang tidak berwenang. VPN (Virtual Private Networks) membuat koneksi aman melalui jaringan publik, seperti internet, memberikan privasi dan keamanan tambahan untuk data yang dikirimkan. Cloud computing telah mengubah lanskap IT dengan menyediakan akses sesuai permintaan ke sumber daya komputasi bersama melalui internet.  Layanan cloud, seperti penyimpanan data, perangkat lunak sebagai layanan (SaaS), dan platform sebagai layanan (PaaS), menawarkan skalabilitas, fleksibilitas, dan penghematan biaya dibandingkan dengan infrastruktur TI tradisional.  Edge computing melengkapi cloud computing dengan memproses data lebih dekat ke sumbernya, mengurangi latensi dan kebutuhan bandwidth.  Ini sangat bermanfaat untuk aplikasi yang memerlukan respons waktu nyata, seperti kendaraan otonom dan Internet of Things (IoT).  IoT, jaringan perangkat fisik yang terhubung ke internet, menghasilkan sejumlah besar data yang dapat dianalisis untuk wawasan yang berharga. Data mining memungkinkan ekstraksi pengetahuan dan pola dari kumpulan data yang besar ini, mendorong pengambilan keputusan berdasarkan data.  Kecerdasan buatan (AI) dan pembelajaran mesin (ML) semakin diintegrasikan ke dalam jaringan komputer untuk mengotomatiskan tugas, meningkatkan kinerja, dan meningkatkan keamanan.  Algoritma AI dan ML dapat menganalisis lalu lintas jaringan, mendeteksi anomali, dan memprediksi potensi kegagalan, memungkinkan tindakan proaktif dan pengoptimalan sumber daya. Server web memainkan peran penting dalam mendistribusikan konten web ke pengguna di seluruh dunia.  Mereka menyimpan file situs web dan memproses permintaan HTTP dari browser web, mengirimkan kembali halaman web yang diminta.  Load balancing mendistribusikan lalu lintas jaringan di beberapa server, memastikan kinerja dan ketersediaan yang optimal, terutama selama periode permintaan yang tinggi.  DNS (Domain Name System) menerjemahkan nama domain yang mudah dibaca manusia ke alamat IP numerik yang sesuai, memungkinkan pengguna untuk mengakses situs web tanpa harus mengingat alamat IP.  Perkembangan teknologi web, seperti HTML5, CSS3, dan JavaScript, telah memperkaya pengalaman menjelajah web, memungkinkan situs web yang interaktif dan dinamis.  Teknologi 5G, standar jaringan seluler generasi kelima, menawarkan kecepatan data yang signifikan lebih cepat, latensi yang lebih rendah, dan peningkatan bandwidth, membuka kemungkinan baru untuk aplikasi dan layanan. Jaringan komputer telah mengubah secara mendasar cara kita hidup, bekerja, dan berinteraksi.  Dari email dan media sosial hingga e-commerce dan pendidikan online, jaringan telah menjadi bagian tak terpisahkan dari kehidupan kita sehari-hari.  Seiring kemajuan teknologi, jaringan komputer akan terus berkembang, membentuk masa depan komunikasi dan kolaborasi digital.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Bandingkan dan bedakan TCP dan IP dalam suite protokol TCP/IP. Jelaskan bagaimana masing-masing protokol berkontribusi pada komunikasi data yang efisien dan andal di internet, dan berikan contoh bagaimana mereka bekerja sama.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "TCP dan IP melakukan fungsi yang sama dalam jaringan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "TCP memastikan pengiriman data yang andal melalui mekanisme seperti koneksi, kontrol aliran, dan koreksi kesalahan, sedangkan IP menangani pengalamatan dan perutean paket data. Mereka bekerja sama untuk menyediakan komunikasi yang andal dan efisien di internet."
+                        },
+                        {
+                            "id": "c",
+                            "text": "TCP digunakan untuk mengakses situs web, dan IP digunakan untuk mengirim email."
+                        },
+                        {
+                            "id": "d",
+                            "text": "TCP/IP hanya digunakan dalam jaringan lokal."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "TCP menyediakan keandalan, sedangkan IP menangani pengalamatan dan perutean."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Karena HTTPS mengenkripsi komunikasi antara browser web dan server web, apakah penggunaan HTTPS sepenuhnya menghilangkan semua risiko keamanan yang terkait dengan akses situs web?",
+                    "correct_answer": false,
+                    "explanation": "Meskipun HTTPS secara signifikan meningkatkan keamanan, HTTPS tidak menghilangkan semua risiko. Kerentanan server, malware browser, dan faktor lainnya masih dapat menimbulkan ancaman."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana cloud computing melengkapi edge computing dalam skenario IoT?  Berikan contoh bagaimana kedua paradigma ini bekerja sama untuk mendukung aplikasi IoT dan diskusikan manfaat yang mereka tawarkan.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Cloud computing dan edge computing adalah teknologi yang sama."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Dalam kendaraan otonom, edge computing memproses data sensor secara real time untuk navigasi dan kontrol langsung, sedangkan cloud computing digunakan untuk pembaruan peta, pembelajaran model AI, dan analisis data agregat."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Edge computing menggantikan kebutuhan akan cloud computing dalam aplikasi IoT."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Cloud computing menangani semua pemrosesan data dalam aplikasi IoT, sedangkan edge computing tidak memiliki peran."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Edge computing menyediakan pemrosesan waktu nyata, sementara cloud computing menangani analisis skala besar dan tugas-tugas intensif sumber daya lainnya."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan manfaat dari cloud computing dibandingkan dengan infrastruktur TI tradisional?  Pilih semua yang benar.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Skalabilitas"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Fleksibilitas"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Peningkatan biaya awal"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Penghematan biaya"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Skalabilitas, fleksibilitas, dan penghematan biaya adalah manfaat dari cloud computing. Cloud biasanya mengurangi biaya awal."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana AI dan pembelajaran mesin (ML) digunakan untuk meningkatkan keamanan dan kinerja jaringan komputer?  Berikan contoh spesifik dan jelaskan bagaimana teknologi ini berkontribusi pada jaringan yang lebih efisien dan aman.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "AI dan ML digunakan untuk membuat jaringan komputer lebih lambat."
+                        },
+                        {
+                            "id": "b",
+                            "text": "AI dan ML dapat menganalisis lalu lintas jaringan untuk mendeteksi anomali yang menunjukkan serangan siber, mengoptimalkan kinerja jaringan dengan memprediksi kemacetan, dan mengotomatiskan tugas-tugas seperti load balancing dan pencegahan intrusi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "AI dan ML tidak memiliki aplikasi dalam jaringan komputer."
+                        },
+                        {
+                            "id": "d",
+                            "text": "AI dan ML hanya digunakan dalam jaringan rumah kecil."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "AI/ML dapat mengotomatiskan tugas, mendeteksi anomali, dan mengoptimalkan kinerja dalam jaringan."
+                }
+            ]
+        }
+    }
+]

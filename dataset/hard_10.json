@@ -1,0 +1,1197 @@
+[
+    {
+        "context": "Transfer learning dalam deep learning memungkinkan kita untuk memanfaatkan pengetahuan yang telah dipelajari oleh model pada satu tugas untuk tugas yang berbeda, tetapi terkait. Misalnya, model yang dilatih untuk mengenali objek dalam gambar dapat digunakan kembali untuk tugas klasifikasi gambar medis. Ini sangat berguna ketika kita memiliki dataset yang terbatas untuk tugas target, karena transfer learning dapat secara signifikan meningkatkan kinerja model.  Salah satu teknik yang umum digunakan dalam transfer learning adalah fine-tuning, di mana bobot dari beberapa lapisan awal model yang telah dilatih dibekukan, dan hanya lapisan terakhir yang dilatih ulang pada dataset target.  Teknik ini memungkinkan model untuk mengadaptasi pengetahuannya yang umum ke domain spesifik dari tugas target.  Metode lain yang digunakan dalam transfer learning adalah frozen feature extraction, di mana seluruh model yang telah dilatih diperlakukan sebagai feature extractor, dan hanya classifier baru yang dilatih di atas fitur yang diekstrak.  Pemilihan metode transfer learning yang tepat bergantung pada ukuran dan kualitas dataset target, serta kesamaan antara tugas sumber dan tugas target.  Backpropagation merupakan algoritma inti dalam pelatihan jaringan saraf tiruan. Algoritma ini menghitung gradien dari fungsi kerugian terhadap bobot jaringan, yang kemudian digunakan untuk memperbarui bobot dan meminimalkan kesalahan.  Proses ini melibatkan dua langkah utama: forward pass dan backward pass. Pada forward pass, input data dipropagasikan maju melalui jaringan untuk menghasilkan output. Kemudian, pada backward pass, gradien dari fungsi kerugian dihitung dan dipropagasikan mundur melalui jaringan untuk memperbarui bobot.  Backpropagation memungkinkan jaringan saraf untuk belajar dari data dan meningkatkan keakuratan prediksinya seiring waktu.  Arsitektur transformer telah merevolusi bidang natural language processing (NLP).  Transformer menggunakan mekanisme self-attention, yang memungkinkan model untuk mempertimbangkan hubungan antara semua kata dalam sebuah kalimat, tidak peduli seberapa jauh jaraknya.  Hal ini berbeda dengan model RNN tradisional yang memproses input secara berurutan. Self-attention memungkinkan transformer untuk memproses input secara paralel, yang secara signifikan meningkatkan kecepatan pelatihan.  Selain itu, transformer telah terbukti sangat efektif dalam menangkap konteks jangka panjang dalam teks, yang penting untuk tugas-tugas seperti terjemahan mesin dan peringkasan teks. Arsitektur transformer telah diadaptasi untuk berbagai tugas NLP, termasuk klasifikasi teks, question answering, dan text generation.  Salah satu contoh implementasi transformer yang populer adalah BERT (Bidirectional Encoder Representations from Transformers), yang telah mencapai hasil state-of-the-art pada berbagai benchmark NLP. Keberhasilan transformer telah mendorong penelitian lebih lanjut dalam pengembangan model deep learning untuk NLP dan telah membuka jalan bagi kemajuan baru di bidang ini. Perhitungan gradien merupakan operasi dasar dalam deep learning yang digunakan untuk mengukur seberapa besar perubahan dalam input mempengaruhi output. Gradien dihitung menggunakan turunan dari fungsi kerugian terhadap bobot jaringan.  Gradien menunjukkan arah dan besarnya perubahan yang diperlukan pada bobot untuk meminimalkan kesalahan.  Dalam praktiknya, perhitungan gradien dilakukan secara otomatis oleh framework deep learning seperti TensorFlow dan PyTorch. Pemahaman tentang perhitungan gradien penting untuk memahami cara kerja algoritma optimisasi seperti gradient descent. Gradient descent adalah algoritma optimisasi yang digunakan untuk menemukan nilai minimum dari fungsi, dalam hal ini fungsi kerugian.  Algoritma ini bekerja dengan secara iteratif memperbarui bobot jaringan ke arah negatif dari gradien.  Learning rate merupakan parameter penting dalam gradient descent yang mengontrol seberapa besar langkah yang diambil pada setiap iterasi.  Pemilihan learning rate yang tepat sangat penting untuk konvergensi yang cepat dan stabil.  Ada beberapa varian dari gradient descent, seperti stochastic gradient descent (SGD), momentum, dan Adam, yang masing-masing memiliki karakteristik dan kegunaan yang berbeda. Representasi matriks memainkan peran penting dalam deep learning karena memungkinkan kita untuk melakukan operasi matematika secara efisien pada data dalam jumlah besar.  Data input, bobot jaringan, dan aktivasi neuron direpresentasikan sebagai matriks.  Operasi seperti perkalian matriks dan transposisi matriks digunakan secara luas dalam deep learning untuk melakukan perhitungan seperti forward pass dan backpropagation.  Penggunaan representasi matriks memungkinkan kita untuk memanfaatkan kekuatan komputasi paralel dari GPU, yang secara signifikan mempercepat pelatihan model deep learning.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Dalam transfer learning, teknik apa yang membekukan bobot beberapa lapisan awal dan hanya melatih ulang lapisan terakhir pada dataset target?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Fine-tuning"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Frozen feature extraction"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Data augmentation"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Regularization"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Fine-tuning adalah teknik transfer learning yang membekukan bobot lapisan awal dan melatih ulang lapisan terakhir pada dataset target."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Self-attention pada transformer memungkinkan model untuk memproses input secara paralel, meningkatkan kecepatan pelatihan.",
+                    "correct_answer": true,
+                    "explanation": "Benar. Self-attention memungkinkan pemrosesan paralel, yang berbeda dengan model RNN yang memproses input secara berurutan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang menunjukkan arah dan besarnya perubahan yang diperlukan pada bobot untuk meminimalkan kesalahan dalam deep learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Bias"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Gradien"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Learning rate"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Aktivasi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Gradien menunjukkan arah dan besarnya perubahan yang diperlukan pada bobot untuk meminimalkan kesalahan."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah pernyataan yang benar tentang representasi matriks dalam deep learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Memungkinkan operasi matematika yang efisien pada data dalam jumlah besar."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Memungkinkan pemanfaatan komputasi paralel dari GPU."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Tidak digunakan dalam perhitungan backpropagation."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Hanya digunakan untuk merepresentasikan data input."
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Representasi matriks memungkinkan operasi yang efisien pada data besar dan pemanfaatan GPU untuk pemrosesan paralel."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa peran learning rate dalam algoritma gradient descent?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengontrol ukuran langkah pada setiap iterasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menentukan fungsi aktivasi yang digunakan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengatur jumlah lapisan dalam jaringan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menentukan ukuran batch data"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Learning rate mengontrol seberapa besar langkah yang diambil gradient descent pada setiap iterasi untuk memperbarui bobot."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Convolutional Neural Networks (CNNs) sangat efektif dalam memproses data gambar karena kemampuannya untuk mengekstrak fitur hierarkis. Lapisan konvolusi dalam CNN menggunakan filter yang digeser di atas gambar untuk mendeteksi pola lokal, seperti tepi dan tekstur.  Fitur-fitur ini kemudian digabungkan dalam lapisan pooling untuk mengurangi dimensi data dan meningkatkan invariansi terhadap translasi.  Arsitektur CNN yang umum terdiri dari beberapa lapisan konvolusi dan pooling yang diikuti oleh satu atau lebih lapisan fully connected untuk klasifikasi.  Salah satu contoh arsitektur CNN yang populer adalah VGGNet, yang dikenal karena kedalamannya dan penggunaan filter kecil.  CNNs telah mencapai hasil yang mengesankan dalam berbagai tugas visi komputer, seperti klasifikasi gambar, deteksi objek, dan segmentasi gambar.  Regularisasi merupakan teknik penting dalam deep learning untuk mencegah overfitting, yaitu ketika model terlalu kompleks dan menghafal data pelatihan, sehingga kinerjanya buruk pada data yang tidak terlihat.  Ada beberapa teknik regularisasi yang umum digunakan, seperti L1 dan L2 regularization, dropout, dan early stopping.  L1 dan L2 regularization menambahkan penalti pada fungsi kerugian berdasarkan besarnya bobot. Dropout secara acak menonaktifkan neuron selama pelatihan, memaksa jaringan untuk belajar representasi yang lebih robust.  Early stopping menghentikan pelatihan sebelum model mulai overfit.  Pemilihan teknik regularisasi yang tepat bergantung pada karakteristik dataset dan arsitektur model.  Recurrent Neural Networks (RNNs) dirancang khusus untuk memproses data sekuensial, seperti teks dan time series. RNNs memiliki koneksi berulang yang memungkinkan informasi dari langkah waktu sebelumnya untuk mempengaruhi output pada langkah waktu saat ini.  Hal ini memungkinkan RNNs untuk menangkap dependensi temporal dalam data.  Namun, RNNs standar memiliki kesulitan dalam menangkap dependensi jangka panjang karena masalah vanishing gradient.  Varian RNN seperti Long Short-Term Memory (LSTM) dan Gated Recurrent Unit (GRU) telah dikembangkan untuk mengatasi masalah ini.  LSTM dan GRU menggunakan mekanisme gating untuk mengontrol aliran informasi melalui jaringan, memungkinkan mereka untuk secara selektif mengingat atau melupakan informasi. RNNs telah berhasil diterapkan dalam berbagai tugas, seperti  machine translation, speech recognition, dan natural language generation. Fungsi aktivasi memperkenalkan non-linearitas ke dalam jaringan saraf, memungkinkan model untuk mempelajari pola yang kompleks dalam data.  Ada berbagai jenis fungsi aktivasi yang umum digunakan, seperti sigmoid, ReLU (Rectified Linear Unit), tanh, dan softmax. Sigmoid dan tanh menghasilkan output antara 0 dan 1 atau -1 dan 1, masing-masing, yang sering digunakan dalam lapisan output untuk tugas klasifikasi biner. ReLU menghasilkan output 0 untuk input negatif dan output sama dengan input untuk input positif, yang telah terbukti efektif dalam mengatasi masalah vanishing gradient.  Softmax menghasilkan distribusi probabilitas di atas beberapa kelas, yang sering digunakan dalam lapisan output untuk tugas klasifikasi multi-kelas. Pemilihan fungsi aktivasi yang tepat bergantung pada karakteristik data dan arsitektur model. Optimisasi dalam deep learning bertujuan untuk menemukan parameter model yang meminimalkan fungsi kerugian. Gradient descent adalah algoritma optimisasi yang paling umum digunakan dalam deep learning. Algoritma ini bekerja dengan menghitung gradien dari fungsi kerugian terhadap parameter model dan memperbarui parameter ke arah negatif dari gradien.  Learning rate mengontrol seberapa besar langkah yang diambil pada setiap iterasi.  Ada beberapa varian gradient descent, seperti stochastic gradient descent (SGD), momentum, dan Adam, yang masing-masing memiliki karakteristik dan kegunaan yang berbeda.  SGD menggunakan subset acak dari data pelatihan untuk menghitung gradien pada setiap iterasi, yang membuatnya lebih efisien untuk dataset besar.  Momentum membantu mempercepat konvergensi dengan mempertimbangkan gradien dari iterasi sebelumnya. Adam menggabungkan momentum dengan adaptive learning rates untuk setiap parameter.  Pemilihan algoritma optimisasi yang tepat bergantung pada karakteristik data dan arsitektur model. Dalam deep learning, data augmentation merupakan teknik yang digunakan untuk meningkatkan ukuran dan variasi dataset pelatihan dengan cara mengubah data yang ada.  Teknik ini sangat berguna ketika kita memiliki dataset yang terbatas, karena dapat membantu mencegah overfitting dan meningkatkan generalisasi model.  Ada berbagai teknik data augmentation yang umum digunakan, seperti flipping, cropping, rotation, dan adding noise.  Flipping membalik gambar secara horizontal atau vertikal. Cropping memotong bagian tertentu dari gambar.  Rotation memutar gambar dengan sudut tertentu.  Adding noise menambahkan noise acak ke gambar.  Pemilihan teknik data augmentation yang tepat bergantung pada karakteristik data dan tugas yang ingin diselesaikan.  Data augmentation dapat dilakukan secara on-the-fly selama pelatihan atau sebagai pre-processing step sebelum pelatihan dimulai.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Lapisan apa dalam CNN yang digunakan untuk mengurangi dimensi data dan meningkatkan invariansi terhadap translasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Lapisan konvolusi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Lapisan pooling"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Lapisan fully connected"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Lapisan aktivasi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Lapisan pooling digunakan untuk mengurangi dimensi data dan meningkatkan invariansi terhadap translasi."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Regularisasi L1 dan L2 menambahkan penalti pada fungsi kerugian berdasarkan jumlah parameter model.",
+                    "correct_answer": false,
+                    "explanation": "L1 dan L2 regularization menambahkan penalti berdasarkan besarnya (magnitude) bobot, bukan jumlah parameter."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Varian RNN apa yang dikembangkan untuk mengatasi masalah vanishing gradient?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Perceptron"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Convolutional Neural Network"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Long Short-Term Memory (LSTM)"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Multilayer Perceptron"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "LSTM dan GRU dikembangkan untuk mengatasi masalah vanishing gradient pada RNN standar."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Teknik augmentasi data apa yang dapat diterapkan pada gambar?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Flipping"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Cropping"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Padding"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Rotation"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Adding noise"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d",
+                        "e"
+                    ],
+                    "explanation": "Flipping, cropping, rotation, dan adding noise adalah teknik augmentasi data yang umum digunakan pada gambar."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Fungsi aktivasi apa yang menghasilkan distribusi probabilitas di atas beberapa kelas dan sering digunakan dalam lapisan output untuk tugas klasifikasi multi-kelas?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Sigmoid"
+                        },
+                        {
+                            "id": "b",
+                            "text": "ReLU"
+                        },
+                        {
+                            "id": "c",
+                            "text": "tanh"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Softmax"
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Softmax menghasilkan distribusi probabilitas di atas beberapa kelas, yang umum digunakan dalam klasifikasi multi-kelas."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Dalam konteks deep learning, backpropagation adalah algoritma kunci yang digunakan untuk melatih jaringan saraf. Algoritma ini menghitung gradien dari fungsi kerugian terhadap bobot jaringan, memungkinkan jaringan untuk belajar dari data dan meningkatkan keakuratannya seiring waktu.  Proses backpropagation melibatkan dua langkah utama: forward pass dan backward pass.  Pada forward pass, input data dipropagasikan maju melalui jaringan untuk menghasilkan output.  Kemudian, pada backward pass, gradien dari fungsi kerugian dihitung dan dipropagasikan mundur melalui jaringan untuk memperbarui bobot.  Backpropagation merupakan dasar dari banyak algoritma pembelajaran mesin modern dan memainkan peran penting dalam pengembangan deep learning.  Arsitektur Transformer telah merevolusi bidang Natural Language Processing (NLP) dengan kemampuannya untuk memproses data sekuensial secara efisien dan efektif.  Transformer menggunakan mekanisme self-attention, yang memungkinkan model untuk mempertimbangkan hubungan antara semua kata dalam sebuah kalimat, terlepas dari posisinya.  Hal ini berbeda dengan model Recurrent Neural Network (RNN) tradisional yang memproses input secara berurutan.  Self-attention memungkinkan Transformer untuk memproses input secara paralel, yang secara signifikan meningkatkan kecepatan pelatihan dan memungkinkan model untuk menangkap dependensi jangka panjang dalam data sekuensial.  Transformer telah mencapai hasil yang mengesankan dalam berbagai tugas NLP, termasuk terjemahan mesin, peringkasan teks, dan question answering.  Perhitungan gradien merupakan operasi dasar dalam deep learning yang digunakan untuk mengukur seberapa besar perubahan dalam input mempengaruhi output.  Gradien dihitung menggunakan turunan dari fungsi kerugian terhadap bobot jaringan.  Gradien menunjukkan arah dan besarnya perubahan yang diperlukan pada bobot untuk meminimalkan kesalahan.  Pemahaman tentang perhitungan gradien sangat penting untuk memahami cara kerja algoritma optimisasi seperti gradient descent.  Dalam praktiknya, perhitungan gradien dilakukan secara otomatis oleh framework deep learning seperti TensorFlow dan PyTorch.  Optimisasi dalam deep learning bertujuan untuk menemukan parameter model yang meminimalkan fungsi kerugian.  Gradient descent adalah algoritma optimisasi yang paling umum digunakan, yang bekerja dengan memperbarui bobot jaringan ke arah negatif dari gradien.  Learning rate adalah parameter penting dalam gradient descent yang mengontrol seberapa besar langkah yang diambil pada setiap iterasi.  Pemilihan learning rate yang tepat sangat penting untuk konvergensi yang cepat dan stabil.  Ada beberapa varian gradient descent, seperti stochastic gradient descent (SGD), momentum, dan Adam, yang masing-masing memiliki karakteristik dan kegunaan yang berbeda.  Data augmentation adalah teknik yang digunakan untuk meningkatkan ukuran dan variasi dataset pelatihan dengan mengubah data yang ada.  Teknik ini sangat berguna ketika kita memiliki dataset yang terbatas.  Data augmentation dapat membantu mencegah overfitting dan meningkatkan generalisasi model.  Ada berbagai teknik data augmentation, seperti flipping, cropping, rotation, dan adding noise.  Pemilihan teknik yang tepat bergantung pada karakteristik data dan tugas yang ingin diselesaikan.  Data augmentation dapat dilakukan secara on-the-fly selama pelatihan atau sebagai pre-processing step. Representasi matriks sangat penting dalam deep learning karena memungkinkan operasi matematika yang efisien pada data dalam jumlah besar.  Data input, bobot jaringan, dan aktivasi neuron direpresentasikan sebagai matriks.  Operasi matriks, seperti perkalian dan transposisi, digunakan secara luas dalam perhitungan deep learning, seperti forward dan backward pass.  Penggunaan matriks memungkinkan pemanfaatan kekuatan komputasi paralel dari GPU, yang secara signifikan mempercepat pelatihan model.  Pemahaman tentang representasi matriks sangat penting untuk memahami implementasi dan efisiensi algoritma deep learning.  Transfer learning memungkinkan kita untuk memanfaatkan pengetahuan yang telah dipelajari oleh model pada satu tugas untuk tugas yang berbeda tetapi terkait.  Ini sangat berguna ketika data untuk tugas target terbatas.  Transfer learning dapat meningkatkan kinerja model secara signifikan.  Teknik umum termasuk fine-tuning, di mana beberapa lapisan awal dibekukan, dan frozen feature extraction, di mana seluruh model yang telah dilatih digunakan sebagai feature extractor.  Pemilihan metode bergantung pada ukuran dan kualitas dataset target, serta kesamaan antara tugas sumber dan target. Transfer learning telah menjadi semakin populer dalam beberapa tahun terakhir karena telah terbukti sangat efektif dalam berbagai aplikasi deep learning.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Dalam backpropagation, langkah apa yang melibatkan propagasi input data maju melalui jaringan untuk menghasilkan output?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Forward pass"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Backward pass"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Gradient calculation"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Weight update"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Forward pass adalah langkah dalam backpropagation di mana input data dipropagasikan maju melalui jaringan."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Mekanisme self-attention pada Transformer memungkinkan pemrosesan sekuensial yang bergantung pada urutan input.",
+                    "correct_answer": false,
+                    "explanation": "Self-attention memungkinkan Transformer untuk mempertimbangkan hubungan antara semua kata terlepas dari posisinya, sehingga tidak bergantung pada urutan input seperti RNN."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa tujuan utama dari optimisasi dalam deep learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Meminimalkan fungsi aktivasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Meminimalkan fungsi kerugian"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Memaksimalkan learning rate"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Memaksimalkan ukuran batch"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Optimisasi bertujuan untuk menemukan parameter model yang meminimalkan fungsi kerugian."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah pernyataan yang benar tentang transfer learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Berguna ketika data untuk tugas target terbatas."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Tidak dapat digunakan untuk tugas yang berbeda."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Melibatkan pelatihan model dari awal."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Dapat meningkatkan kinerja model secara signifikan."
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "d"
+                    ],
+                    "explanation": "Transfer learning berguna ketika data terbatas dan dapat meningkatkan kinerja model."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa peran representasi matriks dalam deep learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Memudahkan visualisasi data"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Memungkinkan operasi matematika yang efisien"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengurangi kompleksitas model"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Meningkatkan interpretabilitas model"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Representasi matriks memungkinkan operasi matematika yang efisien pada data dalam jumlah besar dalam deep learning."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Jaringan saraf tiruan, atau Artificial Neural Networks (ANNs), terinspirasi oleh struktur dan fungsi otak manusia. ANNs terdiri dari lapisan-lapisan node yang saling terhubung, yang disebut neuron. Setiap koneksi antar neuron memiliki bobot yang disesuaikan selama proses pelatihan. Input data dipropagasikan maju melalui jaringan, dan output dibandingkan dengan target yang diinginkan.  Selisih antara output dan target digunakan untuk menghitung kesalahan, yang kemudian dipropagasikan mundur melalui jaringan untuk memperbarui bobot. Proses ini disebut backpropagation.  ANNs dapat digunakan untuk berbagai tugas, termasuk klasifikasi, regresi, dan pengenalan pola.  Arsitektur jaringan saraf tiruan bervariasi tergantung pada tugas yang ingin diselesaikan.  Multilayer Perceptrons (MLPs) adalah jenis ANN yang umum digunakan, terdiri dari lapisan input, satu atau lebih lapisan tersembunyi, dan lapisan output.  Convolutional Neural Networks (CNNs) dirancang khusus untuk memproses data gambar, sedangkan Recurrent Neural Networks (RNNs) efektif untuk data sekuensial seperti teks.  Pemilihan arsitektur yang tepat bergantung pada jenis data dan kompleksitas masalah.  Fungsi aktivasi dalam jaringan saraf tiruan memperkenalkan non-linearitas, memungkinkan model untuk mempelajari pola yang kompleks dalam data.  Beberapa fungsi aktivasi yang umum digunakan termasuk sigmoid, ReLU (Rectified Linear Unit), tanh, dan softmax.  Sigmoid dan tanh menghasilkan output antara 0 dan 1 atau -1 dan 1, masing-masing.  ReLU menghasilkan output 0 untuk input negatif dan output sama dengan input untuk input positif.  Softmax menghasilkan distribusi probabilitas di atas beberapa kelas.  Pemilihan fungsi aktivasi bergantung pada karakteristik data dan arsitektur model.  Gradient descent adalah algoritma optimisasi yang digunakan untuk menemukan parameter model yang meminimalkan fungsi kerugian.  Algoritma ini bekerja dengan memperbarui bobot jaringan ke arah negatif dari gradien.  Learning rate mengontrol seberapa besar langkah yang diambil pada setiap iterasi.  Pemilihan learning rate yang tepat penting untuk konvergensi.  Varian gradient descent seperti stochastic gradient descent (SGD), momentum, dan Adam memiliki karakteristik yang berbeda.  Overfitting terjadi ketika model terlalu kompleks dan menghafal data pelatihan, sehingga kinerjanya buruk pada data baru.  Regularisasi adalah teknik untuk mencegah overfitting.  Teknik regularisasi termasuk L1 dan L2 regularization, dropout, dan early stopping.  L1 dan L2 regularization menambahkan penalti pada fungsi kerugian.  Dropout menonaktifkan neuron secara acak.  Early stopping menghentikan pelatihan lebih awal.  Transfer learning memungkinkan penggunaan kembali model yang telah dilatih pada satu tugas untuk tugas yang berbeda.  Ini berguna ketika data untuk tugas target terbatas.  Teknik transfer learning termasuk fine-tuning dan frozen feature extraction.  Fine-tuning melatih ulang beberapa lapisan terakhir, sedangkan frozen feature extraction menggunakan seluruh model sebagai feature extractor.  Pemilihan metode bergantung pada dataset dan kesamaan tugas.  Representasi matriks penting dalam deep learning untuk operasi yang efisien pada data dalam jumlah besar.  Data, bobot, dan aktivasi direpresentasikan sebagai matriks.  Operasi matriks digunakan dalam perhitungan forward dan backward pass.  Penggunaan matriks memungkinkan pemanfaatan GPU, mempercepat pelatihan.  Data augmentation meningkatkan ukuran dan variasi dataset dengan mengubah data yang ada.  Ini berguna ketika dataset terbatas.  Teknik termasuk flipping, cropping, rotation, dan adding noise.  Pemilihan teknik bergantung pada data dan tugas.  Augmentasi dapat dilakukan on-the-fly atau sebagai pre-processing.  Transformer, dengan self-attention, memproses data sekuensial secara paralel, berbeda dengan RNN.  Self-attention mempertimbangkan hubungan antar kata terlepas dari jarak, meningkatkan kecepatan dan memungkinkan penangkapan dependensi jangka panjang.  Transformer efektif dalam terjemahan mesin, peringkasan teks, dan question answering.  Keberhasilan Transformer telah mendorong penelitian lebih lanjut dalam model deep learning untuk NLP.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan backpropagation dalam konteks deep learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Proses propagasi input data maju melalui jaringan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Proses menghitung gradien dan memperbarui bobot"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Proses menghasilkan output dari jaringan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Proses pemilihan arsitektur jaringan"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Backpropagation adalah proses menghitung gradien dari fungsi kerugian dan memperbarui bobot jaringan."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Fungsi aktivasi sigmoid menghasilkan output antara -1 dan 1.",
+                    "correct_answer": false,
+                    "explanation": "Fungsi aktivasi sigmoid menghasilkan output antara 0 dan 1, sedangkan tanh menghasilkan output antara -1 dan 1."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Kapan overfitting terjadi dalam deep learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Ketika model terlalu sederhana"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Ketika model terlalu kompleks dan menghafal data pelatihan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Ketika dataset terlalu besar"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Ketika learning rate terlalu kecil"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Overfitting terjadi ketika model terlalu kompleks dan menghafal data pelatihan, sehingga kinerjanya buruk pada data baru."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan teknik regularisasi dalam deep learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "L1 regularization"
+                        },
+                        {
+                            "id": "b",
+                            "text": "L2 regularization"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Dropout"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Batch normalization"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Early stopping"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "e"
+                    ],
+                    "explanation": "L1 dan L2 regularization, dropout, dan early stopping adalah teknik regularisasi."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa perbedaan utama antara Transformer dan RNN dalam memproses data sekuensial?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Transformer memproses data secara paralel, sedangkan RNN secara berurutan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Transformer menggunakan fungsi aktivasi yang berbeda dari RNN."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Transformer tidak dapat memproses data sekuensial."
+                        },
+                        {
+                            "id": "d",
+                            "text": "RNN lebih efisien daripada Transformer."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Perbedaan utama adalah Transformer memproses data secara paralel dengan self-attention, sedangkan RNN secara berurutan."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Deep learning, sebuah subbidang dari machine learning, telah mencapai kemajuan yang luar biasa dalam berbagai domain, seperti pengenalan gambar, pemrosesan bahasa alami, dan robotika.  Kemampuan deep learning untuk belajar representasi fitur yang kompleks dari data mentah menjadikannya sangat kuat.  Jaringan saraf tiruan (ANN) yang dalam, yang terdiri dari banyak lapisan, adalah inti dari deep learning.  Arsitektur jaringan ini memungkinkan model untuk mempelajari fitur hierarkis, di mana fitur tingkat rendah digabungkan untuk membentuk fitur tingkat tinggi yang lebih abstrak.  Convolutional Neural Networks (CNNs) sangat efektif dalam memproses data gambar karena kemampuannya untuk mengekstrak fitur spasial.  Lapisan konvolusi dalam CNN menggunakan filter yang digeser di atas gambar untuk mendeteksi pola lokal.  Recurrent Neural Networks (RNNs), di sisi lain, dirancang untuk data sekuensial, seperti teks dan time series.  RNNs memiliki koneksi berulang yang memungkinkan informasi dari langkah waktu sebelumnya untuk mempengaruhi output saat ini.  Long Short-Term Memory (LSTM) dan Gated Recurrent Unit (GRU) adalah varian RNN yang canggih yang dapat mengatasi masalah vanishing gradient.  Transformer, dengan mekanisme self-attention, telah merevolusi NLP dengan memungkinkan pemrosesan paralel dan penangkapan dependensi jangka panjang.  Pelatihan model deep learning melibatkan optimisasi fungsi kerugian untuk menemukan parameter model yang optimal.  Gradient descent adalah algoritma optimisasi yang umum digunakan, yang memperbarui bobot jaringan ke arah negatif dari gradien.  Learning rate mengontrol ukuran langkah pembaruan.  Regularisasi, seperti L1 dan L2 regularization, dropout, dan early stopping, digunakan untuk mencegah overfitting.  Data augmentation meningkatkan ukuran dan variasi dataset pelatihan dengan menerapkan transformasi pada data yang ada.  Transfer learning memungkinkan penggunaan kembali model yang telah dilatih pada tugas yang berbeda, yang sangat berguna ketika data untuk tugas target terbatas.  Representasi matriks memungkinkan operasi yang efisien pada data dalam jumlah besar, dan framework seperti TensorFlow dan PyTorch menyediakan alat dan library untuk membangun dan melatih model deep learning.  Evaluasi model deep learning menggunakan metrik yang sesuai dengan tugas, seperti akurasi untuk klasifikasi dan mean squared error untuk regresi.  Interpretasi model deep learning seringkali menantang karena kompleksitasnya.  Teknik seperti visualisasi aktivasi dan saliency maps dapat membantu memahami bagaimana model membuat keputusan.  Deep learning terus berkembang pesat, dengan penelitian baru yang berfokus pada peningkatan arsitektur, algoritma optimisasi, dan teknik regularisasi.  Aplikasi deep learning semakin luas, dan potensinya untuk memecahkan masalah yang kompleks sangat besar.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang menjadi inti dari deep learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Decision trees"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Support vector machines"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Artificial neural networks"
+                        },
+                        {
+                            "id": "d",
+                            "text": "K-nearest neighbors"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Jaringan saraf tiruan (ANN) yang dalam adalah inti dari deep learning."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "CNNs lebih efektif untuk memproses data sekuensial daripada RNNs.",
+                    "correct_answer": false,
+                    "explanation": "RNNs dirancang untuk data sekuensial, sedangkan CNNs lebih efektif untuk data gambar."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa tujuan dari regularisasi dalam deep learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Meningkatkan kecepatan pelatihan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mencegah overfitting"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Meningkatkan kompleksitas model"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengurangi ukuran dataset"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Regularisasi digunakan untuk mencegah overfitting."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan varian dari RNN?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "LSTM"
+                        },
+                        {
+                            "id": "b",
+                            "text": "GRU"
+                        },
+                        {
+                            "id": "c",
+                            "text": "CNN"
+                        },
+                        {
+                            "id": "d",
+                            "text": "MLP"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "LSTM dan GRU adalah varian dari RNN."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa peran learning rate dalam gradient descent?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengontrol ukuran langkah pembaruan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menentukan fungsi aktivasi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengatur jumlah lapisan dalam jaringan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menentukan ukuran batch data"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Learning rate mengontrol ukuran langkah pembaruan dalam gradient descent."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Pemrosesan Bahasa Alami, atau Natural Language Processing (NLP), adalah cabang dari kecerdasan buatan yang berfokus pada interaksi antara komputer dan manusia melalui bahasa alami.  Tujuan NLP adalah untuk memungkinkan komputer untuk memahami, menafsirkan, dan menghasilkan bahasa manusia.  Deep learning telah merevolusi NLP, memungkinkan model untuk mencapai kinerja yang mengesankan dalam berbagai tugas, seperti terjemahan mesin, analisis sentimen, dan question answering.  Arsitektur Transformer, dengan mekanisme self-attention, telah menjadi model yang dominan dalam NLP modern.  Self-attention memungkinkan model untuk mempertimbangkan hubungan antara semua kata dalam sebuah kalimat, terlepas dari jaraknya.  Model berbasis Transformer, seperti BERT dan GPT, telah mencapai hasil yang canggih dalam berbagai benchmark NLP.  Word embeddings, seperti Word2Vec dan GloVe, merepresentasikan kata sebagai vektor padat, menangkap hubungan semantik antara kata.  Representasi ini memungkinkan model untuk memahami makna kata dan konteksnya dalam sebuah kalimat.  Recurrent Neural Networks (RNNs), meskipun kurang dominan dibandingkan Transformer, masih digunakan dalam beberapa aplikasi NLP, terutama yang melibatkan pemodelan dependensi temporal.  Long Short-Term Memory (LSTM) dan Gated Recurrent Unit (GRU) adalah varian RNN yang dapat mengatasi masalah vanishing gradient.  Teknik pemrosesan awal teks, seperti tokenisasi, stemming, dan lemmatization, penting untuk membersihkan dan menyiapkan data teks untuk model deep learning.  Tokenisasi membagi teks menjadi unit-unit individual, seperti kata atau subkata.  Stemming dan lemmatization mereduksi kata ke bentuk dasarnya.  Data augmentation dalam NLP dapat melibatkan teknik seperti back translation, synonym replacement, dan random insertion/deletion.  Back translation menerjemahkan teks ke bahasa lain dan kemudian kembali ke bahasa asli.  Synonym replacement mengganti kata dengan sinonimnya.  Random insertion/deletion menyisipkan atau menghapus kata secara acak.  Pelatihan model NLP deep learning melibatkan optimisasi fungsi kerugian menggunakan algoritma seperti gradient descent.  Regularisasi digunakan untuk mencegah overfitting.  Transfer learning memungkinkan penggunaan kembali model yang telah dilatih pada dataset besar, seperti corpus teks, untuk tugas NLP yang spesifik.  Evaluasi model NLP menggunakan metrik seperti akurasi, precision, recall, dan F1-score.  Bleu score digunakan untuk mengevaluasi kualitas terjemahan mesin.  Perkembangan terbaru dalam NLP meliputi model bahasa yang besar, seperti GPT-3, yang dapat menghasilkan teks yang sangat realistis dan koheren.  Model-model ini dilatih pada dataset teks yang sangat besar dan memiliki miliaran parameter.  NLP terus berkembang pesat, dengan aplikasi baru yang muncul di berbagai bidang, seperti asisten virtual, chatbot, dan analisis media sosial.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa tujuan utama dari Natural Language Processing (NLP)?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Membuat komputer lebih cepat"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Memungkinkan komputer untuk berinteraksi dengan manusia melalui bahasa alami"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Meningkatkan efisiensi penyimpanan data"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengembangkan algoritma enkripsi baru"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Tujuan NLP adalah untuk memungkinkan komputer memahami, menafsirkan, dan menghasilkan bahasa manusia."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Word embeddings merepresentasikan kata sebagai vektor one-hot.",
+                    "correct_answer": false,
+                    "explanation": "Word embeddings merepresentasikan kata sebagai vektor padat, bukan one-hot."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Teknik apa yang digunakan untuk mereduksi kata ke bentuk dasarnya dalam NLP?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Tokenisasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Stemming dan lemmatization"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Part-of-speech tagging"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Named entity recognition"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Stemming dan lemmatization digunakan untuk mereduksi kata ke bentuk dasarnya."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan metrik evaluasi yang umum digunakan dalam NLP?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Akurasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Precision"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Recall"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mean squared error"
+                        },
+                        {
+                            "id": "e",
+                            "text": "F1-score"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "e"
+                    ],
+                    "explanation": "Akurasi, precision, recall, dan F1-score adalah metrik evaluasi yang umum digunakan dalam NLP."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan back translation dalam konteks data augmentation untuk NLP?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menerjemahkan teks ke bahasa lain dan kemudian kembali ke bahasa asli"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mengganti kata dengan sinonimnya"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menyisipkan atau menghapus kata secara acak"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengubah urutan kata dalam kalimat"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Back translation menerjemahkan teks ke bahasa lain dan kemudian kembali ke bahasa asli."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Visi komputer adalah bidang ilmu komputer yang berfokus pada pengembangan algoritma dan teknik untuk memungkinkan komputer \"melihat\" dan menafsirkan gambar dan video.  Deep learning telah menjadi pendorong utama kemajuan dalam visi komputer dalam beberapa tahun terakhir, memungkinkan model untuk mencapai kinerja yang mengesankan dalam berbagai tugas, seperti klasifikasi gambar, deteksi objek, dan segmentasi gambar.  Convolutional Neural Networks (CNNs) adalah arsitektur jaringan saraf yang dirancang khusus untuk memproses data gambar.  CNNs menggunakan lapisan konvolusi untuk mengekstrak fitur spasial dari gambar, dan lapisan pooling untuk mengurangi dimensi data dan meningkatkan invariansi terhadap translasi.  Arsitektur CNN yang populer, seperti VGGNet, ResNet, dan InceptionNet, telah mencapai hasil yang canggih dalam berbagai benchmark visi komputer.  Deteksi objek melibatkan identifikasi dan lokalisasi objek dalam gambar atau video.  Metode deep learning untuk deteksi objek, seperti YOLO (You Only Look Once) dan Faster R-CNN, telah mencapai akurasi dan kecepatan yang tinggi.  Segmentasi gambar membagi gambar menjadi beberapa segmen berdasarkan piksel, di mana setiap segmen mewakili objek atau wilayah yang berbeda.  Metode deep learning untuk segmentasi gambar, seperti U-Net dan Mask R-CNN, telah menunjukkan hasil yang mengesankan dalam aplikasi medis dan otonom.  Pengenalan gambar melibatkan klasifikasi gambar ke dalam kategori yang telah ditentukan.  CNNs telah menjadi model yang dominan untuk pengenalan gambar, mencapai akurasi yang tinggi pada dataset besar seperti ImageNet.  Data augmentation memainkan peran penting dalam pelatihan model visi komputer, terutama ketika dataset terbatas.  Teknik augmentasi seperti flipping, cropping, rotation, dan adding noise dapat meningkatkan variasi data dan mencegah overfitting.  Transfer learning memungkinkan penggunaan kembali model yang telah dilatih pada dataset besar, seperti ImageNet, untuk tugas visi komputer yang spesifik.  Fine-tuning dan frozen feature extraction adalah teknik transfer learning yang umum digunakan.  Evaluasi model visi komputer menggunakan metrik seperti akurasi, precision, recall, dan mean Average Precision (mAP).  Intersection over Union (IoU) digunakan untuk mengukur tumpang tindih antara bounding box yang diprediksi dan ground truth dalam deteksi objek.  Tantangan dalam visi komputer meliputi variasi pencahayaan, skala objek, oklusi, dan viewpoint variation.  Penelitian dalam visi komputer terus berlanjut, dengan fokus pada pengembangan model yang lebih robust dan efisien, serta aplikasi baru dalam bidang seperti kendaraan otonom, robotika, dan perawatan kesehatan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fokus utama dari visi komputer?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengembangkan algoritma untuk memungkinkan komputer \"melihat\" dan menafsirkan gambar dan video"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Membuat komputer lebih cepat dalam memproses data"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Meningkatkan efisiensi penyimpanan data gambar"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengembangkan algoritma enkripsi baru untuk gambar"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Visi komputer berfokus pada pengembangan algoritma untuk memungkinkan komputer \"melihat\" dan menafsirkan gambar dan video."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Lapisan konvolusi dalam CNN digunakan untuk mengurangi dimensi data gambar.",
+                    "correct_answer": false,
+                    "explanation": "Lapisan pooling yang digunakan untuk mengurangi dimensi data, sedangkan lapisan konvolusi digunakan untuk mengekstrak fitur spasial."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Metrik apa yang digunakan untuk mengukur tumpang tindih antara bounding box yang diprediksi dan ground truth dalam deteksi objek?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Akurasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Precision"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Intersection over Union (IoU)"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mean Average Precision (mAP)"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Intersection over Union (IoU) digunakan untuk mengukur tumpang tindih antara bounding box."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan arsitektur CNN yang populer?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "VGGNet"
+                        },
+                        {
+                            "id": "b",
+                            "text": "ResNet"
+                        },
+                        {
+                            "id": "c",
+                            "text": "RNN"
+                        },
+                        {
+                            "id": "d",
+                            "text": "InceptionNet"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "VGGNet, ResNet, dan InceptionNet adalah arsitektur CNN yang populer."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa tujuan dari data augmentation dalam visi komputer?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengurangi ukuran dataset"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Meningkatkan variasi data dan mencegah overfitting"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Meningkatkan kompleksitas model"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengurangi kecepatan pelatihan"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Data augmentation digunakan untuk meningkatkan variasi data dan mencegah overfitting."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Generative Adversarial Networks (GANs) adalah kelas khusus dari jaringan saraf yang digunakan untuk menghasilkan data sintetis yang menyerupai data asli. GANs terdiri dari dua jaringan: generator dan discriminator. Generator mencoba menghasilkan data palsu yang terlihat seperti data asli, sedangkan discriminator mencoba membedakan antara data asli dan palsu. Kedua jaringan dilatih secara bersamaan dalam permainan minimax, di mana generator mencoba memaksimalkan kemungkinan discriminator salah mengklasifikasikan data palsu sebagai asli, dan discriminator mencoba meminimalkan kemungkinan ini.  GANs telah mencapai hasil yang mengesankan dalam menghasilkan gambar, video, dan audio realistis.  Variasi GANs, seperti DCGAN (Deep Convolutional GAN) dan StyleGAN, telah dikembangkan untuk meningkatkan kualitas dan kontrol atas data yang dihasilkan.  Aplikasi GANs meliputi pembuatan gambar realistis, peningkatan resolusi gambar, dan transfer gaya.  Pelatihan GANs bisa menantang karena ketidakstabilan dan kesulitan dalam mencapai konvergensi.  Teknik seperti Wasserstein GAN (WGAN) dan spectral normalization telah diusulkan untuk mengatasi masalah ini.  Reinforcement learning (RL) adalah paradigma pembelajaran mesin di mana agen belajar berinteraksi dengan lingkungan untuk memaksimalkan reward kumulatif.  Agen mengambil tindakan dalam lingkungan, dan lingkungan memberikan reward dan state baru sebagai respons.  Tujuan agen adalah untuk mempelajari kebijakan, yaitu pemetaan dari state ke tindakan, yang memaksimalkan reward jangka panjang.  Algoritma RL, seperti Q-learning dan policy gradients, digunakan untuk melatih agen.  Deep reinforcement learning (DRL) menggabungkan deep learning dengan reinforcement learning, di mana jaringan saraf digunakan untuk merepresentasikan kebijakan atau fungsi nilai.  DRL telah mencapai keberhasilan dalam bermain game, robotika, dan kontrol.  Tantangan dalam RL meliputi eksplorasi vs eksploitasi, credit assignment problem, dan sample efficiency.  Long Short-Term Memory (LSTM) networks adalah jenis Recurrent Neural Network (RNN) yang dirancang untuk mengatasi masalah vanishing gradient pada RNN standar.  LSTM memiliki mekanisme gating yang memungkinkan mereka untuk secara selektif mengingat atau melupakan informasi dari langkah waktu sebelumnya.  Hal ini memungkinkan LSTM untuk menangkap dependensi jangka panjang dalam data sekuensial.  LSTM telah berhasil diterapkan dalam berbagai tugas, seperti terjemahan mesin, pengenalan suara, dan pemodelan bahasa.  Gated Recurrent Unit (GRU) adalah varian lain dari RNN yang mirip dengan LSTM tetapi memiliki arsitektur yang lebih sederhana.  GRU juga menggunakan mekanisme gating untuk mengontrol aliran informasi, tetapi hanya memiliki dua gerbang, update gate dan reset gate, dibandingkan dengan tiga gerbang pada LSTM.  GRU telah terbukti sebanding dengan LSTM dalam kinerja dan lebih efisien secara komputasi.  RNNs, LSTM, dan GRU digunakan untuk memproses data sekuensial di mana urutan informasi penting.  Aplikasi RNNs meliputi pemrosesan bahasa alami, pengenalan suara, dan time series analysis.  Penelitian dalam RNNs berfokus pada pengembangan arsitektur yang lebih efisien dan efektif untuk menangkap dependensi jangka panjang dalam data sekuensial.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa tujuan utama dari discriminator dalam GAN?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menghasilkan data palsu"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Membedakan antara data asli dan palsu"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Meningkatkan resolusi gambar"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Melakukan transfer gaya"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Discriminator dalam GAN bertugas membedakan antara data asli dan palsu."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Reinforcement learning adalah paradigma pembelajaran mesin di mana agen belajar berinteraksi dengan lingkungan untuk meminimalkan reward.",
+                    "correct_answer": false,
+                    "explanation": "Agen dalam reinforcement learning bertujuan untuk memaksimalkan reward kumulatif, bukan meminimalkannya."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa masalah yang diatasi oleh LSTM dan GRU dalam RNN standar?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Overfitting"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Vanishing gradient"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Exploding gradient"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Underfitting"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "LSTM dan GRU dirancang untuk mengatasi masalah vanishing gradient pada RNN standar."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan aplikasi dari GANs?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pembuatan gambar realistis"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Peningkatan resolusi gambar"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pengenalan suara"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Transfer gaya"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Pembuatan gambar realistis, peningkatan resolusi gambar, dan transfer gaya adalah aplikasi dari GANs."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Berapa banyak gerbang yang dimiliki oleh GRU?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "1"
+                        },
+                        {
+                            "id": "b",
+                            "text": "2"
+                        },
+                        {
+                            "id": "c",
+                            "text": "3"
+                        },
+                        {
+                            "id": "d",
+                            "text": "4"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "GRU memiliki dua gerbang: update gate dan reset gate."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Backpropagation, algoritma inti dalam pelatihan deep learning, menghitung gradien dari fungsi kerugian terhadap bobot jaringan. Gradien ini menunjukkan arah dan besarnya perubahan yang diperlukan pada bobot untuk meminimalkan kesalahan. Proses ini melibatkan forward pass, di mana input dipropagasikan maju untuk menghasilkan output, dan backward pass, di mana gradien dihitung dan dipropagasikan mundur untuk memperbarui bobot.  Pemahaman mendalam tentang backpropagation sangat penting untuk memahami bagaimana jaringan saraf belajar dari data.  Jaringan saraf konvolusional (CNNs) sangat efektif dalam tugas visi komputer karena kemampuannya mengekstrak fitur spasial hierarkis. Lapisan konvolusi menggunakan filter yang digeser di atas gambar untuk mendeteksi pola lokal. Lapisan pooling mengurangi dimensi data dan meningkatkan invariansi translasi. Arsitektur CNN yang umum, seperti VGGNet dan ResNet, telah mencapai hasil yang mengesankan dalam klasifikasi gambar, deteksi objek, dan segmentasi gambar.  Keberhasilan CNNs telah mendorong kemajuan pesat dalam visi komputer.  Jaringan saraf rekuren (RNNs) memproses data sekuensial dengan mempertimbangkan informasi dari langkah waktu sebelumnya melalui koneksi berulang. Namun, RNNs standar kesulitan menangkap dependensi jangka panjang karena vanishing gradient.  Varian seperti Long Short-Term Memory (LSTM) dan Gated Recurrent Unit (GRU) mengatasi masalah ini dengan mekanisme gating yang mengontrol aliran informasi, memungkinkan mereka mengingat atau melupakan informasi secara selektif.  LSTM dan GRU telah berhasil diterapkan dalam terjemahan mesin, pengenalan suara, dan pemodelan bahasa.  Transformer, arsitektur revolusioner dalam NLP, menggunakan self-attention untuk mempertimbangkan hubungan antar kata terlepas dari jaraknya. Self-attention memungkinkan pemrosesan paralel, meningkatkan kecepatan pelatihan dan penangkapan dependensi jangka panjang, berbeda dengan RNNs yang memproses input secara berurutan.  Transformer telah mencapai hasil mutakhir dalam berbagai tugas NLP, termasuk terjemahan mesin, peringkasan teks, dan question answering.  Arsitektur inovatif ini telah membentuk kembali lanskap NLP.  Regularisasi mencegah overfitting dengan menambahkan penalti pada fungsi kerugian atau memodifikasi arsitektur jaringan. Teknik seperti L1 dan L2 regularization, dropout, dan early stopping mengontrol kompleksitas model, meningkatkan generalisasi ke data yang tidak terlihat.  Pemilihan teknik regularisasi yang tepat bergantung pada dataset dan arsitektur model.  Augmentasi data memperluas dataset pelatihan dengan menerapkan transformasi pada data yang ada, meningkatkan variasi data dan mengurangi overfitting, terutama ketika data terbatas. Teknik umum termasuk flipping, cropping, rotation, dan adding noise, yang meningkatkan robustness model.  Transfer learning memanfaatkan pengetahuan dari model yang telah dilatih pada satu tugas untuk tugas yang berbeda, meningkatkan kinerja terutama ketika data untuk tugas target terbatas. Fine-tuning dan frozen feature extraction adalah teknik transfer learning yang umum, dengan pemilihan metode bergantung pada ukuran dataset target dan kesamaan tugas.  Representasi matriks dan tensor memungkinkan operasi yang efisien pada data multidimensi dalam deep learning. Operasi seperti perkalian matriks dan tensor digunakan secara luas dalam perhitungan forward dan backward pass.  Pemanfaatan GPU untuk operasi matriks/tensor mempercepat pelatihan model deep learning secara signifikan.  Pengetahuan tentang representasi matriks/tensor sangat penting untuk implementasi dan optimasi algoritma deep learning.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dihitung oleh backpropagation dalam deep learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Output jaringan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Gradien fungsi kerugian terhadap bobot"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Fungsi aktivasi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Learning rate"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Backpropagation menghitung gradien fungsi kerugian terhadap bobot jaringan."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "RNNs standar sangat efektif dalam menangkap dependensi jangka panjang dalam data sekuensial.",
+                    "correct_answer": false,
+                    "explanation": "RNNs standar kesulitan menangkap dependensi jangka panjang karena vanishing gradient. Varian seperti LSTM dan GRU dirancang untuk mengatasi masalah ini."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa mekanisme utama yang digunakan oleh Transformer dalam NLP?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Convolution"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Recurrent connections"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Self-attention"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pooling"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Transformer menggunakan self-attention untuk mempertimbangkan hubungan antar kata terlepas dari jaraknya."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan teknik regularisasi dalam deep learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "L1 regularization"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Data augmentation"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Dropout"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Early stopping"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Transfer learning"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "L1 regularization, Dropout, dan Early stopping adalah teknik regularisasi. Data augmentation dan transfer learning bukan teknik regularisasi."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa keuntungan utama menggunakan representasi matriks dan tensor dalam deep learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Meningkatkan interpretabilitas model"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Memungkinkan operasi yang efisien pada data multidimensi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengurangi kebutuhan akan data"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menghilangkan kebutuhan akan GPU"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Representasi matriks dan tensor memungkinkan operasi yang efisien pada data multidimensi, termasuk pemanfaatan GPU untuk akselerasi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Stochastic Gradient Descent (SGD) adalah algoritma optimasi yang umum digunakan dalam deep learning untuk memperbarui bobot jaringan saraf.  SGD bekerja dengan menghitung gradien dari fungsi kerugian pada subset acak dari data pelatihan, yang disebut mini-batch.  Menggunakan mini-batch alih-alih seluruh dataset pelatihan memungkinkan SGD untuk lebih efisien dalam hal komputasi, terutama untuk dataset yang sangat besar.  Namun, SGD memiliki beberapa kelemahan, seperti osilasi selama pelatihan dan kesulitan dalam menemukan minimum lokal yang optimal.  Varian SGD, seperti momentum dan Adam, telah dikembangkan untuk mengatasi masalah ini. Momentum membantu mempercepat konvergensi dengan mempertimbangkan gradien dari iterasi sebelumnya, sedangkan Adam menggabungkan momentum dengan adaptive learning rates.  Pemilihan algoritma optimasi dan parameternya, seperti learning rate dan ukuran mini-batch, sangat penting untuk keberhasilan pelatihan model deep learning.  Jaringan saraf konvolusional (CNNs) sangat efektif dalam tugas visi komputer karena kemampuannya untuk mengekstrak fitur spasial hierarkis. Lapisan konvolusi dalam CNN menggunakan filter yang digeser di atas gambar untuk mendeteksi pola lokal, seperti tepi dan tekstur.  Lapisan pooling mengurangi dimensi data dan meningkatkan invariansi terhadap translasi. Arsitektur CNN yang umum, seperti VGGNet, ResNet, dan InceptionNet, terdiri dari beberapa lapisan konvolusi dan pooling yang diikuti oleh satu atau lebih lapisan fully connected. CNNs telah mencapai hasil yang mengesankan dalam berbagai aplikasi visi komputer, seperti klasifikasi gambar, deteksi objek, dan segmentasi gambar.  Regularisasi adalah teknik penting dalam deep learning untuk mencegah overfitting, yaitu ketika model terlalu kompleks dan menghafal data pelatihan, sehingga kinerjanya buruk pada data yang tidak terlihat.  Teknik regularisasi yang umum digunakan meliputi L1 dan L2 regularization, dropout, dan early stopping.  L1 dan L2 regularization menambahkan penalti pada fungsi kerugian berdasarkan besarnya bobot.  Dropout secara acak menonaktifkan neuron selama pelatihan, memaksa jaringan untuk belajar representasi yang lebih robust.  Early stopping menghentikan pelatihan sebelum model mulai overfit.  Pemilihan teknik regularisasi yang tepat bergantung pada karakteristik dataset dan arsitektur model.  Augmentasi data adalah teknik yang digunakan untuk meningkatkan ukuran dan variasi dataset pelatihan dengan menerapkan transformasi pada data yang ada.  Ini sangat berguna ketika dataset terbatas, karena dapat membantu mencegah overfitting dan meningkatkan generalisasi model.  Teknik augmentasi data yang umum digunakan untuk gambar meliputi flipping, cropping, rotation, dan adding noise.  Untuk data teks, teknik augmentasi dapat meliputi synonym replacement, back translation, dan random insertion/deletion. Pemilihan teknik augmentasi data yang tepat bergantung pada jenis data dan tugas yang ingin diselesaikan.  Transfer learning memungkinkan kita untuk memanfaatkan pengetahuan yang telah dipelajari oleh model pada satu tugas (tugas sumber) untuk tugas yang berbeda, tetapi terkait (tugas target).  Ini sangat berguna ketika kita memiliki dataset yang terbatas untuk tugas target, karena transfer learning dapat secara signifikan meningkatkan kinerja model.  Teknik transfer learning yang umum digunakan meliputi fine-tuning, di mana bobot dari beberapa lapisan awal model yang telah dilatih dibekukan, dan hanya lapisan terakhir yang dilatih ulang pada dataset target, dan frozen feature extraction, di mana seluruh model yang telah dilatih diperlakukan sebagai feature extractor, dan hanya classifier baru yang dilatih di atas fitur yang diekstrak.  Pemilihan metode transfer learning yang tepat bergantung pada ukuran dan kualitas dataset target, serta kesamaan antara tugas sumber dan tugas target.  Jaringan saraf rekuren (RNNs) dirancang untuk memproses data sekuensial, seperti teks dan deret waktu.  RNNs memiliki koneksi berulang yang memungkinkan informasi dari langkah waktu sebelumnya untuk mempengaruhi output pada langkah waktu saat ini.  Namun, RNNs standar memiliki kesulitan dalam menangkap dependensi jangka panjang karena masalah vanishing gradient.  Varian RNN, seperti Long Short-Term Memory (LSTM) dan Gated Recurrent Unit (GRU), telah dikembangkan untuk mengatasi masalah ini dengan menggunakan mekanisme gating untuk mengontrol aliran informasi melalui jaringan.  LSTM dan GRU telah berhasil diterapkan dalam berbagai tugas, seperti terjemahan mesin, pengenalan suara, dan pemodelan bahasa. Transformer, dengan mekanisme self-attention, telah merevolusi Natural Language Processing (NLP) dengan memungkinkan model untuk memproses data sekuensial secara paralel dan menangkap dependensi jangka panjang dengan lebih efektif.  Self-attention memungkinkan model untuk mempertimbangkan hubungan antara semua kata dalam sebuah kalimat, terlepas dari jaraknya.  Model berbasis Transformer, seperti BERT dan GPT, telah mencapai hasil yang canggih dalam berbagai benchmark NLP.  Mekanisme self-attention dalam Transformer telah menjadi terobosan penting dalam NLP dan telah mendorong banyak penelitian dan pengembangan di bidang ini.  Representasi matriks dan tensor memainkan peran penting dalam deep learning karena memungkinkan kita untuk melakukan operasi matematika secara efisien pada data dalam jumlah besar. Data input, bobot jaringan, dan aktivasi neuron direpresentasikan sebagai matriks atau tensor. Operasi seperti perkalian matriks dan tensor digunakan secara luas dalam deep learning untuk melakukan perhitungan seperti forward pass dan backpropagation.  Penggunaan representasi matriks dan tensor memungkinkan kita untuk memanfaatkan kekuatan komputasi paralel dari GPU, yang secara signifikan mempercepat pelatihan model deep learning.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang digunakan oleh SGD untuk menghitung gradien fungsi kerugian?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Seluruh dataset pelatihan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Subset acak dari data pelatihan (mini-batch)"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Satu sampel data pelatihan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Tidak ada data pelatihan"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "SGD menggunakan mini-batch, yaitu subset acak dari data pelatihan, untuk menghitung gradien."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Lapisan konvolusi dalam CNN meningkatkan dimensi data dan mengurangi invariansi translasi.",
+                    "correct_answer": false,
+                    "explanation": "Lapisan konvolusi mengekstrak fitur dan lapisan pooling yang mengurangi dimensi dan meningkatkan invariansi translasi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Teknik regularisasi apa yang secara acak menonaktifkan neuron selama pelatihan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "L1 regularization"
+                        },
+                        {
+                            "id": "b",
+                            "text": "L2 regularization"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Dropout"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Early stopping"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Dropout secara acak menonaktifkan neuron selama pelatihan."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan teknik transfer learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Fine-tuning"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Data augmentation"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Frozen feature extraction"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Regularization"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c"
+                    ],
+                    "explanation": "Fine-tuning dan frozen feature extraction adalah teknik transfer learning."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang memungkinkan Transformer untuk memproses data sekuensial secara paralel?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Koneksi berulang"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mekanisme gating"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Self-attention"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Lapisan konvolusi"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Self-attention memungkinkan Transformer untuk memproses data sekuensial secara paralel."
+                }
+            ]
+        }
+    }
+]

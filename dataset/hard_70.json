@@ -1,0 +1,1222 @@
+[
+    {
+        "context": "Pupuk organik, seperti kompos dan pupuk kandang, meningkatkan struktur tanah dan menyediakan nutrisi penting bagi tanaman.  Teknik penanaman seperti tumpang sari, di mana berbagai jenis tanaman ditanam bersama, dapat membantu mengendalikan hama dan penyakit, serta meningkatkan keanekaragaman hayati.  Tanaman seperti padi, jagung, dan gandum merupakan tanaman pangan utama di banyak negara dan menyediakan sumber karbohidrat penting bagi miliaran orang.  Pupuk kimia, seperti urea dan NPK, dapat memberikan peningkatan hasil yang cepat tetapi dapat memiliki dampak negatif jangka panjang terhadap lingkungan jika digunakan secara berlebihan.  Tanaman penutup tanah, seperti kacang-kacangan, membantu mencegah erosi tanah dan meningkatkan kesuburan tanah dengan menambahkan nitrogen ke tanah.  Irigasi tetes, metode penyediaan air langsung ke akar tanaman, dapat menghemat air dan meningkatkan efisiensi penggunaan air di lahan pertanian.  Pertanian berkelanjutan bertujuan untuk menyeimbangkan kebutuhan produksi pangan dengan perlindungan lingkungan dan kesejahteraan sosial.  Hidroponik, metode penanaman tanaman tanpa tanah dengan menggunakan larutan nutrisi, dapat digunakan untuk menghasilkan tanaman di daerah dengan tanah yang buruk atau ketersediaan air yang terbatas.  Pertanian presisi menggunakan teknologi, seperti GPS dan sensor, untuk mengoptimalkan penggunaan sumber daya dan meningkatkan hasil.  Bioteknologi pertanian melibatkan penggunaan organisme hidup atau bagiannya untuk mengembangkan atau memodifikasi produk pertanian.  Teknik-teknik seperti rekayasa genetika dapat digunakan untuk meningkatkan hasil panen, meningkatkan nilai gizi, dan meningkatkan resistensi tanaman terhadap hama dan penyakit.  Pertanian organik menghindari penggunaan pupuk dan pestisida sintetis, dan berfokus pada praktik berkelanjutan untuk menghasilkan makanan yang sehat dan ramah lingkungan.  Akuaponik, sistem yang menggabungkan akuakultur (budidaya ikan) dengan hidroponik, dapat digunakan untuk menghasilkan ikan dan tanaman secara berkelanjutan.  Penggunaan drone dalam pertanian memungkinkan pemantauan tanaman dan lahan pertanian secara efisien, membantu petani mengidentifikasi area yang membutuhkan perhatian khusus.  Sistem informasi geografis (SIG) digunakan dalam pertanian untuk memetakan dan menganalisis data spasial, seperti jenis tanah, pola curah hujan, dan distribusi tanaman.  Metode pertanian konservasi, seperti pengolahan tanah minimum dan penanaman langsung, membantu melestarikan tanah dan air, serta mengurangi erosi.  Penggunaan varietas tanaman yang tahan kekeringan dapat membantu petani di daerah kering meningkatkan hasil panen dan mengurangi risiko gagal panen akibat kekurangan air.  Pengendalian hama terpadu (PHT) menekankan penggunaan metode pengendalian hama alami, seperti predator alami dan perangkap, untuk meminimalkan penggunaan pestisida.  Pertanian vertikal, praktik menanam tanaman dalam struktur bertingkat secara vertikal, dapat digunakan untuk meningkatkan produksi pangan di daerah perkotaan dengan ruang terbatas.  Praktik pertanian berkelanjutan sangat penting untuk memastikan ketahanan pangan global dan melindungi lingkungan untuk generasi mendatang.  Pendidikan dan pelatihan petani dalam praktik pertanian berkelanjutan sangat penting untuk memastikan adopsi dan keberhasilan metode ini.  Kemitraan antara petani, peneliti, dan pembuat kebijakan sangat penting untuk mengembangkan dan menerapkan solusi berkelanjutan untuk tantangan yang dihadapi pertanian.  Inovasi dalam teknologi pertanian terus berlanjut dan menawarkan potensi besar untuk meningkatkan efisiensi, produktivitas, dan keberlanjutan sistem pertanian di seluruh dunia.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Dalam konteks pertanian berkelanjutan di lahan marginal, bagaimana mekanisme interaksi pupuk organik, khususnya kompos yang dihasilkan dari limbah pertanian terintegrasi dengan bioteknologi pertanian (misalnya mikoriza) dalam meningkatkan kapasitas tukar kation (KTK),  struktur agregat tanah,  dan  bioavailabilitas  nutrisi  mikro  bagi  tanaman  yang  toleran  cekaman  kekeringan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kompos meningkatkan KTK secara langsung, mikoriza memfasilitasi penyerapan nutrisi mikro."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kompos dan mikoriza bersinergi meningkatkan KTK, struktur agregat, dan bioavailabilitas nutrisi mikro, berkontribusi pada toleransi kekeringan."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mikoriza tidak berperan dalam peningkatan KTK, hanya berpengaruh pada penyerapan fosfor."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kompos hanya memperbaiki struktur fisik tanah, tanpa pengaruh pada bioavailabilitas nutrisi mikro."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Interaksi sinergis antara kompos dan mikoriza  penting  dalam meningkatkan KTK,  membentuk  agregat  tanah  yang  stabil,  dan  meningkatkan  bioavailabilitas  nutrisi  mikro,  yang  selanjutnya  berkontribusi  pada  peningkatan  toleransi  tanaman  terhadap  cekaman  kekeringan  di  lahan  marginal."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Mengingat dampak negatif jangka panjang pupuk kimia, aplikasi pupuk kimia dalam sistem pertanian presisi dengan pemantauan nutrisi real-time dan dosis variabel sepenuhnya meniadakan dampak lingkungan negatif dan menjamin keberlanjutan ekosistem pertanian dalam jangka panjang.",
+                    "correct_answer": false,
+                    "explanation": "Meskipun pertanian presisi dapat mengoptimalkan penggunaan pupuk kimia,  mengurangi  potensi  dampak  negatif,  hal  ini  tidak  menjamin  peniadaan  sepenuhnya  dampak  lingkungan  negatif  dalam  jangka  panjang. Faktor lain seperti akumulasi residu,  resistensi hama, dan  interaksi  kompleks  ekosistem  perlu  diperhitungkan  dalam  konteks  keberlanjutan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Dalam sistem tumpang sari yang kompleks melibatkan padi, jagung,  kacang-kacangan dan tanaman non-p pangan (misalnya bunga matahari),  jelaskan strategi optimasi  pemanfaatan sumber daya (cahaya,  air,  nutrisi) untuk memaksimalkan produktivitas sistem secara keseluruhan dengan  mempertimbangkan  interaksi  alea  kimia  (residu  pestisida)  dan  alea  biologis  (persaingan  gulma,  penyakit).",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menanam semua tanaman secara bersamaan dengan jarak tanam yang sama."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Memahami  karakteristik  masing-masing  tanaman  (tinggi,  sistem  perakaran,  kebutuhan  nutrisi)  dan  merancang  pola  tanam  yang  meminimalkan  persaingan  dan  memaksimalkan  sinergi,  serta  menerapkan  strategi  PHT  dan  pengelolaan  tanah  yang  terpadu."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menggunakan  pestisida  spektrum  luas  untuk  mengendalikan  hama  dan  penyakit."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengabaikan  persaingan  gulma  karena  tumpang  sari  sudah  cukup  untuk  menekan  pertumbuhan  gulma."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Optimasi  tumpang  sari  kompleks  memerlukan  pemahaman  mendalam  tentang  interaksi  antar  tanaman,  baik  persaingan  maupun  sinergi,  serta  integrasi  strategi  pengelolaan  hama  terpadu  dan  pengelolaan  tanah  yang  meminimalkan  dampak  negatif  alea  kimia  dan  biologis."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Identifikasilah  faktor-faktor  biotik  dan  abiotik  yang  mempengaruhi  produktivitas  padi,  jagung,  dan  gandum  dalam  sistem  pertanian  terpadu  yang  melibatkan  tumpang  sari,  rotasi  tanaman,  dan  integrasi  ternak,  serta  bagaimana  bioteknologi  dapat  dimanfaatkan  untuk  mengoptimalkan  interaksi  faktor-faktor  tersebut  untuk  mencapai  ketahanan  pangan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Ketersediaan air"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Intensitas  cahaya"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Komposisi  dan  aktivitas  mikroorganisme  tanah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kehadiran  hama  dan  penyakit"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Penggunaan varietas unggul  yang  direkayasa  genetika"
+                        },
+                        {
+                            "id": "f",
+                            "text": "Penggunaan  pupuk  kimia"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d",
+                        "e"
+                    ],
+                    "explanation": "Faktor  biotik  dan  abiotik  berinteraksi  secara  kompleks  dalam  mempengaruhi  produktivitas  tanaman  pangan.  Bioteknologi  dapat  memainkan  peran  kunci  dalam  mengoptimalkan  interaksi  ini,  misalnya  dengan  mengembangkan  varietas  tanaman  yang  lebih  tahan  terhadap  cekaman  abiotik  dan  biotik,  atau  dengan  meningkatkan  efisiensi  serapan  nutrisi  melalui  rekayasa  mikroorganisme  tanah."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Evaluasi  secara  kritis  bagaimana  prinsip-prinsip  pertanian  berkelanjutan  dapat  diterapkan  untuk  mengembangkan  model  pertanian  terpadu  yang  menghubungkan  produksi  tanaman  pangan  (padi,  jagung,  gandum)  dengan  budidaya  ikan  (akuaponik),  peternakan,  dan  pengelolaan  limbah  organik,  dengan  mempertimbangkan  aspek  ekonomi,  sosial,  dan  lingkungan  secara  holistik.  Bagaimana  model  ini  dapat  berkontribusi  pada  ketahanan  pangan  dan  keberlanjutan  jangka  panjang?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Fokus  pada  monokultur  dan  penggunaan  input  kimia  untuk  memaksimalkan  hasil  dalam  jangka  pendek."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mendesain  sistem  terpadu  dengan  aliran  sumber  daya  yang  efisien  antar  komponen  (tanaman-ikan-ternak-limbah),  meminimalkan  limbah,  mendukung  keanekaragaman  hayati,  memberdayakan  masyarakat  lokal,  dan  mengintegrasikan  pengetahuan  tradisional  dengan  inovasi  teknologi  untuk  menciptakan  sistem  yang  tangguh  dan  berkelanjutan  secara  ekonomi,  sosial,  dan  lingkungan."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Memisahkan  komponen  pertanian  (tanaman,  ikan,  ternak)  untuk  memudahkan  pengelolaan."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengabaikan  aspek  sosial  dan  ekonomi,  dan  hanya  fokus  pada  aspek  lingkungan."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Model  pertanian  terpadu  yang  berkelanjutan  menuntut  pendekatan  holistik  yang  mempertimbangkan  interkoneksi  antar  berbagai  komponen  sistem,  serta  integrasi  aspek  ekonomi,  sosial,  dan  lingkungan  untuk  mencapai  ketahanan  pangan  dan  keberlanjutan  jangka  panjang."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Pemilihan varietas tanaman yang tepat sangat penting untuk keberhasilan pertanian. Varietas unggul  memiliki hasil yang lebih tinggi, tahan terhadap hama dan penyakit, dan cocok untuk kondisi lingkungan tertentu.  Penggunaan benih berkualitas tinggi sangat penting untuk memastikan perkecambahan yang baik dan pertumbuhan tanaman yang sehat. Benih harus disimpan dengan benar untuk menjaga viabilitasnya.  Persiapan lahan yang tepat, termasuk pembajakan dan penggemburan tanah,  penting untuk pertumbuhan akar yang baik dan penyerapan nutrisi.  Penanaman pada waktu yang tepat sangat penting untuk memaksimalkan hasil.  Waktu tanam yang ideal bervariasi tergantung pada jenis tanaman dan kondisi iklim.  Penggunaan pupuk yang tepat dapat meningkatkan hasil panen secara signifikan.  Jenis dan jumlah pupuk yang dibutuhkan bervariasi tergantung pada jenis tanaman dan kondisi tanah.  Irigasi yang cukup sangat penting untuk pertumbuhan tanaman, terutama di daerah kering.  Metode irigasi yang berbeda, seperti irigasi tetes dan irigasi sprinkler, dapat digunakan tergantung pada jenis tanaman dan ketersediaan air.  Pengendalian hama dan penyakit yang efektif sangat penting untuk melindungi tanaman dari kerusakan dan kehilangan hasil.  Metode pengendalian hama terpadu (PHT) menekankan penggunaan metode pengendalian alami dan meminimalkan penggunaan pestisida.  Panen pada waktu yang tepat sangat penting untuk memastikan kualitas dan hasil panen yang optimal.  Teknik panen bervariasi tergantung pada jenis tanaman.  Penanganan dan penyimpanan pasca panen yang tepat sangat penting untuk menjaga kualitas dan mencegah kerusakan produk pertanian.  Teknik pasca panen yang tepat dapat memperpanjang umur simpan produk.  Rotasi tanaman, praktik menanam tanaman yang berbeda secara berurutan di lahan yang sama, dapat membantu meningkatkan kesuburan tanah dan mengendalikan hama dan penyakit.  Penggunaan tanaman penutup tanah, seperti kacang-kacangan, dapat membantu memperbaiki struktur tanah dan menambahkan nitrogen ke tanah.  Pertanian konservasi, praktik pertanian yang meminimalkan gangguan tanah, dapat membantu melestarikan tanah dan air.  Praktik-praktik ini termasuk pengolahan tanah minimum dan penanaman langsung.  Pertanian organik menghindari penggunaan pupuk dan pestisida sintetis, dan berfokus pada praktik berkelanjutan untuk menghasilkan makanan yang sehat dan ramah lingkungan.  Pertanian berkelanjutan bertujuan untuk menyeimbangkan kebutuhan produksi pangan dengan perlindungan lingkungan dan kesejahteraan sosial.  Praktik-praktik ini termasuk penggunaan sumber daya secara efisien, mengurangi limbah, dan melestarikan keanekaragaman hayati.  Pertanian presisi menggunakan teknologi, seperti GPS dan sensor, untuk mengoptimalkan penggunaan sumber daya dan meningkatkan hasil.  Teknologi ini dapat membantu petani membuat keputusan yang lebih tepat tentang irigasi, pemupukan, dan pengendalian hama.  Bioteknologi pertanian, termasuk rekayasa genetika, dapat digunakan untuk meningkatkan hasil panen, meningkatkan nilai gizi, dan meningkatkan resistensi tanaman terhadap hama dan penyakit.  Hidroponik, metode penanaman tanaman tanpa tanah dengan menggunakan larutan nutrisi, dapat digunakan untuk menghasilkan tanaman di daerah dengan tanah yang buruk atau ketersediaan air yang terbatas.  Akuaponik, sistem yang menggabungkan akuakultur (budidaya ikan) dengan hidroponik, dapat digunakan untuk menghasilkan ikan dan tanaman secara berkelanjutan.  Pertanian vertikal, praktik menanam tanaman dalam struktur bertingkat secara vertikal, dapat digunakan untuk meningkatkan produksi pangan di daerah perkotaan dengan ruang terbatas.  Penggunaan drone dalam pertanian memungkinkan pemantauan tanaman dan lahan pertanian secara efisien.  Drone dapat digunakan untuk mengambil gambar udara, mengidentifikasi area yang membutuhkan perhatian khusus, dan bahkan menyemprotkan pestisida.  Sistem informasi geografis (SIG) digunakan dalam pertanian untuk memetakan dan menganalisis data spasial, seperti jenis tanah, pola curah hujan, dan distribusi tanaman.  Data ini dapat digunakan untuk membuat keputusan yang lebih tepat tentang pengelolaan lahan dan praktik pertanian.  Pendidikan dan pelatihan petani dalam praktik pertanian berkelanjutan sangat penting untuk memastikan adopsi dan keberhasilan metode ini.  Pelatihan dapat mencakup topik-topik seperti pengelolaan tanah, konservasi air, pengendalian hama terpadu, dan pertanian organik.  Kemitraan antara petani, peneliti, dan pembuat kebijakan sangat penting untuk mengembangkan dan menerapkan solusi berkelanjutan untuk tantangan yang dihadapi pertanian.  Kemitraan ini dapat membantu menjembatani kesenjangan antara penelitian dan praktik, dan memastikan bahwa petani memiliki akses ke informasi dan teknologi terbaru.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana  kualitas  benih  (viabilitas,  vigor,  kemurnian  genetik)  berinteraksi  dengan  faktor-faktor  lingkungan  (suhu,  kelembaban,  patogen  tanah)  dalam  mempengaruhi  pertumbuhan  awal  tanaman,  dan  bagaimana  bioteknologi  dapat  dimanfaatkan  untuk  meningkatkan  toleransi  benih  terhadap  cekaman  abiotik  dan  biotik  pada  tahap  perkecambahan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kualitas benih tidak terpengaruh oleh faktor lingkungan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Benih berkualitas tinggi lebih tahan terhadap cekaman lingkungan, tetapi bioteknologi tidak dapat meningkatkan toleransi lebih lanjut."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Faktor lingkungan tidak berpengaruh pada perkecambahan, hanya kualitas benih yang penting."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kualitas  benih  dan  faktor  lingkungan  berinteraksi  secara  kompleks  dalam  mempengaruhi  pertumbuhan  awal  tanaman.  Bioteknologi  dapat  dimanfaatkan  untuk  meningkatkan  toleransi  benih  terhadap  cekaman,  misalnya  dengan  mengembangkan  benih  yang  dilapisi  dengan  agen  biokontrol  atau  yang  mengekspresikan  gen  tahan  cekaman."
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Interaksi  kompleks  antara  kualitas  benih  dan  faktor  lingkungan  menentukan  keberhasilan  perkecambahan  dan  pertumbuhan  awal  tanaman.  Bioteknologi  dapat  memainkan  peran  kunci  dalam  meningkatkan  toleransi  benih  terhadap  berbagai  cekaman."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Dengan  adanya  teknologi  pertanian  presisi  yang  memungkinkan  penentuan  waktu  tanam  yang  optimal  berdasarkan  data  real-time  dan  prediksi  iklim,  faktor  varietas  tanaman  dan  kondisi  iklim  lokal  tidak  lagi  relevan  dalam  menentukan  waktu  tanam  yang  ideal.",
+                    "correct_answer": false,
+                    "explanation": "Meskipun  teknologi  presisi  memberikan  informasi  yang  berharga,  faktor  varietas  tanaman  dan  kondisi  iklim  lokal  tetap  sangat  relevan  dan  perlu  dipertimbangkan  dalam  menentukan  waktu  tanam  yang  ideal.  Teknologi  presisi  melengkapi,  bukan  menggantikan,  pengetahuan  agronomi  tradisional."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Dalam  konteks  pengendalian  hama  terpadu  (PHT),  bagaimana  strategi  penggunaan  agen  hayati  (predator,  parasitoid,  patogen  hama)  dapat  diintegrasikan  dengan  teknik  budidaya  (rotasi  tanaman,  tumpang  sari,  pemilihan  varietas  tahan)  dan  penggunaan  pestisida  selektif  rendah  risiko  untuk  menekan  populasi  hama  di  bawah  ambang  ekonomi  secara  berkelanjutan  dan  meminimalkan  dampak  negatif  terhadap  lingkungan  dan  kesehatan  manusia?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Hanya mengandalkan pestisida kimia sintetis."
+                        },
+                        {
+                            "id": "b",
+                            "text": "PHT  melibatkan  pendekatan  multi-taktik  yang  terintegrasi  dan  berkelanjutan,  menggabungkan  agen  hayati,  teknik  budidaya,  dan  penggunaan  pestisida  selektif  secara  bijaksana  untuk  mengoptimalkan  pengendalian  hama  dengan  dampak  minimal  terhadap  lingkungan  dan  kesehatan  manusia."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Hanya  menggunakan  agen  hayati  tanpa  mempertimbangkan  faktor  lain."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengabaikan  ambang  ekonomi  dan  fokus  pada  pemberantasan  total  hama."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "PHT  menekankan  pendekatan  holistik  dan  berkelanjutan  dalam  pengendalian  hama,  meminimalkan  penggunaan  pestisida  sintetis  dan  memaksimalkan  penggunaan  mekanisme  pengendalian  alami."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Dalam  sistem  pertanian  berkelanjutan,  bagaimana  teknik  pengolahan  tanah  minimum/tanpa  olah  (TOT)  berinteraksi  dengan  penggunaan  tanaman  penutup  dan  rotasi  tanaman  dalam  meningkatkan  kesehatan  tanah  (struktur,  bahan  organik,  biodiversitas),  mengoptimalkan  daur  hara,  dan  meningkatkan  efisiensi  penggunaan  air  dalam  jangka  panjang?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "TOT  mengurangi  gangguan  tanah,  tanaman  penutup  menambah  bahan  organik  dan  meningkatkan  struktur  tanah,  rotasi  tanaman  mengoptimalkan  daur  hara  dan  menekan  hama/penyakit.  Ketiga  praktik  ini  bersinergi  meningkatkan  kesehatan  tanah  dan  efisiensi  penggunaan  air."
+                        },
+                        {
+                            "id": "b",
+                            "text": "TOT  tidak  berpengaruh  pada  kesehatan  tanah."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Tanaman  penutup  hanya  berfungsi  untuk  mencegah  erosi."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Rotasi  tanaman  tidak  berpengaruh  pada  daur  hara."
+                        }
+                    ],
+                    "correct_answer": [
+                        "a"
+                    ],
+                    "explanation": "TOT,  tanaman  penutup,  dan  rotasi  tanaman  merupakan  komponen  kunci  dalam  sistem  pertanian  berkelanjutan  yang  bersinergi  meningkatkan  kesehatan  tanah  dan  keberlanjutan  sistem  pertanian."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Analisis  secara  kritis  bagaimana  integrasi  sistem  informasi  geografis  (SIG),  penginderaan  jauh  (citra  satelit,  drone),  dan  teknologi  digital  lainnya  dapat  dimanfaatkan  dalam  pertanian  presisi  untuk  mengoptimalkan  pengelolaan  lahan,  meningkatkan  efisiensi  penggunaan  sumber  daya  (air,  pupuk,  pestisida),  dan  mendukung  pengambilan  keputusan  berbasis  data  yang  lebih  tepat  dan  berkelanjutan  dalam  rangka  meningkatkan  produktivitas  dan  ketahanan  sistem  pertanian  terhadap  perubahan  iklim?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Teknologi  digital  tidak  berperan  penting  dalam  pertanian  modern."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Integrasi  SIG,  penginderaan  jauh,  dan  teknologi  digital  lainnya  memungkinkan  pemantauan  kondisi  lahan  dan  tanaman  secara  real-time,  analisis  data  spasial,  dan  pengambilan  keputusan  yang  lebih  tepat  dan  efisien  dalam  penggunaan  sumber  daya,  serta  memudahkan  adaptasi  terhadap  perubahan  iklim."
+                        },
+                        {
+                            "id": "c",
+                            "text": "SIG  hanya  berguna  untuk  pemetaan  lahan."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Data  dari  penginderaan  jauh  tidak  dapat  diandalkan."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Teknologi  digital  memainkan  peran  transformatif  dalam  pertanian  modern,  memungkinkan  pertanian  presisi  dan  pengelolaan  sumber  daya  yang  lebih  efisien  dan  berkelanjutan."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Tanah adalah lapisan terluar bumi yang menjadi tempat tumbuhnya tanaman. Tanah terbentuk dari pelapukan batuan dan bahan organik.  Tanah sehat sangat penting untuk pertanian yang produktif.  Tanaman membutuhkan tanah yang subur untuk tumbuh dan berkembang.  Tanah yang subur mengandung nutrisi yang dibutuhkan tanaman, seperti nitrogen, fosfor, dan kalium.  Tanah yang sehat juga memiliki struktur yang baik, yang memungkinkan air dan udara bersirkulasi dengan baik.  Ada berbagai jenis tanah, masing-masing dengan karakteristiknya sendiri.  Beberapa jenis tanah lebih cocok untuk pertanian daripada yang lain.  Jenis tanah ditentukan oleh tekstur, struktur, dan kandungan bahan organiknya. Tekstur tanah mengacu pada proporsi partikel pasir, debu, dan tanah liat di dalam tanah.  Struktur tanah mengacu pada cara partikel-partikel tanah terikat bersama.  Kandungan bahan organik mengacu pada jumlah bahan organik yang telah terurai di dalam tanah.  Penggunaan pupuk dapat meningkatkan kesuburan tanah.  Pupuk menyediakan nutrisi yang dibutuhkan tanaman untuk tumbuh dan berkembang. Ada dua jenis pupuk utama: pupuk organik dan pupuk kimia.  Pupuk organik terbuat dari bahan-bahan alami, seperti kompos dan pupuk kandang.  Pupuk kimia dibuat dari bahan kimia sintetis.  Praktik pengelolaan tanah yang tepat dapat membantu menjaga kesehatan tanah. Praktik-praktik ini termasuk rotasi tanaman, tanaman penutup tanah, dan pengolahan tanah minimum.  Rotasi tanaman adalah praktik menanam tanaman yang berbeda secara berurutan di lahan yang sama.  Tanaman penutup tanah adalah tanaman yang ditanam untuk menutupi tanah dan mencegah erosi.  Pengolahan tanah minimum adalah praktik pertanian yang meminimalkan gangguan tanah. Erosi tanah adalah proses hilangnya lapisan atas tanah oleh air atau angin.  Erosi tanah dapat mengurangi kesuburan tanah dan menyebabkan degradasi lahan.  Praktik konservasi tanah dapat membantu mencegah erosi tanah.  Praktik-praktik ini termasuk penanaman kontur, terasering, dan penanaman strip.  Penanaman kontur adalah praktik menanam tanaman mengikuti kontur lahan.  Terasering adalah praktik membuat teras di lereng bukit untuk mencegah erosi. Penanaman strip adalah praktik menanam tanaman dalam strip yang bergantian dengan strip vegetasi.  Tanah adalah sumber daya alam yang berharga yang harus dilindungi.  Praktik pengelolaan tanah yang berkelanjutan dapat membantu memastikan bahwa tanah tetap sehat dan produktif untuk generasi mendatang.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan  proses  pedogenesis  secara  detail,  meliputi  faktor-faktor  pembentuk  tanah  (iklim,  organisme,  bahan  induk,  topografi,  waktu),  proses  pelapukan  (fisik,  kimia,  biologis),  dan  perkembangan  horizon  tanah.  Bagaimana  proses  ini  berinteraksi  untuk  menghasilkan  keanekaragaman  jenis  tanah  yang  kita  temukan  di  Bumi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Tanah  terbentuk  secara  spontan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Faktor-faktor  pembentuk  tanah  berinteraksi  secara  kompleks  dalam  jangka  waktu  yang  lama  untuk  menghasilkan  berbagai  jenis  tanah  melalui  proses  pelapukan  fisik,  kimia,  dan  biologis,  serta  translokasi  dan  transformasi  bahan  organik  dan  mineral,  yang  mengarah  pada  perkembangan  horizon  tanah  yang  khas."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Tanah hanya terbentuk dari pelapukan batuan."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Bahan organik tidak berperan dalam pembentukan tanah."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Pedogenesis  adalah  proses  kompleks  dan  dinamis  yang  dipengaruhi  oleh  berbagai  faktor  yang  berinteraksi  sepanjang  waktu."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Semua jenis tanah memiliki tingkat kesuburan yang sama dan  cocok  untuk semua jenis tanaman,  sehingga  pengelolaan  tanah  tidak  diperlukan  untuk  memaksimalkan  produktivitas  pertanian.",
+                    "correct_answer": false,
+                    "explanation": "Setiap  jenis  tanah  memiliki  karakteristik  fisik,  kimia,  dan  biologis  yang  unik,  yang  mempengaruhi  kesuburannya  dan  kesesuaiannya  untuk  tanaman  tertentu.  Pengelolaan  tanah  yang  tepat  sangat  penting  untuk  mengoptimalkan  produktivitas  pertanian  dan  mempertahankan  kesehatan  tanah  dalam  jangka  panjang."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana tekstur tanah (proporsi pasir, debu, dan liat), struktur tanah (agregasi), dan kandungan bahan organik berinteraksi dalam mempengaruhi sifat fisik tanah lainnya, seperti porositas, permeabilitas, kapasitas menahan air, dan drainase, yang selanjutnya berpengaruh pada pertumbuhan dan perkembangan tanaman?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Tekstur,  struktur,  dan  bahan  organik  tidak  berpengaruh  pada  sifat  fisik  tanah."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Tekstur,  struktur,  dan  kandungan  bahan  organik  berinteraksi  secara  kompleks  dalam  menentukan  sifat  fisik  tanah  seperti  porositas,  permeabilitas,  kapasitas  menahan  air,  dan  drainase.  Keseimbangan  yang  optimal  dari  faktor-faktor  ini  penting  untuk  menciptakan  lingkungan  tanah  yang  kondusif  bagi  pertumbuhan  dan  perkembangan  tanaman."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Tanah liat selalu lebih baik daripada tanah pasir untuk pertanian."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Bahan  organik  tidak  berpengaruh  pada  kapasitas  menahan  air."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Interaksi  antara  tekstur,  struktur,  dan  bahan  organik  tanah  sangat  penting  dalam  menentukan  kualitas  fisik  tanah  dan  kemampuannya  mendukung  pertumbuhan  tanaman."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Dalam  konteks  pertanian  berkelanjutan,  bandingkan  dan  kontraskan  pupuk  organik  (kompos,  pupuk  kandang)  dan  pupuk  kimia  dalam  hal  dampaknya  terhadap  kesuburan  tanah  jangka  pendek  dan  jangka  panjang,  kesehatan  tanah,  lingkungan,  dan  kualitas  produk  pertanian.  Bagaimana  strategi  penggunaan  pupuk  terpadu  dapat  dioptimalkan  untuk  memaksimalkan  manfaat  dan  meminimalkan  risiko  dari  kedua  jenis  pupuk  tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pupuk  kimia  menyediakan  hara  yang  tersedia  cepat,  sementara  pupuk  organik  memperbaiki  sifat  fisik,  kimia,  dan  biologis  tanah  dalam  jangka  panjang."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pupuk  organik  tidak  berpengaruh  pada  kesuburan  tanah."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pupuk kimia selalu lebih baik daripada pupuk organik."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Penggunaan pupuk terpadu yang optimal  memerlukan  pemahaman  tentang  karakteristik  tanah,  kebutuhan  tanaman,  dan  potensi  dampak  lingkungan,  serta  integrasi  dengan  praktik  pengelolaan  tanah  lainnya  seperti  rotasi  tanaman  dan  tanaman  penutup."
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "d"
+                    ],
+                    "explanation": "Pupuk  organik  dan  kimia  memiliki  keunggulan  dan  kelemahan  masing-masing.  Strategi  penggunaan  pupuk  terpadu  yang  optimal  mensyaratkan  pemahaman  yang  mendalam  tentang  interaksi  tanah-tanaman-pupuk  dan  dampak  lingkungannya."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan mekanisme erosi tanah oleh air dan angin secara detail, termasuk faktor-faktor yang mempengaruhinya (iklim, topografi, vegetasi, praktik pengelolaan tanah).  Evaluasi secara kritis efektivitas berbagai teknik konservasi tanah (penanaman kontur, terasering, penanaman strip, vegetasi riparian) dalam mengendalikan erosi dan mempertahankan produktivitas lahan di berbagai kondisi lingkungan dan sistem pertanian.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Erosi tanah tidak dapat dicegah."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Erosi  tanah  oleh  air  dan  angin  terjadi  melalui  mekanisme  yang  berbeda  dan  dipengaruhi  oleh  berbagai  faktor.  Efektivitas  teknik  konservasi  tanah  bervariasi  tergantung  pada  kondisi  lingkungan  dan  sistem  pertanian  spesifik.  Pendekatan  terpadu  yang  mempertimbangkan  faktor-faktor  lokal  sangat  penting  untuk  mengendalikan  erosi  secara  efektif."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Vegetasi tidak berpengaruh pada erosi tanah."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Semua teknik konservasi tanah sama efektifnya di semua kondisi."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Pemahaman  mendalam  tentang  mekanisme  erosi  dan  faktor-faktor  yang  mempengaruhinya  sangat  penting  untuk  memilih  dan  menerapkan  teknik  konservasi  tanah  yang  tepat  dan  efektif."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Irigasi adalah penyediaan air untuk tanaman untuk mendukung pertumbuhan dan perkembangan mereka. Irigasi sangat penting di daerah kering di mana curah hujan tidak mencukupi untuk memenuhi kebutuhan tanaman. Irigasi tetes adalah metode irigasi yang efisien yang menghemat air dengan mengirimkan air langsung ke akar tanaman. Sistem irigasi sprinkler mensimulasikan hujan dengan menyemprotkan air ke udara, yang kemudian jatuh ke tanah dan tanaman. Irigasi permukaan melibatkan penggenangan ladang dengan air, yang kemudian meresap ke dalam tanah. Metode irigasi yang berbeda memiliki kelebihan dan kekurangan, dan pemilihan metode yang tepat tergantung pada berbagai faktor, termasuk jenis tanaman, jenis tanah, ketersediaan air, dan biaya. Pengelolaan air yang efisien sangat penting dalam pertanian untuk memastikan penggunaan air yang berkelanjutan dan meminimalkan pemborosan. Tanaman membutuhkan air untuk fotosintesis, proses di mana mereka mengubah energi cahaya menjadi energi kimia. Air juga membantu mengangkut nutrisi dari tanah ke berbagai bagian tanaman.  Kekurangan air dapat menyebabkan stres air pada tanaman, yang dapat menyebabkan pertumbuhan terhambat, penurunan hasil, dan bahkan kematian tanaman.  Teknik konservasi air, seperti penggunaan mulsa dan rotasi tanaman, dapat membantu mengurangi kebutuhan irigasi. Mulsa adalah lapisan bahan yang ditempatkan di atas tanah di sekitar tanaman untuk mengurangi penguapan air. Rotasi tanaman dapat membantu meningkatkan kesehatan tanah dan mengurangi kebutuhan air.  Irigasi yang berlebihan dapat menyebabkan masalah, seperti pencucian nutrisi dan genangan air, yang dapat merusak tanaman dan mencemari air tanah. Penting untuk memantau tingkat kelembaban tanah secara teratur untuk memastikan bahwa tanaman menerima jumlah air yang tepat.  Sistem irigasi yang canggih, seperti irigasi yang dikendalikan komputer, dapat digunakan untuk mengoptimalkan penggunaan air dan meningkatkan efisiensi irigasi. Sistem ini menggunakan sensor untuk memantau tingkat kelembaban tanah dan mengirimkan air hanya bila diperlukan.  Di daerah kering, penggunaan air yang efisien sangat penting untuk keberlanjutan pertanian.  Teknologi irigasi yang inovatif sedang dikembangkan untuk membantu petani menghemat air dan meningkatkan hasil panen di daerah kering. Teknologi ini termasuk irigasi bawah permukaan dan irigasi defisit. Irigasi bawah permukaan melibatkan penempatan pipa di bawah tanah untuk mengirimkan air langsung ke zona akar. Irigasi defisit melibatkan penyediaan air untuk tanaman pada tingkat di bawah kebutuhan air penuh mereka untuk mendorong pertumbuhan akar yang lebih dalam dan meningkatkan efisiensi penggunaan air. Praktik pengelolaan air yang baik sangat penting untuk keberlanjutan pertanian dan perlindungan sumber daya air kita.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Di  daerah  dengan  ketersediaan  air  yang  terbatas,  bagaimana  strategi  irigasi  defisit  terkendali  dapat  diintegrasikan  dengan  teknik  konservasi  air  lainnya  (penggunaan  mulsa,  pemilihan  varietas  tanaman  tahan  kekeringan,  pengolahan  tanah  minimum)  untuk  mengoptimalkan  produktivitas  tanaman  dengan  input  air  minimal  dan  meminimalkan  dampak  negatif  terhadap  lingkungan  (salinisasi,  degradasi  tanah)?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Irigasi  sebanyak  mungkin  tanpa  mempertimbangkan  ketersediaan  air."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Strategi  irigasi  defisit  terkendali  melibatkan  penyediaan  air  di  bawah  kebutuhan  optimal  tanaman  pada  tahap  pertumbuhan  tertentu  untuk  merangsang  perkembangan  akar  dan  meningkatkan  efisiensi  penggunaan  air.  Integrasi  dengan  teknik  konservasi  air  lainnya  seperti  mulsa,  pemilihan  varietas  tahan  kekeringan,  dan  pengolahan  tanah  minimum  dapat  lebih  lanjut  mengoptimalkan  penggunaan  air  dan  meminimalkan  dampak  negatif  terhadap  lingkungan."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengabaikan  dampak  lingkungan  dari  irigasi."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Varietas  tanaman  tahan  kekeringan  tidak  membutuhkan  irigasi."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Irigasi  defisit  terkendali  dan  teknik  konservasi  air  lainnya  merupakan  strategi  penting  untuk  meningkatkan  efisiensi  penggunaan  air  dalam  pertanian,  terutama  di  daerah  kering."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Karena  irigasi  tetes  sangat  efisien  dalam  penggunaan  air,  penggunaan  irigasi  tetes  menjamin  tidak  akan  terjadi  pencucian  nutrisi  dan  pencemaran  air  tanah,  sehingga  tidak  perlu  dilakukan  pemantauan  kualitas  air  dan  tanah  secara  berkala.",
+                    "correct_answer": false,
+                    "explanation": "Meskipun  irigasi  tetes  lebih  efisien  dibandingkan  metode  irigasi  lainnya,  pencucian  nutrisi  dan  pencemaran  air  tanah  masih  dapat  terjadi  jika  pengelolaan  nutrisi  dan  irigasi  tidak  dilakukan  dengan  benar.  Pemantauan  berkala  tetap  diperlukan  untuk  memastikan  keberlanjutan  sistem."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana karakteristik  tanah  (tekstur,  struktur,  kandungan  bahan  organik),  jenis  tanaman  (sistem  perakaran,  tahap  pertumbuhan),  dan  kondisi  iklim  (suhu,  kelembaban,  curah  hujan)  mempengaruhi  pemilihan  metode  irigasi  yang  paling  tepat  (tetes,  sprinkler,  permukaan,  bawah  permukaan)  untuk  mengoptimalkan  efisiensi  penggunaan  air,  pertumbuhan  tanaman,  dan  meminimalkan  dampak  lingkungan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Metode irigasi apa pun sama efektifnya untuk semua tanaman dan kondisi."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pemilihan  metode  irigasi  yang  optimal  memerlukan  pertimbangan  terpadu  dari  karakteristik  tanah,  jenis  tanaman,  kondisi  iklim,  ketersediaan  air,  biaya,  dan  faktor  lainnya.  Tidak  ada  satu  metode  pun  yang  cocok  untuk  semua  situasi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kondisi iklim tidak berpengaruh pada pemilihan metode irigasi."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Jenis tanaman tidak berpengaruh pada pemilihan metode irigasi."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Pemilihan  metode  irigasi  yang  tepat  harus  didasarkan  pada  analisis  yang  cermat  terhadap  berbagai  faktor  yang  berinteraksi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Dalam  konteks  perubahan  iklim  global  yang  menyebabkan  peningkatan  variabilitas  curah  hujan  dan  kekeringan,  bagaimana  teknologi  irigasi  cerdas  (smart  irrigation)  yang  terintegrasi  dengan  sistem  informasi  geografis  (SIG),  penginderaan  jauh,  dan  internet  of  things  (IoT)  dapat  dimanfaatkan  untuk  meningkatkan  efisiensi  penggunaan  air,  mengoptimalkan  jadwal  irigasi,  dan  meningkatkan  ketahanan  sistem  pertanian  terhadap  cekaman  kekeringan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Teknologi  irigasi  cerdas  memungkinkan  pemantauan  kondisi  lahan  dan  tanaman  secara  real-time,  pengumpulan  data  iklim  dan  curah  hujan,  dan  pengaturan  jadwal  irigasi  secara  otomatis  berdasarkan  kebutuhan  tanaman,  meningkatkan  efisiensi  penggunaan  air  dan  ketahanan  terhadap  kekeringan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Teknologi irigasi cerdas terlalu mahal dan rumit untuk diterapkan."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Perubahan iklim tidak berpengaruh pada kebutuhan irigasi."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Data dari penginderaan jauh tidak relevan untuk irigasi."
+                        }
+                    ],
+                    "correct_answer": [
+                        "a"
+                    ],
+                    "explanation": "Teknologi  irigasi  cerdas  memiliki  potensi  besar  untuk  mengoptimalkan  penggunaan  air  dan  meningkatkan  ketahanan  pertanian  terhadap  perubahan  iklim."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Evaluasi  secara  kritis  dampak  irigasi  yang  berlebihan  terhadap  lingkungan,  termasuk  pencucian  nutrisi,  salinisasi  tanah,  pencemaran  air  tanah,  dan  penurunan  kualitas  air  permukaan.  Bagaimana  prinsip-prinsip  pengelolaan  air  yang  berkelanjutan  dapat  diterapkan  untuk  meminimalkan  dampak  negatif  irigasi  dan  menjamin  ketersediaan  air  jangka  panjang  untuk  pertanian  dan  kebutuhan  lainnya?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Irigasi  berlebihan  tidak  berdampak  negatif  terhadap  lingkungan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pengelolaan  air  yang  berkelanjutan  memerlukan  pendekatan  terpadu  yang  mempertimbangkan  keseimbangan  antara  kebutuhan  air  untuk  pertanian  dan  kebutuhan  lainnya,  serta  pelestarian  kualitas  air  dan  kesehatan  ekosistem.  Penerapan  praktik  irigasi  yang  efisien,  pemantauan  kualitas  air  dan  tanah,  dan  penggunaan  teknologi  irigasi  cerdas  sangat  penting  untuk  meminimalkan  dampak  negatif  irigasi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kualitas air tanah tidak terpengaruh oleh irigasi."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Salinisasi  tanah  tidak  menjadi  masalah  dalam  irigasi."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Irigasi  berlebihan  dapat  menyebabkan  berbagai  masalah  lingkungan.  Pengelolaan  air  yang  berkelanjutan  sangat  penting  untuk  meminimalkan  dampak  negatif  dan  menjamin  ketersediaan  air  jangka  panjang."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Iklim mengacu pada kondisi cuaca rata-rata di suatu wilayah dalam jangka waktu yang lama, biasanya 30 tahun atau lebih.  Iklim suatu wilayah dipengaruhi oleh berbagai faktor, termasuk garis lintang, ketinggian, kedekatan dengan badan air, dan pola sirkulasi atmosfer. Garis lintang, jarak suatu lokasi dari khatulistiwa, merupakan faktor utama yang mempengaruhi iklim.  Daerah dekat khatulistiwa menerima lebih banyak radiasi matahari langsung dan cenderung memiliki iklim yang lebih hangat.  Ketinggian juga mempengaruhi iklim.  Suhu udara menurun seiring bertambahnya ketinggian, sehingga daerah pegunungan cenderung lebih dingin daripada daerah dataran rendah. Kedekatan dengan badan air dapat memoderasi iklim.  Air memiliki kapasitas panas yang tinggi, yang berarti dapat menyerap dan melepaskan banyak panas tanpa perubahan suhu yang besar.  Ini membantu menjaga suhu di daerah pesisir lebih stabil daripada di daerah pedalaman. Pola sirkulasi atmosfer, seperti angin dan arus laut, juga memainkan peran penting dalam menentukan iklim.  Angin dapat mengangkut panas dan kelembapan dari satu wilayah ke wilayah lain, dan arus laut dapat mempengaruhi suhu dan curah hujan di daerah pesisir.  Perubahan iklim mengacu pada perubahan jangka panjang dalam pola cuaca Bumi.  Perubahan iklim disebabkan oleh peningkatan emisi gas rumah kaca, seperti karbon dioksida dan metana, dari aktivitas manusia, seperti pembakaran bahan bakar fosil dan deforestasi.  Gas rumah kaca memerangkap panas di atmosfer, menyebabkan suhu rata-rata Bumi meningkat.  Peningkatan suhu global dapat menyebabkan berbagai dampak, termasuk kenaikan permukaan laut, peristiwa cuaca ekstrem yang lebih sering dan intens, dan perubahan pola curah hujan.  Musim adalah periode dalam setahun yang ditandai oleh kondisi cuaca tertentu.  Musim disebabkan oleh kemiringan sumbu Bumi relatif terhadap bidang orbitnya mengelilingi matahari.  Saat Bumi mengorbit matahari, belahan bumi yang berbeda menerima jumlah sinar matahari langsung yang berbeda-beda, yang menyebabkan perubahan suhu dan pola cuaca.  Di daerah beriklim sedang, ada empat musim: musim semi, musim panas, musim gugur, dan musim dingin.  Musim semi dan musim gugur adalah musim transisi, sedangkan musim panas dan musim dingin adalah musim ekstrem.  Di daerah tropis, musim biasanya ditentukan oleh pola curah hujan daripada suhu.  Musim hujan dan musim kemarau adalah dua musim utama di banyak daerah tropis.  Perubahan iklim dapat mempengaruhi musim dengan mengubah waktu dan intensitas pola cuaca musiman.  Misalnya, musim semi dapat tiba lebih awal, musim panas dapat menjadi lebih panas dan kering, dan musim dingin dapat menjadi lebih pendek dan ringan.  Memahami iklim dan musim sangat penting untuk berbagai aktivitas manusia, termasuk pertanian, pariwisata, dan pengelolaan sumber daya air.  Dengan memahami iklim dan musim, kita dapat merencanakan dan beradaptasi dengan perubahan kondisi cuaca dan meminimalkan dampak negatif dari perubahan iklim.  Ilmuwan iklim menggunakan berbagai alat dan teknik untuk mempelajari iklim dan musim, termasuk model komputer, data historis, dan pengamatan satelit.  Mereka terus memantau dan menganalisis data iklim untuk lebih memahami pola iklim dan memprediksi perubahan iklim di masa depan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan secara rinci bagaimana faktor-faktor astronomis (kemiringan sumbu bumi, eksentrisitas orbit, presesi) dan faktor-faktor geografis (garis lintang, ketinggian, distribusi daratan dan lautan, arus laut dan angin) berinteraksi untuk membentuk pola iklim global dan regional, termasuk distribusi suhu, curah hujan, dan tipe iklim (Koppen-Geiger).",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Iklim  hanya  ditentukan  oleh  garis  lintang."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Faktor  astronomis  dan  geografis  berinteraksi  secara  kompleks  untuk  menghasilkan  variasi  spasial  dan  temporal  dalam  radiasi  matahari  yang  diterima  oleh  Bumi,  yang  selanjutnya  mempengaruhi  suhu,  pola  sirkulasi  atmosfer  dan  lautan,  serta  distribusi  curah  hujan,  yang  pada  akhirnya  menentukan  tipe  iklim  di  berbagai  wilayah  di  Bumi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Ketinggian  tidak  berpengaruh  pada  iklim."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Arus  laut  dan  angin  tidak  berperan  dalam  menentukan  iklim."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Pola  iklim  global  dan  regional  merupakan  hasil  dari  interaksi  yang  kompleks  antara  berbagai  faktor  astronomis  dan  geografis."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Perubahan iklim antropogenik, yang disebabkan oleh peningkatan emisi gas rumah kaca, hanya mempengaruhi suhu global dan tidak berdampak pada pola sirkulasi atmosfer dan lautan,  sehingga  tidak  akan  mengubah  distribusi  curah  hujan  regional  dan  frekuensi  kejadian  cuaca  ekstrem.",
+                    "correct_answer": false,
+                    "explanation": "Perubahan  iklim  antropogenik  mempengaruhi  seluruh  sistem  iklim,  termasuk  suhu,  pola  sirkulasi  atmosfer  dan  lautan,  serta  siklus  hidrologi,  yang  berdampak  pada  perubahan  pola  curah  hujan  regional  dan  peningkatan  frekuensi  dan  intensitas  kejadian  cuaca  ekstrem."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana  variasi  musiman  dalam  radiasi  matahari,  suhu,  dan  curah  hujan  mempengaruhi  proses  ekologi  kunci  seperti  fotosintesis,  respirasi,  dekomposisi,  dan  siklus  hara  di  berbagai  bioma  (hutan,  padang  rumput,  gurun,  tundra)?  Bagaimana  perubahan  iklim  dapat  mempengaruhi  interaksi  kompleks  ini  dan  berdampak  pada  struktur,  fungsi,  dan  produktivitas  ekosistem?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Musim  tidak  berpengaruh  pada  proses  ekologi."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Variasi  musiman  mendorong  ritme  biologis  dan  mempengaruhi  proses  ekologi  kunci  di  berbagai  bioma.  Perubahan  iklim  dapat  mengganggu  pola  musiman  alami,  yang  berdampak  pada  fenologi  organisme,  interaksi  spesies,  dan  fungsi  ekosistem  secara  keseluruhan."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Perubahan  iklim  tidak  berdampak  pada  ekosistem."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Semua  bioma  merespons  perubahan  iklim  dengan  cara  yang  sama."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Musim  dan  perubahan  iklim  memiliki  pengaruh  yang  signifikan  terhadap  proses  ekologi  dan  fungsi  ekosistem."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Identifikasilah  metode  ilmiah  yang  digunakan  oleh  ilmuwan  iklim  untuk  merekonstruksi  iklim  masa  lalu  (paleoklimatologi),  memantau  iklim  saat  ini,  dan  memproyeksikan  perubahan  iklim  di  masa  depan.  Bagaimana  data  dari  inti  es,  cincin  pohon,  sedimen  laut,  dan  pengamatan  satelit  diintegrasikan  dengan  model  iklim  untuk  memahami  mekanisme  perubahan  iklim  dan  meningkatkan  akurasi  prediksi  iklim?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pengamatan  satelit"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Model  iklim"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Inti es"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Cincin pohon"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Ramalan cuaca harian"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Ilmuwan  iklim  menggunakan  berbagai  metode  dan  data  untuk  mempelajari  perubahan  iklim,  baik  masa  lalu,  saat  ini,  maupun  masa  depan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Evaluasi  secara  kritis  ketidakpastian  yang  terkait  dengan  proyeksi  perubahan  iklim  di  masa  depan,  termasuk  ketidakpastian  dalam  skenario  emisi  gas  rumah  kaca,  sensitivitas  iklim,  umpan  balik  iklim,  dan  variabilitas  iklim  alami.  Bagaimana  ketidakpastian  ini  diperhitungkan  dalam  pengembangan  strategi  adaptasi  dan  mitigasi  perubahan  iklim  yang  efektif  dan  berkelanjutan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Proyeksi  perubahan  iklim  sangat  pasti  dan  tidak  ada  ketidakpastian."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Ketidakpastian  dalam  proyeksi  perubahan  iklim  diperhitungkan  dalam  pengembangan  strategi  adaptasi  dan  mitigasi  dengan  menggunakan  pendekatan  manajemen  risiko,  mengembangkan  skenario  alternatif,  dan  menerapkan  prinsip  kehati-hatian  untuk  mengurangi  potensi  dampak  negatif."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Ketidakpastian  membuat  proyeksi  perubahan  iklim  tidak  berguna."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Variabilitas  iklim  alami  tidak  berperan  dalam  ketidakpastian  proyeksi."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Ketidakpastian  merupakan  aspek  inheren  dari  proyeksi  perubahan  iklim,  dan  perlu  diperhitungkan  secara  eksplisit  dalam  perencanaan  dan  pengambilan  keputusan  terkait  adaptasi  dan  mitigasi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Bumi kita mengalami perubahan iklim yang signifikan, ditandai dengan peningkatan suhu global, perubahan pola curah hujan, dan peningkatan frekuensi dan intensitas peristiwa cuaca ekstrem.  Perubahan iklim ini sebagian besar disebabkan oleh aktivitas manusia, terutama pembakaran bahan bakar fosil yang melepaskan gas rumah kaca ke atmosfer.  Gas rumah kaca, seperti karbon dioksida, metana, dan dinitrogen oksida, memerangkap panas di atmosfer, menyebabkan efek rumah kaca yang meningkatkan suhu bumi.  Efek rumah kaca merupakan proses alami yang penting untuk menjaga suhu bumi agar tetap hangat dan mendukung kehidupan. Namun, aktivitas manusia telah meningkatkan konsentrasi gas rumah kaca di atmosfer, memperkuat efek rumah kaca dan menyebabkan pemanasan global.  Dampak perubahan iklim sangat luas dan beragam.  Kenaikan permukaan laut mengancam daerah pesisir dan pulau-pulau kecil.  Perubahan pola curah hujan dapat menyebabkan kekeringan di beberapa daerah dan banjir di daerah lain.  Peristiwa cuaca ekstrem, seperti badai, gelombang panas, dan kebakaran hutan, menjadi lebih sering dan intens.  Perubahan iklim juga dapat mempengaruhi ekosistem, menyebabkan hilangnya keanekaragaman hayati dan mengganggu rantai makanan.  Terumbu karang, hutan hujan, dan gletser sangat rentan terhadap dampak perubahan iklim.  Untuk mengatasi perubahan iklim, diperlukan upaya global untuk mengurangi emisi gas rumah kaca.  Transisi ke sumber energi terbarukan, seperti energi surya dan angin, sangat penting untuk mengurangi ketergantungan pada bahan bakar fosil.  Peningkatan efisiensi energi dan konservasi energi juga dapat memainkan peran penting dalam mengurangi emisi.  Adaptasi terhadap dampak perubahan iklim juga penting.  Ini termasuk membangun infrastruktur yang tahan terhadap banjir dan badai, mengembangkan varietas tanaman yang tahan kekeringan, dan meningkatkan pengelolaan sumber daya air.  Perjanjian Paris, sebuah perjanjian internasional yang diadopsi pada tahun 2015, bertujuan untuk membatasi pemanasan global hingga jauh di bawah 2 derajat Celcius, jika memungkinkan 1,5 derajat Celcius, di atas tingkat pra-industri.  Negara-negara di seluruh dunia telah berkomitmen untuk mengurangi emisi gas rumah kaca dan beradaptasi dengan dampak perubahan iklim.  Perubahan iklim adalah tantangan global yang membutuhkan kerjasama internasional dan tindakan dari semua sektor masyarakat.  Individu dapat berkontribusi dengan mengurangi jejak karbon mereka melalui pilihan gaya hidup, seperti menggunakan transportasi umum, mengurangi konsumsi energi, dan mendaur ulang.  Pendidikan dan kesadaran publik sangat penting untuk meningkatkan pemahaman tentang perubahan iklim dan mendorong tindakan.  Ilmuwan iklim terus mempelajari perubahan iklim dan dampaknya.  Mereka menggunakan model komputer dan data pengamatan untuk memproyeksikan perubahan iklim di masa depan dan mengembangkan strategi adaptasi dan mitigasi.  Perubahan iklim adalah masalah mendesak yang membutuhkan tindakan segera.  Dengan bekerja sama, kita dapat mengurangi emisi gas rumah kaca, beradaptasi dengan dampak perubahan iklim, dan membangun masa depan yang lebih berkelanjutan untuk planet kita.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Analisis  mekanisme  umpan  balik  dalam  sistem  iklim  yang  dapat  memperkuat  (positive  feedback)  atau  melemahkan  (negative  feedback)  dampak  peningkatan  konsentrasi  gas  rumah  kaca  di  atmosfer.  Berikan  contoh  spesifik  untuk  masing-masing  jenis  umpan  balik,  dan  jelaskan  bagaimana  umpan  balik  ini  mempengaruhi  sensitivitas  iklim  dan  proyeksi  perubahan  iklim  di  masa  depan.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Umpan  balik  dalam  sistem  iklim  tidak  berpengaruh  pada  perubahan  iklim."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Umpan  balik  positif,  seperti  penurunan  albedo  es  akibat  pencairan  es,  memperkuat  pemanasan  global.  Umpan  balik  negatif,  seperti  peningkatan  pertumbuhan  tanaman  akibat  peningkatan  CO2,  dapat  menyerap  sebagian  CO2  di  atmosfer  dan  memperlambat  pemanasan.  Interaksi  kompleks  antara  berbagai  umpan  balik  mempengaruhi  sensitivitas  iklim  dan  menentukan  magnitudo  perubahan  iklim  di  masa  depan."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Semua  umpan  balik  dalam  sistem  iklim  adalah  negatif."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Umpan balik tidak mempengaruhi sensitivitas iklim."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Umpan  balik  memainkan  peran  penting  dalam  mengatur  sistem  iklim  dan  mempengaruhi  responnya  terhadap  perubahan  konsentrasi  gas  rumah  kaca."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Dampak  perubahan  iklim  terbatas  pada  kenaikan  permukaan  laut  saja,  dan  tidak  berpengaruh  pada  aspek  lain  seperti  pola  curah  hujan,  kejadian  cuaca  ekstrem,  keanekaragaman  hayati,  dan  kesehatan  manusia.",
+                    "correct_answer": false,
+                    "explanation": "Perubahan  iklim  memiliki  dampak  yang  luas  dan  beragam  pada  berbagai  aspek  lingkungan  dan  kehidupan  manusia,  termasuk  pola  curah  hujan,  kejadian  cuaca  ekstrem,  ekosistem,  ketahanan  pangan,  dan  kesehatan  manusia."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Evaluasi  secara  kritis  efektivitas  dan  kelayakan  berbagai  strategi  mitigasi  perubahan  iklim,  termasuk  transisi  ke  energi  terbarukan,  peningkatan  efisiensi  energi,  penghilangan  karbon  (carbon  removal),  dan  geoengineering,  dalam  mencapai  tujuan  Perjanjian  Paris  untuk  membatasi  pemanasan  global  jauh  di  bawah  2°C.  Bagaimana  strategi  ini  dapat  diimplementasikan  secara  efektif  dengan  mempertimbangkan  aspek  teknologi,  ekonomi,  politik,  dan  sosial?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mitigasi  perubahan  iklim  tidak  diperlukan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mitigasi  perubahan  iklim  menuntut  transformasi  sistem  energi  global,  peningkatan  efisiensi  energi,  pengembangan  dan  penerapan  teknologi  penghilangan  karbon,  serta  kerjasama  internasional  dan  kebijakan  yang  mendukung.  Implementasi  yang  efektif  memerlukan  pendekatan  terpadu  yang  mempertimbangkan  aspek  teknologi,  ekonomi,  politik,  dan  sosial."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Geoengineering  adalah  solusi  tunggal  untuk  perubahan  iklim."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Perjanjian Paris tidak relevan untuk mitigasi perubahan iklim."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Mitigasi  perubahan  iklim  merupakan  tantangan  global  yang  kompleks  yang  menuntut  upaya  terpadu  dari  berbagai  sektor."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Identifikasilah  dampak  perubahan  iklim  yang  signifikan  terhadap  berbagai  sektor,  termasuk  pertanian,  kesehatan,  sumber  daya  air,  ekosistem,  dan  infrastruktur.  Bagaimana  strategi  adaptasi  dapat  dikembangkan  dan  diimplementasikan  untuk  meningkatkan  ketahanan  masyarakat  dan  ekosistem  terhadap  dampak  perubahan  iklim  yang  tidak  dapat  dihindari?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Peningkatan  frekuensi  dan  intensitas  kejadian  cuaca  ekstrem  (banjir,  kekeringan,  gelombang  panas)"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perubahan  pola  curah  hujan  dan  ketersediaan  air"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Penurunan  hasil  panen  dan  gangguan  produksi  pangan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Peningkatan  risiko  penyakit  menular"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Kerusakan  infrastruktur  akibat  naiknya  permukaan  laut  dan  bencana  alam"
+                        },
+                        {
+                            "id": "f",
+                            "text": "Tidak ada dampak perubahan iklim"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d",
+                        "e"
+                    ],
+                    "explanation": "Perubahan  iklim  memiliki  dampak  yang  luas  dan  merusak  pada  berbagai  sektor.  Strategi  adaptasi  yang  efektif  sangat  penting  untuk  mengurangi  kerentanan  dan  meningkatkan  ketahanan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Analisis  secara  kritis  prinsip-prinsip  keadilan  iklim  (climate  justice)  dalam  konteks  perubahan  iklim  global.  Bagaimana  prinsip-prinsip  ini  dapat  diterapkan  untuk  memastikan  bahwa  beban  dan  manfaat  dari  tindakan  iklim  (mitigasi  dan  adaptasi)  didistribusikan  secara  adil  dan  merata  di  antara  negara-negara,  komunitas,  dan  generasi,  dengan  mempertimbangkan  aspek  historis,  ekonomi,  sosial,  dan  politik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Keadilan  iklim  tidak  relevan  dalam  perubahan  iklim."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Prinsip  keadilan  iklim  menekankan  bahwa  negara-negara  dan  komunitas  yang  paling  sedikit  berkontribusi  terhadap  perubahan  iklim  seringkali  merupakan  yang  paling  rentan  terhadap  dampaknya.  Penerapan  keadilan  iklim  memerlukan  pembagian  beban  dan  manfaat  tindakan  iklim  secara  adil  dan  merata,  dengan  mempertimbangkan  konteks  historis,  ekonomi,  sosial,  dan  politik."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Semua  negara  memiliki  tanggung  jawab  yang  sama  dalam  mengatasi  perubahan  iklim."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Generasi  mendatang  tidak  terpengaruh  oleh  perubahan  iklim."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Keadilan  iklim  merupakan  pertimbangan  etis  dan  politik  yang  penting  dalam  merancang  dan  mengimplementasikan  kebijakan  iklim  yang  efektif  dan  berkelanjutan."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Musim adalah pembagian tahun berdasarkan variasi cuaca, ekologi, dan jumlah siang hari di suatu wilayah tertentu.  Di Bumi, musim disebabkan oleh kemiringan sumbu planet kita relatif terhadap bidang orbitnya mengelilingi Matahari.  Kemiringan ini menyebabkan berbagai belahan bumi menerima jumlah sinar matahari yang bervariasi sepanjang tahun, menghasilkan perubahan suhu dan pola cuaca.  Di daerah beriklim sedang dan kutub, empat musim umumnya diakui: musim semi, musim panas, musim gugur (atau musim gugur), dan musim dingin.  Musim semi adalah masa transisi antara musim dingin dan musim panas, ditandai dengan suhu yang memanas, mencairnya salju, dan munculnya kehidupan tanaman baru.  Musim panas adalah musim terhangat dalam setahun, dengan hari-hari terpanjang dan seringkali disertai dengan cuaca kering dan panas.  Musim gugur adalah masa transisi antara musim panas dan musim dingin, ditandai dengan suhu yang mendingin, daun yang berguguran dari pohon, dan persiapan hewan untuk musim dingin.  Musim dingin adalah musim terdingin dalam setahun, dengan hari-hari terpendek dan seringkali disertai dengan salju dan es.  Di daerah tropis, variasi musiman cenderung kurang berbeda daripada di daerah beriklim sedang.  Musim di daerah tropis seringkali ditandai oleh perubahan curah hujan daripada suhu.  Musim hujan dan musim kemarau adalah pola musiman yang umum di daerah tropis.  Musim hujan biasanya merupakan periode curah hujan lebat, sedangkan musim kemarau adalah periode dengan sedikit atau tanpa curah hujan.  Pola iklim global dan perubahan iklim dapat mempengaruhi musim di berbagai wilayah.  Perubahan iklim dapat menyebabkan perubahan waktu musim, intensitas pola cuaca musiman, dan distribusi curah hujan.  Misalnya, musim semi dapat tiba lebih awal, musim panas dapat menjadi lebih panas dan kering, dan musim dingin dapat menjadi lebih pendek dan ringan di beberapa daerah.  Musim memainkan peran penting dalam siklus hidup banyak tumbuhan dan hewan.  Tumbuhan seringkali berbunga dan menghasilkan buah pada musim tertentu, dan hewan mungkin bermigrasi atau hibernasi tergantung pada musim.  Musim juga mempengaruhi aktivitas manusia, seperti pertanian, pariwisata, dan rekreasi.  Petani merencanakan kegiatan tanam dan panen mereka berdasarkan musim, dan tujuan wisata mungkin lebih populer selama musim tertentu.  Musim juga memengaruhi pilihan gaya hidup kita, seperti pakaian yang kita kenakan dan aktivitas yang kita ikuti.  Festival dan perayaan musiman adalah bagian penting dari banyak budaya di seluruh dunia.  Perubahan musim seringkali dirayakan dengan festival dan acara khusus yang mencerminkan perubahan alam dan tradisi budaya.  Memahami musim sangat penting untuk berbagai kegiatan manusia, termasuk pertanian, pengelolaan sumber daya air, dan perencanaan bencana.  Dengan memahami pola musiman, kita dapat mengelola sumber daya secara lebih efektif, bersiap menghadapi peristiwa cuaca ekstrem, dan beradaptasi dengan perubahan iklim.  Musim adalah aspek mendasar dari sistem iklim Bumi dan memainkan peran penting dalam membentuk dunia di sekitar kita.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan  secara  detail  bagaimana  kemiringan  sumbu  bumi  dan  orbitnya  mengelilingi  matahari  menghasilkan  variasi  musiman  dalam  intensitas  dan  durasi  radiasi  matahari  yang  diterima  oleh  berbagai  wilayah  di  bumi.  Bagaimana  variasi  ini  berhubungan  dengan  perubahan  suhu  dan  pola  curah  hujan  yang  mendefinisikan  karakteristik  masing-masing  musim?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Musim  disebabkan  oleh  jarak  bumi  dari  matahari."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kemiringan  sumbu  bumi  menyebabkan  variasi  sudut  datang  sinar  matahari  sepanjang  tahun  saat  bumi  mengelilingi  matahari.  Variasi  ini  mempengaruhi  intensitas  dan  durasi  radiasi  matahari  yang  diterima  oleh  setiap  belahan  bumi,  menghasilkan  perbedaan  suhu  dan  pola  sirkulasi  atmosfer  yang  menentukan  karakteristik  musim  panas,  gugur,  dingin,  dan  semi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Musim  tidak  berhubungan  dengan  radiasi  matahari."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Curah  hujan  tidak  terpengaruh  oleh  musim."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Variasi  musiman  adalah  konsekuensi  langsung  dari  kemiringan  sumbu  bumi  dan  pergerakannya  mengelilingi  matahari."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Karena  pola  musiman  di  daerah  tropis  ditentukan  oleh  variasi  curah  hujan  dan  bukan  variasi  suhu,  perubahan  iklim  tidak  akan  berdampak  signifikan  terhadap  musim  di  daerah  tropis.",
+                    "correct_answer": false,
+                    "explanation": "Meskipun  variasi  suhu  kurang  berperan  dalam  menentukan  musim  di  daerah  tropis,  perubahan  iklim  tetap  dapat  berdampak  signifikan  dengan  mengubah  pola  curah  hujan,  intensitas  musim  hujan  dan  kemarau,  serta  meningkatkan  frekuensi  kejadian  cuaca  ekstrem."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana  perubahan  iklim,  khususnya  pemanasan  global  dan  perubahan  pola  curah  hujan,  berdampak  pada  fenologi  tumbuhan  (waktu  berbunga,  berbuah,  gugur  daun)  dan  migrasi  hewan?  Apa  konsekuensi  ekologis  dari  pergeseran  fenologi  ini  terhadap  interaksi  spesies  (misalnya  predator-mangsa,  penyerbuk-tanaman),  struktur  komunitas,  dan  fungsi  ekosistem?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Perubahan  iklim  tidak  berpengaruh  pada  fenologi  dan  migrasi."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perubahan  iklim  dapat  menyebabkan  pergeseran  fenologi  tumbuhan  dan  migrasi  hewan,  yang  dapat  mengakibatkan  ketidakcocokan  waktu  antara  spesies  yang  berinteraksi,  mempengaruhi  keberhasilan  reproduksi,  dinamika  populasi,  dan  pada  akhirnya  mengganggu  struktur  komunitas  dan  fungsi  ekosistem."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Semua  spesies  dapat  beradaptasi  dengan  mudah  terhadap  perubahan  iklim."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Interaksi  spesies  tidak  terpengaruh  oleh  perubahan  fenologi."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Pergeseran  fenologi  yang  disebabkan  oleh  perubahan  iklim  dapat  memiliki  konsekuensi  ekologis  yang  signifikan."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Bagaimana  masyarakat  manusia  di  berbagai  belahan  dunia  secara  historis  telah  beradaptasi  dengan  pola  musiman  lokal  dalam  aktivitas  pertanian,  pengelolaan  sumber  daya  air,  dan  praktik  budaya?  Bagaimana  perubahan  iklim  yang  mempengaruhi  pola  musiman  menciptakan  tantangan  baru  bagi  ketahanan  pangan,  ketersediaan  air,  dan  pelestarian  tradisi  budaya,  serta  bagaimana  strategi  adaptasi  sosial  dan  teknologi  dapat  dikembangkan  untuk  mengatasi  tantangan  tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Perubahan  pola  tanam  dan  panen"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pengembangan  sistem  irigasi  yang  adaptif"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Diversifikasi  tanaman  dan  praktik  pertanian  berkelanjutan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pengelolaan  sumber  daya  air  terpadu"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Pelestarian  pengetahuan  tradisional  tentang  iklim  dan  musim"
+                        },
+                        {
+                            "id": "f",
+                            "text": "Musim tidak berpengaruh pada aktivitas manusia."
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d",
+                        "e"
+                    ],
+                    "explanation": "Adaptasi  terhadap  perubahan  pola  musiman  yang  disebabkan  oleh  perubahan  iklim  memerlukan  strategi  sosial  dan  teknologi  yang  terpadu."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Evaluasi  secara  kritis  bagaimana  pemahaman  yang  mendalam  tentang  pola  musiman  dan  dampak  perubahan  iklim  terhadap  musim  dapat  diintegrasikan  ke  dalam  perencanaan  pembangunan  berkelanjutan  di  berbagai  sektor,  termasuk  pertanian,  pengelolaan  sumber  daya  air,  pariwisata,  dan  kesehatan  publik.  Bagaimana  informasi  iklim  musiman  dapat  digunakan  untuk  meningkatkan  pengambilan  keputusan,  mengelola  risiko  iklim,  dan  meningkatkan  ketahanan  masyarakat  terhadap  dampak  perubahan  iklim?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Informasi  iklim  musiman  tidak  relevan  untuk  perencanaan  pembangunan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pemahaman  tentang  pola  musiman  dan  dampak  perubahan  iklim  memungkinkan  perencanaan  yang  lebih  baik  dalam  berbagai  sektor,  termasuk  penyesuaian  jadwal  tanam,  pengelolaan  cadangan  air,  pengembangan  strategi  pariwisata  berkelanjutan,  dan  kesiapsiagaan  menghadapi  bencana  alam  dan  wabah  penyakit."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Perubahan  iklim  tidak  memengaruhi  sektor  pariwisata."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kesehatan  publik  tidak  terkait  dengan  perubahan  pola  musiman."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Informasi  iklim  musiman  yang  akurat  dan  terpercaya  sangat  penting  untuk  mendukung  pengambilan  keputusan  yang  berkelanjutan  dan  meningkatkan  ketahanan  masyarakat  terhadap  perubahan  iklim."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Tata Surya kita terdiri dari Matahari, delapan planet yang mengorbitnya, serta berbagai benda langit lainnya seperti planet kerdil, asteroid, komet, dan meteoroid. Matahari, sebuah bintang deret utama tipe-G, merupakan pusat Tata Surya dan menyumbang sekitar 99,86% dari total massa Tata Surya. Gravitasi Matahari yang kuat mengikat semua objek lain dalam Tata Surya dan membuatnya tetap pada orbitnya. Empat planet terdekat dengan Matahari, yaitu Merkurius, Venus, Bumi, dan Mars, dikenal sebagai planet kebumian karena permukaannya yang padat dan berbatu. Empat planet terluar, yaitu Jupiter, Saturnus, Uranus, dan Neptunus, dikenal sebagai raksasa gas karena ukurannya yang besar dan komposisi utamanya berupa gas seperti hidrogen dan helium.  Jupiter adalah planet terbesar di Tata Surya, sedangkan Saturnus terkenal dengan cincinnya yang terbuat dari es dan batu.  Di antara Mars dan Jupiter terdapat sabuk asteroid, wilayah yang dihuni oleh jutaan objek berbatu kecil yang disebut asteroid.  Komet adalah benda langit yang terbuat dari es, debu, dan gas, yang mengorbit Matahari dalam lintasan yang sangat elips. Saat komet mendekati Matahari, esnya menyublim, membentuk ekor panjang yang terlihat dari Bumi.  Meteoroid adalah fragmen kecil batu atau logam yang mengorbit Matahari. Ketika meteoroid memasuki atmosfer Bumi dan terbakar, mereka disebut meteor atau bintang jatuh. Jika meteoroid berhasil mencapai permukaan Bumi, mereka disebut meteorit.  Bulan adalah satelit alami Bumi dan merupakan benda langit terdekat dengan kita. Bulan tidak memiliki atmosfer dan permukaannya dipenuhi kawah akibat tumbukan meteoroid.  Tata Surya kita hanyalah salah satu dari miliaran sistem bintang di galaksi Bima Sakti. Galaksi Bima Sakti adalah galaksi spiral berbatang yang berdiameter sekitar 100.000 tahun cahaya dan berisi ratusan miliar bintang.  Alam Semesta sangat luas dan berisi miliaran galaksi, masing-masing berisi miliaran bintang.  Studi tentang astronomi memungkinkan kita untuk memahami tempat kita di Alam Semesta dan mengungkap misteri kosmos.  Para astronom menggunakan teleskop dan instrumen lainnya untuk mengamati benda langit dan mempelajari sifat-sifatnya, seperti komposisi, suhu, dan gerakan.  Penemuan exoplanet, planet yang mengorbit bintang selain Matahari, telah meningkatkan kemungkinan adanya kehidupan di luar Bumi.  Misi luar angkasa, seperti teleskop Hubble dan wahana antariksa Voyager, telah memberikan wawasan yang tak ternilai tentang Tata Surya dan Alam Semesta kita.  Astronomi adalah bidang studi yang terus berkembang, dan penemuan-penemuan baru terus memperluas pemahaman kita tentang kosmos.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan  proses  pembentukan  tata  surya  menurut  hipotesis  nebula  surya.  Bagaimana  proses  akresi,  diferensiasi  planet,  dan  migrasi  planet  berperan  dalam  menghasilkan  struktur  tata  surya  yang  kita  amati  saat  ini,  termasuk  distribusi  planet  kebumian  dan  raksasa  gas,  sabuk  asteroid,  dan  sabuk  Kuiper?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Tata  surya  terbentuk  secara  acak."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Hipotesis nebula surya menjelaskan pembentukan tata surya dari awan gas dan debu yang runtuh di bawah gravitasinya sendiri. Proses akresi membentuk planetesimal, yang kemudian bergabung membentuk planet. Diferensiasi planet memisahkan inti, mantel, dan kerak. Migrasi planet menjelaskan distribusi planet saat ini.  Faktor-faktor ini menghasilkan struktur tata surya yang kompleks yang kita amati."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Planet  kebumian  terbentuk  di  bagian  luar  tata  surya."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sabuk  asteroid  terletak  di  luar  orbit  Neptunus."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Pembentukan  tata  surya  adalah  proses  yang  kompleks  dan  melibatkan  berbagai  mekanisme  fisika."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Semua  planet  di  tata  surya  memiliki  komposisi  atmosfer  yang  sama,  sehingga  memungkinkan  adanya  kehidupan  seperti  di  bumi.",
+                    "correct_answer": false,
+                    "explanation": "Komposisi  atmosfer  planet  di  tata  surya  sangat  bervariasi.  Hanya  Bumi  yang  memiliki  atmosfer  dengan  komposisi  yang  mendukung  kehidupan  seperti  yang  kita  kenal."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana  metode  spektroskopi  digunakan  oleh  para  astronom  untuk  menentukan  komposisi  kimia,  suhu,  dan  kecepatan  radial  bintang  dan  objek  langit  lainnya?  Jelaskan  prinsip  dasar  spektroskopi  dan  bagaimana  informasi  dari  spektrum  elektromagnetik  dapat  digunakan  untuk  mengidentifikasi  unsur-unsur  kimia  dan  mempelajari  sifat  fisika  objek  langit  yang  jauh.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Spektroskopi  tidak  memberikan  informasi  tentang  objek  langit."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Spektroskopi  melibatkan  analisis  cahaya  yang  dipancarkan  atau  diserap  oleh  objek  langit.  Setiap  unsur  kimia  memiliki  sidik  jari  spektral  yang  unik.  Dengan  mempelajari  pola  garis  spektral,  para  astronom  dapat  mengidentifikasi  unsur-unsur  yang  ada  dalam  objek,  menentukan  suhunya,  dan  mengukur  kecepatan  radialnya  melalui  pergeseran  Doppler."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Spektrum  elektromagnetik  tidak  berhubungan  dengan  komposisi  kimia."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pergeseran  Doppler  tidak  dapat  digunakan  untuk  mengukur  kecepatan  radial."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Spektroskopi  adalah  alat  penting  dalam  astronomi  untuk  mempelajari  sifat  fisika  dan  kimia  objek  langit."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Bagaimana  perbedaan  karakteristik  fisik  dan  orbital  antara  planet  kebumian  (Merkurius,  Venus,  Bumi,  Mars)  dan  raksasa  gas  (Jupiter,  Saturnus,  Uranus,  Neptunus)  dapat  dijelaskan  melalui  proses  pembentukan  tata  surya  dan  kondisi  di  nebula  surya  awal?  Bagaimana  faktor-faktor  seperti  suhu,  gravitasi,  dan  ketersediaan  bahan  volatil  mempengaruhi  evolusi  dan  komposisi  planet-planet  tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Planet  kebumian  lebih  kecil  dan  lebih  padat  dibandingkan  raksasa  gas."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Planet  kebumian  memiliki  permukaan  berbatu,  sedangkan  raksasa  gas  terutama  terdiri  dari  gas  dan  es."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Planet  kebumian  terbentuk  di  zona  yang  lebih  panas  dan  dekat  dengan  matahari,  di  mana  bahan  volatil  menguap,  sedangkan  raksasa  gas  terbentuk  di  zona  yang  lebih  dingin  dan  jauh  dari  matahari."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Semua planet memiliki cincin."
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Perbedaan  karakteristik  antara  planet  kebumian  dan  raksasa  gas  merupakan  hasil  dari  kondisi  di  nebula  surya  awal  dan  proses  pembentukan  planet."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana  metode  transit  planet  dan  metode  kecepatan  radial  digunakan  untuk  mendeteksi  dan  mempelajari  exoplanet  yang  mengorbit  bintang  lain?  Jelaskan  prinsip  fisika  di  balik  masing-masing  metode,  serta  jenis  informasi  yang  dapat  diperoleh  tentang  exoplanet,  seperti  ukuran,  massa,  periode  orbit,  dan  kemungkinan  adanya  atmosfer.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Metode  transit  mendeteksi  exoplanet  melalui  penurunan  cahaya  bintang  saat  planet  melintas  di  depannya."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Metode  kecepatan  radial  mendeteksi  exoplanet  melalui  goyangan  gravitasi  bintang  yang  disebabkan  oleh  orbit  planet."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kedua metode tersebut dapat memberikan informasi tentang ukuran, massa, periode orbit, dan kemungkinan adanya atmosfer exoplanet."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Semua jawaban di atas benar."
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Metode  transit  dan  kecepatan  radial  adalah  teknik  penting  dalam  pencarian  dan  karakterisasi  exoplanet."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Bintang adalah bola gas raksasa yang menghasilkan energi melalui fusi nuklir di intinya. Fusi nuklir adalah proses di mana atom-atom ringan, seperti hidrogen, bergabung membentuk atom yang lebih berat, seperti helium, melepaskan energi dalam jumlah besar. Energi ini dipancarkan ke luar angkasa dalam bentuk cahaya dan panas, membuat bintang bersinar terang. Matahari adalah bintang terdekat dengan Bumi dan merupakan sumber energi utama bagi planet kita. Bintang-bintang memiliki berbagai ukuran, massa, suhu, dan warna.  Ukuran bintang dapat berkisar dari katai merah kecil, yang hanya sebagian kecil dari ukuran Matahari, hingga supergian raksasa, yang ratusan kali lebih besar dari Matahari.  Massa bintang menentukan luminositasnya, yaitu jumlah energi yang dipancarkannya per detik.  Suhu permukaan bintang menentukan warnanya. Bintang yang lebih panas berwarna biru, sedangkan bintang yang lebih dingin berwarna merah.  Siklus hidup bintang bergantung pada massanya. Bintang bermassa rendah, seperti Matahari, akan menjalani tahap deret utama selama miliaran tahun, membakar hidrogen di intinya.  Setelah hidrogen di inti habis, bintang akan mengembang menjadi raksasa merah, kemudian menyusut menjadi katai putih, dan akhirnya mendingin menjadi katai hitam.  Bintang bermassa tinggi akan menjalani tahap deret utama yang lebih pendek, membakar hidrogen dengan cepat. Setelah hidrogen di inti habis, bintang akan mengembang menjadi supergian merah, kemudian meledak sebagai supernova, meninggalkan bintang neutron atau lubang hitam.  Konstelasi adalah pola bintang yang tampak di langit malam.  Konstelasi telah digunakan oleh berbagai budaya selama berabad-abad untuk navigasi dan penceritaan.  Galaksi adalah kumpulan besar bintang, gas, debu, dan materi gelap yang terikat bersama oleh gravitasi.  Galaksi Bima Sakti, galaksi tempat Tata Surya kita berada, adalah galaksi spiral berbatang yang berisi ratusan miliar bintang.  Alam Semesta sangat luas dan berisi miliaran galaksi.  Studi tentang astronomi terus mengungkap misteri baru tentang Alam Semesta dan tempat kita di dalamnya.  Teleskop adalah instrumen penting bagi para astronom untuk mengamati benda langit.  Teleskop berbasis darat dan teleskop luar angkasa, seperti Teleskop Luar Angkasa Hubble, telah memberikan wawasan yang luar biasa tentang Alam Semesta.  Misi luar angkasa, seperti wahana antariksa Voyager dan misi ke Mars, telah memperluas pemahaman kita tentang Tata Surya.  Astronomi adalah ilmu yang terus berkembang, dengan penemuan baru yang terus-menerus menantang dan memperluas pemahaman kita tentang kosmos.  Penemuan exoplanet, planet yang mengorbit bintang lain, telah meningkatkan kemungkinan menemukan kehidupan di luar Bumi.  Pencarian kehidupan di luar Bumi adalah salah satu pertanyaan paling mendasar dalam sains.  Astronomi dan astrofisika memainkan peran penting dalam memahami asal-usul, evolusi, dan nasib Alam Semesta.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan  proses  nukleosintesis  bintang  secara  detail,  termasuk  reaksi  fusi  nuklir  yang  terjadi  pada  berbagai  tahap  evolusi  bintang,  mulai  dari  pembakaran  hidrogen  hingga  pembentukan  unsur-unsur  berat  selama  supernova.  Bagaimana  proses  ini  berkontribusi  pada  kelimpahan  unsur-unsur  kimia  di  alam  semesta?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Bintang  hanya  menghasilkan  energi  dari  pembakaran  hidrogen."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Nukleosintesis bintang melibatkan serangkaian reaksi fusi nuklir yang terjadi di inti bintang sepanjang evolusinya.  Mulai dari pembakaran hidrogen menjadi helium, bintang bermassa tinggi dapat membentuk unsur-unsur yang lebih berat melalui proses fusi hingga besi.  Unsur-unsur yang lebih berat daripada besi terbentuk selama ledakan supernova.  Proses ini menentukan kelimpahan unsur-unsur di alam semesta."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Supernova  tidak  menghasilkan  unsur-unsur  berat."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kelimpahan  unsur  di  alam  semesta  tidak  berhubungan  dengan  nukleosintesis  bintang."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Nukleosintesis  bintang  adalah  sumber  utama  unsur-unsur  kimia  di  alam  semesta."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Semua bintang memiliki siklus hidup yang sama, terlepas dari massanya.",
+                    "correct_answer": false,
+                    "explanation": "Siklus hidup bintang sangat bergantung pada massanya. Bintang bermassa rendah memiliki siklus hidup yang lebih panjang dan berakhir sebagai katai putih, sedangkan bintang bermassa tinggi memiliki siklus hidup yang lebih pendek dan berakhir sebagai bintang neutron atau lubang hitam setelah supernova."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana diagram Hertzsprung-Russell (diagram H-R) digunakan untuk mengklasifikasikan bintang berdasarkan luminositas, suhu permukaan, dan tahap evolusinya?  Jelaskan  bagaimana  posisi  bintang  pada  diagram  H-R  berubah  seiring  waktu  sesuai  dengan  perubahan  sifat  fisiknya  selama  evolusinya,  mulai  dari  deret  utama  hingga  tahap  akhir  kehidupannya.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Diagram  H-R  tidak  berhubungan  dengan  evolusi  bintang."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Diagram H-R menggambarkan hubungan antara luminositas dan suhu permukaan bintang. Posisi bintang pada diagram H-R berubah seiring waktu sesuai dengan tahap evolusinya. Bintang deret utama berada pada pita diagonal, raksasa merah di kanan atas, dan katai putih di kiri bawah."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Luminositas  bintang  tidak  berhubungan  dengan  suhunya."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Tahap  evolusi  bintang  tidak  tercermin  pada  diagram  H-R."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Diagram  H-R  adalah  alat  penting  untuk  memahami  evolusi  bintang."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Bagaimana  struktur  dan  evolusi  galaksi,  termasuk  galaksi  Bima  Sakti,  dipengaruhi  oleh  materi  gelap  dan  energi  gelap?  Jelaskan  bukti  pengamatan  yang  mendukung  keberadaan  materi  gelap  dan  energi  gelap,  serta  bagaimana  kedua  komponen  misterius  ini  mempengaruhi  rotasi  galaksi,  pembentukan  struktur  skala  besar  di  alam  semesta,  dan  laju  ekspansi  alam  semesta.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kurva rotasi galaksi yang tidak sesuai dengan prediksi berdasarkan materi terlihat."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Lensa gravitasi oleh gugus galaksi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Distribusi  latar  belakang  gelombang  mikro  kosmik."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Percepatan  ekspansi  alam  semesta."
+                        },
+                        {
+                            "id": "e",
+                            "text": "Materi gelap dan energi gelap tidak berpengaruh pada alam semesta."
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Materi  gelap  dan  energi  gelap  memainkan  peran  dominan  dalam  evolusi  alam  semesta,  meskipun  sifat  aslinya  masih  belum  diketahui  secara  pasti."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana  para  astronom  mencari  bukti  adanya  kehidupan  di  luar  bumi  (SETI)?  Jelaskan  berbagai  metode  yang  digunakan,  termasuk  pencarian  sinyal  radio  ekstraterestrial,  analisis  atmosfer  exoplanet  untuk  mencari  biosignature,  dan  misi  luar  angkasa  untuk  menjelajahi  planet  dan  bulan  di  tata  surya  kita.  Apa  tantangan  utama  dalam  pencarian  kehidupan  di  luar  bumi,  dan  apa  implikasi  filosofis  dan  ilmiah  jika  kehidupan  ekstraterestrial  ditemukan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "SETI  hanya  mencari  sinyal  radio."
+                        },
+                        {
+                            "id": "b",
+                            "text": "SETI  menggunakan  berbagai  metode,  termasuk  pencarian  sinyal  radio,  analisis  atmosfer  exoplanet,  dan  misi  luar  angkasa  untuk  mencari  bukti  kehidupan  di  luar  bumi.  Tantangan  utama  meliputi  jarak  yang  sangat  jauh,  keterbatasan  teknologi,  dan  definisi  kehidupan  itu  sendiri.  Penemuan  kehidupan  ekstraterestrial  akan  memiliki  implikasi  yang  mendalam  bagi  sains  dan  filsafat."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Biosignature  tidak  dapat  digunakan  untuk  mendeteksi  kehidupan."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Misi  luar  angkasa  tidak  berkontribusi  pada  pencarian  kehidupan  di  luar  bumi."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Pencarian  kehidupan  di  luar  bumi  adalah  salah  satu  pertanyaan  ilmiah  yang  paling  mendasar  dan  menantang."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Alam semesta adalah ruang waktu yang maha luas dan tak terbatas, yang berisi segala materi dan energi, termasuk planet, bintang, galaksi, dan semua bentuk radiasi dan materi gelap. Usia alam semesta diperkirakan sekitar 13,8 miliar tahun, berdasarkan pengukuran latar belakang gelombang mikro kosmik.  Teori Big Bang adalah model kosmologis yang paling diterima secara luas tentang asal usul dan evolusi alam semesta. Menurut teori ini, alam semesta berawal dari keadaan yang sangat panas dan padat, dan kemudian mengembang dan mendingin seiring waktu.  Setelah Big Bang, alam semesta mengalami periode inflasi yang cepat, di mana ia mengembang dengan kecepatan yang luar biasa.  Selama periode ini, alam semesta juga mendingin dan mulai membentuk partikel-partikel elementer, seperti proton, neutron, dan elektron.  Seiring waktu, partikel-partikel ini bergabung membentuk atom, yang kemudian bergabung membentuk molekul.  Gravitasi memainkan peran penting dalam pembentukan struktur di alam semesta.  Awan gas dan debu runtuh di bawah pengaruh gravitasi mereka sendiri, membentuk bintang dan planet.  Bintang-bintang terbentuk di dalam awan gas dan debu yang disebut nebula.  Ketika awan ini runtuh, mereka memanas dan mulai berputar.  Akhirnya, inti awan menjadi cukup panas dan padat untuk memulai fusi nuklir, proses di mana atom hidrogen bergabung membentuk helium, melepaskan energi dalam jumlah besar.  Planet terbentuk dari sisa-sisa materi yang mengorbit bintang yang baru terbentuk.  Materi ini menggumpal dan membentuk planetesimal, yang kemudian bertabrakan dan bergabung membentuk planet.  Tata Surya kita, yang terdiri dari Matahari, delapan planet, dan berbagai benda langit lainnya, terbentuk sekitar 4,6 miliar tahun yang lalu.  Galaksi adalah kumpulan besar bintang, gas, debu, dan materi gelap yang terikat bersama oleh gravitasi.  Galaksi Bima Sakti, galaksi tempat Tata Surya kita berada, adalah galaksi spiral berbatang yang berisi ratusan miliar bintang.  Alam semesta berisi miliaran galaksi, yang tersebar di seluruh ruang.  Lubang hitam adalah wilayah ruang waktu dengan gravitasi yang sangat kuat sehingga tidak ada apa pun, bahkan cahaya, yang dapat lolos darinya.  Lubang hitam terbentuk ketika bintang masif runtuh di akhir hidupnya.  Materi gelap adalah jenis materi yang tidak berinteraksi dengan cahaya, sehingga tidak dapat diamati secara langsung.  Namun, keberadaan materi gelap dapat disimpulkan dari efek gravitasinya pada materi yang terlihat.  Energi gelap adalah bentuk energi misterius yang diperkirakan menyebabkan percepatan ekspansi alam semesta.  Studi tentang astronomi dan kosmologi terus mengungkap misteri baru tentang alam semesta dan tempat kita di dalamnya.  Para astronom menggunakan berbagai instrumen, termasuk teleskop berbasis darat dan luar angkasa, untuk mengamati dan mempelajari alam semesta.  Misi luar angkasa, seperti wahana antariksa Voyager dan Teleskop Luar Angkasa James Webb, telah memberikan wawasan yang tak ternilai tentang alam semesta.  Pemahaman kita tentang alam semesta terus berkembang seiring dengan kemajuan teknologi dan penemuan baru.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jelaskan teori Big Bang dan bukti-bukti pengamatan yang mendukungnya, termasuk radiasi latar belakang gelombang mikro kosmik, kelimpahan unsur-unsur ringan, dan pergeseran merah galaksi. Bagaimana teori inflasi kosmik memecahkan masalah horizon dan kerataan dalam model Big Bang standar, dan apa implikasi teori Big Bang terhadap pemahaman kita tentang asal-usul, evolusi, dan nasib alam semesta?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Teori Big Bang menyatakan bahwa alam semesta berasal dari singularitas yang sangat panas dan padat, kemudian mengembang dan mendingin seiring waktu. Bukti-bukti pengamatan, seperti radiasi latar belakang gelombang mikro kosmik, kelimpahan unsur-unsur ringan, dan pergeseran merah galaksi, mendukung teori ini. Inflasi kosmik menjelaskan homogenitas dan isotropi alam semesta. Teori ini memberikan kerangka kerja untuk memahami evolusi alam semesta dari masa lalu hingga masa depan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Alam semesta statis dan tidak berubah."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Radiasi latar belakang gelombang mikro kosmik tidak berhubungan dengan Big Bang."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pergeseran merah galaksi tidak menunjukkan ekspansi alam semesta."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Teori Big Bang adalah model kosmologis yang paling komprehensif dan didukung oleh banyak bukti observasi."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Gravitasi adalah satu-satunya gaya fundamental yang berperan dalam pembentukan struktur skala besar di alam semesta, seperti galaksi, gugus galaksi, dan filamen kosmik.",
+                    "correct_answer": false,
+                    "explanation": "Meskipun gravitasi adalah gaya dominan dalam pembentukan struktur skala besar, gaya-gaya lain, seperti elektromagnetisme dan tekanan radiasi, juga berperan dalam proses astrofisika, terutama pada skala yang lebih kecil."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana proses pembentukan bintang dan evolusi bintang dipengaruhi oleh massa awal bintang, komposisi kimia awan molekul tempat bintang terbentuk, dan interaksi bintang dengan lingkungan sekitarnya (misalnya angin bintang, ledakan supernova)? Jelaskan tahapan evolusi bintang untuk bintang bermassa rendah dan bintang bermassa tinggi, dan bagaimana perbedaan massa awal menentukan nasib akhir bintang (katai putih, bintang neutron, lubang hitam).",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Semua bintang berevolusi dengan cara yang sama."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Massa awal bintang merupakan faktor utama yang menentukan evolusinya. Bintang bermassa rendah akan menjadi raksasa merah dan berakhir sebagai katai putih. Bintang bermassa tinggi akan menjadi supergianta merah dan meledak sebagai supernova, meninggalkan bintang neutron atau lubang hitam. Komposisi kimia awan molekul dan interaksi dengan lingkungan sekitar juga memainkan peran penting."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Massa bintang tidak berpengaruh pada evolusinya."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Supernova hanya terjadi pada bintang bermassa rendah."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Evolusi bintang adalah proses yang kompleks dan bergantung pada berbagai faktor, terutama massa awal bintang."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja metode yang digunakan oleh para astronom untuk mengukur jarak ke objek langit yang jauh, seperti bintang, galaksi, dan quasar? Jelaskan prinsip-prinsip di balik metode paralaks trigonometri, lilin standar (Cepheid, supernova Tipe Ia), dan pergeseran merah kosmologis, serta bagaimana metode-metode ini dikombinasikan untuk membangun tangga jarak kosmik yang memungkinkan kita mengukur jarak ke objek di seluruh alam semesta?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Paralaks trigonometri"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Lilin standar (Cepheid, supernova Tipe Ia)"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pergeseran merah kosmologis"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pengukuran diameter sudut"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Semua metode di atas tidak akurat."
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Pengukuran jarak di alam semesta merupakan tantangan yang signifikan. Para astronom menggunakan berbagai metode yang saling melengkapi untuk membangun tangga jarak kosmik."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana sifat dan distribusi materi gelap dan energi gelap di alam semesta disimpulkan dari pengamatan astronomi, seperti kurva rotasi galaksi, lensa gravitasi, dan data latar belakang gelombang mikro kosmik? Jelaskan model kosmologis standar (ΛCDM) dan bagaimana model ini menjelaskan komposisi dan evolusi alam semesta, termasuk peran materi gelap, energi gelap, dan materi baryonik. Apa saja pertanyaan terbuka dan tantangan utama dalam kosmologi modern terkait dengan pemahaman kita tentang materi gelap, energi gelap, dan nasib akhir alam semesta?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Materi gelap dan energi gelap tidak ada."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Keberadaan materi gelap dan energi gelap disimpulkan dari efek gravitasinya. Materi gelap menjelaskan kurva rotasi galaksi dan lensa gravitasi, sedangkan energi gelap menyebabkan percepatan ekspansi alam semesta. Model ΛCDM menggambarkan alam semesta yang didominasi oleh materi gelap dan energi gelap, dengan materi baryonik hanya sebagian kecil.  Pertanyaan terbuka meliputi sifat asli materi gelap dan energi gelap, serta nasib akhir alam semesta."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Model  ΛCDM  tidak  melibatkan  materi  gelap  dan  energi  gelap."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Ekspansi alam semesta melambat."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Materi gelap dan energi gelap adalah dua komponen misterius yang mendominasi alam semesta dan menjadi fokus penelitian intensif dalam kosmologi modern."
+                }
+            ]
+        }
+    }
+]

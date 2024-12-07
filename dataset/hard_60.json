@@ -1,0 +1,1179 @@
+[
+    {
+        "context": "Ransomware adalah jenis malware yang mengenkripsi file korban dan meminta uang tebusan untuk dekripsi. Serangan ransomware dapat melumpuhkan bisnis dan individu, menyebabkan kerugian finansial dan gangguan operasional yang signifikan. Serangan ransomware seringkali dilakukan melalui email phishing atau dengan mengeksploitasi kerentanan perangkat lunak. Untuk melindungi dari ransomware, penting untuk mencadangkan data secara teratur, menjaga perangkat lunak tetap terbaru, dan mendidik pengguna tentang risiko mengklik tautan atau lampiran yang mencurigakan.  Serangan ransomware telah meningkat dalam beberapa tahun terakhir, menargetkan berbagai organisasi, termasuk rumah sakit, pemerintah, dan bisnis.  Deepfake adalah video, audio, atau gambar palsu yang dibuat menggunakan kecerdasan buatan (AI). Deepfake dapat digunakan untuk membuat konten yang tampak realistis tetapi sebenarnya palsu, yang dapat digunakan untuk berbagai tujuan berbahaya, seperti menyebarkan disinformasi, merusak reputasi, atau bahkan memeras. Mendeteksi deepfake semakin sulit karena teknologi AI terus berkembang, tetapi ada beberapa tanda yang dapat dicari, seperti gerakan mata yang tidak wajar, kedipan yang tidak konsisten, atau artefak digital. Deepfake menimbulkan ancaman serius bagi individu dan masyarakat, dan penting untuk waspada terhadap potensi penyalahgunaan teknologi ini.  Serangan brute-force adalah metode coba-coba untuk menebak kata sandi atau kunci enkripsi dengan mencoba semua kombinasi karakter yang memungkinkan. Serangan brute-force dapat diotomatisasi menggunakan alat khusus dan dapat sangat efektif, terutama terhadap kata sandi yang lemah atau pendek. Untuk melindungi dari serangan brute-force, penting untuk menggunakan kata sandi yang kuat dan panjang, menerapkan kebijakan penguncian akun, dan menggunakan otentikasi multi-faktor. Serangan brute-force dapat memakan waktu, tetapi dengan daya komputasi yang cukup, mereka dapat berhasil menebak kata sandi atau kunci enkripsi.  Rekayasa sosial adalah teknik manipulasi yang digunakan oleh penyerang untuk mengelabui individu agar mengungkapkan informasi sensitif atau melakukan tindakan yang tidak aman. Penyerang rekayasa sosial seringkali menyamar sebagai orang tepercaya, seperti rekan kerja atau pejabat pemerintah, untuk mendapatkan kepercayaan korban. Mereka dapat menggunakan berbagai taktik, seperti umpan emosional atau rasa urgensi, untuk memanipulasi korban. Penting untuk berhati-hati terhadap permintaan yang tidak diminta untuk informasi pribadi atau akses ke sistem, dan untuk memverifikasi identitas individu sebelum mengungkapkan informasi sensitif atau melakukan tindakan apa pun. Rekayasa sosial dapat sangat efektif, karena mengeksploitasi kelemahan manusia daripada kerentanan teknis.  Malware, kependekan dari malicious software, adalah perangkat lunak apa pun yang dirancang untuk merusak atau mengganggu sistem komputer. Malware dapat berupa virus, worm, Trojan horse, spyware, atau adware. Malware dapat menyebar melalui berbagai cara, termasuk email phishing, lampiran yang terinfeksi, dan unduhan drive-by. Untuk melindungi dari malware, penting untuk menggunakan perangkat lunak antivirus, menjaga perangkat lunak tetap terbaru, dan menghindari mengklik tautan atau lampiran yang mencurigakan. Malware dapat memiliki berbagai tujuan jahat, termasuk mencuri data, merusak file, dan mengambil kendali atas sistem komputer.  Serangan zero-day adalah serangan siber yang mengeksploitasi kerentanan perangkat lunak yang tidak diketahui oleh vendor perangkat lunak. Kerentanan zero-day sangat berbahaya karena tidak ada tambalan yang tersedia untuk memperbaikinya. Penyerang dapat mengeksploitasi kerentanan zero-day untuk mendapatkan akses tidak sah ke sistem atau data sensitif. Untuk melindungi dari serangan zero-day, penting untuk menerapkan praktik keamanan terbaik, seperti manajemen tambalan yang tepat, kontrol akses yang kuat, dan pemantauan keamanan. Serangan zero-day seringkali ditargetkan dan dapat menyebabkan kerusakan yang signifikan.  Keamanan jaringan nirkabel (Wi-Fi) penting untuk melindungi data dan perangkat dari akses tidak sah.  Jaringan Wi-Fi harus diamankan menggunakan enkripsi yang kuat, seperti WPA2 atau WPA3.  Selain itu, penting untuk menonaktifkan fitur yang tidak perlu, seperti WPS, dan mengubah kata sandi default router.  Jaringan Wi-Fi yang tidak aman dapat dengan mudah disusupi, yang memungkinkan penyerang mencegat lalu lintas jaringan dan mengakses data sensitif.  Keamanan fisik juga penting untuk keamanan siber secara keseluruhan.  Server dan peralatan penting lainnya harus disimpan di lokasi yang aman dengan kontrol akses fisik.  Selain itu, penting untuk melindungi perangkat dari pencurian atau kerusakan fisik.  Keamanan fisik yang tidak memadai dapat memungkinkan penyerang mendapatkan akses fisik ke sistem dan data sensitif.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah perusahaan memiliki 5000 karyawan dan 20% di antaranya menjadi korban serangan phishing yang menyebabkan ransomware, dan biaya rata-rata untuk memulihkan dari serangan ransomware adalah $5000, berapa total kerugian finansial perusahaan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "$5.000.000"
+                        },
+                        {
+                            "id": "b",
+                            "text": "$1.000.000"
+                        },
+                        {
+                            "id": "c",
+                            "text": "$100.000"
+                        },
+                        {
+                            "id": "d",
+                            "text": "$500.000"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "20% dari 5000 karyawan adalah (20/100) * 5000 = 1000 karyawan. Total kerugian = 1000 karyawan * $5000/karyawan = $5.000.000."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Deepfake mudah dideteksi karena teknologi AI masih dalam tahap awal pengembangan.",
+                    "correct_answer": false,
+                    "explanation": "Salah. Deepfake semakin sulit dideteksi karena teknologi AI terus berkembang."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa metode coba-coba untuk menebak kata sandi atau kunci enkripsi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Serangan dictionary"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Serangan brute-force"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Serangan phishing"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Serangan DDoS"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Serangan brute-force adalah metode coba-coba untuk menebak kata sandi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan contoh rekayasa sosial?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menyar sebagai rekan kerja untuk mendapatkan akses ke sistem"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menggunakan email phishing untuk mencuri kata sandi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengeksploitasi kerentanan perangkat lunak untuk mendapatkan akses tidak sah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menelepon seseorang dan berpura-pura menjadi petugas dukungan teknis untuk mendapatkan informasi pribadi"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "d"
+                    ],
+                    "explanation": "Menyar sebagai rekan kerja atau petugas dukungan teknis untuk mendapatkan informasi adalah contoh rekayasa sosial. Phishing dan eksploitasi kerentanan perangkat lunak adalah jenis serangan yang berbeda."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah jaringan Wi-Fi menggunakan enkripsi WPA2 dan seorang penyerang berhasil memecahkan kata sandi dalam 10 jam dengan mencoba 1000 kata sandi per detik, berapa banyak kata sandi yang dicoba oleh penyerang?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "36.000.000"
+                        },
+                        {
+                            "id": "b",
+                            "text": "3.600.000"
+                        },
+                        {
+                            "id": "c",
+                            "text": "360.000"
+                        },
+                        {
+                            "id": "d",
+                            "text": "36.000"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "10 jam = 10 * 60 * 60 = 36.000 detik. Jumlah kata sandi yang dicoba = 1000 kata sandi/detik * 36.000 detik = 36.000.000 kata sandi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Dalam dunia keamanan siber, pemahaman mendalam tentang sistem operasi (OS) sangatlah krusial. Sistem operasi seperti Windows, macOS, dan Linux memiliki kernel yang berbeda, yang merupakan inti dari OS dan bertanggung jawab untuk mengelola sumber daya sistem. Kernel Linux, misalnya, bersifat open-source, yang memungkinkan para ahli keamanan untuk memeriksa kode sumber dan mengidentifikasi potensi kerentanan. Pemahaman tentang arsitektur kernel dan bagaimana ia berinteraksi dengan perangkat keras sangat penting untuk menganalisis dan memitigasi kerentanan keamanan. Arsitektur prosesor, seperti x86 dan ARM, juga berperan penting dalam keamanan siber.  Perbedaan antara arsitektur ini, seperti set instruksi dan model memori, dapat memengaruhi bagaimana kerentanan dieksploitasi.  Pengetahuan tentang arsitektur prosesor memungkinkan para ahli keamanan untuk memahami implikasi keamanan dari perangkat lunak dan perangkat keras yang berbeda.  Manajemen memori, termasuk alokasi dan dealokasi memori, merupakan aspek penting dari keamanan OS.  Kerentanan dalam manajemen memori, seperti buffer overflows, dapat dieksploitasi oleh penyerang untuk menjalankan kode berbahaya.  Teknik mitigasi, seperti Address Space Layout Randomization (ASLR) dan Data Execution Prevention (DEP), digunakan untuk mengurangi risiko eksploitasi ini. Keamanan jaringan adalah komponen penting dari keamanan siber, dan melibatkan perlindungan jaringan komputer dari akses tidak sah, penggunaan yang tidak benar, modifikasi, penghancuran, pengungkapan, atau gangguan.  Firewall, sistem deteksi intrusi (IDS), dan sistem pencegahan intrusi (IPS) adalah alat penting yang digunakan untuk mengamankan jaringan.  Firewall mengontrol lalu lintas jaringan masuk dan keluar, IDS mendeteksi aktivitas yang mencurigakan, dan IPS memblokir lalu lintas berbahaya.  Keamanan jaringan yang kuat sangat penting untuk melindungi aset organisasi dari serangan siber.  Kriptografi digunakan untuk melindungi informasi sensitif dari akses tidak sah dengan mengubahnya menjadi bentuk yang tidak dapat dibaca, yang dikenal sebagai ciphertext.  Algoritma enkripsi simetris dan asimetris digunakan untuk mengamankan data, baik saat istirahat maupun saat transit.  Algoritma simetris menggunakan kunci yang sama untuk enkripsi dan dekripsi, sedangkan algoritma asimetris menggunakan sepasang kunci publik dan pribadi.  Kriptografi sangat penting untuk melindungi data sensitif, mengamankan komunikasi, dan memastikan integritas data.  Manajemen identitas dan akses (IAM) adalah kerangka kerja kebijakan dan teknologi untuk memastikan bahwa orang yang tepat memiliki tingkat akses yang tepat ke sumber daya teknologi yang tepat.  IAM melibatkan pengelolaan identitas pengguna, kredensial, dan otorisasi.  Sistem IAM digunakan untuk mengontrol akses ke sistem dan data sensitif, mencegah akses tidak sah dan menegakkan kebijakan keamanan.  IAM yang efektif sangat penting untuk keamanan siber secara keseluruhan.  Analisis malware melibatkan pemeriksaan kode berbahaya untuk memahami perilaku, tujuan, dan metode penyebarannya.  Analisis malware dilakukan oleh peneliti keamanan untuk mengidentifikasi kerentanan, mengembangkan deteksi, dan membuat strategi mitigasi.  Analisis malware dapat berupa statis, di mana kode dianalisis tanpa dieksekusi, atau dinamis, di mana kode dieksekusi di lingkungan yang terkendali untuk mengamati perilakunya.  Analisis forensik digital adalah proses pengumpulan, pelestarian, analisis, dan pelaporan bukti digital yang ditemukan di komputer dan perangkat digital lainnya.  Forensik digital digunakan untuk menyelidiki kejahatan dunia maya, pelanggaran data, dan insiden keamanan lainnya.  Penyelidik forensik digital menggunakan berbagai alat dan teknik untuk memulihkan data yang dihapus, menganalisis log sistem, dan merekonstruksi garis waktu peristiwa.  Bukti yang dikumpulkan dari forensik digital dapat digunakan dalam proses hukum.  Rekayasa balik adalah proses pembongkaran perangkat lunak atau perangkat keras untuk memahami cara kerjanya.  Rekayasa balik digunakan oleh peneliti keamanan untuk menganalisis malware, mengidentifikasi kerentanan, dan mengembangkan eksploitasi.  Rekayasa balik juga dapat digunakan untuk tujuan yang sah, seperti meningkatkan interoperabilitas perangkat lunak.  Rekayasa balik membutuhkan pemahaman yang mendalam tentang arsitektur komputer dan bahasa pemrograman. Keamanan aplikasi web (web application security) berfokus pada perlindungan aplikasi web dari berbagai serangan, seperti injeksi SQL, cross-site scripting (XSS), dan penyertaan file jarak jauh.  Pengembang web harus mengikuti praktik pengkodean yang aman dan menggunakan kerangka kerja web yang aman untuk mencegah kerentanan keamanan.  Pengujian penetrasi secara teratur dan pemindaian kerentanan juga penting untuk mengidentifikasi dan mengatasi kelemahan keamanan dalam aplikasi web.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jika seorang analis malware menganalisis 10 sampel malware per hari dan setiap analisis membutuhkan waktu rata-rata 4 jam, berapa banyak waktu yang dihabiskan analis untuk menganalisis malware dalam seminggu (5 hari kerja)?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "20 jam"
+                        },
+                        {
+                            "id": "b",
+                            "text": "40 jam"
+                        },
+                        {
+                            "id": "c",
+                            "text": "80 jam"
+                        },
+                        {
+                            "id": "d",
+                            "text": "100 jam"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Total sampel malware dalam seminggu = 10 sampel/hari * 5 hari = 50 sampel. Total waktu = 50 sampel * 4 jam/sampel = 200 jam. Karena seminggu ada 5 hari kerja maka analis menghabiskan 4jam/hari*5hari = 20 jam/hari * 4 jam = 80 jam"
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Kernel Linux bersifat closed-source, sehingga sulit bagi para ahli keamanan untuk memeriksa kode sumber.",
+                    "correct_answer": false,
+                    "explanation": "Salah. Kernel Linux bersifat open-source."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Teknik mitigasi apa yang digunakan untuk mengacak tata letak ruang alamat?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "ASLR"
+                        },
+                        {
+                            "id": "b",
+                            "text": "DEP"
+                        },
+                        {
+                            "id": "c",
+                            "text": "NX"
+                        },
+                        {
+                            "id": "d",
+                            "text": "CANARY"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "ASLR (Address Space Layout Randomization) digunakan untuk mengacak tata letak ruang alamat."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan alat yang digunakan untuk mengamankan jaringan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Firewall"
+                        },
+                        {
+                            "id": "b",
+                            "text": "IDS"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Antivirus"
+                        },
+                        {
+                            "id": "d",
+                            "text": "VPN"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Firewall dan IDS adalah alat yang digunakan untuk mengamankan jaringan. Antivirus digunakan untuk mendeteksi dan menghapus malware, sedangkan VPN digunakan untuk membuat koneksi jaringan yang aman."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika seorang penyelidik forensik digital menganalisis 500GB data dan kecepatan transfer data adalah 100MB/s, berapa lama waktu yang dibutuhkan untuk mentransfer semua data?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "500 detik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "5000 detik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "83,3 menit"
+                        },
+                        {
+                            "id": "d",
+                            "text": "50.000 detik"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "500GB = 500 * 1024 MB = 512.000 MB. Waktu transfer = 512.000 MB / (100MB/s) = 5120 detik atau 83,3 menit"
+                }
+            ]
+        }
+    },
+    {
+        "context": "Dalam lanskap ancaman siber yang terus berkembang, penting bagi organisasi untuk memiliki strategi keamanan yang komprehensif.  Strategi ini harus mencakup berbagai lapisan pertahanan, mulai dari keamanan jaringan dan titik akhir hingga pelatihan kesadaran keamanan dan manajemen kerentanan. Keamanan jaringan melibatkan perlindungan jaringan komputer dari akses yang tidak sah, penyalahgunaan, modifikasi, penghancuran, pengungkapan, atau gangguan. Firewall, sistem deteksi intrusi (IDS), dan sistem pencegahan intrusi (IPS) adalah alat penting yang digunakan untuk mengamankan jaringan. Firewall mengontrol lalu lintas jaringan masuk dan keluar berdasarkan aturan keamanan yang telah ditentukan. IDS memantau lalu lintas jaringan untuk aktivitas yang mencurigakan dan memberi tahu administrator sistem jika mendeteksi potensi serangan atau pelanggaran keamanan. IPS mengambil langkah proaktif untuk memblokir atau menghentikan lalu lintas berbahaya. Keamanan titik akhir (endpoint security) berfokus pada perlindungan perangkat individual, seperti komputer desktop, laptop, dan perangkat seluler, dari ancaman siber.  Perangkat lunak antivirus, deteksi dan respons titik akhir (EDR), dan platform perlindungan titik akhir (EPP) adalah alat umum yang digunakan dalam keamanan titik akhir. Perangkat lunak antivirus memindai file dan aplikasi untuk malware. EDR memantau perilaku titik akhir dan mendeteksi aktivitas yang mencurigakan. EPP menggabungkan kemampuan antivirus, EDR, dan fitur keamanan lainnya ke dalam satu platform. Manajemen kerentanan (vulnerability management) adalah proses berkelanjutan untuk mengidentifikasi, menilai, dan mengurangi kerentanan keamanan dalam sistem dan perangkat lunak. Proses ini biasanya melibatkan pemindaian kerentanan secara teratur, penilaian risiko, dan penerapan tambalan dan pembaruan. Manajemen kerentanan yang efektif sangat penting untuk mengurangi permukaan serangan dan mencegah serangan siber.  Pelatihan kesadaran keamanan mendidik pengguna tentang risiko keamanan siber dan praktik terbaik untuk melindungi diri mereka sendiri dan organisasi dari serangan. Pelatihan ini dapat mencakup topik seperti phishing, rekayasa sosial, kata sandi yang kuat, dan keamanan Wi-Fi. Pelatihan kesadaran keamanan yang efektif memberdayakan pengguna untuk mengidentifikasi dan menghindari ancaman siber, mengurangi kemungkinan serangan yang berhasil.  Analisis forensik digital adalah proses pengumpulan, pelestarian, analisis, dan pelaporan bukti digital yang ditemukan di komputer dan perangkat digital lainnya.  Forensik digital digunakan untuk menyelidiki kejahatan dunia maya, pelanggaran data, dan insiden keamanan lainnya. Penyelidik forensik digital menggunakan berbagai alat dan teknik untuk memulihkan data yang dihapus, menganalisis log sistem, dan merekonstruksi garis waktu peristiwa.  Bukti yang dikumpulkan dari forensik digital dapat digunakan dalam proses hukum.  Pengujian penetrasi, juga dikenal sebagai pengujian pena atau peretasan etis, adalah praktik resmi yang disahkan di mana pakar keamanan siber, yang dikenal sebagai penetration tester, mencari kerentanan dalam sistem komputer.  Pengujian penetrasi melibatkan simulasi serangan dunia nyata untuk mengidentifikasi kelemahan keamanan yang dapat dieksploitasi oleh penyerang jahat. Informasi ini kemudian digunakan untuk memperbaiki kerentanan dan meningkatkan postur keamanan organisasi secara keseluruhan.  Pemindaian kerentanan adalah proses otomatis yang memindai sistem dan aplikasi untuk kerentanan keamanan yang diketahui. Pemindai kerentanan menggunakan database kerentanan yang diketahui untuk mengidentifikasi potensi kelemahan dalam perangkat lunak dan konfigurasi sistem. Hasil pemindaian kerentanan kemudian digunakan untuk memprioritaskan dan mengatasi kerentanan.  Pemindaian kerentanan secara teratur membantu organisasi untuk secara proaktif mengidentifikasi dan memitigasi risiko keamanan.  Pemantauan keamanan adalah proses berkelanjutan untuk memantau sistem dan jaringan untuk aktivitas yang mencurigakan.  Pemantauan keamanan melibatkan pengumpulan dan analisis data log, lalu lintas jaringan, dan metrik keamanan lainnya.  Sistem Pemantauan Keamanan dan Manajemen Acara (SIEM) digunakan untuk mengumpulkan dan mengkorelasikan data keamanan dari berbagai sumber, memberikan wawasan komprehensif tentang aktivitas keamanan dalam suatu organisasi.  Pemantauan keamanan yang efektif memungkinkan organisasi untuk mendeteksi dan merespons ancaman siber secara tepat waktu.  Analisis malware melibatkan pemeriksaan kode berbahaya untuk memahami perilaku, tujuan, dan metode penyebarannya. Analisis malware dilakukan oleh peneliti keamanan untuk mengidentifikasi kerentanan, mengembangkan tanda tangan deteksi, dan membuat strategi mitigasi. Analisis malware dapat berupa statis, di mana kode dianalisis tanpa dieksekusi, atau dinamis, di mana kode dieksekusi di lingkungan yang terkendali untuk mengamati perilakunya.  Insiden keamanan siber adalah peristiwa yang dapat membahayakan keamanan informasi organisasi. Insiden keamanan siber dapat berkisar dari serangan malware dan phishing hingga pelanggaran data dan serangan denial-of-service.  Rencana respons insiden (IRP) menguraikan langkah-langkah yang harus diambil organisasi untuk menangani insiden keamanan siber.  IRP harus mencakup prosedur untuk penahanan, pemberantasan, pemulihan, dan aktivitas pasca-insiden.  Memiliki IRP membantu organisasi untuk merespons insiden keamanan siber secara efektif dan efisien, meminimalkan dampaknya pada operasi bisnis.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jika tim respons insiden menangani rata-rata 5 insiden keamanan siber per hari, dan setiap insiden membutuhkan waktu rata-rata 8 jam untuk diselesaikan, berapa banyak waktu yang dihabiskan tim untuk menangani insiden dalam seminggu (7 hari)?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "40 jam"
+                        },
+                        {
+                            "id": "b",
+                            "text": "280 jam"
+                        },
+                        {
+                            "id": "c",
+                            "text": "140 jam"
+                        },
+                        {
+                            "id": "d",
+                            "text": "200 jam"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Total insiden dalam seminggu = 5 insiden/hari * 7 hari = 35 insiden. Total waktu = 35 insiden * 8 jam/insiden = 280 jam."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Firewall hanya memantau lalu lintas jaringan masuk.",
+                    "correct_answer": false,
+                    "explanation": "Salah. Firewall memantau lalu lintas jaringan masuk dan keluar."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa kepanjangan dari EDR dalam konteks keamanan titik akhir?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Endpoint Detection and Response"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Endpoint Data Recorder"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Endpoint Disaster Recovery"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Endpoint Device Recognition"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "EDR adalah singkatan dari Endpoint Detection and Response."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan topik yang dicakup dalam pelatihan kesadaran keamanan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Phishing"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Rekayasa sosial"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kata sandi yang kuat"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pemrograman yang aman"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Phishing, rekayasa sosial, dan kata sandi yang kuat adalah topik yang dicakup dalam pelatihan kesadaran keamanan. Pemrograman yang aman lebih relevan untuk pengembang perangkat lunak."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika pemindaian kerentanan mengidentifikasi 20 kerentanan dalam suatu sistem dan 5 di antaranya dianggap kritis, berapa persentase kerentanan yang kritis?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "5%"
+                        },
+                        {
+                            "id": "b",
+                            "text": "10%"
+                        },
+                        {
+                            "id": "c",
+                            "text": "25%"
+                        },
+                        {
+                            "id": "d",
+                            "text": "20%"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Persentase kerentanan kritis = (5 / 20) * 100% = 25%."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Dalam dunia keamanan siber yang terus berkembang, penting untuk memahami berbagai jenis serangan siber dan bagaimana melindunginya. Salah satu serangan yang paling umum adalah serangan Denial-of-Service (DoS), di mana penyerang membanjiri sistem target dengan lalu lintas, sehingga sistem tidak tersedia bagi pengguna yang sah. Serangan DoS dapat diluncurkan dari satu komputer atau beberapa komputer, yang dikenal sebagai serangan Distributed Denial-of-Service (DDoS).  Serangan DDoS dapat memiliki dampak yang menghancurkan pada bisnis, mengganggu layanan online dan menyebabkan kerugian finansial yang signifikan. Untuk memitigasi serangan DDoS, organisasi dapat menggunakan berbagai teknik, seperti over-provisioning, filtering paket, dan penggunaan jaringan pengiriman konten (CDN). Dalam rekayasa sosial, penyerang memanipulasi individu untuk mengungkapkan informasi sensitif atau melakukan tindakan yang tidak aman.  Teknik rekayasa sosial dapat sangat efektif, karena mengeksploitasi kelemahan manusia daripada kerentanan teknis. Bentuk umum dari rekayasa sosial termasuk phishing, di mana penyerang mengirim email atau pesan yang tampaknya berasal dari sumber tepercaya, mengelabui korban untuk mengklik tautan berbahaya atau menyerahkan informasi pribadi; pretexting, di mana penyerang menciptakan skenario palsu untuk memanipulasi korban; dan baiting, di mana penyerang menawarkan sesuatu yang menarik untuk memikat korban. Mendidik pengguna tentang risiko rekayasa sosial dan cara mengidentifikasinya sangat penting untuk mencegah serangan ini. Malware, atau perangkat lunak berbahaya, adalah perangkat lunak apa pun yang dirancang untuk merusak atau mengganggu sistem komputer.  Malware dapat berupa virus, worm, Trojan horse, spyware, ransomware, atau adware. Virus mereplikasi diri dan menyebar dari satu komputer ke komputer lain. Worm adalah program mandiri yang mereplikasi diri dan menyebar melalui jaringan. Trojan horse menyamar sebagai perangkat lunak yang sah tetapi melakukan tindakan berbahaya. Spyware mengumpulkan informasi tentang pengguna tanpa sepengetahuan mereka. Ransomware mengenkripsi file korban dan meminta uang tebusan untuk dekripsi. Adware menampilkan iklan yang tidak diinginkan.  Melindungi dari malware memerlukan penggunaan perangkat lunak antivirus, pembaruan perangkat lunak secara teratur, dan praktik terbaik keamanan lainnya. Serangan Man-in-the-Middle (MitM) terjadi ketika penyerang mencegat komunikasi antara dua pihak. Penyerang dapat menyadap komunikasi, memodifikasi data, atau bahkan menyuntikkan data palsu. Serangan MitM dapat digunakan untuk mencuri informasi sensitif, seperti kata sandi dan detail kartu kredit.  Untuk mencegah serangan MitM, penting untuk menggunakan enkripsi yang kuat dan memverifikasi identitas pihak lain yang berkomunikasi.  Serangan zero-day mengeksploitasi kerentanan perangkat lunak yang tidak diketahui oleh vendor. Kerentanan ini sangat berbahaya karena tidak ada tambalan yang tersedia untuk memperbaikinya.  Penyerang dapat memanfaatkan kerentanan zero-day untuk mendapatkan akses tidak sah ke sistem atau data sensitif. Mitigasi serangan zero-day melibatkan penerapan praktik keamanan terbaik, seperti manajemen tambalan yang tepat, kontrol akses yang kuat, dan pemantauan keamanan. Selain itu, organisasi harus memiliki rencana respons insiden untuk mengatasi serangan zero-day. Spoofing adalah teknik di mana penyerang menyamar sebagai entitas tepercaya untuk mendapatkan akses tidak sah ke sistem atau informasi.  Spoofing dapat berupa spoofing email, di mana penyerang memalsukan alamat email untuk membuatnya tampak berasal dari sumber tepercaya; spoofing IP, di mana penyerang memalsukan alamat IP mereka; atau spoofing DNS, di mana penyerang mengarahkan lalu lintas web ke situs web palsu.  Untuk melindungi dari spoofing, penting untuk memverifikasi identitas entitas dan menggunakan protokol keamanan yang kuat. Serangan cross-site scripting (XSS) adalah kerentanan keamanan web yang memungkinkan penyerang menyuntikkan skrip berbahaya ke situs web yang dilihat oleh pengguna lain.  XSS dapat digunakan untuk mencuri cookie, mengalihkan pengguna ke situs web palsu, atau bahkan memodifikasi konten halaman web. Untuk mencegah serangan XSS, pengembang web harus memvalidasi dan membersihkan semua data yang diberikan pengguna yang ditampilkan di halaman web. Serangan SQL injection menargetkan aplikasi web yang berinteraksi dengan database.  Penyerang menyuntikkan kode SQL berbahaya ke dalam input pengguna, yang kemudian dieksekusi oleh database.  Serangan SQL injection dapat digunakan untuk mendapatkan akses tidak sah ke data sensitif, seperti kata sandi dan informasi kartu kredit. Untuk mencegah serangan SQL injection, pengembang harus menggunakan pernyataan yang disiapkan dan memvalidasi dan membersihkan input pengguna. Serangan Phishing biasanya dilakukan melalui email, pesan teks, atau situs web palsu.  Penyerang mencoba menipu korban agar menyerahkan informasi sensitif, seperti kata sandi atau detail kartu kredit.  Edukasi dan kesadaran pengguna sangat penting untuk mencegah serangan phishing.  Pengguna harus berhati-hati terhadap email dan pesan teks yang tidak diminta, dan mereka harus memverifikasi identitas pengirim sebelum mengklik tautan atau mengunduh lampiran.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah server web menerima rata-rata 1000 permintaan per detik dan serangan DDoS meningkatkan lalu lintas menjadi 5000 permintaan per detik, berapa persen peningkatan lalu lintas?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "100%"
+                        },
+                        {
+                            "id": "b",
+                            "text": "200%"
+                        },
+                        {
+                            "id": "c",
+                            "text": "400%"
+                        },
+                        {
+                            "id": "d",
+                            "text": "500%"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Peningkatan lalu lintas = 5000 - 1000 = 4000 permintaan/detik. Persentase peningkatan = (4000 / 1000) * 100% = 400%."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Ransomware adalah jenis malware yang mencuri informasi pengguna tanpa sepengetahuan mereka.",
+                    "correct_answer": false,
+                    "explanation": "Salah. Ransomware mengenkripsi file dan meminta uang tebusan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Serangan apa yang terjadi ketika penyerang mencegat komunikasi antara dua pihak?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Serangan DoS"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Serangan MitM"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Serangan XSS"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Serangan SQL injection"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Serangan Man-in-the-Middle (MitM) terjadi ketika penyerang mencegat komunikasi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan jenis malware?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Virus"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Worm"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Trojan horse"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Phishing"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Virus, worm, dan Trojan horse adalah jenis malware. Phishing adalah jenis serangan rekayasa sosial."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah perusahaan memiliki 1000 akun pengguna dan 20% di antaranya memiliki kata sandi yang lemah, dan penyerang berhasil menebak 1 kata sandi lemah setiap menit menggunakan serangan brute-force, berapa lama waktu yang dibutuhkan penyerang untuk menebak semua kata sandi yang lemah?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "20 menit"
+                        },
+                        {
+                            "id": "b",
+                            "text": "200 menit"
+                        },
+                        {
+                            "id": "c",
+                            "text": "33,3 jam"
+                        },
+                        {
+                            "id": "d",
+                            "text": "2000 menit"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Jumlah akun dengan kata sandi lemah = (20/100) * 1000 = 200 akun. Waktu yang dibutuhkan = 200 akun * 1 menit/akun = 200 menit."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Firewall aplikasi web (WAF) adalah pertahanan penting terhadap serangan siber yang menargetkan aplikasi web. WAF bertindak sebagai perantara antara aplikasi web dan internet, memeriksa lalu lintas masuk dan keluar untuk tanda-tanda aktivitas berbahaya. Dengan memeriksa permintaan HTTP/HTTPS, WAF dapat memblokir serangan umum seperti injeksi SQL, cross-site scripting (XSS), dan penyertaan file jarak jauh. WAF juga dapat dikonfigurasi untuk memblokir lalu lintas dari alamat IP atau rentang IP tertentu, yang selanjutnya mengurangi risiko serangan.Meskipun WAF sangat efektif, mereka bukan solusi yang sangat mudah. Implementasi dan pemeliharaan WAF yang benar membutuhkan keahlian khusus, dan konfigurasi yang salah dapat menyebabkan positif palsu, yang memblokir lalu lintas yang sah. Selain itu, WAF tidak dapat memblokir semua jenis serangan, dan penyerang yang canggih dapat menemukan cara untuk melewati pertahanan ini. Analisis post-mortem setelah insiden keamanan sangat penting untuk meningkatkan respons keamanan siber di masa mendatang.  Analisis ini melibatkan pemeriksaan menyeluruh tentang apa yang terjadi selama insiden, bagaimana hal itu terjadi, dan apa yang dapat dilakukan untuk mencegah insiden serupa terjadi lagi.  Log sistem, lalu lintas jaringan, dan bukti forensik lainnya dianalisis untuk memahami taktik, teknik, dan prosedur (TTP) yang digunakan oleh penyerang. Informasi ini kemudian digunakan untuk memperbarui kebijakan keamanan, memperkuat sistem, dan melatih personel keamanan.  Analisis post-mortem harus dilakukan secara teratur, bahkan jika tidak ada insiden keamanan besar, untuk secara proaktif mengidentifikasi dan mengatasi potensi kerentanan.  Enkripsi end-to-end (E2EE) memastikan bahwa hanya pengirim dan penerima yang dapat membaca pesan yang dikirim.  Dengan E2EE, pesan dienkripsi di perangkat pengirim dan hanya dapat didekripsi di perangkat penerima.  Bahkan penyedia layanan tidak dapat mengakses pesan yang dienkripsi. E2EE sangat penting untuk melindungi privasi dan keamanan komunikasi online, terutama dalam konteks perpesanan dan panggilan video.  Sistem E2EE yang banyak digunakan, seperti Signal Protocol, menggunakan algoritma kriptografi canggih untuk memberikan kerahasiaan dan integritas pesan.  Dengan demikian, E2EE adalah alat penting untuk melindungi diri dari pengawasan dan serangan siber.  Manajemen risiko adalah proses identifikasi, penilaian, dan mitigasi risiko keamanan siber. Ini melibatkan pemahaman lanskap ancaman, mengidentifikasi aset penting, dan menilai kerentanan yang dapat dieksploitasi oleh penyerang. Setelah risiko dinilai, organisasi dapat mengembangkan strategi mitigasi untuk mengurangi kemungkinan dan dampak serangan.  Strategi mitigasi dapat mencakup kontrol teknis, seperti firewall dan perangkat lunak antivirus, serta kontrol administratif, seperti kebijakan dan prosedur keamanan.  Manajemen risiko adalah proses berkelanjutan yang harus ditinjau dan diperbarui secara teratur untuk mengatasi ancaman yang berkembang.  Serangan Distributed Denial of Service (DDoS) membanjiri server target dengan lalu lintas dari beberapa sumber, sehingga server tidak dapat diakses oleh pengguna yang sah.  Botnet, jaringan perangkat yang terinfeksi malware, sering digunakan untuk meluncurkan serangan DDoS.  Serangan DDoS dapat memiliki konsekuensi yang menghancurkan bagi bisnis, mengganggu operasi online dan menyebabkan kerugian finansial yang signifikan.  Teknik mitigasi DDoS termasuk over-provisioning, filtering paket, dan penggunaan jaringan pengiriman konten (CDN).  Organisasi harus memiliki rencana respons insiden DDoS untuk meminimalkan dampak serangan. Biometrik, seperti sidik jari, pengenalan wajah, dan pemindaian iris, memberikan cara yang aman untuk mengautentikasi pengguna dan mengontrol akses ke sistem dan data sensitif.  Otentikasi multi-faktor (MFA), yang menggabungkan biometrik dengan metode otentikasi lain seperti kata sandi atau token, memberikan keamanan yang lebih kuat.  Biometrik semakin banyak digunakan dalam berbagai aplikasi, termasuk perbankan seluler, perawatan kesehatan, dan penegakan hukum.  Meskipun biometrik menawarkan banyak keuntungan, penting juga untuk mengatasi potensi masalah privasi dan keamanan yang terkait dengan pengumpulan dan penyimpanan data biometrik.  Penggunaan biometrik harus diatur dan dipantau dengan cermat untuk mencegah penyalahgunaan dan melindungi hak individu.  Phishing adalah jenis serangan rekayasa sosial di mana penyerang mencoba menipu korban agar menyerahkan informasi sensitif, seperti kata sandi atau detail kartu kredit.  Serangan phishing sering kali dilakukan melalui email atau pesan teks yang tampak berasal dari sumber tepercaya.  Penyerang dapat menggunakan berbagai taktik untuk membuat pesan mereka tampak meyakinkan, seperti logo palsu dan nama domain yang mirip.  Penting untuk berhati-hati terhadap email dan pesan teks yang tidak diminta dan untuk memverifikasi identitas pengirim sebelum mengklik tautan atau mengunduh lampiran.  Edukasi dan kesadaran pengguna sangat penting untuk mencegah serangan phishing.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah WAF salah dikonfigurasi dan memblokir 20% dari total 5000 permintaan yang sah dalam satu jam, berapa banyak permintaan yang sah yang diblokir?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "100"
+                        },
+                        {
+                            "id": "b",
+                            "text": "1000"
+                        },
+                        {
+                            "id": "c",
+                            "text": "2000"
+                        },
+                        {
+                            "id": "d",
+                            "text": "500"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "20% dari 5000 adalah (20/100) * 5000 = 1000."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Enkripsi end-to-end memungkinkan penyedia layanan untuk mengakses pesan yang dienkripsi.",
+                    "correct_answer": false,
+                    "explanation": "Salah.  Enkripsi end-to-end dirancang agar hanya pengirim dan penerima yang dapat membaca pesan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan TTP dalam konteks analisis post-mortem keamanan siber?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Tools, Techniques, and Protocols"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Tactics, Techniques, and Procedures"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Threats, Targets, and Prevention"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Time, Technology, and Process"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "TTP adalah singkatan dari Tactics, Techniques, dan Procedures, yang dianalisis untuk memahami bagaimana penyerang beroperasi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan teknik mitigasi DDoS?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Over-provisioning"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Firewall aplikasi web"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Filtering paket"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Enkripsi end-to-end"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c"
+                    ],
+                    "explanation": "Over-provisioning dan filtering paket adalah teknik yang digunakan untuk mengurangi dampak serangan DDoS. WAF dan enkripsi end-to-end adalah teknik keamanan yang penting namun tidak secara khusus dirancang untuk mitigasi DDoS. "
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah serangan phishing berhasil mencuri kredensial 5% dari 2000 karyawan, dan 20% dari mereka memiliki akses ke data sensitif, berapa banyak karyawan yang kredensialnya dicuri dan memiliki akses ke data sensitif?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "10"
+                        },
+                        {
+                            "id": "b",
+                            "text": "20"
+                        },
+                        {
+                            "id": "c",
+                            "text": "50"
+                        },
+                        {
+                            "id": "d",
+                            "text": "100"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "5% dari 2000 adalah (5/100) * 2000 = 100 karyawan.  20% dari 100 adalah (20/100) * 100 = 20 karyawan."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Dalam sistem operasi modern, kernel memegang peranan penting sebagai jembatan antara perangkat keras dan perangkat lunak. Kernel mengelola sumber daya sistem, termasuk CPU, memori, dan perangkat I/O.  Salah satu tugas utama kernel adalah menyediakan antarmuka yang konsisten untuk aplikasi, sehingga mereka dapat berinteraksi dengan perangkat keras tanpa harus mengetahui detail spesifiknya.  Kernel modern seringkali menggunakan arsitektur mikrokernal atau hibrida untuk meningkatkan modularitas dan keamanan. Arsitektur x64, yang juga dikenal sebagai x86-64 atau AMD64, merupakan ekstensi dari arsitektur x86 yang memungkinkan penggunaan ruang alamat 64-bit.  Ini memungkinkan sistem untuk mengakses lebih banyak memori dan menjalankan aplikasi yang lebih besar dan lebih kompleks.  x64 telah menjadi arsitektur dominan untuk komputer desktop dan server karena kinerjanya yang unggul dan kemampuannya untuk menjalankan perangkat lunak warisan x86. Partisi disk adalah bagian logis dari hard disk yang diformat untuk menyimpan data.  Partisi memungkinkan pengguna untuk membagi hard disk mereka menjadi beberapa volume logis, yang dapat digunakan untuk mengatur file dan menginstal beberapa sistem operasi.  Sistem file, seperti NTFS dan ext4, digunakan untuk mengatur data di dalam partisi.  Utilitas manajemen disk memungkinkan pengguna untuk membuat, menghapus, dan mengubah ukuran partisi. Kernel-mode driver adalah program yang berjalan di kernel sistem operasi dan memungkinkan perangkat keras untuk berkomunikasi dengan sistem. Driver ini menyediakan antarmuka antara sistem operasi dan perangkat keras, menerjemahkan perintah sistem operasi ke dalam instruksi yang dapat dipahami oleh perangkat keras.  Driver yang salah konfigurasi atau rusak dapat menyebabkan masalah stabilitas sistem, dan penting untuk menjaga driver tetap terbaru.  Manajemen memori virtual adalah teknik yang digunakan oleh sistem operasi untuk mengelola memori.  Ini memungkinkan sistem untuk menggunakan lebih banyak memori daripada yang tersedia secara fisik dengan menukar data antara RAM dan hard disk.  Paging dan segmentasi adalah dua teknik umum yang digunakan dalam manajemen memori virtual. Teknik ini meningkatkan efisiensi penggunaan memori dan memungkinkan sistem untuk menjalankan lebih banyak aplikasi secara bersamaan.  Dalam sistem operasi multi-tasking, penjadwalan proses adalah mekanisme yang digunakan untuk mengalokasikan waktu CPU ke proses yang berbeda.  Penjadwalan memastikan bahwa setiap proses mendapatkan bagian yang adil dari waktu CPU, mencegah satu proses memonopoli sumber daya sistem.  Algoritma penjadwalan yang berbeda, seperti round-robin dan prioritas, digunakan untuk mengoptimalkan kinerja sistem dan responsivitas aplikasi.Sistem file terdistribusi, seperti NFS dan Ceph, memungkinkan akses ke file yang disimpan di beberapa server.  Ini meningkatkan skalabilitas dan ketersediaan data.  Sistem file terdistribusi sering digunakan dalam lingkungan komputasi awan dan cluster server.  Penggunaan sistem file terdistribusi meningkatkan ketahanan data dan memungkinkan akses yang efisien ke data dari beberapa lokasi.  Sistem file terdistribusi penting untuk infrastruktur modern yang mengandalkan akses data yang cepat dan andal.  Kompresi file mengurangi ukuran file, sehingga menghemat ruang disk dan bandwidth jaringan.  Algoritma kompresi yang berbeda, seperti kompresi lossless dan lossy, digunakan tergantung pada jenis data dan tingkat kompresi yang diinginkan.  Kompresi file banyak digunakan dalam berbagai aplikasi, termasuk penyimpanan file, streaming multimedia, dan komunikasi jaringan.  Teknik kompresi terus berkembang untuk meningkatkan efisiensi dan mengurangi ukuran file.  Kernel sistem operasi juga mengelola interupsi perangkat keras, yang merupakan sinyal yang dikirim oleh perangkat keras ke CPU untuk meminta perhatian.  Kernel menangani interupsi ini dan menjadwalkan proses yang sesuai untuk meresponsnya.  Manajemen interupsi yang efisien sangat penting untuk kinerja dan stabilitas sistem.  Kernel juga bertanggung jawab untuk mengelola akses ke sumber daya sistem, memastikan bahwa aplikasi tidak saling mengganggu atau merusak data satu sama lain.  Kernel menyediakan mekanisme sinkronisasi, seperti mutex dan semaphore, untuk mencegah kondisi balapan dan memastikan akses yang aman ke sumber daya bersama.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah sistem memiliki 16GB RAM dan menggunakan paging dengan ukuran halaman 4KB, berapa banyak entri tabel halaman yang dibutuhkan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "4.194.304"
+                        },
+                        {
+                            "id": "b",
+                            "text": "4.096"
+                        },
+                        {
+                            "id": "c",
+                            "text": "16.384"
+                        },
+                        {
+                            "id": "d",
+                            "text": "65.536"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "16GB = 16 * 1024 * 1024 * 1024 bytes. Jumlah entri = (16 * 1024 * 1024 * 1024) / 4096 = 4.194.304"
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Arsitektur x64 memungkinkan penggunaan ruang alamat 32-bit.",
+                    "correct_answer": false,
+                    "explanation": "Salah. x64 menggunakan ruang alamat 64-bit."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa dua teknik umum yang digunakan dalam manajemen memori virtual?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Paging dan segmentasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Caching dan buffering"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Polling dan interupsi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kompresi dan enkripsi"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Paging dan segmentasi adalah dua teknik umum dalam manajemen memori virtual."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan contoh sistem file terdistribusi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "NTFS"
+                        },
+                        {
+                            "id": "b",
+                            "text": "ext4"
+                        },
+                        {
+                            "id": "c",
+                            "text": "NFS"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Ceph"
+                        }
+                    ],
+                    "correct_answer": [
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "NFS dan Ceph adalah contoh sistem file terdistribusi. NTFS dan ext4 adalah sistem file lokal."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah file berukuran 1GB dikompresi dengan rasio kompresi 2:1, berapa ukuran file setelah dikompresi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "2GB"
+                        },
+                        {
+                            "id": "b",
+                            "text": "1GB"
+                        },
+                        {
+                            "id": "c",
+                            "text": "512MB"
+                        },
+                        {
+                            "id": "d",
+                            "text": "256MB"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Rasio kompresi 2:1 berarti ukuran file menjadi setengahnya.  Setengah dari 1GB adalah 512MB."
+                }
+            ]
+        }
+    },
+    {
+        "context": "SQL injection adalah teknik penyerangan yang mengeksploitasi kerentanan dalam aplikasi web yang berinteraksi dengan database. Penyerang menyuntikkan kode SQL berbahaya ke dalam input pengguna, yang kemudian dieksekusi oleh database. Hal ini dapat menyebabkan penyerang mendapatkan akses tidak sah ke data sensitif, seperti kata sandi dan informasi kartu kredit. Untuk mencegah SQL injection, pengembang harus menggunakan pernyataan yang disiapkan atau prosedur yang disimpan untuk memvalidasi dan membersihkan input pengguna. Mereka juga harus menerapkan prinsip hak istimewa terkecil, yang membatasi hak akses pengguna hanya ke informasi yang mereka butuhkan untuk menjalankan tugas mereka.  Cross-site scripting (XSS) adalah kerentanan keamanan web yang memungkinkan penyerang menyuntikkan skrip berbahaya ke situs web yang dilihat oleh pengguna lain.  XSS dapat digunakan untuk mencuri cookie, mengalihkan pengguna ke situs web palsu, atau bahkan memodifikasi konten halaman web.  Penting untuk memvalidasi dan membersihkan semua data yang diberikan pengguna yang ditampilkan di halaman web untuk mencegah serangan XSS.  Peretas seringkali menggunakan phishing dan rekayasa sosial untuk mendapatkan kredensial login atau mengelabui pengguna agar mengunduh malware. Phishing melibatkan pengiriman email atau pesan yang tampak berasal dari sumber tepercaya, mengelabui korban untuk mengklik tautan berbahaya atau menyerahkan informasi pribadi.  Rekayasa sosial mengeksploitasi psikologi manusia untuk memanipulasi individu agar melakukan tindakan yang tidak aman, seperti mengunduh lampiran yang terinfeksi atau mengungkapkan informasi rahasia.  Kesadaran pengguna dan pelatihan keamanan yang efektif sangat penting untuk mencegah serangan ini.  Kriptografi memainkan peran penting dalam mengamankan data, baik saat istirahat maupun saat transit.  Algoritma enkripsi simetris, seperti AES, menggunakan kunci yang sama untuk enkripsi dan dekripsi, sedangkan algoritma asimetris, seperti RSA, menggunakan sepasang kunci publik dan pribadi.  Kriptografi digunakan untuk melindungi informasi sensitif, mengamankan komunikasi, dan memverifikasi integritas data.  Penting untuk menggunakan algoritma kriptografi yang kuat dan mengelola kunci enkripsi dengan aman.  Otentikasi multi-faktor (MFA) meningkatkan keamanan dengan mewajibkan pengguna untuk memberikan beberapa bentuk identifikasi untuk mengakses akun atau sistem. MFA biasanya menggabungkan sesuatu yang diketahui pengguna (kata sandi), sesuatu yang dimiliki pengguna (token atau ponsel), dan sesuatu yang merupakan pengguna (biometrik). MFA secara signifikan mengurangi risiko akses tidak sah, bahkan jika salah satu faktor telah disusupi.  Firewall adalah sistem keamanan jaringan yang memantau dan mengontrol lalu lintas jaringan masuk dan keluar berdasarkan aturan keamanan yang telah ditentukan.  Firewall bertindak sebagai penghalang antara jaringan tepercaya dan jaringan yang tidak tepercaya, seperti internet. Mereka dapat berupa perangkat keras atau perangkat lunak, dan mereka dapat dikonfigurasi untuk memblokir lalu lintas dari alamat IP tertentu, port, atau protokol.  Firewall sangat penting untuk melindungi jaringan dari akses tidak sah dan serangan siber.  Sistem deteksi intrusi (IDS) memantau lalu lintas jaringan untuk aktivitas berbahaya dan memberi tahu administrator sistem jika mendeteksi potensi serangan atau pelanggaran keamanan.  IDS dapat berupa berbasis jaringan atau berbasis host, dan mereka menggunakan berbagai teknik untuk mendeteksi intrusi, seperti pencocokan tanda tangan dan deteksi anomali.  IDS memainkan peran penting dalam pertahanan keamanan berlapis dan membantu organisasi mengidentifikasi dan merespons serangan siber secara tepat waktu.  Keamanan cloud adalah disiplin ilmu yang berfokus pada perlindungan data, aplikasi, dan infrastruktur yang terkait dengan cloud computing.  Karena sifat cloud computing yang terdistribusi, keamanan cloud memperkenalkan tantangan unik, seperti visibilitas terbatas ke infrastruktur yang mendasarinya dan peningkatan permukaan serangan.  Organisasi harus menerapkan langkah-langkah keamanan yang kuat, seperti kontrol akses, enkripsi, dan pemantauan keamanan, untuk melindungi data dan aplikasi mereka di cloud.  Penetration testing, juga dikenal sebagai ethical hacking, melibatkan simulasi serangan dunia nyata pada sistem komputer untuk mengidentifikasi kerentanan.  Penetration tester menggunakan berbagai alat dan teknik untuk mengeksploitasi kerentanan dan mendapatkan akses tidak sah ke sistem.  Informasi ini kemudian digunakan untuk memperbaiki kelemahan keamanan dan meningkatkan postur keamanan organisasi secara keseluruhan.  Pengujian penetrasi secara teratur membantu organisasi secara proaktif mengidentifikasi dan mengatasi kerentanan sebelum dapat dieksploitasi oleh penyerang jahat.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jika seorang penetration tester berhasil mengeksploitasi kerentanan XSS pada sebuah aplikasi web dan mencuri 10 cookie sesi per menit, berapa banyak cookie yang bisa dicuri dalam 3 jam?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "180"
+                        },
+                        {
+                            "id": "b",
+                            "text": "1800"
+                        },
+                        {
+                            "id": "c",
+                            "text": "300"
+                        },
+                        {
+                            "id": "d",
+                            "text": "30"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "3 jam = 3 * 60 menit = 180 menit. Total cookie yang dicuri = 10 cookie/menit * 180 menit = 1800 cookie."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Algoritma enkripsi simetris menggunakan pasangan kunci publik dan pribadi.",
+                    "correct_answer": false,
+                    "explanation": "Salah. Algoritma enkripsi asimetris yang menggunakan pasangan kunci publik dan pribadi. Algoritma simetris menggunakan kunci yang sama untuk enkripsi dan dekripsi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa prinsip yang membatasi hak akses pengguna hanya ke informasi yang mereka butuhkan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Prinsip kerahasiaan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Prinsip integritas"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Prinsip hak istimewa terkecil"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Prinsip non-penyangkalan"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Prinsip hak istimewa terkecil membatasi hak akses pengguna hanya ke informasi yang mereka butuhkan."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan faktor yang digunakan dalam otentikasi multi-faktor?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Sesuatu yang diketahui pengguna (kata sandi)"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sesuatu yang dimiliki pengguna (token atau ponsel)"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sesuatu yang merupakan pengguna (biometrik)"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Lokasi pengguna"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "MFA biasanya menggabungkan sesuatu yang diketahui pengguna, sesuatu yang dimiliki pengguna, dan sesuatu yang merupakan pengguna. Lokasi pengguna bisa menjadi faktor tambahan, tetapi bukan bagian inti dari MFA."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah firewall memblokir rata-rata 100 koneksi per detik dari alamat IP yang dicurigai, berapa banyak koneksi yang diblokir dalam 1 jam?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "3600"
+                        },
+                        {
+                            "id": "b",
+                            "text": "36.000"
+                        },
+                        {
+                            "id": "c",
+                            "text": "360.000"
+                        },
+                        {
+                            "id": "d",
+                            "text": "6000"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "1 jam = 3600 detik. Total koneksi yang diblokir = 100 koneksi/detik * 3600 detik = 360.000 koneksi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Keamanan sistem informasi adalah praktik melindungi sistem informasi dari akses yang tidak sah, penggunaan, pengungkapan, gangguan, modifikasi, atau perusakan. Ini mencakup berbagai langkah teknis, administratif, dan fisik yang dirancang untuk melindungi kerahasiaan, integritas, dan ketersediaan informasi. Keamanan sistem informasi sangat penting bagi organisasi dari semua ukuran, karena membantu melindungi data sensitif mereka dari ancaman siber. Salah satu aspek kunci dari keamanan sistem informasi adalah keamanan jaringan, yang melibatkan perlindungan jaringan komputer dari akses yang tidak sah, penyalahgunaan, modifikasi, penghancuran, pengungkapan, atau gangguan.  Firewall, sistem deteksi intrusi (IDS), dan sistem pencegahan intrusi (IPS) adalah alat penting yang digunakan untuk mengamankan jaringan. Firewall mengontrol lalu lintas jaringan masuk dan keluar berdasarkan aturan keamanan yang telah ditentukan. IDS memantau lalu lintas jaringan untuk aktivitas yang mencurigakan dan memberi tahu administrator sistem jika mendeteksi potensi serangan atau pelanggaran keamanan. IPS mengambil langkah proaktif untuk memblokir atau menghentikan lalu lintas berbahaya. Keamanan titik akhir (endpoint security) berfokus pada perlindungan perangkat individual, seperti komputer desktop, laptop, dan perangkat seluler, dari ancaman siber. Perangkat lunak antivirus, deteksi dan respons titik akhir (EDR), dan platform perlindungan titik akhir (EPP) adalah alat umum yang digunakan dalam keamanan titik akhir. Perangkat lunak antivirus memindai file dan aplikasi untuk malware. EDR memantau perilaku titik akhir dan mendeteksi aktivitas yang mencurigakan. EPP menggabungkan kemampuan antivirus, EDR, dan fitur keamanan lainnya ke dalam satu platform. Manajemen kerentanan adalah proses berkelanjutan untuk mengidentifikasi, menilai, dan mengurangi kerentanan keamanan dalam sistem dan perangkat lunak. Proses ini biasanya melibatkan pemindaian kerentanan secara teratur, penilaian risiko, dan penerapan tambalan dan pembaruan.  Manajemen kerentanan yang efektif sangat penting untuk mengurangi permukaan serangan dan mencegah serangan siber. Keamanan aplikasi web berfokus pada perlindungan aplikasi web dari berbagai serangan, seperti injeksi SQL, cross-site scripting (XSS), dan penyertaan file jarak jauh. Pengembang web harus mengikuti praktik pengkodean yang aman dan menggunakan kerangka kerja web yang aman untuk mencegah kerentanan keamanan.  Pengujian penetrasi secara teratur dan pemindaian kerentanan juga penting untuk mengidentifikasi dan mengatasi kelemahan keamanan dalam aplikasi web.  Kriptografi digunakan untuk melindungi informasi sensitif dari akses yang tidak sah dengan mengubahnya menjadi bentuk yang tidak dapat dibaca, yang dikenal sebagai ciphertext. Algoritma enkripsi simetris dan asimetris digunakan untuk mengamankan data, baik saat istirahat maupun saat transit. Algoritma simetris menggunakan kunci yang sama untuk enkripsi dan dekripsi, sedangkan algoritma asimetris menggunakan sepasang kunci publik dan pribadi. Kriptografi sangat penting untuk melindungi data sensitif, mengamankan komunikasi, dan memastikan integritas data.  Pemulihan bencana (disaster recovery) adalah proses pemulihan sistem dan data setelah peristiwa bencana, seperti bencana alam atau serangan siber.  Rencana pemulihan bencana harus mencakup langkah-langkah untuk mencadangkan data, memulihkan sistem, dan melanjutkan operasi bisnis. Pemulihan bencana yang efektif membantu organisasi untuk meminimalkan dampak dari peristiwa bencana dan memastikan kelangsungan bisnis.  Kesinambungan bisnis (business continuity) adalah kemampuan organisasi untuk melanjutkan operasi bisnis selama gangguan, seperti bencana alam atau serangan siber.  Rencana kesinambungan bisnis harus mencakup langkah-langkah untuk mengidentifikasi fungsi bisnis penting, mengembangkan strategi pemulihan, dan menguji rencana secara teratur. Kesinambungan bisnis yang efektif membantu organisasi untuk mempertahankan operasi penting selama gangguan. Tata kelola, manajemen risiko, dan kepatuhan (GRC) adalah kerangka kerja terintegrasi untuk mengelola tata kelola perusahaan, manajemen risiko, dan kepatuhan terhadap peraturan dan kebijakan. GRC membantu organisasi untuk memastikan bahwa mereka beroperasi secara etis dan sesuai dengan hukum dan peraturan yang berlaku. GRC yang efektif juga membantu organisasi untuk mengurangi risiko dan melindungi reputasi mereka.  Pelatihan kesadaran keamanan mendidik pengguna tentang risiko keamanan siber dan praktik terbaik untuk melindungi diri mereka sendiri dan organisasi dari serangan. Pelatihan ini dapat mencakup topik seperti phishing, rekayasa sosial, kata sandi yang kuat, dan keamanan Wi-Fi.  Pelatihan kesadaran keamanan yang efektif memberdayakan pengguna untuk mengidentifikasi dan menghindari ancaman siber, mengurangi kemungkinan serangan yang berhasil.  Arsitektur keamanan perusahaan adalah desain dan implementasi kontrol keamanan untuk melindungi aset organisasi. Arsitektur keamanan harus komprehensif dan mencakup berbagai lapisan pertahanan, dari keamanan jaringan dan titik akhir hingga pelatihan kesadaran keamanan dan manajemen kerentanan.  Arsitektur keamanan yang efektif membantu organisasi untuk mengurangi risiko dan melindungi dari ancaman siber.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah perusahaan memiliki 1000 karyawan dan setiap karyawan menerima rata-rata 5 email phishing per bulan, dan 2% dari karyawan mengklik tautan phishing, berapa banyak karyawan yang kemungkinan besar akan mengklik tautan phishing dalam setahun?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "10"
+                        },
+                        {
+                            "id": "b",
+                            "text": "120"
+                        },
+                        {
+                            "id": "c",
+                            "text": "100"
+                        },
+                        {
+                            "id": "d",
+                            "text": "240"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Jumlah email phishing per tahun = 1000 karyawan * 5 email/bulan * 12 bulan = 60.000 email.  Jumlah karyawan yang mengklik tautan = 60.000 email * 2% = 1200 klik. Karena satu karyawan bisa saja mengklik lebih dari satu email phishing, tetapi yang ditanyakan adalah jumlah karyawan yang mengklik, maka 2% dari 1000 karyawan = 20 karyawan. Karena ini per bulan dan ditanyakan setahun, maka 20 karyawan * 12 bulan = 240 karyawan. Namun perlu diperhatikan bahwa setiap bulannya karyawan yang terjebak phishing bisa jadi berbeda atau sama, sehingga diasumsikan setiap bulan ada 20 karyawan yang terjebak, atau 2% dari total karyawan tetap."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Sistem deteksi intrusi (IDS) mengambil langkah proaktif untuk memblokir lalu lintas berbahaya.",
+                    "correct_answer": false,
+                    "explanation": "Salah.  IDS hanya mendeteksi aktivitas yang mencurigakan, sedangkan IPS yang memblokir lalu lintas berbahaya."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa proses pemulihan sistem dan data setelah peristiwa bencana?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pemulihan bencana"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kesinambungan bisnis"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Manajemen kerentanan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Keamanan aplikasi web"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Pemulihan bencana adalah proses pemulihan sistem dan data setelah peristiwa bencana."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan aspek dari keamanan sistem informasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Keamanan jaringan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Keamanan titik akhir"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Manajemen kerentanan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Rekayasa sosial"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Keamanan jaringan, keamanan titik akhir, dan manajemen kerentanan adalah aspek dari keamanan sistem informasi. Rekayasa sosial adalah teknik yang digunakan penyerang."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah organisasi menghabiskan $10.000 untuk pelatihan kesadaran keamanan untuk 100 karyawan, dan pelatihan tersebut mengurangi insiden phishing sebesar 50%, dan biaya rata-rata insiden phishing adalah $500, berapa penghematan yang diperoleh organisasi dalam setahun?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "$5.000"
+                        },
+                        {
+                            "id": "b",
+                            "text": "$10.000"
+                        },
+                        {
+                            "id": "c",
+                            "text": "$25.000"
+                        },
+                        {
+                            "id": "d",
+                            "text": "$50.000"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Biaya per karyawan = $10.000 / 100 karyawan = $100/karyawan.  Pengurangan insiden phishing = 50%.  Penghematan per insiden = $500 * 50% = $250.  Asumsikan setiap karyawan mengalami 1 insiden phishing per tahun.  Penghematan per karyawan = $250. Total penghematan = $250/karyawan * 100 karyawan = $25.000."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Dalam dunia digital yang semakin terhubung, keamanan siber sangat penting untuk melindungi informasi sensitif dan sistem dari ancaman siber.  Salah satu aspek kunci dari keamanan siber adalah kriptografi, yang merupakan praktik dan studi teknik untuk komunikasi yang aman di hadapan pihak ketiga yang disebut adversaries. Kriptografi modern ada di persimpangan disiplin ilmu matematika, ilmu komputer, teknik elektro, ilmu komunikasi, dan fisika. Aplikasi kriptografi meliputi kartu ATM, kata sandi komputer, dan perdagangan elektronik.  Kriptografi memungkinkan kita untuk melindungi data dari akses yang tidak sah, memastikan integritas data, dan mengautentikasi identitas pengguna. Algoritma kriptografi yang umum digunakan termasuk algoritma enkripsi simetris seperti AES dan DES, dan algoritma enkripsi asimetris seperti RSA dan ECC.  AES (Advanced Encryption Standard) adalah standar enkripsi simetris yang banyak digunakan untuk mengamankan data. AES menggunakan ukuran kunci 128, 192, atau 256 bit, dan dianggap aman bahkan terhadap serangan brute-force dengan daya komputasi saat ini. DES (Data Encryption Standard) adalah standar enkripsi simetris yang lebih lama yang telah digantikan oleh AES karena ukuran kuncinya yang relatif pendek (56 bit), yang membuatnya rentan terhadap serangan brute-force.  RSA (Rivest-Shamir-Adleman) adalah algoritma kriptografi kunci publik yang banyak digunakan untuk enkripsi dan tanda tangan digital. RSA didasarkan pada kesulitan praktis memfaktorkan produk dari dua bilangan prima besar, yang dikenal sebagai masalah RSA.  ECC (Elliptic Curve Cryptography) adalah pendekatan kunci publik untuk kriptografi yang didasarkan pada struktur aljabar kurva eliptik di atas bidang hingga. ECC menawarkan keamanan yang sebanding dengan RSA dengan ukuran kunci yang lebih kecil, yang menghasilkan kinerja komputasi yang lebih baik. Otentikasi multi-faktor (MFA) meningkatkan keamanan dengan mewajibkan pengguna untuk memberikan beberapa bentuk identifikasi untuk mengakses akun atau sistem.  MFA biasanya menggabungkan sesuatu yang diketahui pengguna (kata sandi), sesuatu yang dimiliki pengguna (token atau ponsel), dan sesuatu yang merupakan pengguna (biometrik).  MFA secara signifikan mengurangi risiko akses tidak sah, bahkan jika salah satu faktor telah disusupi. Manajemen kata sandi yang aman sangat penting untuk keamanan siber.  Pengguna harus membuat kata sandi yang kuat dan unik untuk setiap akun, dan mereka harus menghindari penggunaan kembali kata sandi di beberapa situs web.  Pengelola kata sandi dapat membantu pengguna membuat dan mengelola kata sandi yang kuat. Firewall adalah sistem keamanan jaringan yang memantau dan mengontrol lalu lintas jaringan masuk dan keluar berdasarkan aturan keamanan yang telah ditentukan.  Firewall bertindak sebagai penghalang antara jaringan tepercaya dan jaringan yang tidak tepercaya, seperti internet. Mereka dapat berupa perangkat keras atau perangkat lunak, dan mereka dapat dikonfigurasi untuk memblokir lalu lintas dari alamat IP tertentu, port, atau protokol.  Firewall sangat penting untuk melindungi jaringan dari akses tidak sah dan serangan siber.  Sistem deteksi intrusi (IDS) memantau lalu lintas jaringan untuk aktivitas berbahaya dan memberi tahu administrator sistem jika mendeteksi potensi serangan atau pelanggaran keamanan.  IDS dapat berupa berbasis jaringan atau berbasis host, dan mereka menggunakan berbagai teknik untuk mendeteksi intrusi, seperti pencocokan tanda tangan dan deteksi anomali.  IDS memainkan peran penting dalam pertahanan keamanan berlapis dan membantu organisasi mengidentifikasi dan merespons serangan siber secara tepat waktu. Sistem pencegahan intrusi (IPS) mirip dengan IDS, tetapi alih-alih hanya mendeteksi aktivitas berbahaya, IPS juga mengambil langkah-langkah untuk memblokir atau menghentikan lalu lintas berbahaya.  IPS dapat dikonfigurasi untuk memblokir alamat IP tertentu, port, atau protokol, dan dapat secara otomatis memperbarui tanda tangan mereka untuk melindungi dari ancaman baru. IPS memberikan lapisan pertahanan proaktif tambahan untuk jaringan.  Virtual Private Network (VPN) membuat koneksi jaringan yang aman melalui jaringan publik, seperti internet. VPN mengenkripsi lalu lintas jaringan, sehingga sulit bagi penyerang untuk mencegat atau menyadap komunikasi. VPN sering digunakan oleh individu dan organisasi untuk melindungi privasi dan keamanan online mereka, terutama saat menggunakan jaringan Wi-Fi publik.  Secure Sockets Layer/Transport Layer Security (SSL/TLS) adalah protokol kriptografi yang menyediakan komunikasi yang aman melalui jaringan komputer. SSL/TLS digunakan untuk mengamankan transaksi online, seperti perbankan online dan perdagangan elektronik.  SSL/TLS mengenkripsi data yang ditransmisikan antara klien dan server, memastikan kerahasiaan dan integritas data.  Sertifikat SSL/TLS digunakan untuk memverifikasi identitas situs web dan membangun kepercayaan dengan pengguna.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah organisasi memiliki 1000 pengguna dan menerapkan MFA, dan serangan phishing berhasil mencuri kata sandi 10% pengguna, berapa banyak pengguna yang akunnya masih aman karena MFA?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "100"
+                        },
+                        {
+                            "id": "b",
+                            "text": "900"
+                        },
+                        {
+                            "id": "c",
+                            "text": "1000"
+                        },
+                        {
+                            "id": "d",
+                            "text": "10"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Jumlah pengguna yang kata sandinya dicuri = 1000 pengguna * 10% = 100 pengguna.  Jumlah pengguna yang akunnya masih aman = 1000 pengguna - 100 pengguna = 900 pengguna."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "DES adalah standar enkripsi simetris yang lebih aman daripada AES.",
+                    "correct_answer": false,
+                    "explanation": "Salah. AES lebih aman daripada DES karena ukuran kuncinya yang lebih panjang."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Algoritma kriptografi kunci publik apa yang didasarkan pada masalah RSA?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "AES"
+                        },
+                        {
+                            "id": "b",
+                            "text": "DES"
+                        },
+                        {
+                            "id": "c",
+                            "text": "RSA"
+                        },
+                        {
+                            "id": "d",
+                            "text": "ECC"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "RSA didasarkan pada masalah RSA."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan faktor otentikasi yang digunakan dalam MFA?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Sesuatu yang diketahui pengguna (kata sandi)"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sesuatu yang dimiliki pengguna (token atau ponsel)"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sesuatu yang merupakan pengguna (biometrik)"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Lokasi pengguna"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "MFA biasanya menggabungkan sesuatu yang diketahui pengguna, sesuatu yang dimiliki pengguna, dan sesuatu yang merupakan pengguna.  Lokasi pengguna bisa menjadi faktor tambahan, tetapi bukan bagian inti dari MFA."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah firewall memblokir rata-rata 100 koneksi per detik dari alamat IP yang dicurigai, berapa banyak koneksi yang diblokir dalam 1 jam?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "3600"
+                        },
+                        {
+                            "id": "b",
+                            "text": "36.000"
+                        },
+                        {
+                            "id": "c",
+                            "text": "360.000"
+                        },
+                        {
+                            "id": "d",
+                            "text": "6000"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "1 jam = 3600 detik. Total koneksi yang diblokir = 100 koneksi/detik * 3600 detik = 360.000 koneksi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Dalam dunia keamanan siber yang kompleks dan terus berkembang, profesional keamanan siber harus memiliki pemahaman yang mendalam tentang berbagai konsep dan teknik untuk melindungi sistem dan jaringan dari ancaman siber. Salah satu konsep dasar dalam keamanan siber adalah model CIA triad, yang merupakan model keamanan informasi yang dirancang untuk memandu kebijakan keamanan dalam suatu organisasi.  Model ini terdiri dari tiga komponen inti: kerahasiaan, integritas, dan ketersediaan. Kerahasiaan (Confidentiality) memastikan bahwa informasi hanya dapat diakses oleh personel yang berwenang. Integritas (Integrity) menjamin keakuratan dan kelengkapan informasi, serta mencegah modifikasi yang tidak sah. Ketersediaan (Availability) memastikan bahwa informasi dan sumber daya dapat diakses oleh pengguna yang berwenang kapan pun mereka membutuhkannya.  Model CIA triad merupakan landasan bagi banyak kerangka kerja dan praktik keamanan siber. Keamanan jaringan merupakan aspek penting dari keamanan siber secara keseluruhan, dan berfokus pada perlindungan jaringan komputer dari akses yang tidak sah, penyalahgunaan, modifikasi, penghancuran, pengungkapan, atau gangguan.  Keamanan jaringan yang kuat melibatkan penerapan berbagai langkah keamanan, termasuk firewall, sistem deteksi dan pencegahan intrusi (IDPS), jaringan privat maya (VPN), dan segmentasi jaringan. Firewall bertindak sebagai penghalang antara jaringan dan dunia luar, mengendalikan lalu lintas jaringan masuk dan keluar. IDPS memantau lalu lintas jaringan untuk aktivitas yang mencurigakan dan mengambil tindakan untuk memblokir atau memberi tahu administrator tentang potensi ancaman. VPN membuat koneksi aman melalui jaringan publik, memungkinkan pengguna untuk mengakses sumber daya jaringan secara aman dari lokasi jarak jauh. Segmentasi jaringan membagi jaringan menjadi beberapa subnet yang lebih kecil, membatasi dampak pelanggaran keamanan.  Kriptografi memainkan peran penting dalam keamanan siber dengan melindungi informasi sensitif dari akses yang tidak sah dengan mengubahnya menjadi bentuk yang tidak dapat dibaca, yang dikenal sebagai ciphertext.  Kriptografi digunakan untuk enkripsi data, tanda tangan digital, dan fungsi hash. Enkripsi data mengacak data, sehingga hanya dapat didekripsi dengan kunci yang benar. Tanda tangan digital memverifikasi keaslian dan integritas data. Fungsi hash membuat representasi unik dari data, yang dapat digunakan untuk mendeteksi perubahan pada data. Otentikasi dan otorisasi adalah proses verifikasi identitas pengguna dan menentukan izin mereka untuk mengakses sumber daya sistem.  Otentikasi biasanya melibatkan nama pengguna dan kata sandi, tetapi juga dapat mencakup faktor-faktor lain seperti biometrik atau token. Otorisasi menentukan tindakan apa yang dapat dilakukan pengguna pada sistem, seperti membaca, menulis, atau mengeksekusi file.  Otentikasi dan otorisasi yang tepat sangat penting untuk mencegah akses yang tidak sah ke sistem dan data sensitif. Manajemen kerentanan adalah proses berkelanjutan untuk mengidentifikasi, menilai, dan mengurangi kerentanan keamanan dalam sistem dan perangkat lunak.  Proses ini biasanya melibatkan pemindaian kerentanan secara teratur, penilaian risiko, dan penerapan tambalan dan pembaruan. Manajemen kerentanan yang efektif sangat penting untuk meminimalkan permukaan serangan dan mencegah serangan siber.  Pengujian penetrasi adalah praktik mengevaluasi keamanan sistem komputer dengan mensimulasikan serangan dunia nyata.  Pengujian penetrasi dilakukan oleh profesional keamanan yang disebut penetration tester, yang menggunakan berbagai alat dan teknik untuk mengidentifikasi kerentanan dalam sistem. Informasi ini kemudian digunakan untuk meningkatkan keamanan sistem. Analisis malware adalah proses memeriksa kode berbahaya untuk memahami perilaku, tujuan, dan metode penyebarannya. Analisis malware dilakukan oleh peneliti keamanan untuk mengidentifikasi kerentanan, mengembangkan deteksi, dan membuat strategi mitigasi. Analisis malware dapat berupa statis, di mana kode dianalisis tanpa dieksekusi, atau dinamis, di mana kode dieksekusi di lingkungan yang terkendali untuk mengamati perilakunya. Forensik digital adalah proses pengumpulan, pelestarian, analisis, dan pelaporan bukti digital yang ditemukan di komputer dan perangkat digital lainnya. Forensik digital digunakan untuk menyelidiki kejahatan siber, pelanggaran data, dan insiden keamanan lainnya. Penyelidik forensik digital menggunakan berbagai alat dan teknik untuk memulihkan data yang dihapus, menganalisis log sistem, dan merekonstruksi garis waktu peristiwa.  Bukti yang dikumpulkan dari forensik digital dapat digunakan dalam proses hukum.  Insiden keamanan adalah peristiwa atau serangkaian peristiwa yang dapat membahayakan kerahasiaan, integritas, atau ketersediaan sistem informasi.  Rencana respons insiden keamanan siber menguraikan langkah-langkah yang harus diambil organisasi untuk menangani insiden keamanan siber. Rencana ini harus mencakup prosedur untuk penahanan, pemberantasan, pemulihan, dan aktivitas pasca-insiden.  Rencana respons insiden yang efektif membantu organisasi merespons insiden keamanan siber dengan cepat dan efisien, meminimalkan dampak pada operasi bisnis.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah organisasi mengalami rata-rata 2 insiden keamanan per bulan, dan biaya rata-rata untuk menangani insiden keamanan adalah $10.000, berapa total biaya yang dikeluarkan organisasi untuk menangani insiden keamanan dalam setahun?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "$20.000"
+                        },
+                        {
+                            "id": "b",
+                            "text": "$120.000"
+                        },
+                        {
+                            "id": "c",
+                            "text": "$240.000"
+                        },
+                        {
+                            "id": "d",
+                            "text": "$200.000"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Total insiden dalam setahun = 2 insiden/bulan * 12 bulan = 24 insiden. Total biaya = 24 insiden * $10.000/insiden = $240.000."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Model CIA triad terdiri dari kerahasiaan, integritas, dan autentikasi.",
+                    "correct_answer": false,
+                    "explanation": "Salah.  Model CIA triad terdiri dari kerahasiaan, integritas, dan ketersediaan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan VPN?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Virtual Private Network"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Versatile Public Network"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Virtual Protected Network"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Validated Personal Network"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "VPN adalah singkatan dari Virtual Private Network."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan teknik kriptografi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Enkripsi data"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Tanda tangan digital"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Firewall"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Fungsi hash"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Enkripsi data, tanda tangan digital, dan fungsi hash adalah teknik kriptografi. Firewall adalah mekanisme keamanan jaringan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika seorang penetration tester berhasil menemukan 5 kerentanan kritis dalam sebuah sistem, dan biaya rata-rata untuk memperbaiki kerentanan kritis adalah $2.000, berapa total biaya yang dibutuhkan untuk memperbaiki semua kerentanan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "$2.000"
+                        },
+                        {
+                            "id": "b",
+                            "text": "$10.000"
+                        },
+                        {
+                            "id": "c",
+                            "text": "$5.000"
+                        },
+                        {
+                            "id": "d",
+                            "text": "$20.000"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Total biaya = 5 kerentanan * $2.000/kerentanan = $10.000."
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,1181 @@
+[
+    {
+        "context": "Gempa bumi adalah getaran atau guncangan yang terjadi di permukaan bumi akibat pelepasan energi dari dalam bumi secara tiba-tiba.  Energi ini dilepaskan ketika batuan di kerak bumi pecah atau bergeser, menciptakan gelombang seismik yang merambat melalui bumi.  Gempa bumi dapat disebabkan oleh berbagai faktor, termasuk aktivitas tektonik, aktivitas vulkanik, dan aktivitas manusia seperti ledakan tambang.  Sebagian besar gempa bumi terjadi di sepanjang batas lempeng tektonik, tempat lempeng-lempeng tersebut bertabrakan, bergeser, atau saling menjauh.  Kekuatan gempa bumi diukur menggunakan skala magnitudo, seperti skala Richter.  Skala Richter adalah skala logaritmik, yang berarti setiap peningkatan satu angka pada skala mewakili peningkatan sepuluh kali lipat dalam amplitudo gelombang seismik.  Gempa bumi dapat memiliki dampak yang menghancurkan, menyebabkan kerusakan bangunan, jalan, dan infrastruktur lainnya.  Gempa bumi juga dapat memicu tsunami, tanah longsor, dan bencana alam lainnya.  Ilmu yang mempelajari gempa bumi disebut seismologi.  Seismolog menggunakan seismometer untuk mendeteksi dan mengukur gelombang seismik.  Data dari seismometer digunakan untuk menentukan lokasi, kekuatan, dan kedalaman gempa bumi.  Informasi ini dapat digunakan untuk membantu mengurangi dampak gempa bumi di masa depan.  Upaya mitigasi gempa bumi termasuk membangun bangunan tahan gempa, mengembangkan sistem peringatan dini, dan mendidik masyarakat tentang cara mempersiapkan dan merespons gempa bumi.  Gempa bumi adalah fenomena alam yang telah terjadi selama jutaan tahun, dan mereka akan terus terjadi di masa depan.  Dengan memahami penyebab dan dampak gempa bumi, kita dapat mengambil langkah-langkah untuk mengurangi risiko dan melindungi diri kita sendiri dan komunitas kita dari bencana ini.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang menyebabkan gempa bumi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pelepasan energi dari dalam bumi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Aktivitas matahari"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Perubahan cuaca"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pasang surut laut"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Gempa bumi disebabkan oleh pelepasan energi dari dalam bumi."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Sebagian besar gempa bumi terjadi di tengah lempeng tektonik.",
+                    "correct_answer": false,
+                    "explanation": "Sebagian besar gempa bumi terjadi di sepanjang batas lempeng tektonik."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Skala apa yang digunakan untuk mengukur kekuatan gempa bumi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Skala Celsius"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Skala Fahrenheit"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Skala Richter"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Skala Kelvin"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Skala Richter digunakan untuk mengukur kekuatan gempa bumi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja dampak gempa bumi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kerusakan bangunan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Tsunami"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Hujan asam"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Tanah longsor"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Gempa bumi dapat menyebabkan kerusakan bangunan, tsunami, dan tanah longsor."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa nama ilmu yang mempelajari gempa bumi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Seismologi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Vulkanologi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Meteorologi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Astronomi"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Ilmu yang mempelajari gempa bumi disebut seismologi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Gunung berapi adalah fitur geologis di kerak bumi di mana magma (batuan cair), gas vulkanik, dan abu meletus ke permukaan. Letusan ini dapat berkisar dari efusif, di mana lava mengalir perlahan menuruni lereng gunung berapi, hingga eksplosif, di mana abu dan gas vulkanik terlontar ke atmosfer. Gunung berapi biasanya ditemukan di sepanjang batas lempeng tektonik, di mana lempeng-lempeng tersebut bertabrakan atau saling menjauh.  Beberapa gunung berapi juga terbentuk di atas titik panas, di mana magma naik dari mantel ke permukaan. Letusan gunung berapi dapat memiliki dampak yang signifikan terhadap lingkungan, termasuk perubahan iklim, hujan asam, dan tanah longsor.  Mereka juga dapat menyebabkan kerusakan yang meluas pada properti dan hilangnya nyawa.  Namun, gunung berapi juga dapat memiliki efek positif, seperti menciptakan tanah yang subur dan sumber daya geotermal.  Ilmu yang mempelajari gunung berapi disebut vulkanologi.  Ahli vulkanologi mempelajari pembentukan, aktivitas, dan bahaya gunung berapi.  Mereka menggunakan berbagai alat dan teknik untuk memantau gunung berapi dan memprediksi letusan.  Informasi ini dapat digunakan untuk membantu mengurangi risiko yang terkait dengan letusan gunung berapi.  Banyak gunung berapi di seluruh dunia dipantau secara ketat untuk tanda-tanda aktivitas.  Sistem peringatan dini telah dikembangkan untuk memperingatkan masyarakat tentang potensi letusan dan memungkinkan evakuasi jika diperlukan.  Gunung berapi adalah kekuatan alam yang kuat yang telah membentuk planet kita selama jutaan tahun, dan mereka akan terus melakukannya di masa depan.  Dengan memahami gunung berapi, kita dapat lebih menghargai kekuatan dan keindahannya, serta mengurangi risiko yang terkait dengannya.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang meletus dari gunung berapi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Air"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Magma"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Es"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Udara"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Magma, gas vulkanik, dan abu meletus dari gunung berapi."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Gunung berapi selalu meletus secara eksplosif.",
+                    "correct_answer": false,
+                    "explanation": "Letusan gunung berapi dapat berkisar dari efusif hingga eksplosif."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Di manakah gunung berapi biasanya ditemukan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Di tengah benua"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Di sepanjang batas lempeng tektonik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Di dasar laut"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Di kutub"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Gunung berapi biasanya ditemukan di sepanjang batas lempeng tektonik."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja dampak letusan gunung berapi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Perubahan iklim"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Hujan asam"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Gempa bumi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Tanah longsor"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Letusan gunung berapi dapat menyebabkan perubahan iklim, hujan asam, dan tanah longsor."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa nama ilmu yang mempelajari gunung berapi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Seismologi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Vulkanologi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Meteorologi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Astronomi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Ilmu yang mempelajari gunung berapi disebut vulkanologi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Fotosintesis adalah proses biokimia yang menakjubkan yang digunakan oleh tumbuhan, alga, dan beberapa bakteri untuk mengubah energi cahaya menjadi energi kimia dalam bentuk gula. Proses ini sangat penting bagi kehidupan di Bumi, karena menyediakan sumber energi utama bagi sebagian besar ekosistem. Fotosintesis terjadi di dalam organel khusus yang disebut kloroplas, yang mengandung pigmen yang disebut klorofil. Klorofil menyerap energi cahaya dari matahari, yang kemudian digunakan untuk menggerakkan serangkaian reaksi kimia. Reaksi-reaksi ini mengubah karbon dioksida dan air menjadi glukosa, gula sederhana, dan oksigen. Oksigen dilepaskan ke atmosfer sebagai produk sampingan, sementara glukosa digunakan oleh tumbuhan untuk pertumbuhan, perkembangan, dan fungsi lainnya. Fotosintesis tidak hanya menyediakan energi untuk tumbuhan tetapi juga memainkan peran penting dalam siklus karbon global. Dengan menyerap karbon dioksida dari atmosfer, fotosintesis membantu mengatur iklim Bumi. Selain itu, oksigen yang dihasilkan selama fotosintesis sangat penting bagi respirasi hewan, yang merupakan proses kebalikan dari fotosintesis. Faktor-faktor seperti intensitas cahaya, konsentrasi karbon dioksida, suhu, dan ketersediaan air dapat memengaruhi laju fotosintesis. Para ilmuwan terus mempelajari fotosintesis untuk lebih memahami proses rumit ini dan potensinya untuk mengatasi tantangan global seperti perubahan iklim dan kekurangan pangan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama fotosintesis?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengubah energi cahaya menjadi energi kimia"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Memecah gula menjadi energi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menyerap oksigen dan melepaskan karbon dioksida"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengangkut nutrisi ke seluruh tumbuhan"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Fotosintesis mengubah energi cahaya menjadi energi kimia dalam bentuk gula."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Klorofil adalah pigmen yang menyerap energi cahaya dalam fotosintesis.",
+                    "correct_answer": true,
+                    "explanation": "Klorofil adalah pigmen yang terletak di kloroplas dan bertanggung jawab untuk menyerap cahaya."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa dua produk utama fotosintesis?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Karbon dioksida dan air"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Glukosa dan oksigen"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Air dan oksigen"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Karbon dioksida dan glukosa"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Glukosa dan oksigen adalah dua produk utama fotosintesis."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Organisme mana yang dapat melakukan fotosintesis?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Tumbuhan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Hewan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Alga"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Beberapa bakteri"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Tumbuhan, alga, dan beberapa bakteri dapat melakukan fotosintesis."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana fotosintesis membantu mengatur iklim Bumi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Dengan melepaskan panas ke atmosfer"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Dengan menyerap karbon dioksida dari atmosfer"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Dengan menghasilkan uap air"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Dengan memantulkan sinar matahari kembali ke luar angkasa"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Fotosintesis membantu mengatur iklim Bumi dengan menyerap karbon dioksida, gas rumah kaca, dari atmosfer."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sel merupakan unit dasar struktural dan fungsional dari semua makhluk hidup. Mereka adalah blok bangunan kehidupan, dan setiap organisme, dari bakteri terkecil hingga hewan terbesar, terdiri dari satu atau lebih sel. Sel sangat kecil dan kompleks, dan mereka melakukan berbagai fungsi penting untuk menjaga kehidupan. Sel memiliki beberapa komponen kunci, termasuk membran sel, sitoplasma, dan materi genetik. Membran sel adalah penghalang selektif yang mengelilingi sel, mengontrol apa yang masuk dan keluar. Sitoplasma adalah zat seperti jeli di dalam membran sel yang berisi semua organel sel, seperti mitokondria, ribosom, dan retikulum endoplasma. Materi genetik, DNA, berisi instruksi untuk semua aktivitas sel. Ada dua jenis sel utama: prokariotik dan eukariotik. Sel prokariotik, seperti bakteri, lebih sederhana dan tidak memiliki nukleus atau organel yang terikat membran. Sel eukariotik, seperti tumbuhan dan hewan, lebih kompleks dan memiliki nukleus dan organel yang terikat membran. Sel melakukan berbagai fungsi penting, termasuk memperoleh nutrisi, menghasilkan energi, mengeluarkan limbah, dan bereproduksi. Mereka juga berkomunikasi satu sama lain dan merespons rangsangan eksternal. Studi tentang sel disebut biologi sel, dan merupakan bidang penting dalam biologi. Para ilmuwan terus mempelajari sel untuk lebih memahami proses kehidupan dan mengembangkan pengobatan baru untuk penyakit.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan sel?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Unit dasar kehidupan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Organ terbesar dalam tubuh"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Jenis jaringan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Bentuk energi"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Sel adalah unit dasar struktural dan fungsional dari semua makhluk hidup."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Semua sel memiliki nukleus.",
+                    "correct_answer": false,
+                    "explanation": "Sel prokariotik tidak memiliki nukleus."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi membran sel?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menghasilkan energi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mengontrol apa yang masuk dan keluar sel"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menyimpan materi genetik"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Memecah limbah"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Membran sel adalah penghalang selektif yang mengontrol apa yang masuk dan keluar sel."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja komponen kunci sel?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Membran sel"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Dinding sel"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sitoplasma"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Materi genetik"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Komponen kunci sel termasuk membran sel, sitoplasma, dan materi genetik."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa nama studi tentang sel?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Ekologi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Genetika"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Biologi sel"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Evolusi"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Studi tentang sel disebut biologi sel."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Jaringan komputer adalah sekelompok komputer dan perangkat lain yang terhubung satu sama lain untuk berbagi sumber daya, seperti file, printer, dan koneksi internet. Jaringan dapat berkisar dari jaringan rumah kecil yang menghubungkan beberapa komputer dan printer hingga jaringan perusahaan besar yang menghubungkan ribuan komputer dan perangkat di beberapa lokasi. Jaringan memungkinkan pengguna untuk berkomunikasi satu sama lain, berbagi informasi, dan mengakses sumber daya bersama. Ada berbagai jenis jaringan komputer, termasuk LAN (Local Area Network), WAN (Wide Area Network), dan MAN (Metropolitan Area Network). LAN adalah jaringan yang mencakup area geografis kecil, seperti rumah, kantor, atau sekolah. WAN adalah jaringan yang mencakup area geografis yang luas, seperti negara atau benua. MAN adalah jaringan yang mencakup area metropolitan, seperti kota. Jaringan komputer telah merevolusi cara kita bekerja, berkomunikasi, dan mengakses informasi. Mereka memungkinkan kolaborasi, berbagi sumber daya, dan akses ke informasi dari mana saja di dunia. Jaringan juga memainkan peran penting dalam perkembangan internet, platform komunikasi dan informasi global. Jaringan komputer terus berkembang, dengan teknologi baru dan standar yang muncul untuk memenuhi kebutuhan pengguna yang terus meningkat.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan jaringan komputer?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Sekelompok komputer dan perangkat yang terhubung"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Satu komputer yang terhubung ke internet"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Jenis perangkat lunak"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Bentuk energi"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Jaringan komputer adalah sekelompok komputer dan perangkat lain yang terhubung satu sama lain."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "LAN mencakup area geografis yang lebih luas daripada WAN.",
+                    "correct_answer": false,
+                    "explanation": "LAN mencakup area geografis yang kecil, sedangkan WAN mencakup area yang luas."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Jaringan apa yang mencakup area metropolitan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "LAN"
+                        },
+                        {
+                            "id": "b",
+                            "text": "WAN"
+                        },
+                        {
+                            "id": "c",
+                            "text": "MAN"
+                        },
+                        {
+                            "id": "d",
+                            "text": "SAN"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "MAN (Metropolitan Area Network) mencakup area metropolitan."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja manfaat jaringan komputer?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Berbagi sumber daya"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Komunikasi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Keamanan yang lebih baik"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Akses ke informasi"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Jaringan komputer memungkinkan berbagi sumber daya, komunikasi, dan akses ke informasi."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jaringan komputer memainkan peran penting dalam perkembangan apa?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Televisi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Radio"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Internet"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Surat kabar"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Jaringan komputer memainkan peran penting dalam perkembangan internet."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Ekosistem adalah komunitas organisme hidup (tumbuhan, hewan, dan mikroba) yang berinteraksi satu sama lain dan dengan lingkungan fisiknya (udara, air, tanah, dan sinar matahari). Ekosistem dapat bervariasi dalam ukuran, mulai dari kolam kecil hingga hutan hujan besar. Setiap ekosistem memiliki struktur dan fungsi yang unik, dan mereka memainkan peran penting dalam menjaga keseimbangan alam.  Komponen utama ekosistem termasuk produsen (tumbuhan), konsumen (hewan), dan pengurai (bakteri dan jamur). Produsen mengubah energi matahari menjadi energi kimia melalui fotosintesis, yang kemudian dikonsumsi oleh konsumen. Pengurai memecah bahan organik mati, melepaskan nutrisi kembali ke lingkungan untuk digunakan oleh produsen.  Ekosistem juga dipengaruhi oleh faktor abiotik, seperti iklim, topografi, dan jenis tanah. Faktor-faktor ini dapat memengaruhi jenis organisme yang dapat hidup di ekosistem dan bagaimana mereka berinteraksi satu sama lain.  Ekosistem saling berhubungan dan bergantung satu sama lain. Perubahan pada satu ekosistem dapat memiliki efek riak di seluruh dunia. Manusia memiliki dampak yang signifikan terhadap ekosistem, dan penting bagi kita untuk memahami bagaimana tindakan kita memengaruhi lingkungan.  Konservasi ekosistem sangat penting untuk menjaga keanekaragaman hayati dan memastikan kesehatan planet kita.  Para ilmuwan mempelajari ekosistem untuk lebih memahami bagaimana mereka berfungsi dan bagaimana melindunginya dari degradasi. Ekologi adalah studi tentang interaksi antara organisme dan lingkungannya, dan merupakan bidang penting dalam biologi.  Dengan mempelajari ekologi, kita dapat belajar bagaimana hidup berkelanjutan dengan alam dan melestarikan sumber daya kita untuk generasi mendatang.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan ekosistem?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Komunitas organisme hidup dan lingkungan fisiknya"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sekelompok hewan dari spesies yang sama"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Jenis tumbuhan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Bentuk energi"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Ekosistem adalah komunitas organisme hidup dan lingkungan fisiknya."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Pengurai adalah organisme yang menghasilkan makanan sendiri.",
+                    "correct_answer": false,
+                    "explanation": "Pengurai memecah bahan organik mati."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Organisme apa yang mengubah energi matahari menjadi energi kimia?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Produsen"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Konsumen"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pengurai"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Detritivor"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Produsen, seperti tumbuhan, mengubah energi matahari menjadi energi kimia melalui fotosintesis."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja komponen biotik ekosistem?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Tumbuhan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Air"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Hewan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sinar matahari"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c"
+                    ],
+                    "explanation": "Komponen biotik ekosistem termasuk tumbuhan dan hewan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa nama studi tentang interaksi antara organisme dan lingkungannya?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Ekologi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Genetika"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Biologi sel"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Evolusi"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Studi tentang interaksi antara organisme dan lingkungannya disebut ekologi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Hutan hujan tropis adalah ekosistem yang rimbun dan beragam yang ditemukan di dekat khatulistiwa. Mereka ditandai dengan suhu hangat, curah hujan yang tinggi, dan keanekaragaman hayati yang luar biasa. Hutan hujan tropis adalah rumah bagi lebih dari separuh spesies tumbuhan dan hewan di dunia, meskipun hanya menutupi sekitar 6% permukaan tanah Bumi. Kanopi hutan hujan, lapisan atas yang dibentuk oleh tajuk pohon yang tinggi, menciptakan lingkungan yang unik bagi banyak spesies yang beradaptasi untuk hidup di habitat ini. Hutan hujan tropis memainkan peran penting dalam mengatur iklim global, karena mereka menyerap sejumlah besar karbon dioksida dari atmosfer. Mereka juga merupakan sumber penting obat-obatan, makanan, dan sumber daya lainnya. Sayangnya, hutan hujan tropis berada di bawah ancaman yang semakin besar dari deforestasi, yang disebabkan oleh aktivitas manusia seperti penebangan, pertanian, dan pertambangan. Hilangnya hutan hujan tropis memiliki dampak yang menghancurkan terhadap keanekaragaman hayati, iklim global, dan penghidupan masyarakat lokal. Upaya konservasi sedang dilakukan untuk melindungi hutan hujan tropis dan keanekaragaman hayati mereka. Upaya-upaya ini termasuk menciptakan kawasan lindung, mempromosikan praktik kehutanan berkelanjutan, dan mendukung mata pencaharian alternatif bagi masyarakat lokal.  Hutan hujan tropis adalah ekosistem yang berharga dan sangat penting untuk kesehatan planet kita.  Dengan melindunginya, kita dapat membantu memastikan masa depan yang berkelanjutan bagi semua kehidupan di Bumi.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Di manakah hutan hujan tropis biasanya ditemukan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Dekat kutub"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Di gurun"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Dekat khatulistiwa"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Di pegunungan"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Hutan hujan tropis ditemukan di dekat khatulistiwa."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Hutan hujan tropis memiliki keanekaragaman hayati yang rendah.",
+                    "correct_answer": false,
+                    "explanation": "Hutan hujan tropis memiliki keanekaragaman hayati yang sangat tinggi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan kanopi hutan hujan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Lapisan tanah di hutan hujan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Lapisan atas yang dibentuk oleh tajuk pohon"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sungai yang mengalir melalui hutan hujan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Hewan yang hidup di hutan hujan"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Kanopi hutan hujan adalah lapisan atas yang dibentuk oleh tajuk pohon yang tinggi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja ancaman terhadap hutan hujan tropis?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Deforestasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perubahan iklim"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Polusi udara"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Perburuan liar"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Ancaman terhadap hutan hujan tropis termasuk deforestasi, perubahan iklim, dan perburuan liar."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Mengapa hutan hujan tropis penting bagi iklim global?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mereka melepaskan oksigen ke atmosfer"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mereka menyerap karbon dioksida dari atmosfer"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mereka mengatur suhu global"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Semua jawaban di atas"
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Hutan hujan tropis penting bagi iklim global karena mereka melepaskan oksigen, menyerap karbon dioksida, dan membantu mengatur suhu."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Siklus karbon adalah proses biogeokimia yang menggambarkan pergerakan karbon melalui berbagai reservoir di Bumi, termasuk atmosfer, lautan, daratan, dan biosfer. Karbon adalah unsur penting bagi kehidupan, dan siklus karbon memainkan peran kunci dalam mengatur iklim Bumi.  Siklus karbon melibatkan berbagai proses, termasuk fotosintesis, respirasi, pembakaran, dan pelapukan.  Selama fotosintesis, tumbuhan dan organisme fotosintetik lainnya menyerap karbon dioksida dari atmosfer dan mengubahnya menjadi senyawa organik, seperti gula.  Respirasi adalah proses kebalikannya, di mana organisme hidup memecah senyawa organik dan melepaskan karbon dioksida kembali ke atmosfer.  Pembakaran bahan bakar fosil, seperti batu bara dan minyak, juga melepaskan karbon dioksida ke atmosfer.  Pelapukan batuan dapat melepaskan karbon yang tersimpan dalam bentuk mineral karbonat.  Siklus karbon adalah sistem yang kompleks dan dinamis, dan dipengaruhi oleh aktivitas manusia.  Pembakaran bahan bakar fosil dan deforestasi telah meningkatkan jumlah karbon dioksida di atmosfer, yang menyebabkan perubahan iklim.  Perubahan iklim dapat memiliki berbagai dampak, termasuk kenaikan permukaan laut, peristiwa cuaca ekstrem yang lebih sering dan intens, dan perubahan pola curah hujan.  Penting bagi kita untuk memahami siklus karbon dan bagaimana aktivitas kita memengaruhinya.  Dengan mengurangi emisi karbon dan melindungi ekosistem alami, kita dapat membantu mengurangi dampak perubahan iklim dan memastikan masa depan yang berkelanjutan bagi planet kita.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dijelaskan oleh siklus karbon?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pergerakan air di Bumi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pergerakan karbon di Bumi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pergerakan nitrogen di Bumi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pergerakan fosfor di Bumi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Siklus karbon menggambarkan pergerakan karbon melalui berbagai reservoir di Bumi."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Karbon tidak penting bagi kehidupan.",
+                    "correct_answer": false,
+                    "explanation": "Karbon adalah unsur penting bagi kehidupan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Proses apa yang menyerap karbon dioksida dari atmosfer?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Respirasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pembakaran"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Fotosintesis"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pelapukan"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Fotosintesis menyerap karbon dioksida dari atmosfer."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja reservoir karbon di Bumi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Atmosfer"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Lautan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Daratan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Ruang angkasa"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Reservoir karbon di Bumi termasuk atmosfer, lautan, dan daratan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana aktivitas manusia memengaruhi siklus karbon?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pembakaran bahan bakar fosil"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Deforestasi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pertanian"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Semua jawaban di atas"
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Aktivitas manusia seperti pembakaran bahan bakar fosil, deforestasi, dan pertanian memengaruhi siklus karbon."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Air adalah zat penting bagi semua bentuk kehidupan yang diketahui.  Air menutupi sekitar 71% permukaan bumi, dan merupakan komponen utama dari sel, jaringan, dan organ semua organisme hidup.  Air memiliki sifat unik yang menjadikannya penting bagi kehidupan, termasuk kemampuannya untuk melarutkan banyak zat, kapasitas panasnya yang tinggi, dan sifat kohesinya dan adhesinya.  Air ada dalam tiga wujud: padat (es), cair (air), dan gas (uap air).  Siklus air, juga dikenal sebagai siklus hidrologi, adalah proses berkelanjutan yang menggambarkan pergerakan air di Bumi.  Siklus ini melibatkan proses penguapan, transpirasi, kondensasi, presipitasi, dan limpasan.  Air tawar sangat penting bagi manusia untuk minum, pertanian, dan industri.  Namun, hanya sekitar 2,5% air di Bumi adalah air tawar, dan sebagian besar terkunci di gletser dan lapisan es.  Kelangkaan air merupakan masalah yang semakin besar di banyak bagian dunia, dan penting bagi kita untuk melestarikan sumber daya air kita.  Polusi air juga merupakan masalah serius, dan dapat disebabkan oleh berbagai sumber, termasuk limbah industri, limpasan pertanian, dan limbah rumah tangga.  Polusi air dapat membahayakan kesehatan manusia dan lingkungan, dan penting bagi kita untuk mengambil langkah-langkah untuk mengurangi polusi dan melindungi sumber daya air kita.  Air adalah sumber daya berharga yang sangat penting bagi kehidupan di Bumi.  Dengan melestarikan dan melindungi sumber daya air kita, kita dapat membantu memastikan masa depan yang berkelanjutan bagi semua kehidupan di planet kita.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Berapa persen permukaan bumi yang ditutupi air?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "50%"
+                        },
+                        {
+                            "id": "b",
+                            "text": "60%"
+                        },
+                        {
+                            "id": "c",
+                            "text": "71%"
+                        },
+                        {
+                            "id": "d",
+                            "text": "80%"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Air menutupi sekitar 71% permukaan bumi."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Air hanya ada dalam satu wujud: cair.",
+                    "correct_answer": false,
+                    "explanation": "Air ada dalam tiga wujud: padat, cair, dan gas."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa nama lain dari siklus air?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Siklus karbon"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Siklus nitrogen"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Siklus hidrologi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Siklus oksigen"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Siklus air juga dikenal sebagai siklus hidrologi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja sifat unik air?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kemampuan melarutkan banyak zat"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kapasitas panas yang tinggi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sifat kohesi dan adhesi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Tidak berwarna dan tidak berbau"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Sifat unik air termasuk kemampuannya untuk melarutkan banyak zat, kapasitas panasnya yang tinggi, dan sifat kohesinya dan adhesinya."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Berapa persen air di Bumi adalah air tawar?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "25%"
+                        },
+                        {
+                            "id": "b",
+                            "text": "10%"
+                        },
+                        {
+                            "id": "c",
+                            "text": "2.5%"
+                        },
+                        {
+                            "id": "d",
+                            "text": "75%"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Hanya sekitar 2,5% air di Bumi adalah air tawar."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Atmosfer bumi adalah lapisan gas yang mengelilingi planet kita, ditahan oleh gravitasi bumi. Atmosfer memainkan peran penting dalam melindungi kehidupan di Bumi dengan menyerap radiasi ultraviolet yang berbahaya dari matahari, mengatur suhu, dan mendistribusikan air. Atmosfer terdiri dari beberapa lapisan, masing-masing dengan karakteristik uniknya sendiri. Lapisan terendah, troposfer, adalah tempat sebagian besar cuaca terjadi. Lapisan berikutnya, stratosfer, mengandung lapisan ozon, yang menyerap sebagian besar radiasi ultraviolet matahari. Lapisan mesosfer, termosfer, dan eksosfer adalah lapisan atas atmosfer, di mana udara semakin tipis. Komposisi atmosfer terutama nitrogen (sekitar 78%) dan oksigen (sekitar 21%), dengan sejumlah kecil gas lain seperti argon, karbon dioksida, neon, helium, dan metana.  Aktivitas manusia, seperti pembakaran bahan bakar fosil dan deforestasi, telah menyebabkan peningkatan konsentrasi gas rumah kaca di atmosfer, yang berkontribusi terhadap perubahan iklim. Perubahan iklim dapat memiliki berbagai dampak negatif pada Bumi, termasuk kenaikan permukaan laut, peristiwa cuaca ekstrem yang lebih sering dan intens, dan gangguan pada ekosistem.  Mempelajari atmosfer sangat penting untuk memahami dan mengatasi tantangan lingkungan ini. Para ilmuwan menggunakan berbagai alat dan teknik, termasuk satelit, balon cuaca, dan model komputer, untuk memantau dan mempelajari atmosfer. Informasi ini digunakan untuk memprediksi cuaca, melacak perubahan iklim, dan mengembangkan strategi untuk melindungi planet kita.  Melindungi atmosfer dari polusi dan mengurangi emisi gas rumah kaca sangat penting untuk memastikan masa depan yang berkelanjutan bagi semua kehidupan di Bumi.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama atmosfer bumi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Melindungi kehidupan di Bumi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menghasilkan makanan bagi tumbuhan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menyediakan habitat bagi hewan laut"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengontrol rotasi bumi"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Atmosfer melindungi kehidupan dengan menyerap radiasi UV, mengatur suhu, dan mendistribusikan air."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Lapisan ozon berada di troposfer.",
+                    "correct_answer": false,
+                    "explanation": "Lapisan ozon berada di stratosfer."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Gas apa yang paling melimpah di atmosfer bumi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Oksigen"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Nitrogen"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Karbon dioksida"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Argon"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Nitrogen adalah gas yang paling melimpah di atmosfer bumi (sekitar 78%)."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja dampak perubahan iklim?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kenaikan permukaan laut"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Peristiwa cuaca ekstrem"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Peningkatan keanekaragaman hayati"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Gangguan pada ekosistem"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Dampak perubahan iklim termasuk kenaikan permukaan laut, peristiwa cuaca ekstrem, dan gangguan pada ekosistem."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana para ilmuwan mempelajari atmosfer?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menggunakan satelit"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menggunakan balon cuaca"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menggunakan model komputer"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Semua jawaban di atas"
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Para ilmuwan menggunakan berbagai alat dan teknik, termasuk satelit, balon cuaca, dan model komputer, untuk mempelajari atmosfer."
+                }
+            ]
+        }
+    }
+]

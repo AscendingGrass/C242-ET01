@@ -1,0 +1,1173 @@
+[
+    {
+        "context": "Kekaisaran Romawi, salah satu peradaban paling berpengaruh dalam sejarah dunia, meninggalkan warisan abadi yang membentuk dunia Barat selama berabad-abad.  Berdiri selama lebih dari seribu tahun, Kekaisaran Romawi mencapai puncak kekuasaannya di bawah pemerintahan Kaisar Trajan pada abad ke-2 M, mengendalikan wilayah luas yang membentang dari Britania Raya hingga Timur Tengah.  Sistem hukum Romawi, arsitektur, bahasa, dan budaya telah memengaruhi perkembangan peradaban Barat secara signifikan.  Kekaisaran Romawi juga dikenal karena prestasi militernya, dengan legiun Romawi yang terkenal karena disiplin dan efektivitasnya dalam pertempuran.  Namun, Kekaisaran Romawi juga menghadapi banyak tantangan, termasuk korupsi politik, ketidakstabilan ekonomi, dan invasi barbar, yang pada akhirnya menyebabkan keruntuhan Kekaisaran Romawi Barat pada tahun 476 M.  Kekaisaran Romawi Timur, yang juga dikenal sebagai Kekaisaran Bizantium, terus bertahan selama seribu tahun lagi, melestarikan banyak aspek budaya dan tradisi Romawi.  Salah satu faktor kunci keberhasilan Kekaisaran Romawi adalah kemampuannya untuk beradaptasi dan mengintegrasikan budaya dan tradisi dari wilayah yang ditaklukkannya.  Jaringan jalan Romawi yang luas memfasilitasi perdagangan dan komunikasi di seluruh kekaisaran, sementara sistem hukum Romawi menyediakan kerangka kerja untuk pemerintahan dan keadilan.  Kekaisaran Romawi juga dikenal karena inovasi teknologinya, termasuk pembangunan saluran air, pemandian umum, dan amfiteater.  Kejayaan Romawi dibangun di atas fondasi pertanian yang kuat, dengan para petani menghasilkan surplus makanan yang mendukung pertumbuhan kota-kota dan tentara.  Sistem perbudakan juga memainkan peran penting dalam ekonomi Romawi, menyediakan tenaga kerja murah untuk pertanian, pertambangan, dan konstruksi.  Republik Romawi, pendahulu Kekaisaran Romawi, merupakan contoh awal demokrasi perwakilan, dengan para warga negara memilih pejabat untuk mewakili kepentingan mereka.  Namun, Republik Romawi akhirnya jatuh ke dalam perang saudara dan ketidakstabilan politik, yang membuka jalan bagi kebangkitan Kekaisaran Romawi di bawah pemerintahan Julius Caesar dan penerusnya, Augustus.  Kekaisaran Romawi meninggalkan warisan seni, sastra, dan filsafat yang kaya, dengan karya-karya seperti Aeneid karya Virgil dan Meditasi karya Marcus Aurelius yang masih dipelajari dan dihargai hingga saat ini.  Kekristenan, yang awalnya muncul sebagai sekte kecil di Yudea, menyebar ke seluruh Kekaisaran Romawi dan akhirnya menjadi agama resmi negara, yang memiliki dampak besar pada perkembangan peradaban Barat.  Kekaisaran Romawi adalah peradaban yang kompleks dan multifaset, dengan pengaruhnya yang masih terasa dalam banyak aspek kehidupan kita saat ini.  Dari sistem hukum hingga seni dan arsitektur, warisan Romawi terus menginspirasi dan membentuk dunia kita.  Kekaisaran Romawi memberikan kontribusi yang signifikan terhadap perkembangan bahasa, sastra, dan filsafat Barat.  Bahasa Latin, bahasa Kekaisaran Romawi, menjadi dasar bagi banyak bahasa Eropa modern, termasuk bahasa Prancis, Spanyol, Italia, dan Portugis.  Sastra Romawi, termasuk karya-karya Virgil, Ovid, dan Horace, telah memengaruhi banyak penulis dan penyair Barat selama berabad-abad.  Filsafat Romawi, yang dipengaruhi oleh filsafat Yunani, mengeksplorasi tema-tema seperti etika, politik, dan sifat realitas.  Stoicisme, sebuah sekolah filsafat yang menekankan pentingnya akal, kebajikan, dan pengendalian diri, sangat berpengaruh di Kekaisaran Romawi dan terus menjadi relevan hingga saat ini.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Kapan Kekaisaran Romawi Barat runtuh?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "1453 M"
+                        },
+                        {
+                            "id": "b",
+                            "text": "476 M"
+                        },
+                        {
+                            "id": "c",
+                            "text": "753 SM"
+                        },
+                        {
+                            "id": "d",
+                            "text": "27 SM"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Kekaisaran Romawi Barat runtuh pada tahun 476 M."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Kekaisaran Bizantium adalah nama lain dari Kekaisaran Romawi Timur.",
+                    "correct_answer": true,
+                    "explanation": "Benar, Kekaisaran Bizantium adalah nama lain dari Kekaisaran Romawi Timur."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa bahasa Kekaisaran Romawi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Yunani"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Latin"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Arab"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Persia"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Bahasa Latin adalah bahasa Kekaisaran Romawi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja faktor yang menyebabkan runtuhnya Kekaisaran Romawi Barat?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Korupsi politik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Invasi barbar"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Penyebaran agama Kristen"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kemajuan teknologi"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Korupsi politik dan invasi barbar adalah faktor-faktor yang berkontribusi pada runtuhnya Kekaisaran Romawi Barat."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Aeneid adalah karya sastra dari penulis Romawi mana?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Ovid"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Horace"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Virgil"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Cicero"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Aeneid ditulis oleh Virgil."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Mesir Kuno, sebuah peradaban yang berkembang di sepanjang Sungai Nil selama lebih dari tiga ribu tahun, dikenal karena prestasi monumentalnya dalam arsitektur, seni, dan agama.  Piramida, makam megah yang dibangun untuk para firaun, adalah bukti keahlian teknik dan organisasi masyarakat Mesir Kuno.  Hieroglif, sistem penulisan Mesir Kuno, memberikan wawasan berharga tentang kehidupan, kepercayaan, dan budaya mereka.  Para firaun, penguasa ilahi Mesir, memainkan peran sentral dalam agama dan politik, memimpin masyarakat yang sangat terstruktur dan hierarkis.  Sungai Nil, sumber kehidupan Mesir, menyediakan air untuk irigasi, transportasi, dan sumber makanan, memungkinkan perkembangan pertanian dan perdagangan yang mendukung pertumbuhan peradaban Mesir.  Siklus banjir tahunan Sungai Nil membawa tanah subur yang memperkaya lahan pertanian, memastikan panen yang melimpah.  Mumifikasi, praktik pengawetan jenazah, mencerminkan kepercayaan Mesir Kuno tentang kehidupan setelah kematian dan pentingnya menjaga tubuh untuk perjalanan akhirat.  Agama Mesir Kuno, politeistik dan kompleks, dipenuhi dengan dewa dan dewi yang mewakili kekuatan alam dan konsep abstrak.  Ra, dewa matahari, dianggap sebagai dewa pencipta, sementara Osiris, dewa dunia bawah, mengawasi penghakiman orang mati.  Kehidupan setelah kematian merupakan aspek penting dari kepercayaan Mesir Kuno, dengan orang mati diyakini menghadapi penghakiman di hadapan Osiris sebelum memasuki alam baka.  Seni Mesir Kuno, baik dalam bentuk patung, lukisan, maupun relief, dicirikan oleh gaya yang khas dan simbolisme religius yang kaya.  Patung-patung firaun, dewa, dan dewi ditempatkan di kuil dan makam, sementara lukisan dinding menghiasi dinding makam dan menceritakan kisah kehidupan orang mati.  Mesir Kuno mengembangkan sistem matematika dan astronomi yang canggih, digunakan untuk mengukur waktu, memprediksi banjir Sungai Nil, dan membangun piramida dan monumen lainnya.  Pengetahuan medis Mesir Kuno juga maju pada masanya, dengan para dokter menggunakan berbagai tanaman obat dan teknik bedah untuk mengobati penyakit dan cedera.  Mesir Kuno menjalin hubungan perdagangan yang luas dengan peradaban lain di Timur Tengah dan Mediterania, memperdagangkan emas, gading, dan barang-barang mewah lainnya dengan imbalan kayu, minyak, dan barang-barang lainnya.  Kekaisaran Mesir Kuno mencapai puncak kekuasaannya di bawah pemerintahan Kerajaan Baru pada milenium ke-2 SM, mengendalikan wilayah yang luas yang membentang dari Nubia hingga Levant.  Namun, Mesir Kuno akhirnya ditaklukkan oleh kekuatan asing, termasuk Persia, Yunani, dan Romawi, mengakhiri kemerdekaannya dan mengantar era baru dalam sejarah Mesir.  Warisan Mesir Kuno terus memikat dan menginspirasi dunia modern, dengan piramida, hieroglif, dan artefak lainnya yang memberikan kesaksian tentang peradaban yang luar biasa ini.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Sungai apa yang berperan penting dalam perkembangan peradaban Mesir Kuno?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Sungai Tigris"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sungai Efrat"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sungai Nil"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sungai Indus"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Sungai Nil adalah sumber kehidupan bagi Mesir Kuno."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Piramida adalah makam yang dibangun untuk para firaun.",
+                    "correct_answer": true,
+                    "explanation": "Benar, piramida adalah makam megah yang dibangun untuk para firaun."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa nama sistem penulisan Mesir Kuno?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Cuneiform"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Hieroglif"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Alfabet Fenisia"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Linear B"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Hieroglif adalah sistem penulisan Mesir Kuno."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Siapakah beberapa dewa penting dalam agama Mesir Kuno?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Ra"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Osiris"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Zeus"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Jupiter"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Ra, dewa matahari, dan Osiris, dewa dunia bawah, adalah dewa-dewa penting dalam agama Mesir Kuno."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Praktik pengawetan jenazah di Mesir Kuno disebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kremasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mumifikasi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Penguburan di laut"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pengeringan udara"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Mumifikasi adalah praktik pengawetan jenazah di Mesir Kuno."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Peradaban Yunani Kuno, yang berkembang di sekitar Laut Aegea dari abad ke-8 SM hingga abad ke-6 M, memberikan kontribusi yang sangat besar bagi perkembangan filsafat, seni, sastra, dan politik Barat.  Kota-kota negara Yunani, seperti Athena dan Sparta, mengembangkan bentuk pemerintahan yang berbeda, dengan Athena menjadi tempat lahir demokrasi.  Filsuf Yunani, seperti Socrates, Plato, dan Aristoteles, mengeksplorasi pertanyaan-pertanyaan mendasar tentang keberadaan manusia, pengetahuan, dan etika, meletakkan dasar bagi pemikiran Barat.  Seni dan arsitektur Yunani Kuno, dengan fokus pada harmoni, proporsi, dan keindahan, telah memengaruhi seniman dan arsitek selama berabad-abad.  Kuil Parthenon di Athena adalah contoh utama arsitektur Yunani Klasik.  Sastra Yunani Kuno, termasuk karya-karya Homer, Sophocles, dan Euripides, mengeksplorasi tema-tema universal seperti cinta, kehilangan, dan konflik manusia.  Mitologi Yunani, dengan dewa dan dewi yang tinggal di Gunung Olympus, memberikan kerangka kerja untuk memahami dunia dan tempat manusia di dalamnya.  Peradaban Yunani mencapai puncaknya selama Zaman Keemasan Athena pada abad ke-5 SM, periode kemajuan budaya dan intelektual yang luar biasa.  Namun, perang Peloponnesia antara Athena dan Sparta melemahkan Yunani, membuka jalan bagi penaklukan oleh Makedonia di bawah pimpinan Alexander Agung.  Alexander Agung menyebarkan budaya dan ide-ide Yunani ke seluruh kerajaannya yang luas, yang membentang dari Yunani hingga India, menciptakan era Helenistik yang memadukan budaya Yunani dan Timur.  Setelah kematian Alexander, kerajaannya terpecah menjadi beberapa kerajaan yang lebih kecil, menandai berakhirnya Zaman Keemasan Yunani.  Warisan Yunani Kuno terus menginspirasi dan membentuk dunia modern, dengan ide-ide dan nilai-nilai Yunani yang masih relevan hingga saat ini.  Dari demokrasi hingga filsafat dan seni, pengaruh Yunani dapat dilihat dalam banyak aspek kehidupan kita.  Salah satu kontribusi terpenting Yunani Kuno adalah pengembangan demokrasi, sebuah sistem pemerintahan di mana warga negara memiliki hak untuk berpartisipasi dalam pengambilan keputusan politik.  Athena, kota-negara Yunani yang paling kuat, mengembangkan bentuk demokrasi langsung di mana warga negara dapat memberikan suara langsung pada undang-undang dan kebijakan.  Demokrasi Athena menjadi model bagi sistem demokrasi modern di seluruh dunia.  Meskipun demokrasi Athena memiliki keterbatasan, seperti pengecualian wanita dan budak dari partisipasi politik, ia tetap merupakan pencapaian penting dalam sejarah politik.  Konsep kewarganegaraan, hak, dan tanggung jawab warga negara berkembang di Yunani Kuno dan terus menjadi prinsip utama demokrasi modern.  Gagasan tentang pemerintahan yang terbatas, di mana kekuasaan pemerintah dibatasi oleh hukum dan konstitusi, juga berakar pada Yunani Kuno.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Kota-negara Yunani manakah yang dikenal sebagai tempat lahir demokrasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Sparta"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Athena"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Thebes"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Korintus"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Athena adalah tempat lahir demokrasi."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Parthenon adalah contoh arsitektur Romawi.",
+                    "correct_answer": false,
+                    "explanation": "Parthenon adalah contoh arsitektur Yunani Klasik."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Siapakah filsuf Yunani yang terkenal dengan metode Sokratiknya?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Plato"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Aristoteles"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Socrates"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pythagoras"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Socrates terkenal dengan metode Sokratiknya."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja karya sastra Yunani Kuno yang terkenal?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Iliad"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Odisseia"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Aeneid"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Metamorfosis"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Iliad dan Odisseia adalah karya sastra Yunani Kuno yang terkenal, ditulis oleh Homer."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Siapa yang memimpin penyebaran budaya Yunani ke Timur?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pericles"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Alexander Agung"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Julius Caesar"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Augustus"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Alexander Agung memimpin penyebaran budaya Yunani ke Timur."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Kekaisaran Tiongkok, sebuah peradaban yang telah ada selama ribuan tahun, memiliki sejarah yang kaya dan kompleks yang ditandai dengan dinasti yang berganti-ganti, inovasi teknologi, dan pengaruh budaya yang luas. Dari Dinasti Shang hingga Dinasti Qing, Tiongkok telah memberikan kontribusi yang signifikan terhadap perkembangan seni, sastra, filsafat, dan ilmu pengetahuan dunia.  Tembok Besar Tiongkok, salah satu keajaiban dunia, adalah bukti keahlian teknik dan organisasi masyarakat Tiongkok kuno.  Konfusianisme, sebuah sistem filsafat dan etika yang dikembangkan oleh Konfusius, telah membentuk nilai-nilai dan kepercayaan masyarakat Tiongkok selama berabad-abad.  Dinasti Han, yang berkuasa dari abad ke-3 SM hingga abad ke-3 M, dianggap sebagai zaman keemasan dalam sejarah Tiongkok, dengan kemajuan signifikan dalam seni, sastra, dan ilmu pengetahuan.  Jalur Sutra, jaringan rute perdagangan kuno yang menghubungkan Tiongkok dengan dunia Barat, memfasilitasi pertukaran barang, ide, dan budaya antara Timur dan Barat.  Penemuan bubuk mesiu, kompas, dan percetakan di Tiongkok telah merevolusi peperangan, navigasi, dan penyebaran pengetahuan di seluruh dunia.  Porselen Tiongkok, yang terkenal karena keindahan dan kualitasnya, menjadi barang dagangan yang berharga di seluruh dunia.  Kekaisaran Jepang, meskipun secara geografis terpisah dari Tiongkok, memiliki sejarah yang saling terkait dengan Tiongkok, dengan pengaruh budaya dan teknologi yang mengalir antara kedua negara.  Sistem feodal Jepang, dengan samurai sebagai kelas prajurit, memainkan peran penting dalam membentuk masyarakat dan politik Jepang.  Zen Buddhisme, yang diperkenalkan dari Tiongkok ke Jepang, telah memengaruhi seni, sastra, dan filsafat Jepang.  Periode Edo, masa perdamaian dan stabilitas di Jepang dari abad ke-17 hingga abad ke-19, menyaksikan perkembangan seni dan budaya Jepang yang unik.  Ukiyo-e, genre seni Jepang yang menggambarkan kehidupan sehari-hari dan pemandangan alam, menjadi populer selama periode ini.  Restorasi Meiji pada tahun 1868 menandai transformasi Jepang dari masyarakat feodal menjadi negara modern yang kuat, dengan industrialisasi dan modernisasi yang cepat.  Eropa, benua yang beragam dengan sejarah yang panjang dan kompleks, telah menjadi tempat lahir banyak peradaban dan kerajaan yang berpengaruh.  Dari Yunani Kuno dan Romawi hingga Kekaisaran Prancis dan Inggris, Eropa telah memainkan peran penting dalam membentuk sejarah dunia.  Renaisans, sebuah periode kebangkitan intelektual dan artistik di Eropa pada abad ke-14 hingga ke-17, menandai transisi dari Abad Pertengahan ke Zaman Modern.  Leonardo da Vinci, Michelangelo, dan Raphael adalah beberapa seniman dan ilmuwan terkemuka dari periode ini.  Revolusi Ilmiah, sebuah periode kemajuan pesat dalam ilmu pengetahuan pada abad ke-16 dan ke-17, mengubah pemahaman kita tentang dunia dan meletakkan dasar bagi ilmu pengetahuan modern.  Nicolaus Copernicus, Galileo Galilei, dan Isaac Newton adalah beberapa tokoh kunci dari Revolusi Ilmiah.  Revolusi Industri, yang dimulai di Inggris pada abad ke-18, mentransformasi produksi, transportasi, dan masyarakat, mengarah pada pertumbuhan ekonomi yang belum pernah terjadi sebelumnya dan perubahan sosial yang signifikan.  Penemuan mesin uap dan perkembangan pabrik telah merevolusi industri manufaktur.  Perang Dunia I dan Perang Dunia II, dua konflik global yang menghancurkan pada abad ke-20, memiliki dampak yang mendalam pada Eropa dan dunia, menyebabkan jutaan kematian dan membentuk kembali tatanan politik global.  Setelah Perang Dunia II, Eropa mengalami periode rekonstruksi dan integrasi, dengan pembentukan Uni Eropa sebagai upaya untuk mempromosikan perdamaian dan kerja sama di antara negara-negara Eropa.  Sejarah dunia adalah permadani yang kaya dan kompleks yang dijalin dari benang-benang berbagai peradaban, budaya, dan peristiwa.  Dari Tiongkok kuno hingga Jepang modern dan Eropa yang beragam, setiap wilayah telah memberikan kontribusi uniknya sendiri terhadap sejarah umat manusia.  Mempelajari sejarah dunia memungkinkan kita untuk memahami masa lalu, menghargai keberagaman budaya, dan memperoleh wawasan berharga tentang kondisi manusia.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Dinasti apa yang dianggap sebagai zaman keemasan dalam sejarah Tiongkok?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Dinasti Shang"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Dinasti Qin"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Dinasti Han"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Dinasti Qing"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Dinasti Han dianggap sebagai zaman keemasan dalam sejarah Tiongkok."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Zen Buddhisme berasal dari Jepang.",
+                    "correct_answer": false,
+                    "explanation": "Zen Buddhisme diperkenalkan dari Tiongkok ke Jepang."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa nama periode perdamaian dan stabilitas di Jepang dari abad ke-17 hingga abad ke-19?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Periode Sengoku"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Periode Edo"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Periode Meiji"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Periode Taisho"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Periode Edo adalah masa perdamaian dan stabilitas di Jepang dari abad ke-17 hingga abad ke-19."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Penemuan apa saja yang berasal dari Tiongkok?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Bubuk mesiu"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kompas"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Percetakan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Teleskop"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Bubuk mesiu, kompas, dan percetakan ditemukan di Tiongkok."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Revolusi Industri dimulai di negara mana?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Prancis"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Jerman"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Inggris"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Amerika Serikat"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Revolusi Industri dimulai di Inggris."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Peradaban Islam, yang muncul pada abad ke-7 M di Jazirah Arab, dengan cepat menyebar ke seluruh Timur Tengah, Afrika Utara, dan Spanyol, meninggalkan jejak yang mendalam pada sejarah dunia.  Nabi Muhammad, pendiri Islam, menyatukan suku-suku Arab di bawah satu agama dan meletakkan dasar bagi sebuah kerajaan yang luas.  Al-Quran, kitab suci Islam, menjadi panduan bagi kehidupan umat Islam dan sumber inspirasi bagi seni, sastra, dan filsafat Islam.  Kekhalifahan Abbasiyah, yang berkuasa dari abad ke-8 hingga abad ke-13, dianggap sebagai zaman keemasan Islam, dengan kemajuan signifikan dalam ilmu pengetahuan, matematika, kedokteran, dan filsafat.  Ilmuwan Muslim, seperti Al-Khwarizmi, Ibnu Sina, dan Al-Razi, memberikan kontribusi penting bagi perkembangan aljabar, kedokteran, dan kimia.  Rumah Sakit di Baghdad dan Cordoba menjadi pusat pembelajaran dan pengobatan, menarik para sarjana dan pasien dari seluruh dunia.  Filsafat Islam, yang dipengaruhi oleh filsafat Yunani dan filsafat lainnya, mengeksplorasi pertanyaan-pertanyaan mendasar tentang keberadaan manusia, pengetahuan, dan etika.  Ibnu Rusyd, seorang filsuf Muslim terkemuka, dikenal karena komentarnya tentang karya-karya Aristoteles.  Seni dan arsitektur Islam, dengan fokus pada pola geometris, kaligrafi, dan penggunaan warna-warna cerah, telah memengaruhi seni dan arsitektur di seluruh dunia.  Masjid Cordoba dan Taj Mahal adalah contoh utama arsitektur Islam.  Peradaban Islam juga memberikan kontribusi penting bagi perkembangan navigasi, astronomi, dan kartografi.  Pelaut dan penjelajah Muslim, seperti Ibnu Battuta, menjelajahi dunia dan membawa kembali pengetahuan baru tentang geografi dan budaya yang berbeda.  Kekaisaran Ottoman, yang berkuasa dari abad ke-13 hingga abad ke-20, adalah salah satu kekaisaran terbesar dan terlama dalam sejarah, membentang dari Eropa Tenggara hingga Timur Tengah dan Afrika Utara.  Istanbul, ibu kota Kekaisaran Ottoman, menjadi pusat perdagangan, budaya, dan pembelajaran.  Kekaisaran Mughal, yang berkuasa di India dari abad ke-16 hingga abad ke-19, dikenal karena arsitektur megahnya, termasuk Taj Mahal, salah satu keajaiban dunia.  Kejatuhan Kekaisaran Ottoman setelah Perang Dunia I menyebabkan pembentukan negara-negara modern di Timur Tengah.  Warisan peradaban Islam terus menginspirasi dan membentuk dunia modern, dengan kontribusi Islam terhadap ilmu pengetahuan, seni, filsafat, dan budaya yang masih relevan hingga saat ini.  Dari matematika hingga kedokteran dan arsitektur, pengaruh Islam dapat dilihat dalam banyak aspek kehidupan kita. Peradaban Islam juga berkontribusi pada pelestarian dan penerjemahan teks-teks kuno Yunani dan Romawi, yang memainkan peran penting dalam Renaisans Eropa.  Para sarjana Muslim menerjemahkan karya-karya Aristoteles, Plato, dan ilmuwan Yunani lainnya ke dalam bahasa Arab, yang kemudian diterjemahkan ke dalam bahasa Latin dan bahasa-bahasa Eropa lainnya.  Proses ini membantu menyebarkan pengetahuan Yunani dan Romawi ke Eropa dan memicu kebangkitan intelektual dan artistik selama Renaisans.  Salah satu contoh pengaruh Islam pada Eropa adalah penggunaan angka Arab, yang berasal dari India dan diadopsi oleh para sarjana Muslim.  Angka Arab, yang lebih efisien daripada angka Romawi, menjadi sistem angka standar di Eropa dan memfasilitasi perkembangan matematika dan ilmu pengetahuan.  Pengaruh Islam juga dapat dilihat dalam seni dan arsitektur Eropa, dengan banyak bangunan dan karya seni Eropa yang menampilkan elemen-elemen desain Islam.  Misalnya, gaya arsitektur Moor, yang berkembang di Spanyol selama pemerintahan Islam, dicirikan oleh penggunaan lengkungan tapal kuda, ubin dekoratif, dan taman yang rumit.  Gaya arsitektur ini kemudian memengaruhi gaya arsitektur Eropa lainnya, seperti gaya Gotik dan Renaisans.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Siapakah pendiri agama Islam?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Abraham"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Musa"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Yesus"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Muhammad"
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Nabi Muhammad adalah pendiri agama Islam."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Al-Quran adalah kitab suci agama Kristen.",
+                    "correct_answer": false,
+                    "explanation": "Al-Quran adalah kitab suci agama Islam."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Kekhalifahan apa yang dianggap sebagai zaman keemasan Islam?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kekhalifahan Umayyah"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kekhalifahan Abbasiyah"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kekhalifahan Fatimiyah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kekhalifahan Ottoman"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Kekhalifahan Abbasiyah dianggap sebagai zaman keemasan Islam."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Siapakah beberapa ilmuwan Muslim yang terkenal?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Al-Khwarizmi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Ibnu Sina"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Archimedes"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Ptolemy"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Al-Khwarizmi dan Ibnu Sina adalah ilmuwan Muslim yang terkenal."
+                },
+                {
+                    "id": "5",
+                    "type": "multiple_choice",
+                    "question": "Taj Mahal dibangun oleh kekaisaran apa?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kekaisaran Ottoman"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kekaisaran Mughal"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kekaisaran Persia"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kekaisaran Maurya"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Taj Mahal dibangun oleh Kekaisaran Mughal."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sejarah dunia kuno dipenuhi dengan kebangkitan dan kejatuhan berbagai kerajaan dan peradaban.  Kerajaan-kerajaan ini, yang seringkali berpusat di sekitar sungai-sungai besar seperti Sungai Nil, Sungai Tigris dan Efrat, dan Sungai Indus, mengembangkan sistem pertanian, pemerintahan, dan budaya yang kompleks.  Mesir Kuno, yang terletak di sepanjang Sungai Nil, dikenal karena piramida, firaun, dan hieroglifnya.  Peradaban Mesopotamia, yang berkembang di antara Sungai Tigris dan Efrat, mengembangkan sistem penulisan cuneiform dan hukum Hammurabi.  Peradaban Lembah Indus, yang terletak di India modern dan Pakistan, dikenal karena perencanaan kota dan sistem sanitasinya yang maju.  Peradaban-peradaban kuno ini meletakkan dasar bagi perkembangan peradaban selanjutnya.  Mereka mengembangkan teknologi baru, seperti roda dan bajak, yang merevolusi pertanian dan transportasi.  Mereka juga mengembangkan bentuk-bentuk pemerintahan dan hukum yang baru, yang membantu mengatur masyarakat dan menjaga ketertiban.  Selain itu, peradaban kuno ini menghasilkan karya seni, sastra, dan arsitektur yang luar biasa, yang masih dikagumi hingga saat ini.  Kekaisaran Persia, yang berkuasa di Timur Tengah dari abad ke-6 hingga abad ke-4 SM, adalah salah satu kekaisaran terbesar dan terkuat pada zamannya.  Kekaisaran Persia dikenal karena toleransi agamanya dan sistem pemerintahannya yang terpusat.  Raja-raja Persia, seperti Cyrus Agung dan Darius Agung, membangun jaringan jalan dan sistem komunikasi yang luas untuk menghubungkan wilayah-wilayah yang luas di kekaisaran mereka.  Yunani Kuno, yang terdiri dari banyak kota-negara merdeka, dikenal karena kontribusinya terhadap filsafat, seni, sastra, dan demokrasi.  Filsuf Yunani, seperti Socrates, Plato, dan Aristoteles, meletakkan dasar bagi pemikiran Barat.  Seniman dan arsitek Yunani menciptakan karya-karya yang masih dipelajari dan dikagumi hingga saat ini.  Demokrasi Athena menjadi model bagi sistem demokrasi modern.  Kekaisaran Romawi, yang muncul dari sebuah republik kecil di Italia, tumbuh menjadi salah satu kekaisaran terbesar dan terkuat dalam sejarah.  Kekaisaran Romawi dikenal karena sistem hukum, arsitektur, dan prestasi militernya.  Legiun Romawi yang tangguh menaklukkan wilayah yang luas di Eropa, Afrika Utara, dan Timur Tengah.  Kekaisaran Romawi juga memainkan peran penting dalam penyebaran agama Kristen.  Kerajaan Maurya di India, yang didirikan oleh Chandragupta Maurya pada abad ke-4 SM, menyatukan sebagian besar anak benua India untuk pertama kalinya.  Kekaisaran Maurya dikenal karena pemerintahannya yang terpusat dan kebijakan sosialnya yang progresif.  Ashoka Agung, salah satu penguasa terbesar Kekaisaran Maurya, mempromosikan agama Buddha dan membangun banyak monumen dan prasasti di seluruh kerajaannya.  Peradaban Maya di Amerika Tengah, yang berkembang dari abad ke-3 hingga abad ke-10 M, dikenal karena sistem penulisan hieroglifnya, kalender yang canggih, dan pencapaiannya dalam matematika dan astronomi.  Suku Maya membangun kota-kota besar dan pusat upacara, seperti Tikal dan Chichen Itza, yang masih dapat dilihat hingga saat ini.  Peradaban kuno ini, meskipun beragam dalam budaya dan lokasinya, memiliki beberapa kesamaan.  Mereka semua mengembangkan sistem pertanian yang kompleks, membangun kota-kota dan monumen yang mengesankan, dan menciptakan bentuk-bentuk pemerintahan dan hukum yang baru.  Mereka juga meninggalkan warisan seni, sastra, dan filsafat yang kaya yang terus menginspirasi dan memengaruhi kita hingga saat ini.  Mempelajari sejarah dunia kuno memungkinkan kita untuk memahami asal-usul peradaban manusia dan menghargai keberagaman budaya dan pencapaian manusia sepanjang sejarah.  Sejarah dunia kuno memberikan pelajaran berharga tentang kebangkitan dan kejatuhan kerajaan, pentingnya inovasi dan adaptasi, dan dampak abadi dari ide dan kepercayaan pada masyarakat manusia.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Sistem penulisan apa yang dikembangkan oleh peradaban Mesopotamia?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Hieroglif"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Cuneiform"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Alfabet"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Hangul"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Peradaban Mesopotamia mengembangkan sistem penulisan cuneiform."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Piramida adalah ciri khas peradaban Lembah Indus.",
+                    "correct_answer": false,
+                    "explanation": "Piramida adalah ciri khas peradaban Mesir Kuno."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Kekaisaran Persia dikenal karena?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Intoleransi agamanya"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Toleransi agamanya"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sistem pemerintahan yang terdesentralisasi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Penaklukannya atas Amerika"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Kekaisaran Persia dikenal karena toleransi agamanya."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Filsuf Yunani manakah yang dikenal karena kontribusinya terhadap pemikiran Barat?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Socrates"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Plato"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Aristoteles"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Confucius"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Socrates, Plato, dan Aristoteles adalah filsuf Yunani yang terkenal."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Siapa yang mempromosikan agama Buddha di Kekaisaran Maurya?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Chandragupta Maurya"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Ashoka Agung"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kanishka"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Harsha"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Ashoka Agung mempromosikan agama Buddha di Kekaisaran Maurya."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Revolusi Amerika, yang berlangsung dari 1775 hingga 1783, adalah perang kemerdekaan yang diperjuangkan oleh Tiga Belas Koloni Amerika melawan Kerajaan Britania Raya.  Koloni-koloni tersebut, yang merasa tertindas oleh kebijakan pajak dan perdagangan Britania, mendeklarasikan kemerdekaan mereka pada tahun 1776 dan membentuk Amerika Serikat.  Perang Revolusi, yang dipimpin oleh tokoh-tokoh seperti George Washington, Thomas Jefferson, dan Benjamin Franklin, merupakan perjuangan panjang dan berdarah yang menguji tekad para penjajah.  Pertempuran Saratoga, sebuah kemenangan penting bagi Amerika, meyakinkan Prancis untuk bergabung dalam perang di pihak Amerika, memberikan bantuan militer dan keuangan yang penting.  Perjanjian Paris, yang ditandatangani pada tahun 1783, secara resmi mengakhiri perang dan mengakui kemerdekaan Amerika Serikat.  Revolusi Amerika menginspirasi gerakan kemerdekaan di seluruh dunia dan meletakkan dasar bagi perkembangan demokrasi di Amerika Serikat.  Deklarasi Kemerdekaan, yang ditulis oleh Thomas Jefferson, menyatakan bahwa semua manusia diciptakan sama dan memiliki hak-hak yang tidak dapat dicabut, termasuk hak atas kehidupan, kebebasan, dan mengejar kebahagiaan.  Konstitusi Amerika Serikat, yang diadopsi pada tahun 1788, menetapkan kerangka kerja bagi pemerintahan federal dan menjamin hak-hak dasar warga negara.  Amandemen pertama Konstitusi menjamin kebebasan beragama, kebebasan berbicara, kebebasan pers, kebebasan berkumpul, dan kebebasan untuk mengajukan petisi kepada pemerintah.  Revolusi Prancis, yang berlangsung dari 1789 hingga 1799, adalah periode pergolakan sosial dan politik yang signifikan di Prancis yang memiliki dampak besar pada Prancis dan seluruh Eropa.  Revolusi tersebut didorong oleh ketidakpuasan yang meluas terhadap monarki absolut dan sistem feodal.  Penyerbuan Bastille, sebuah penjara di Paris, pada 14 Juli 1789, dianggap sebagai awal Revolusi Prancis.  Deklarasi Hak Asasi Manusia dan Warga Negara, yang diadopsi pada tahun 1789, menyatakan prinsip-prinsip kebebasan, persamaan, dan persaudaraan.  Pemerintahan Teror, sebuah periode kekerasan dan eksekusi massal selama Revolusi Prancis, dipimpin oleh Maximilien Robespierre dan kaum Jacobin.  Napoleon Bonaparte, seorang jenderal militer yang brilian, merebut kekuasaan dalam kudeta pada tahun 1799 dan menyatakan dirinya sebagai Kaisar Prancis pada tahun 1804.  Napoleon memimpin serangkaian kampanye militer yang menaklukkan sebagian besar Eropa, tetapi akhirnya dikalahkan dalam Pertempuran Waterloo pada tahun 1815.  Revolusi Prancis mengakhiri monarki absolut di Prancis dan meletakkan dasar bagi perkembangan demokrasi dan republik di Eropa.  Revolusi Prancis juga menyebarkan ide-ide Pencerahan, seperti kebebasan, persamaan, dan persaudaraan, ke seluruh Eropa, memicu gerakan reformasi dan revolusi di negara-negara lain.  Revolusi Industri, yang dimulai di Inggris pada abad ke-18, mentransformasi produksi, transportasi, dan masyarakat, mengarah pada pertumbuhan ekonomi yang belum pernah terjadi sebelumnya dan perubahan sosial yang signifikan.  Penemuan mesin uap dan perkembangan pabrik telah merevolusi industri manufaktur.  Revolusi Industri juga menyebabkan urbanisasi yang cepat, dengan orang-orang bermigrasi dari pedesaan ke kota untuk mencari pekerjaan di pabrik.  Kondisi kerja di pabrik-pabrik awal seringkali keras dan berbahaya, dengan jam kerja yang panjang dan upah yang rendah.  Revolusi Industri juga menyebabkan munculnya kelas menengah baru dan peningkatan standar hidup bagi banyak orang.  Namun, Revolusi Industri juga menyebabkan masalah sosial baru, seperti polusi, kemiskinan, dan ketidaksetaraan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Tahun berapa Deklarasi Kemerdekaan Amerika ditandatangani?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "1775"
+                        },
+                        {
+                            "id": "b",
+                            "text": "1776"
+                        },
+                        {
+                            "id": "c",
+                            "text": "1783"
+                        },
+                        {
+                            "id": "d",
+                            "text": "1789"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Deklarasi Kemerdekaan Amerika ditandatangani pada tahun 1776."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Penyerbuan Bastille menandai awal Revolusi Amerika.",
+                    "correct_answer": false,
+                    "explanation": "Penyerbuan Bastille menandai awal Revolusi Prancis."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Siapa yang memimpin Pemerintahan Teror selama Revolusi Prancis?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Napoleon Bonaparte"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Louis XVI"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Maximilien Robespierre"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Marie Antoinette"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Maximilien Robespierre memimpin Pemerintahan Teror."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja prinsip yang dinyatakan dalam Deklarasi Hak Asasi Manusia dan Warga Negara?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kebebasan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Persamaan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Persaudaraan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Keadilan"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Prinsip-prinsip kebebasan, persamaan, dan persaudaraan dinyatakan dalam Deklarasi Hak Asasi Manusia dan Warga Negara."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Revolusi Industri dimulai di abad berapa?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "16"
+                        },
+                        {
+                            "id": "b",
+                            "text": "17"
+                        },
+                        {
+                            "id": "c",
+                            "text": "18"
+                        },
+                        {
+                            "id": "d",
+                            "text": "19"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Revolusi Industri dimulai pada abad ke-18."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Perang Dunia II, konflik global yang berlangsung dari tahun 1939 hingga 1945, merupakan perang paling mematikan dan menghancurkan dalam sejarah manusia. Perang ini melibatkan sebagian besar negara di dunia, termasuk semua kekuatan besar, yang akhirnya membentuk dua aliansi militer yang berlawanan: Sekutu dan Poros.  Perang ini ditandai oleh kematian massal warga sipil, termasuk Holocaust, genosida terhadap sekitar enam juta orang Yahudi Eropa.  Perang Dunia II dimulai dengan invasi Jerman ke Polandia pada 1 September 1939, yang memicu deklarasi perang oleh Prancis dan Britania Raya.  Pertempuran Britania, sebuah kampanye udara antara Jerman dan Britania Raya pada tahun 1940, merupakan titik balik penting dalam perang.  Serangan Jepang di Pearl Harbor pada 7 Desember 1941 membawa Amerika Serikat ke dalam perang.  Pendaratan Normandia pada 6 Juni 1944, yang dikenal sebagai D-Day, adalah invasi amfibi terbesar dalam sejarah dan menandai awal pembebasan Eropa Barat dari pendudukan Jerman.  Bom atom yang dijatuhkan di Hiroshima dan Nagasaki oleh Amerika Serikat pada Agustus 1945 memaksa Jepang untuk menyerah tanpa syarat, mengakhiri Perang Dunia II.  Perang Dingin, sebuah periode ketegangan geopolitik antara Amerika Serikat dan Uni Soviet dan sekutu masing-masing, berlangsung dari sekitar tahun 1947 hingga 1991.  Perang Dingin ditandai oleh perlombaan senjata nuklir, persaingan ideologis, dan konflik proksi di berbagai belahan dunia.  Tembok Berlin, yang dibangun oleh Jerman Timur pada tahun 1961, menjadi simbol pembagian Eropa dan Perang Dingin.  Krisis Rudal Kuba pada tahun 1962 membawa dunia ke ambang perang nuklir.  Runtuhnya Uni Soviet pada tahun 1991 menandai berakhirnya Perang Dingin dan munculnya Amerika Serikat sebagai satu-satunya negara adidaya di dunia.  Dekolonisasi, proses di mana koloni-koloni Eropa di Asia, Afrika, dan Amerika Latin memperoleh kemerdekaan mereka, berlangsung terutama pada paruh kedua abad ke-20.  Dekolonisasi seringkali disertai dengan perjuangan kemerdekaan yang keras dan konflik antara kekuatan kolonial dan gerakan nasionalis.  India, yang dipimpin oleh Mahatma Gandhi, memperoleh kemerdekaannya dari Britania Raya pada tahun 1947.  Aljazair memperoleh kemerdekaannya dari Prancis pada tahun 1962 setelah perang kemerdekaan yang panjang dan berdarah.  Banyak negara Afrika memperoleh kemerdekaan mereka pada tahun 1960-an, yang dikenal sebagai \"Tahun Afrika\".  Dekolonisasi menyebabkan munculnya banyak negara merdeka baru dan membentuk kembali tatanan politik dunia.  Gerakan Hak Sipil di Amerika Serikat, sebuah perjuangan untuk mengakhiri segregasi rasial dan diskriminasi terhadap orang Afrika-Amerika, berlangsung dari tahun 1950-an hingga 1960-an.  Martin Luther King Jr., seorang pemimpin kunci dalam Gerakan Hak Sipil, menganjurkan perlawanan tanpa kekerasan terhadap ketidakadilan rasial.  Undang-Undang Hak Sipil tahun 1964 dan Undang-Undang Hak Pilih tahun 1965 melarang diskriminasi berdasarkan ras, warna kulit, agama, jenis kelamin, atau asal kebangsaan dan menjamin hak pilih bagi semua warga negara.  Gerakan Hak Sipil mencapai kemajuan signifikan dalam mencapai kesetaraan rasial di Amerika Serikat, tetapi perjuangan untuk keadilan rasial masih berlanjut hingga saat ini. Sejarah dunia modern ditandai oleh peristiwa-peristiwa penting yang telah membentuk dunia kita saat ini.  Dari perang dan revolusi hingga gerakan sosial dan kemajuan teknologi, peristiwa-peristiwa ini telah memengaruhi kehidupan jutaan orang di seluruh dunia.  Mempelajari sejarah dunia modern memungkinkan kita untuk memahami asal-usul dunia kita saat ini dan mengatasi tantangan yang dihadapi umat manusia di abad ke-21. Memahami sejarah memungkinkan kita belajar dari masa lalu, menghargai keberagaman, dan bekerja menuju masa depan yang lebih baik.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Kapan Perang Dunia II dimulai?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "1914"
+                        },
+                        {
+                            "id": "b",
+                            "text": "1939"
+                        },
+                        {
+                            "id": "c",
+                            "text": "1941"
+                        },
+                        {
+                            "id": "d",
+                            "text": "1945"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Perang Dunia II dimulai pada tahun 1939."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Pendaratan Normandia terjadi pada tahun 1940.",
+                    "correct_answer": false,
+                    "explanation": "Pendaratan Normandia terjadi pada tahun 1944."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang menandai berakhirnya Perang Dingin?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pembangunan Tembok Berlin"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Krisis Rudal Kuba"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Runtuhnya Uni Soviet"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Perang Vietnam"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Runtuhnya Uni Soviet pada tahun 1991 menandai berakhirnya Perang Dingin."
+                },
+                {
+                    "id": 4,
+                    "type": "multiple_choice",
+                    "question": "Negara mana yang memperoleh kemerdekaannya dari Britania Raya pada tahun 1947?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "India"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Aljazair"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Vietnam"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Afrika Selatan"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "India memperoleh kemerdekaannya dari Britania Raya pada tahun 1947."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Siapa pemimpin kunci dalam Gerakan Hak Sipil di Amerika Serikat?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Malcolm X"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Martin Luther King Jr."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Rosa Parks"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Nelson Mandela"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Martin Luther King Jr. adalah pemimpin kunci dalam Gerakan Hak Sipil di Amerika Serikat."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Seni lukis telah ada selama berabad-abad, menjadi bentuk ekspresi manusia yang mendalam dan beragam.  Dari lukisan gua prasejarah hingga karya seni kontemporer, seni lukis mencerminkan kreativitas, imajinasi, dan perspektif seniman dari berbagai budaya dan periode waktu.  Lukisan gua, seperti yang ditemukan di Lascaux, Prancis, memberikan wawasan berharga tentang kehidupan dan kepercayaan manusia purba.  Seni lukis Mesir Kuno, dengan gaya yang khas dan simbolisme religiusnya, menghiasi dinding makam dan kuil, menceritakan kisah kehidupan orang mati dan dewa-dewi mereka.  Seni lukis Yunani Kuno, dengan fokus pada keindahan dan proporsi ideal, sering menggambarkan adegan mitologis dan kehidupan sehari-hari.  Seni lukis Romawi, yang dipengaruhi oleh seni Yunani, sering digunakan untuk tujuan dekoratif dan propaganda, menghiasi vila dan bangunan umum.  Selama Abad Pertengahan, seni lukis religius mendominasi, dengan ikon dan lukisan dinding yang menggambarkan adegan-adegan Alkitab dan tokoh-tokoh suci.  Renaisans, sebuah periode kebangkitan intelektual dan artistik di Eropa, menyaksikan perkembangan teknik melukis baru, seperti perspektif linear dan penggunaan cahaya dan bayangan yang realistis.  Leonardo da Vinci, Michelangelo, dan Raphael adalah beberapa seniman terkemuka dari periode ini, menciptakan karya-karya ikonik seperti Mona Lisa dan The Last Supper.  Pada abad ke-17, Barok dan Rococo muncul sebagai gaya seni lukis yang dominan, dengan fokus pada drama, emosi, dan ornamen yang rumit.  Caravaggio dan Rembrandt adalah dua seniman Barok terkemuka, dikenal karena penggunaan dramatis cahaya dan bayangan.  Impresionisme, sebuah gerakan seni lukis yang muncul di Prancis pada akhir abad ke-19, merevolusi seni lukis dengan fokus pada penggambaran kesan sekilas dari cahaya dan warna.  Claude Monet, Pierre-Auguste Renoir, dan Edgar Degas adalah beberapa seniman Impresionis terkemuka.  Post-Impresionisme, sebuah gerakan yang muncul setelah Impresionisme, mengeksplorasi berbagai gaya dan teknik, dengan seniman seperti Vincent van Gogh, Paul Cézanne, dan Paul Gauguin mengembangkan gaya unik mereka sendiri.  Ekspresionisme, sebuah gerakan seni lukis yang muncul pada awal abad ke-20, menekankan ekspresi emosi dan pengalaman subjektif seniman.  Edvard Munch dan Ernst Ludwig Kirchner adalah dua seniman Ekspresionis terkemuka.  Kubisme, sebuah gerakan seni lukis yang muncul pada awal abad ke-20, memecah objek menjadi bentuk-bentuk geometris dan menyajikannya dari berbagai sudut pandang secara bersamaan.  Pablo Picasso dan Georges Braque adalah dua seniman Kubisme terkemuka.  Surealisme, sebuah gerakan seni lukis yang muncul pada tahun 1920-an, mengeksplorasi dunia mimpi dan alam bawah sadar.  Salvador Dalí dan René Magritte adalah dua seniman Surealis terkemuka.  Seni lukis abstrak, yang muncul pada pertengahan abad ke-20, meninggalkan representasi figuratif dan fokus pada bentuk, warna, dan komposisi.  Wassily Kandinsky dan Piet Mondrian adalah dua seniman abstrak terkemuka.  Seni lukis kontemporer mencakup berbagai gaya dan teknik, mencerminkan keberagaman dan globalisasi dunia seni.  Seni lukis terus berkembang dan berinovasi, dengan seniman terus mengeksplorasi cara-cara baru untuk mengekspresikan diri dan merespons dunia di sekitar mereka.  Dari lukisan gua prasejarah hingga seni digital, seni lukis tetap menjadi bentuk ekspresi manusia yang penting dan relevan, mencerminkan kreativitas, imajinasi, dan perspektif seniman dari berbagai budaya dan periode waktu.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Lukisan di gua Lascaux memberikan wawasan tentang kehidupan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Manusia modern"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Manusia purba"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Bangsa Romawi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Bangsa Yunani"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Lukisan gua Lascaux memberikan wawasan tentang kehidupan manusia purba."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Seni lukis Mesir Kuno fokus pada realisme.",
+                    "correct_answer": false,
+                    "explanation": "Seni lukis Mesir Kuno memiliki gaya yang khas dan simbolisme religius."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Siapakah pelukis Mona Lisa?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Michelangelo"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Raphael"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Leonardo da Vinci"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Caravaggio"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Leonardo da Vinci adalah pelukis Mona Lisa."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Gerakan seni lukis apa yang muncul pada awal abad ke-20?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Impresionisme"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Ekspresionisme"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kubisme"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Barok"
+                        }
+                    ],
+                    "correct_answer": [
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Ekspresionisme dan Kubisme muncul pada awal abad ke-20."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Salvador Dalí dikenal sebagai seniman dari gerakan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kubisme"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Surealisme"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Impresionisme"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Ekspresionisme"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Salvador Dalí dikenal sebagai seniman Surealisme."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Musik adalah bentuk seni dan aktivitas budaya yang mediumnya adalah suara yang diorganisasikan dalam waktu.  Unsur-unsur umum musik adalah tinggi nada (yang mengatur melodi dan harmoni), ritme (dan konsep-konsep terkait tempo, meter, dan artikulasi), dinamika (kenyaringan dan kelembutan), dan kualitas sonik atau timbre dari suara musik (yang mencakup semua kualitas suara musik, seperti warna nada atau tekstur musik). Musik barat seringkali dibagi menjadi genre atau subgenre musik, meskipun garis pembagian genre seringkali halus dan terkadang terbuka untuk interpretasi individu, dengan selera dan perspektif individu memainkan peran.  Musik klasik adalah bentuk musik seni yang telah berkembang sejak Abad Pertengahan hingga saat ini.  Musik klasik Eropa umumnya dibedakan dari musik populer dan rakyat.  Musik populer adalah istilah luas yang mencakup berbagai genre musik yang menarik bagi khalayak luas, seperti pop, rock, jazz, dan hip hop.  Musik rakyat adalah musik tradisional yang diwariskan dari generasi ke generasi.  Musik dari berbagai budaya di seluruh dunia seringkali mencerminkan sejarah, tradisi, dan kepercayaan masyarakat tersebut.  Musik Afrika seringkali ditandai dengan ritme yang kompleks dan penggunaan instrumen perkusi.  Musik Asia seringkali menggunakan tangga nada dan ritme yang berbeda dari musik Barat.  Musik Amerika Latin seringkali ditandai dengan ritme yang hidup dan melodi yang merdu. Musik telah menjadi bagian integral dari kehidupan manusia selama berabad-abad, digunakan dalam berbagai konteks, mulai dari ritual keagamaan hingga hiburan.  Musik dapat membangkitkan emosi yang kuat, menginspirasi kreativitas, dan menyatukan orang-orang dari berbagai latar belakang.  Pada zaman modern, musik telah menjadi industri global, dengan artis dan musisi dari seluruh dunia berbagi musik mereka dengan khalayak luas melalui berbagai platform.  Teknologi telah merevolusi industri musik, dengan rekaman, radio, dan internet memungkinkan musik untuk diakses dan dinikmati oleh orang-orang di mana saja dan kapan saja.  Namun, teknologi juga telah menimbulkan tantangan bagi industri musik, seperti pembajakan dan penurunan penjualan musik fisik.  Mempelajari musik dapat memberikan banyak manfaat, termasuk meningkatkan keterampilan kognitif, mengembangkan kreativitas, dan meningkatkan kesejahteraan emosional.  Musik juga dapat menjadi alat yang ampuh untuk komunikasi dan ekspresi diri.  Dari musik klasik hingga musik populer dan musik dari berbagai budaya di seluruh dunia, musik memperkaya kehidupan kita dengan berbagai cara. Musik adalah bahasa universal yang dapat menjembatani perbedaan budaya dan menyatukan orang-orang dari semua lapisan masyarakat.  Musik adalah bentuk seni yang dinamis dan terus berkembang, dengan musisi terus bereksperimen dengan gaya dan teknologi baru untuk menciptakan musik baru dan menarik.  Dari orkestra simfoni hingga band rock dan musisi elektronik, dunia musik penuh dengan kreativitas dan inovasi.  Dari musik kuno hingga musik kontemporer, musik mencerminkan sejarah dan budaya umat manusia, dan akan terus memainkan peran penting dalam kehidupan kita di masa depan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa medium musik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Warna"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Suara"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Gerak"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kata-kata"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Musik menggunakan suara sebagai mediumnya."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Musik klasik dan musik populer adalah hal yang sama.",
+                    "correct_answer": false,
+                    "explanation": "Musik klasik belum tentu populer. Musik populer belum tentu klasik."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Musik rakyat diwariskan melalui?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Rekaman"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Buku"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Generasi ke generasi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Internet"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Musik rakyat diwariskan dari generasi ke generasi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja contoh genre musik populer?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "bintang"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pop"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Jazz"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Rock"
+                        }
+                    ],
+                    "correct_answer": [
+                        "b",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Pop, Jazz, dan Rock adalah contoh genre musik populer."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Teknologi apa yang telah merevolusi industri musik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Telegraf"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Telepon"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Internet"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mesin tik"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Internet telah merevolusi industri musik."
+                }
+            ]
+        }
+    }
+]

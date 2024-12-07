@@ -1,0 +1,1176 @@
+[
+    {
+        "context": "Dalam dunia deep learning, kita sering mendengar istilah 'neural network', 'matriks', dan 'vektor'. Ketiganya merupakan komponen penting yang saling terkait dan berperan dalam membangun model deep learning. Neural network, seperti namanya, terinspirasi oleh jaringan saraf biologis di otak manusia. Jaringan ini terdiri dari lapisan-lapisan neuron yang terhubung satu sama lain. Setiap koneksi antar neuron memiliki bobot yang menentukan seberapa besar pengaruh input dari neuron sebelumnya terhadap neuron berikutnya.  Proses pembelajaran dalam neural network melibatkan penyesuaian bobot-bobot ini agar model dapat memetakan input ke output yang diinginkan.  Input dan output dalam neural network direpresentasikan sebagai vektor. Vektor adalah kumpulan angka yang disusun dalam urutan tertentu.  Misalnya, dalam pengolahan gambar, setiap piksel gambar dapat direpresentasikan sebagai elemen dalam vektor.  Operasi matematika pada vektor, seperti penjumlahan dan perkalian skalar, digunakan dalam proses forward propagation dan backpropagation pada neural network.  Matriks adalah struktur dua dimensi yang terdiri dari baris dan kolom.  Matriks digunakan untuk merepresentasikan bobot koneksi antar lapisan dalam neural network.  Operasi perkalian matriks dengan vektor digunakan untuk menghitung output dari suatu lapisan berdasarkan input dari lapisan sebelumnya.  Pengetahuan tentang aljabar linear, khususnya operasi pada matriks dan vektor, sangat penting untuk memahami cara kerja deep learning.  Dengan memahami konsep dasar vektor dan matriks, kita dapat lebih mudah memahami arsitektur dan algoritma deep learning yang lebih kompleks.  Optimasi dalam deep learning sering melibatkan pencarian nilai optimal untuk bobot-bobot dalam matriks yang merepresentasikan koneksi antar neuron.  Berbagai algoritma optimasi, seperti gradient descent, digunakan untuk memperbarui bobot-bobot ini secara iteratif agar model dapat mencapai kinerja yang optimal.  Convolutional Neural Network (CNN) adalah salah satu arsitektur neural network yang sangat populer dalam pengolahan gambar.  CNN menggunakan operasi konvolusi, yang melibatkan perkalian matriks kernel dengan bagian-bagian dari gambar input.  Operasi konvolusi ini memungkinkan CNN untuk mengekstrak fitur-fitur penting dari gambar, seperti tepi, tekstur, dan bentuk.  Recurrent Neural Network (RNN) adalah jenis neural network yang dirancang untuk memproses data sekuensial, seperti teks dan deret waktu.  RNN memiliki koneksi berulang yang memungkinkan informasi dari langkah waktu sebelumnya untuk diingat dan digunakan dalam memproses langkah waktu saat ini.  Long Short-Term Memory (LSTM) adalah varian RNN yang lebih canggih dan mampu mengatasi masalah vanishing gradient yang sering terjadi pada RNN standar. LSTM memiliki mekanisme gerbang yang memungkinkan model untuk secara selektif mengingat atau melupakan informasi dari langkah waktu sebelumnya.  Transformer adalah arsitektur neural network yang relatif baru dan telah mencapai hasil yang mengesankan dalam berbagai tugas pemrosesan bahasa alami, seperti terjemahan mesin dan peringkasan teks.  Transformer menggunakan mekanisme self-attention yang memungkinkan model untuk memperhatikan hubungan antar kata dalam suatu kalimat.  Arsitektur deep learning terus berkembang, dengan model-model baru yang lebih canggih dan efisien yang terus dikembangkan.  Penelitian dalam deep learning terus dilakukan untuk meningkatkan kinerja model, mengurangi kompleksitas komputasi, dan mengembangkan aplikasi baru dalam berbagai bidang.  Deep learning telah merevolusi banyak bidang, termasuk visi komputer, pemrosesan bahasa alami, robotika, dan perawatan kesehatan.  Aplikasi deep learning terus berkembang dan memberikan dampak yang signifikan pada kehidupan kita sehari-hari. Backpropagation merupakan algoritma penting dalam deep learning yang digunakan untuk menghitung gradien dari fungsi loss terhadap bobot-bobot dalam neural network.  Gradien ini digunakan untuk memperbarui bobot-bobot selama proses pelatihan.  Chain rule dalam kalkulus digunakan dalam backpropagation untuk menghitung gradien secara efisien.  Forward propagation adalah proses menghitung output dari neural network berdasarkan input yang diberikan.  Backpropagation adalah proses menghitung gradien dari fungsi loss terhadap bobot-bobot dalam neural network.  Forward propagation dan backpropagation merupakan dua proses penting dalam pelatihan neural network.  Fungsi aktivasi, seperti ReLU, sigmoid, dan tanh, digunakan dalam neural network untuk memperkenalkan non-linearitas.  Fungsi aktivasi memungkinkan neural network untuk memodelkan hubungan non-linear antara input dan output.  Fungsi loss, seperti mean squared error dan cross-entropy, digunakan untuk mengukur perbedaan antara prediksi model dan nilai sebenarnya.  Optimizer, seperti gradient descent, Adam, dan RMSprop, digunakan untuk memperbarui bobot-bobot dalam neural network agar model dapat mencapai kinerja yang optimal.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang direpresentasikan sebagai vektor dalam neural network?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Bobot koneksi antar neuron"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Input dan output"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Struktur lapisan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Fungsi aktivasi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Input dan output dalam neural network direpresentasikan sebagai vektor, yang merupakan kumpulan angka yang disusun dalam urutan tertentu."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Matriks digunakan untuk merepresentasikan bobot koneksi antar lapisan dalam neural network.",
+                    "correct_answer": true,
+                    "explanation": "Benar. Matriks, struktur dua dimensi yang terdiri dari baris dan kolom, digunakan untuk merepresentasikan bobot koneksi antar lapisan dalam neural network."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Operasi apa yang digunakan dalam CNN untuk mengekstrak fitur dari gambar?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Konvolusi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pooling"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Normalisasi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Aktivasi"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "CNN menggunakan operasi konvolusi, yang melibatkan perkalian matriks kernel dengan bagian-bagian dari gambar input, untuk mengekstrak fitur-fitur penting."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan jenis RNN?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "LSTM"
+                        },
+                        {
+                            "id": "b",
+                            "text": "GRU"
+                        },
+                        {
+                            "id": "c",
+                            "text": "CNN"
+                        },
+                        {
+                            "id": "d",
+                            "text": "MLP"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "LSTM (Long Short-Term Memory) dan GRU (Gated Recurrent Unit) adalah varian RNN yang lebih canggih dan mampu mengatasi masalah vanishing gradient. CNN dan MLP bukanlah jenis RNN."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi dari fungsi aktivasi dalam neural network?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Memperkenalkan non-linearitas"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menghitung gradien"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Memperbarui bobot"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengukur perbedaan antara prediksi dan nilai sebenarnya"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Fungsi aktivasi, seperti ReLU, sigmoid, dan tanh, digunakan dalam neural network untuk memperkenalkan non-linearitas, yang memungkinkan model untuk memodelkan hubungan non-linear antara input dan output."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Deep learning merupakan subbidang dari machine learning yang berfokus pada algoritma yang terinspirasi oleh struktur dan fungsi otak yang disebut artificial neural networks (ANN). ANN terdiri dari banyak lapisan node yang saling terhubung, yang disebut neuron, yang memproses dan mengirimkan informasi.  Arsitektur dasar ANN melibatkan input layer, hidden layer, dan output layer. Input layer menerima data mentah, hidden layer mengekstrak fitur, dan output layer menghasilkan prediksi. Proses pembelajaran pada ANN melibatkan penyesuaian bobot koneksi antar neuron untuk meminimalkan perbedaan antara prediksi dan nilai sebenarnya.  Representasi data dalam deep learning seringkali menggunakan matriks dan vektor. Matriks adalah array dua dimensi yang menyimpan bobot koneksi antar neuron, sedangkan vektor mewakili input, output, atau aktivasi neuron.  Operasi matematika seperti perkalian matriks-vektor dan fungsi aktivasi non-linear digunakan untuk memproses informasi melalui jaringan.  Salah satu jenis ANN yang populer adalah Convolutional Neural Networks (CNN), yang dirancang khusus untuk memproses data grid-like seperti gambar. CNN menggunakan filter konvolusi untuk mengekstrak fitur spasial dari gambar, dan pooling layer untuk mengurangi dimensi data.  Arsitektur ini sangat efektif dalam tugas visi komputer seperti klasifikasi gambar dan deteksi objek. Recurrent Neural Networks (RNN) dirancang untuk memproses data sekuensial seperti teks atau deret waktu. RNN memiliki koneksi berulang yang memungkinkan informasi dari langkah waktu sebelumnya untuk mempengaruhi output saat ini.  Variasi RNN seperti LSTM dan GRU mengatasi masalah vanishing gradient yang dapat terjadi pada RNN standar.  Perkembangan arsitektur deep learning mengarah pada model yang lebih kompleks dan efisien seperti Transformer.  Transformer menggunakan mekanisme attention untuk mempertimbangkan hubungan antara berbagai bagian data sekuensial, dan telah mencapai hasil state-of-the-art dalam tugas Natural Language Processing (NLP).  Pelatihan model deep learning melibatkan proses forward dan backward propagation. Forward propagation menghitung output model berdasarkan input dan bobot yang ada. Backward propagation menghitung gradien dari fungsi loss terhadap bobot, yang kemudian digunakan oleh optimizer seperti gradient descent untuk memperbarui bobot dan meningkatkan kinerja model.  Overfitting adalah masalah umum dalam deep learning di mana model berkinerja sangat baik pada data pelatihan tetapi buruk pada data yang tidak terlihat.  Teknik regularisasi seperti dropout dan weight decay digunakan untuk mencegah overfitting dengan membatasi kompleksitas model.  Deep learning telah mencapai kemajuan yang signifikan dalam berbagai bidang seperti computer vision, natural language processing, dan robotika. Aplikasi deep learning berkisar dari pengenalan gambar dan suara hingga terjemahan mesin dan mobil self-driving.  Kemajuan dalam perangkat keras, khususnya GPU, telah memungkinkan pelatihan model deep learning yang lebih besar dan kompleks, yang berkontribusi pada peningkatan kinerja dan kemampuan model.  Penelitian dan pengembangan di bidang deep learning terus berlanjut, dengan fokus pada peningkatan efisiensi, skalabilitas, dan interpretasi model.  Bidang ini terus berkembang pesat dengan inovasi baru yang muncul secara teratur.  Transfer learning adalah teknik yang memungkinkan penggunaan kembali model yang telah dilatih sebelumnya pada tugas baru dengan data yang terbatas.  Teknik ini sangat berguna dalam aplikasi di mana data pelatihan sulit atau mahal untuk diperoleh.  Data augmentation adalah teknik lain yang digunakan untuk meningkatkan ukuran dan variasi data pelatihan dengan menerapkan transformasi seperti rotasi, translasi, dan flipping pada data yang ada.  Data augmentation membantu meningkatkan generalisasi model dan mengurangi overfitting.  Metrik evaluasi seperti akurasi, presisi, recall, dan F1-score digunakan untuk mengukur kinerja model deep learning pada tugas tertentu.  Pemilihan metrik yang tepat bergantung pada karakteristik data dan tujuan tugas.  Framework deep learning seperti TensorFlow dan PyTorch menyediakan tools dan library untuk membangun, melatih, dan men-deploy model deep learning.  Framework ini menyederhanakan proses pengembangan dan memungkinkan peneliti untuk bereksperimen dengan berbagai arsitektur dan algoritma.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa peran hidden layer dalam ANN?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menerima data mentah"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mengekstrak fitur"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menghasilkan prediksi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menghitung gradien"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Hidden layer berfungsi untuk mengekstrak fitur dari data yang diterima input layer."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "CNN dirancang khusus untuk memproses data sekuensial.",
+                    "correct_answer": false,
+                    "explanation": "CNN dirancang untuk data grid-like seperti gambar, bukan data sekuensial. RNN yang dirancang untuk data sekuensial."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang digunakan untuk mengatasi vanishing gradient pada RNN?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Dropout"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Weight decay"
+                        },
+                        {
+                            "id": "c",
+                            "text": "LSTM"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Konvolusi"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "LSTM dan GRU adalah variasi RNN yang digunakan untuk mengatasi masalah vanishing gradient."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam proses pelatihan deep learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Forward propagation"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Backward propagation"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Data augmentation"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Transfer learning"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Forward dan backward propagation adalah dua proses utama dalam pelatihan deep learning. Data augmentation dan transfer learning adalah teknik yang digunakan untuk meningkatkan atau mempercepat proses pelatihan, tetapi bukan bagian inti dari proses pelatihan itu sendiri."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa itu overfitting?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Model berkinerja buruk pada data pelatihan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Model berkinerja baik pada data pelatihan tetapi buruk pada data yang tidak terlihat"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Model berkinerja baik pada data pelatihan dan data yang tidak terlihat"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Model gagal konvergen selama pelatihan"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Overfitting terjadi ketika model terlalu kompleks dan 'menghafal' data pelatihan, sehingga tidak dapat menggeneralisasi dengan baik ke data baru."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Deep learning, cabang dari machine learning, telah merevolusi bidang kecerdasan buatan dengan kemampuannya untuk mempelajari representasi data yang kompleks dan hierarkis.  Konsep dasar deep learning melibatkan jaringan saraf tiruan (artificial neural networks/ANN) yang terdiri dari banyak lapisan yang saling terhubung. Setiap lapisan terdiri dari node, atau neuron, yang memproses informasi dan meneruskannya ke lapisan berikutnya.  Arsitektur deep learning yang paling umum digunakan adalah feedforward neural networks, di mana informasi mengalir dalam satu arah, dari input layer ke output layer.  Jenis jaringan ini cocok untuk tugas-tugas seperti klasifikasi dan regresi.  Convolutional Neural Networks (CNNs) adalah jenis khusus dari feedforward networks yang dirancang untuk memproses data grid-like, seperti gambar.  CNNs menggunakan filter konvolusi untuk mengekstrak fitur spasial dari data, yang membuatnya sangat efektif dalam tugas visi komputer.  Recurrent Neural Networks (RNNs) dirancang untuk memproses data sekuensial, seperti teks atau deret waktu. RNNs memiliki koneksi berulang yang memungkinkan informasi dari langkah waktu sebelumnya untuk mempengaruhi output saat ini.  Long Short-Term Memory (LSTM) networks adalah jenis RNN yang lebih canggih yang dapat mempelajari dependensi jangka panjang dalam data sekuensial.  Matriks dan vektor adalah komponen penting dalam deep learning. Matriks digunakan untuk menyimpan bobot koneksi antar neuron, sedangkan vektor digunakan untuk merepresentasikan input, output, dan aktivasi neuron.  Aljabar linear memainkan peran kunci dalam memahami dan mengimplementasikan algoritma deep learning.  Proses pelatihan model deep learning melibatkan dua langkah utama: forward propagation dan backpropagation.  Forward propagation menghitung output model berdasarkan input dan bobot yang ada.  Backpropagation menghitung gradien dari fungsi loss terhadap bobot, yang kemudian digunakan untuk memperbarui bobot dan meningkatkan kinerja model.  Fungsi aktivasi, seperti ReLU, sigmoid, dan tanh, digunakan untuk memperkenalkan non-linearitas ke dalam model, yang memungkinkannya mempelajari representasi data yang lebih kompleks.  Fungsi loss, seperti mean squared error dan cross-entropy, digunakan untuk mengukur perbedaan antara prediksi model dan nilai sebenarnya.  Optimizer, seperti gradient descent, Adam, dan RMSprop, digunakan untuk memperbarui bobot model selama proses pelatihan.  Overfitting adalah masalah umum dalam deep learning di mana model terlalu cocok dengan data pelatihan dan berkinerja buruk pada data yang tidak terlihat.  Teknik regularisasi, seperti dropout dan L1/L2 regularization, digunakan untuk mencegah overfitting.  Deep learning telah mencapai hasil yang mengesankan dalam berbagai tugas, termasuk pengenalan gambar, pemrosesan bahasa alami, dan robotika.  Model deep learning telah melampaui kinerja manusia dalam beberapa tugas, seperti bermain Go dan mengklasifikasikan gambar.  Penerapan deep learning terus berkembang dan mencakup berbagai bidang, seperti perawatan kesehatan, keuangan, dan transportasi.  Deep learning adalah bidang yang berkembang pesat, dengan penelitian dan pengembangan baru yang terus-menerus mendorong batas-batas kecerdasan buatan.  GPU (Graphics Processing Units/GPU) memainkan peran penting dalam mempercepat proses pelatihan model deep learning.  Kemampuan paralel GPU memungkinkan komputasi yang efisien pada matriks dan vektor besar, yang sangat penting dalam deep learning.  Cloud computing menyediakan akses ke sumber daya komputasi yang kuat, termasuk GPU, yang memungkinkan peneliti dan pengembang untuk melatih model deep learning yang besar dan kompleks tanpa harus berinvestasi dalam perangkat keras yang mahal.  Framework deep learning seperti TensorFlow dan PyTorch menyediakan antarmuka tingkat tinggi untuk membangun dan melatih model deep learning, menyederhanakan proses pengembangan dan memungkinkan eksperimen yang lebih cepat.  Transfer learning adalah teknik yang ampuh dalam deep learning yang memungkinkan penggunaan kembali model yang telah dilatih sebelumnya pada dataset besar untuk tugas baru dengan data yang terbatas.  Transfer learning dapat secara signifikan mengurangi waktu dan sumber daya yang diperlukan untuk melatih model baru.  Autoencoder adalah jenis jaringan saraf yang digunakan untuk pembelajaran representasi data yang tidak diawasi.  Autoencoder belajar untuk mengkodekan dan mendekodekan data input, dan representasi terkompresi yang dipelajari dapat digunakan untuk berbagai tugas, seperti reduksi dimensi dan deteksi anomali.  Generative Adversarial Networks (GANs) adalah jenis jaringan saraf yang digunakan untuk menghasilkan data sintetis, seperti gambar dan teks.  GANs terdiri dari dua jaringan: generator, yang menghasilkan data sintetis, dan diskriminator, yang mencoba membedakan antara data sintetis dan data asli.  Reinforcement learning adalah jenis pembelajaran mesin di mana agen belajar untuk berinteraksi dengan lingkungan dan memaksimalkan hadiah.  Deep reinforcement learning menggabungkan deep learning dengan reinforcement learning untuk memungkinkan agen belajar dari data berdimensi tinggi, seperti gambar dan video.  Deep learning telah mencapai kemajuan yang signifikan dalam berbagai bidang, tetapi masih ada tantangan yang perlu diatasi.  Salah satu tantangan utama adalah interpretasi model deep learning, yang seringkali dianggap sebagai black box.  Penelitian sedang dilakukan untuk mengembangkan metode untuk memahami bagaimana model deep learning membuat keputusan.  Tantangan lainnya adalah kebutuhan akan data pelatihan yang besar. Model deep learning biasanya memerlukan sejumlah besar data untuk dilatih secara efektif.  Teknik seperti data augmentation dan transfer learning dapat membantu mengatasi masalah ini.  Etika dalam deep learning juga menjadi perhatian yang semakin penting.  Saat model deep learning menjadi lebih kuat, penting untuk memastikan bahwa mereka digunakan secara bertanggung jawab dan etis.  Deep learning adalah bidang yang terus berkembang, dan kita dapat berharap untuk melihat kemajuan dan aplikasi baru yang menarik di tahun-tahun mendatang.  Deep learning memiliki potensi untuk merevolusi banyak aspek kehidupan kita, dan penting bagi kita untuk memahami kemampuan dan keterbatasannya.  Penelitian dan pengembangan yang berkelanjutan di bidang deep learning akan sangat penting untuk mewujudkan potensi penuh teknologi ini.  Deep learning telah menunjukkan kemampuan yang luar biasa dalam memecahkan masalah yang kompleks, dan kita baru mulai menggores permukaan dari apa yang mungkin dilakukan dengan teknologi ini.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa peran GPU dalam deep learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menyimpan data pelatihan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mempercepat proses pelatihan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengurangi overfitting"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Meningkatkan interpretasi model"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "GPU digunakan untuk mempercepat proses pelatihan model deep learning karena kemampuan paralelnya."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Transfer learning memungkinkan penggunaan kembali model yang telah dilatih sebelumnya untuk tugas baru.",
+                    "correct_answer": true,
+                    "explanation": "Benar. Transfer learning memungkinkan penggunaan model yang sudah dilatih pada dataset besar untuk tugas baru dengan data terbatas."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi dari autoencoder?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengklasifikasikan gambar"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mendeteksi objek"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mempelajari representasi data"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Memprediksi deret waktu"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Autoencoder digunakan untuk pembelajaran representasi data yang tidak diawasi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan tantangan dalam deep learning?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Interpretasi model"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kebutuhan akan data pelatihan yang besar"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kecepatan pelatihan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Etika"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Interpretasi model, kebutuhan data besar, dan etika adalah tantangan dalam deep learning. Kecepatan pelatihan telah ditingkatkan dengan GPU, tetapi tetap menjadi pertimbangan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan Generative Adversarial Networks (GANs)?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Jaringan saraf yang digunakan untuk pembelajaran representasi data"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Jaringan saraf yang digunakan untuk menghasilkan data sintetis"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Jaringan saraf yang digunakan untuk klasifikasi gambar"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Jaringan saraf yang digunakan untuk deteksi objek"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "GANs digunakan untuk menghasilkan data sintetis seperti gambar dan teks."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Inflasi adalah fenomena ekonomi yang kompleks dan seringkali meresahkan.  Inflasi didefinisikan sebagai kenaikan harga barang dan jasa secara umum dan terus-menerus dalam suatu periode tertentu.  Inflasi dapat disebabkan oleh berbagai faktor, termasuk peningkatan permintaan, penurunan pasokan, dan peningkatan biaya produksi.  Ada beberapa jenis inflasi, termasuk inflasi tari-tarik, inflasi dorongan biaya, dan inflasi impor.  Inflasi dapat memiliki dampak negatif pada perekonomian, termasuk penurunan daya beli, ketidakpastian ekonomi, dan penurunan investasi. Bank sentral memainkan peran penting dalam mengendalikan inflasi.  Mereka dapat menggunakan kebijakan moneter, seperti suku bunga dan cadangan wajib minimum, untuk memengaruhi jumlah uang beredar dan mengendalikan inflasi.  Pemerintah juga dapat menggunakan kebijakan fiskal, seperti pajak dan belanja pemerintah, untuk memengaruhi inflasi.Pajak adalah sumber pendapatan utama bagi pemerintah. Pajak digunakan untuk membiayai berbagai program dan layanan publik, seperti pendidikan, kesehatan, dan infrastruktur. Ada berbagai jenis pajak, termasuk pajak penghasilan, pajak pertambahan nilai, dan pajak properti. Sistem perpajakan yang baik harus adil, efisien, dan transparan.  Akuntansi adalah proses pencatatan, pengklasifikasian, dan pengikhtisaran transaksi keuangan untuk menghasilkan laporan keuangan.  Laporan keuangan digunakan oleh berbagai pihak, termasuk manajemen, investor, dan kreditor, untuk membuat keputusan ekonomi.  Ada beberapa prinsip akuntansi yang berlaku umum, yang dikenal sebagai GAAP.  Akuntansi yang akurat dan andal sangat penting untuk kesehatan keuangan bisnis dan organisasi. Pasar modal adalah tempat di mana investor dapat membeli dan menjual saham, obligasi, dan instrumen keuangan lainnya.  Pasar modal memainkan peran penting dalam mengalokasikan modal ke bisnis dan proyek yang membutuhkannya.  Pasar modal yang efisien dan transparan sangat penting untuk pertumbuhan ekonomi.  Investasi asing langsung (FDI) adalah investasi yang dilakukan oleh perusahaan di negara lain.  FDI dapat membawa manfaat bagi perekonomian, termasuk penciptaan lapangan kerja, transfer teknologi, dan peningkatan produktivitas.  Namun, FDI juga dapat memiliki dampak negatif, seperti eksploitasi sumber daya dan kerusakan lingkungan.  Perdagangan internasional adalah pertukaran barang dan jasa antar negara.  Perdagangan internasional dapat meningkatkan kesejahteraan ekonomi negara-negara yang berpartisipasi dengan memungkinkan mereka untuk berspesialisasi dalam produksi barang dan jasa di mana mereka memiliki keunggulan komparatif.  Namun, perdagangan internasional juga dapat memiliki dampak negatif, seperti hilangnya pekerjaan di industri dalam negeri.  Pertumbuhan ekonomi adalah peningkatan output barang dan jasa dalam suatu perekonomian dari waktu ke waktu.  Pertumbuhan ekonomi diukur dengan menggunakan indikator seperti produk domestik bruto (PDB).  Pertumbuhan ekonomi yang berkelanjutan sangat penting untuk meningkatkan taraf hidup masyarakat.  Pembangunan ekonomi adalah proses peningkatan taraf hidup masyarakat melalui peningkatan pendapatan, pendidikan, kesehatan, dan indikator sosial lainnya.  Pembangunan ekonomi yang berkelanjutan dan inklusif sangat penting untuk mengurangi kemiskinan dan meningkatkan kesejahteraan masyarakat.  Keuangan publik adalah pengelolaan pendapatan dan pengeluaran pemerintah.  Keuangan publik yang sehat sangat penting untuk stabilitas ekonomi dan penyediaan layanan publik yang efektif.  Kebijakan fiskal, seperti pajak dan belanja pemerintah, digunakan untuk memengaruhi perekonomian.  Anggaran pemerintah adalah rencana pendapatan dan pengeluaran pemerintah untuk periode tertentu.  Anggaran pemerintah yang seimbang dan berkelanjutan sangat penting untuk kesehatan keuangan suatu negara. Pasar valuta asing, juga dikenal sebagai forex, adalah pasar global terdesentralisasi untuk perdagangan mata uang. Pasar ini adalah tempat di mana bank, bisnis, pemerintah, investor, dan pedagang datang untuk menukar mata uang. Nilai tukar mata uang ditentukan oleh penawaran dan permintaan, yang dipengaruhi oleh berbagai faktor ekonomi dan geopolitik.  Perdagangan internasional melibatkan pertukaran barang dan jasa antar negara, difasilitasi oleh berbagai instrumen keuangan seperti letter of credit dan bank garansi. Lembaga keuangan, seperti bank dan perusahaan asuransi, memainkan peran penting dalam memfasilitasi perdagangan dan investasi internasional.  Investasi adalah alokasi sumber daya, biasanya uang, dengan harapan menghasilkan pendapatan atau meningkatkan nilainya di masa depan.  Investasi dapat dilakukan dalam berbagai aset, seperti saham, obligasi, real estat, dan komoditas.  Manajemen risiko adalah proses identifikasi, penilaian, dan pengendalian potensi kerugian atau risiko dalam suatu organisasi atau proyek. Manajemen risiko yang efektif sangat penting untuk keberhasilan bisnis dan proyek.  Akuntansi biaya adalah sistem akuntansi yang digunakan untuk melacak biaya produksi barang atau jasa.  Informasi ini digunakan oleh manajemen untuk membuat keputusan tentang harga, produksi, dan pengendalian biaya. Penganggaran adalah proses perencanaan keuangan yang melibatkan perkiraan pendapatan dan pengeluaran untuk periode tertentu.  Penganggaran yang efektif sangat penting untuk manajemen keuangan pribadi dan bisnis.  Audit adalah pemeriksaan independen atas laporan keuangan suatu organisasi untuk memastikan keakuratan dan keandalannya.  Audit dilakukan oleh auditor eksternal, yang independen dari organisasi yang diaudit.  Analisis keuangan adalah proses mengevaluasi kinerja keuangan dan kesehatan keuangan suatu organisasi.  Analisis keuangan melibatkan penggunaan berbagai rasio dan metrik keuangan untuk menilai profitabilitas, likuiditas, dan solvabilitas suatu organisasi.  Akuntansi forensik adalah penerapan teknik akuntansi dan investigasi untuk menyelidiki dugaan kecurangan atau aktivitas ilegal.  Akuntansi forensik sering digunakan dalam litigasi dan perselisihan hukum.Akuntansi manajemen menyediakan informasi keuangan kepada manajer dan eksekutif internal untuk membantu mereka membuat keputusan tentang operasi bisnis.  Berbeda dengan akuntansi keuangan, yang berfokus pada penyediaan informasi kepada pihak eksternal seperti investor dan kreditor, akuntansi manajemen berfokus pada kebutuhan informasi internal organisasi.  Laporan akuntansi manajemen, seperti laporan biaya produksi dan analisis varian, membantu manajer dalam perencanaan, pengendalian, dan pengambilan keputusan operasional.  Perencanaan pajak adalah proses mengoptimalkan strategi pajak untuk meminimalkan kewajiban pajak.  Perencanaan pajak yang efektif dapat membantu individu dan bisnis menghemat uang pajak secara legal.  Namun, penting untuk membedakan antara perencanaan pajak dan penghindaran pajak, yang merupakan praktik ilegal.  Perencanaan keuangan pribadi adalah proses mengelola keuangan seseorang untuk mencapai tujuan keuangan mereka.  Perencanaan keuangan pribadi melibatkan penganggaran, menabung, berinvestasi, dan mengelola utang.  Konselor keuangan dapat memberikan nasihat dan bimbingan tentang perencanaan keuangan pribadi. Pasar keuangan memainkan peran penting dalam perekonomian global.  Mereka memfasilitasi aliran modal antara pemberi pinjaman dan peminjam, dan memungkinkan bisnis untuk mengakses pembiayaan yang mereka butuhkan untuk tumbuh dan berkembang.  Stabilitas pasar keuangan sangat penting untuk pertumbuhan ekonomi dan stabilitas.  Lembaga keuangan, seperti bank dan perusahaan asuransi, memainkan peran kunci dalam pasar keuangan. Bank sentral bertanggung jawab untuk menjaga stabilitas sistem keuangan. Bank sentral menggunakan berbagai instrumen kebijakan moneter, termasuk suku bunga dan operasi pasar terbuka, untuk mengendalikan inflasi dan mempromosikan pertumbuhan ekonomi.  Peraturan keuangan adalah seperangkat aturan dan regulasi yang dirancang untuk menjaga stabilitas dan integritas sistem keuangan. Peraturan keuangan yang efektif dapat membantu mencegah krisis keuangan dan melindungi konsumen.  Keuangan perilaku adalah studi tentang bagaimana faktor psikologis memengaruhi pengambilan keputusan keuangan.  Keuangan perilaku dapat membantu kita memahami mengapa orang membuat keputusan keuangan tertentu, dan bagaimana kita dapat membuat keputusan yang lebih baik.  Literasi keuangan adalah kemampuan untuk memahami dan menggunakan berbagai keterampilan dan konsep keuangan secara efektif.  Literasi keuangan sangat penting untuk membuat keputusan keuangan yang tepat dan mencapai kesejahteraan finansial. Pasar komoditas adalah tempat di mana pembeli dan penjual memperdagangkan komoditas mentah, seperti minyak, emas, dan gandum.  Harga komoditas ditentukan oleh penawaran dan permintaan, yang dipengaruhi oleh berbagai faktor, termasuk kondisi cuaca, geopolitik, dan pertumbuhan ekonomi.  Derivatif adalah instrumen keuangan yang nilainya berasal dari aset dasar, seperti saham, obligasi, atau komoditas.  Derivatif digunakan untuk lindung nilai risiko atau untuk berspekulasi tentang pergerakan harga aset dasar. Pasar uang adalah pasar untuk pinjaman jangka pendek, biasanya dengan jangka waktu kurang dari satu tahun.  Pasar uang memainkan peran penting dalam menyediakan likuiditas untuk bisnis dan pemerintah.  Instrumen pasar uang, seperti surat berharga dan sertifikat deposito, digunakan oleh bisnis dan pemerintah untuk mengelola arus kas jangka pendek mereka. Ekonomi global saling terhubung dan saling bergantung.  Peristiwa ekonomi di satu negara dapat memiliki dampak yang signifikan terhadap negara lain.  Kerjasama internasional sangat penting untuk mengatasi tantangan ekonomi global, seperti perubahan iklim dan ketidaksetaraan.  Organisasi internasional, seperti Dana Moneter Internasional (IMF) dan Bank Dunia, memainkan peran penting dalam mempromosikan kerjasama ekonomi internasional.  Ekonomi mikro adalah studi tentang bagaimana individu, rumah tangga, dan perusahaan membuat keputusan dalam konteks kelangkaan.  Ekonomi mikro menganalisis bagaimana pasar bekerja dan bagaimana harga ditentukan.  Ekonomi makro adalah studi tentang perekonomian secara keseluruhan.  Ekonomi makro menganalisis variabel seperti inflasi, pengangguran, dan pertumbuhan ekonomi. Ekonomi Islam adalah sistem ekonomi yang didasarkan pada prinsip-prinsip Islam.  Ekonomi Islam menekankan keadilan, distribusi kekayaan yang adil, dan larangan riba.  Keuangan Islam adalah sistem keuangan yang mematuhi hukum Islam.  Keuangan Islam menawarkan berbagai produk dan layanan keuangan, seperti pembiayaan murabahah dan mudarabah.  Lembaga keuangan syariah, seperti bank syariah dan perusahaan asuransi syariah, beroperasi berdasarkan prinsip-prinsip Islam. Pasar saham adalah tempat investor membeli dan menjual saham perusahaan publik.  Harga saham berfluktuasi berdasarkan kinerja perusahaan dan sentimen pasar.  Berinvestasi di pasar saham melibatkan risiko, tetapi juga menawarkan potensi pengembalian yang tinggi.  Diversifikasi portofolio adalah strategi investasi yang penting untuk mengurangi risiko.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan inflasi tari-tarik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Inflasi yang disebabkan oleh peningkatan permintaan agregat yang melebihi penawaran agregat."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Inflasi yang disebabkan oleh peningkatan biaya produksi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Inflasi yang disebabkan oleh peningkatan harga barang impor."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Inflasi yang disebabkan oleh penurunan nilai mata uang."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Inflasi tari-tarik terjadi ketika permintaan keseluruhan barang dan jasa dalam suatu perekonomian melebihi penawaran yang tersedia."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Akuntansi forensik digunakan untuk menilai profitabilitas, likuiditas, dan solvabilitas suatu organisasi.",
+                    "correct_answer": false,
+                    "explanation": "Akuntansi forensik digunakan untuk menyelidiki dugaan kecurangan atau aktivitas ilegal, bukan untuk menilai kinerja keuangan umum."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa peran utama bank sentral dalam sistem keuangan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Memfasilitasi perdagangan internasional."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menyediakan layanan perbankan kepada individu dan bisnis."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menjaga stabilitas sistem keuangan."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengatur pasar saham."
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Bank sentral bertanggung jawab untuk menjaga stabilitas sistem keuangan dan mengendalikan inflasi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam instrumen pasar uang?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Surat berharga"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Saham"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Obligasi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sertifikat deposito"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "d"
+                    ],
+                    "explanation": "Surat berharga dan sertifikat deposito adalah instrumen pasar uang yang digunakan untuk pinjaman jangka pendek."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan diversifikasi portofolio?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Strategi investasi yang berfokus pada satu jenis aset."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Strategi investasi untuk meminimalkan risiko dengan berinvestasi dalam berbagai aset."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Strategi investasi yang berfokus pada investasi jangka pendek."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Strategi investasi yang berfokus pada investasi berisiko tinggi."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Diversifikasi portofolio adalah strategi untuk mengurangi risiko dengan menyebarkan investasi di berbagai aset."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Ekonomi mikro berfokus pada perilaku individu, rumah tangga, dan perusahaan dalam pengambilan keputusan ekonomi.  Konsep kunci dalam ekonomi mikro meliputi penawaran dan permintaan, elastisitas, struktur pasar, dan teori perilaku konsumen.  Analisis ekonomi mikro membantu kita memahami bagaimana harga ditentukan, bagaimana sumber daya dialokasikan, dan bagaimana pasar berfungsi.  Ekonomi makro, di sisi lain, mempelajari perekonomian secara keseluruhan.  Ini berfokus pada variabel agregat seperti produk domestik bruto (PDB), inflasi, pengangguran, dan pertumbuhan ekonomi.  Ekonomi makro membantu kita memahami siklus bisnis, kebijakan fiskal dan moneter, dan perdagangan internasional.  Kedua cabang ekonomi ini saling terkait dan penting untuk memahami bagaimana perekonomian berfungsi. Pasar saham adalah tempat investor membeli dan menjual saham perusahaan publik.  Harga saham berfluktuasi berdasarkan kinerja perusahaan dan sentimen pasar.  Berinvestasi di pasar saham melibatkan risiko, tetapi juga menawarkan potensi pengembalian yang tinggi.  Diversifikasi portofolio adalah strategi investasi yang penting untuk mengurangi risiko.  Obligasi adalah instrumen utang yang diterbitkan oleh perusahaan atau pemerintah.  Investor meminjamkan uang kepada penerbit obligasi dan menerima pembayaran bunga secara berkala.  Obligasi dianggap sebagai investasi yang lebih aman daripada saham, tetapi menawarkan potensi pengembalian yang lebih rendah. Reksa dana adalah kumpulan investasi dari banyak investor yang dikelola oleh manajer investasi profesional.  Reksa dana memungkinkan investor untuk mendiversifikasi portofolio mereka dengan mudah dan mengakses keahlian manajer investasi.  Investasi properti melibatkan pembelian, kepemilikan, dan penjualan properti, seperti tanah dan bangunan.  Investasi properti dapat menghasilkan pendapatan sewa dan apresiasi nilai properti.  Emas adalah logam mulia yang sering dianggap sebagai investasi safe haven.  Harga emas cenderung naik selama periode ketidakpastian ekonomi.  Komoditas adalah bahan mentah atau produk pertanian yang diperdagangkan di bursa komoditas.  Contoh komoditas termasuk minyak mentah, emas, kopi, dan gandum.  Harga komoditas dipengaruhi oleh penawaran dan permintaan global. Derivatif adalah kontrak keuangan yang nilainya berasal dari aset dasar, seperti saham, obligasi, atau komoditas.  Derivatif digunakan untuk lindung nilai risiko atau untuk berspekulasi tentang pergerakan harga aset dasar.  Futures adalah kontrak untuk membeli atau menjual aset pada tanggal tertentu di masa depan dengan harga yang telah ditentukan.  Options memberikan hak, tetapi bukan kewajiban, untuk membeli atau menjual aset pada harga tertentu pada atau sebelum tanggal tertentu.  Swap adalah perjanjian antara dua pihak untuk menukar arus kas pada waktu yang berbeda.  Manajemen risiko adalah proses identifikasi, penilaian, dan pengendalian risiko.  Risiko keuangan adalah risiko kerugian moneter yang disebabkan oleh perubahan nilai tukar mata uang, suku bunga, atau harga aset.  Risiko operasional adalah risiko kerugian yang disebabkan oleh kegagalan proses internal, kesalahan manusia, atau peristiwa eksternal. Risiko kepatuhan adalah risiko kerugian yang disebabkan oleh ketidakpatuhan terhadap hukum dan peraturan.  Asuransi adalah cara untuk mengalihkan risiko ke perusahaan asuransi.  Individu dan bisnis membayar premi kepada perusahaan asuransi, dan perusahaan asuransi setuju untuk membayar klaim jika terjadi kerugian yang ditanggung.  Diversifikasi adalah strategi untuk mengurangi risiko dengan menyebarkan investasi di berbagai aset.  Lindung nilai adalah strategi untuk mengurangi risiko dengan mengambil posisi berlawanan di pasar derivatif.  Perencanaan keuangan adalah proses menetapkan tujuan keuangan dan mengembangkan rencana untuk mencapainya.  Penganggaran adalah proses melacak pendapatan dan pengeluaran.  Menabung adalah menyisihkan sebagian pendapatan untuk tujuan masa depan.  Berinvestasi adalah mengalokasikan uang dengan harapan menghasilkan pendapatan atau meningkatkan nilainya.  Mengelola utang adalah proses mengendalikan dan mengurangi utang.  Perencanaan pensiun adalah proses menabung dan berinvestasi untuk masa pensiun.  Analisis fundamental adalah metode untuk mengevaluasi nilai intrinsik suatu aset dengan menganalisis faktor-faktor ekonomi dan keuangan yang relevan.  Analisis teknikal adalah metode untuk memprediksi pergerakan harga aset dengan menganalisis data pasar historis, seperti harga dan volume.  Teori portofolio modern (MPT) adalah kerangka kerja untuk membangun portofolio investasi yang memaksimalkan pengembalian yang diharapkan untuk tingkat risiko tertentu.  Model penetapan harga aset modal (CAPM) adalah model yang digunakan untuk menghitung tingkat pengembalian yang diharapkan dari suatu aset berdasarkan risiko sistematisnya.  Perdagangan algoritmik adalah penggunaan algoritma komputer untuk melakukan perdagangan di pasar keuangan.  Kecerdasan buatan (AI) dan pembelajaran mesin (ML) semakin banyak digunakan dalam keuangan untuk tugas-tugas seperti penilaian risiko, deteksi penipuan, dan perdagangan algoritmik.  Fintech, atau teknologi keuangan, mengacu pada inovasi teknologi yang bertujuan untuk meningkatkan dan mengotomatiskan layanan dan proses keuangan.  Blockchain adalah buku besar digital terdistribusi yang mencatat transaksi di banyak komputer.  Mata uang kripto adalah mata uang digital atau virtual yang diamankan dengan kriptografi.  Keuangan terdesentralisasi (DeFi) adalah ekosistem layanan keuangan yang dibangun di atas blockchain, yang beroperasi tanpa perantara seperti bank.  Regulasi keuangan adalah seperangkat aturan dan regulasi yang dirancang untuk menjaga stabilitas sistem keuangan dan melindungi konsumen.  Bank sentral memainkan peran penting dalam mengatur sistem keuangan dan mengendalikan inflasi.  Kebijakan fiskal adalah penggunaan pengeluaran dan perpajakan pemerintah untuk memengaruhi perekonomian.  Kebijakan moneter adalah penggunaan suku bunga dan pasokan uang untuk memengaruhi perekonomian. Perdagangan internasional adalah pertukaran barang dan jasa antar negara.  Globalisasi adalah proses integrasi ekonomi dan budaya antar negara.  Keuntungan komparatif adalah kemampuan suatu negara untuk memproduksi barang atau jasa dengan biaya peluang yang lebih rendah daripada negara lain.  Proteksionisme adalah kebijakan pemerintah yang membatasi perdagangan internasional untuk melindungi industri dalam negeri.  Organisasi Perdagangan Dunia (WTO) adalah organisasi internasional yang mengatur perdagangan internasional.  Pertumbuhan ekonomi adalah peningkatan output barang dan jasa dalam suatu perekonomian dari waktu ke waktu.  Pembangunan ekonomi adalah proses peningkatan taraf hidup masyarakat melalui peningkatan pendapatan, pendidikan, kesehatan, dan indikator sosial lainnya.  Keberlanjutan adalah kemampuan untuk memenuhi kebutuhan saat ini tanpa mengorbankan kemampuan generasi mendatang untuk memenuhi kebutuhan mereka sendiri.  Pertumbuhan ekonomi yang berkelanjutan adalah pertumbuhan ekonomi yang mempertimbangkan dampak lingkungan dan sosial.  Keuangan publik adalah pengelolaan pendapatan dan pengeluaran pemerintah.  Utang pemerintah adalah jumlah total uang yang terutang oleh pemerintah.  Defisit anggaran terjadi ketika pengeluaran pemerintah melebihi pendapatannya.  Surplus anggaran terjadi ketika pendapatan pemerintah melebihi pengeluarannya.  Kebijakan fiskal ekspansif digunakan untuk merangsang perekonomian selama resesi.  Kebijakan fiskal kontraktif digunakan untuk memperlambat perekonomian selama periode inflasi.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fokus utama ekonomi mikro?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Perilaku individu, rumah tangga, dan perusahaan dalam pengambilan keputusan ekonomi."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perekonomian secara keseluruhan, termasuk variabel agregat seperti PDB dan inflasi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kebijakan fiskal dan moneter pemerintah."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Perdagangan internasional dan globalisasi."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Ekonomi mikro menganalisis perilaku aktor ekonomi individu, sedangkan ekonomi makro melihat gambaran ekonomi yang lebih besar."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Obligasi umumnya dianggap sebagai investasi yang lebih berisiko daripada saham.",
+                    "correct_answer": false,
+                    "explanation": "Obligasi biasanya dianggap kurang berisiko daripada saham karena mereka mewakili utang dan memiliki prioritas lebih tinggi dalam hal pembayaran daripada saham dalam kebangkrutan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan reksa dana?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Investasi dalam satu perusahaan tertentu."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kumpulan investasi dari banyak investor yang dikelola oleh manajer investasi profesional."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Investasi dalam properti fisik, seperti tanah dan bangunan."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Investasi dalam komoditas, seperti minyak mentah atau emas."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Reksa dana mengumpulkan uang dari banyak investor untuk berinvestasi dalam portofolio sekuritas yang terdiversifikasi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan contoh derivatif?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Futures"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Saham"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Options"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Obligasi"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c"
+                    ],
+                    "explanation": "Futures dan options adalah derivatif, nilainya berasal dari aset dasar."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan kebijakan fiskal ekspansif?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kebijakan yang digunakan untuk memperlambat perekonomian selama periode inflasi."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kebijakan yang digunakan untuk merangsang perekonomian selama resesi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kebijakan yang digunakan untuk mengendalikan pasokan uang."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kebijakan yang digunakan untuk mengatur perdagangan internasional."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Kebijakan fiskal ekspansif, seperti pemotongan pajak atau peningkatan belanja pemerintah, digunakan untuk meningkatkan permintaan agregat dan mendorong pertumbuhan ekonomi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Pasar modal merupakan komponen penting dari sistem keuangan modern. Ia menyediakan platform bagi perusahaan untuk mengumpulkan modal melalui penerbitan saham dan obligasi, serta bagi investor untuk berpartisipasi dalam pertumbuhan perusahaan dan mendapatkan pengembalian atas investasi mereka.  Pasar modal yang efisien dan transparan sangat penting untuk pertumbuhan ekonomi yang berkelanjutan. Bursa Efek Indonesia (BEI) adalah contoh pasar modal di Indonesia, di mana saham perusahaan publik diperdagangkan.  Indeks Harga Saham Gabungan (IHSG) merupakan indikator utama kinerja pasar saham di Indonesia.  Investor dapat berinvestasi di pasar saham melalui perusahaan sekuritas atau pialang saham.  Investasi di pasar saham melibatkan risiko, dan penting bagi investor untuk memahami risiko tersebut sebelum berinvestasi.  Diversifikasi portofolio adalah strategi yang disarankan untuk mengurangi risiko investasi.  Saham mewakili kepemilikan dalam suatu perusahaan.  Pemegang saham berhak atas sebagian dari keuntungan perusahaan dan dapat berpartisipasi dalam pengambilan keputusan perusahaan.  Obligasi adalah instrumen utang yang diterbitkan oleh perusahaan atau pemerintah.  Investor yang membeli obligasi pada dasarnya meminjamkan uang kepada penerbit obligasi dan akan menerima pembayaran bunga secara berkala dan pengembalian pokok pada saat jatuh tempo. Reksa dana adalah portofolio investasi yang dikelola secara profesional yang mengumpulkan uang dari banyak investor untuk berinvestasi dalam berbagai aset, seperti saham, obligasi, dan instrumen pasar uang.  Reksa dana menawarkan diversifikasi instan dan manajemen profesional, menjadikannya pilihan investasi yang menarik bagi banyak investor, terutama mereka yang baru mengenal investasi atau tidak memiliki waktu atau keahlian untuk mengelola portofolio mereka sendiri.  Ada berbagai jenis reksa dana, termasuk reksa dana saham, reksa dana obligasi, reksa dana pasar uang, dan reksa dana campuran.  Setiap jenis reksa dana memiliki tingkat risiko dan potensi pengembalian yang berbeda.  Penting bagi investor untuk memilih reksa dana yang sesuai dengan tujuan investasi dan toleransi risiko mereka.  Investasi properti melibatkan pembelian, kepemilikan, dan penjualan properti real estat, seperti tanah, bangunan, dan rumah.  Investasi properti dapat menghasilkan pendapatan sewa dan apresiasi nilai properti.  Namun, investasi properti juga melibatkan risiko, seperti fluktuasi harga properti, biaya perawatan, dan kekosongan properti.  Emas telah lama dianggap sebagai investasi safe haven.  Harga emas cenderung naik selama periode ketidakpastian ekonomi atau geopolitik.  Investor dapat berinvestasi dalam emas fisik, seperti batangan dan koin emas, atau melalui instrumen keuangan seperti exchange-traded fund (ETF) emas.  Komoditas adalah bahan mentah atau produk pertanian yang diperdagangkan di bursa komoditas.  Contoh komoditas termasuk minyak mentah, gas alam, emas, perak, kopi, gula, dan gandum.  Harga komoditas dipengaruhi oleh faktor-faktor seperti penawaran dan permintaan global, kondisi cuaca, dan geopolitik.  Berinvestasi dalam komoditas dapat dilakukan melalui futures contract atau ETF komoditas. Derivatif adalah instrumen keuangan yang nilainya berasal dari aset dasar, seperti saham, obligasi, komoditas, atau mata uang.  Derivatif digunakan untuk lindung nilai risiko, berspekulasi tentang pergerakan harga aset dasar, atau untuk mendapatkan akses ke aset yang mendasarinya.  Beberapa jenis derivatif yang umum termasuk futures, options, dan swaps.  Futures adalah kontrak untuk membeli atau menjual aset pada tanggal tertentu di masa depan dengan harga yang telah ditentukan. Options memberikan hak, tetapi bukan kewajiban, kepada pemegangnya untuk membeli atau menjual aset pada harga tertentu pada atau sebelum tanggal tertentu.  Swaps adalah perjanjian antara dua pihak untuk menukar arus kas pada waktu yang berbeda. Perbankan merupakan bagian integral dari sistem keuangan.  Bank menyediakan berbagai layanan keuangan, termasuk menerima simpanan, memberikan pinjaman, memproses pembayaran, dan menawarkan produk investasi.  Bank sentral, seperti Bank Indonesia di Indonesia dan Federal Reserve (The Fed) di Amerika Serikat, memainkan peran penting dalam mengatur sistem perbankan dan mengendalikan pasokan uang.  Suku bunga adalah biaya pinjaman uang.  Bank sentral dapat menaikkan atau menurunkan suku bunga untuk memengaruhi inflasi dan pertumbuhan ekonomi.  Inflasi adalah kenaikan harga barang dan jasa secara umum dan terus-menerus.  Inflasi dapat mengikis daya beli dan menciptakan ketidakpastian ekonomi.  Deflasi adalah penurunan harga barang dan jasa secara umum dan terus-menerus. Deflasi dapat menyebabkan penurunan permintaan dan memperlambat pertumbuhan ekonomi.  Produk domestik bruto (PDB) adalah nilai total barang dan jasa akhir yang diproduksi dalam suatu negara dalam periode waktu tertentu. PDB sering digunakan sebagai ukuran kinerja ekonomi suatu negara.  Pengangguran adalah persentase angkatan kerja yang tidak memiliki pekerjaan tetapi aktif mencari pekerjaan.  Tingkat pengangguran yang tinggi dapat mengindikasikan perekonomian yang lemah.  Neraca perdagangan adalah selisih antara nilai ekspor dan impor suatu negara.  Surplus neraca perdagangan terjadi ketika nilai ekspor melebihi nilai impor. Defisit neraca perdagangan terjadi ketika nilai impor melebihi nilai ekspor.  Kebijakan fiskal adalah penggunaan pengeluaran dan perpajakan pemerintah untuk memengaruhi perekonomian.  Kebijakan moneter adalah penggunaan suku bunga dan operasi pasar terbuka untuk mengendalikan pasokan uang dan memengaruhi perekonomian.  Kebijakan fiskal dan moneter sering digunakan bersama untuk mencapai tujuan ekonomi makro, seperti pertumbuhan ekonomi yang stabil dan inflasi yang rendah.  Perdagangan internasional adalah pertukaran barang dan jasa antar negara.  Globalisasi adalah proses integrasi ekonomi dan budaya antar negara.  Keuntungan komparatif adalah prinsip ekonomi yang menyatakan bahwa negara-negara harus berspesialisasi dalam memproduksi barang dan jasa yang dapat mereka produksi dengan biaya peluang yang lebih rendah daripada negara lain.  Organisasi Perdagangan Dunia (WTO) adalah organisasi internasional yang mengatur perdagangan internasional dan menyelesaikan sengketa perdagangan antar negara. APBN (Anggaran Pendapatan dan Belanja Negara) adalah rencana keuangan tahunan pemerintah.  APBN memuat rincian pendapatan dan belanja negara untuk tahun anggaran tertentu.  Pajak adalah sumber pendapatan utama pemerintah.  Ada berbagai jenis pajak, termasuk pajak penghasilan, pajak pertambahan nilai (PPN), dan pajak bumi dan bangunan (PBB).  Subsidi adalah bantuan keuangan yang diberikan pemerintah kepada individu atau perusahaan untuk mendorong kegiatan ekonomi tertentu.  Utang pemerintah adalah jumlah total uang yang terutang oleh pemerintah kepada kreditor dalam dan luar negeri.  Utang pemerintah dapat digunakan untuk membiayai defisit anggaran atau proyek-proyek infrastruktur.  Manajemen utang yang efektif sangat penting untuk menjaga kesehatan keuangan negara.  Stabilitas ekonomi makro sangat penting untuk pertumbuhan ekonomi dan pembangunan yang berkelanjutan.  Inflasi yang rendah dan stabil, pertumbuhan PDB yang sehat, dan tingkat pengangguran yang rendah adalah indikator ekonomi makro yang sehat.  Kerjasama internasional sangat penting untuk mengatasi tantangan ekonomi global, seperti perubahan iklim, pandemi, dan ketidaksetaraan. Lembaga keuangan internasional, seperti Dana Moneter Internasional (IMF) dan Bank Dunia, memainkan peran penting dalam mempromosikan kerjasama ekonomi dan menyediakan bantuan keuangan kepada negara-negara berkembang.  Ekonomi digital mengacu pada kegiatan ekonomi yang difasilitasi oleh teknologi digital, seperti internet, perangkat seluler, dan platform online.  E-commerce, fintech, dan ekonomi berbagi adalah contoh ekonomi digital.  Revolusi digital telah mengubah cara kita berbelanja, bekerja, dan berinteraksi satu sama lain.  Transformasi digital adalah proses mengadopsi teknologi digital untuk meningkatkan efisiensi, produktivitas, dan inovasi dalam bisnis dan organisasi.  Kecerdasan buatan (AI) dan pembelajaran mesin (ML) semakin banyak digunakan dalam berbagai sektor, termasuk keuangan, kesehatan, dan manufaktur.  AI dan ML dapat membantu mengotomatiskan tugas-tugas, menganalisis data dalam jumlah besar, dan membuat prediksi yang lebih akurat.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan diversifikasi portofolio?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Berinvestasi hanya dalam satu jenis aset."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menyebarkan investasi di berbagai aset untuk mengurangi risiko."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Meminjam uang untuk berinvestasi."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menjual semua investasi saat pasar sedang turun."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Diversifikasi portofolio adalah strategi untuk mengurangi risiko dengan berinvestasi di berbagai aset yang berbeda."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Obligasi adalah instrumen kepemilikan dalam suatu perusahaan.",
+                    "correct_answer": false,
+                    "explanation": "Obligasi adalah instrumen utang, bukan kepemilikan. Saham mewakili kepemilikan dalam suatu perusahaan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa peran utama bank sentral?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Memberikan pinjaman kepada individu dan bisnis."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menerima simpanan dari masyarakat."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengatur sistem perbankan dan mengendalikan pasokan uang."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Memfasilitasi perdagangan internasional."
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Bank sentral bertanggung jawab untuk menjaga stabilitas sistem keuangan dan mengendalikan inflasi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan contoh komoditas?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Emas"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Saham"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Minyak mentah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Obligasi"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c"
+                    ],
+                    "explanation": "Emas dan minyak mentah adalah contoh komoditas, yaitu bahan mentah atau produk pertanian yang diperdagangkan di bursa komoditas."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan deflasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kenaikan harga barang dan jasa secara umum dan terus-menerus."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Penurunan harga barang dan jasa secara umum dan terus-menerus."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kenaikan tingkat pengangguran."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Penurunan nilai tukar mata uang."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Deflasi adalah kebalikan dari inflasi, yaitu penurunan umum tingkat harga barang dan jasa dalam suatu perekonomian."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Akuntansi adalah bahasa bisnis, menyediakan kerangka kerja untuk mencatat, menganalisis, dan mengkomunikasikan informasi keuangan.  Ini memainkan peran penting dalam pengambilan keputusan bisnis, memungkinkan manajer, investor, dan pemangku kepentingan lainnya untuk menilai kinerja keuangan dan kesehatan suatu organisasi.  Prinsip akuntansi yang berlaku umum (GAAP) menyediakan seperangkat aturan dan pedoman standar untuk pelaporan keuangan.  Laporan keuangan, seperti laporan laba rugi, neraca, dan laporan arus kas, memberikan gambaran komprehensif tentang posisi keuangan dan hasil operasi suatu perusahaan.  Analisis rasio keuangan digunakan untuk mengevaluasi kinerja keuangan dan mengidentifikasi tren.  Profitabilitas, likuiditas, dan solvabilitas adalah aspek kunci yang dinilai dalam analisis rasio.  Akuntansi biaya berfokus pada pelacakan dan analisis biaya yang terkait dengan produksi barang atau jasa.  Ini membantu bisnis dalam penetapan harga, pengendalian biaya, dan pengambilan keputusan produksi.  Penganggaran adalah proses perencanaan keuangan yang melibatkan perkiraan pendapatan dan pengeluaran untuk periode tertentu.  Ini membantu bisnis dalam mengalokasikan sumber daya dan mengelola arus kas.  Audit adalah pemeriksaan independen atas laporan keuangan suatu organisasi untuk memastikan keakuratan dan keandalannya.  Auditor eksternal memberikan opini atas kewajaran laporan keuangan.  Akuntansi forensik melibatkan penggunaan keterampilan akuntansi dan investigasi untuk mendeteksi dan mencegah penipuan.  Akuntan forensik seringkali terlibat dalam investigasi kriminal dan litigasi.  Perencanaan pajak adalah proses mengoptimalkan strategi pajak untuk meminimalkan kewajiban pajak secara legal.  Ini melibatkan pemahaman kode pajak dan penggunaan strategi yang sah untuk mengurangi beban pajak.  Etika dalam akuntansi sangat penting untuk menjaga kepercayaan publik dan integritas profesi.  Akuntan harus mematuhi kode etik yang ketat.  Sistem informasi akuntansi (AIS) adalah sistem yang mengumpulkan, menyimpan, dan memproses data keuangan dan akuntansi yang digunakan oleh pengambil keputusan.  AIS modern seringkali berbasis komputer dan terintegrasi dengan sistem bisnis lainnya.  Teknologi telah merevolusi praktik akuntansi.  Perangkat lunak akuntansi, cloud computing, dan analisis data telah meningkatkan efisiensi dan efektivitas proses akuntansi.  Akuntansi manajemen menyediakan informasi keuangan kepada manajer internal untuk pengambilan keputusan.  Ini berbeda dari akuntansi keuangan, yang berfokus pada penyediaan informasi kepada pihak eksternal.  Laporan akuntansi manajemen dapat mencakup anggaran, analisis varian, dan laporan biaya.  Analisis biaya-volume-laba (CVP) adalah alat yang digunakan dalam akuntansi manajemen untuk memahami hubungan antara biaya, volume, dan laba.  Analisis CVP dapat membantu bisnis dalam penetapan harga, perencanaan produksi, dan pengambilan keputusan strategis lainnya.  Pengendalian internal adalah proses yang dirancang untuk memastikan keandalan pelaporan keuangan, efektivitas dan efisiensi operasi, dan kepatuhan terhadap hukum dan peraturan.  Pemisahan tugas, otorisasi, dan rekonsiliasi adalah contoh pengendalian internal.  Akuntansi untuk organisasi nirlaba berbeda dari akuntansi untuk organisasi bisnis.  Organisasi nirlaba berfokus pada akuntabilitas dan transparansi dalam penggunaan dana.  Akuntansi pemerintah melibatkan pencatatan dan pelaporan transaksi keuangan pemerintah.  Ini berbeda dari akuntansi bisnis karena fokusnya pada akuntabilitas publik dan kepatuhan terhadap peraturan pemerintah.  Akuntansi internasional berkaitan dengan tantangan akuntansi dalam konteks globalisasi.  Perbedaan dalam standar akuntansi dan peraturan antar negara dapat membuat pelaporan keuangan internasional menjadi kompleks.  Standar Pelaporan Keuangan Internasional (IFRS) adalah seperangkat standar akuntansi yang dikembangkan oleh Dewan Standar Akuntansi Internasional (IASB).  IFRS semakin banyak diadopsi di seluruh dunia untuk meningkatkan komparabilitas laporan keuangan internasional.  Konvergensi GAAP dan IFRS merupakan upaya yang sedang berlangsung untuk menyelaraskan standar akuntansi di Amerika Serikat dan standar internasional.  Keberlanjutan dalam akuntansi mengacu pada integrasi pertimbangan lingkungan, sosial, dan tata kelola (ESG) ke dalam pengambilan keputusan bisnis dan pelaporan keuangan.  Laporan keberlanjutan memberikan informasi tentang kinerja ESG suatu perusahaan.  Akuntansi di era digital ditandai dengan meningkatnya penggunaan teknologi, seperti kecerdasan buatan (AI) dan pembelajaran mesin (ML).  AI dan ML dapat mengotomatiskan tugas-tugas akuntansi, mendeteksi penipuan, dan memberikan wawasan tentang kinerja keuangan.  Akuntan di masa depan perlu memiliki keterampilan dalam analisis data, teknologi, dan komunikasi untuk tetap relevan di era digital.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa tujuan utama dari akuntansi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menghasilkan keuntungan bagi perusahaan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mencatat, menganalisis, dan mengkomunikasikan informasi keuangan."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Memasarkan produk dan jasa perusahaan."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengelola sumber daya manusia perusahaan."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Akuntansi menyediakan informasi keuangan yang digunakan untuk pengambilan keputusan."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Audit adalah pemeriksaan internal atas laporan keuangan suatu organisasi.",
+                    "correct_answer": false,
+                    "explanation": "Audit adalah pemeriksaan *independen* atas laporan keuangan, yang biasanya dilakukan oleh auditor eksternal."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan perencanaan pajak?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menghindari pembayaran pajak secara ilegal."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mengoptimalkan strategi pajak untuk meminimalkan kewajiban pajak secara legal."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Membayar pajak lebih dari yang seharusnya."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Tidak melaporkan pendapatan kepada otoritas pajak."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Perencanaan pajak bertujuan untuk meminimalkan kewajiban pajak dengan cara yang sah."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan laporan keuangan utama?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Laporan laba rugi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Laporan arus kas"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Laporan anggaran"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Neraca"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Laporan laba rugi, neraca, dan laporan arus kas adalah tiga laporan keuangan utama."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa kepanjangan dari IFRS?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "International Financial Reporting Standards"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Internal Financial Reporting Standards"
+                        },
+                        {
+                            "id": "c",
+                            "text": "International Financial Record Standards"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Internal Financial Record Standards"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "IFRS adalah singkatan dari International Financial Reporting Standards."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Perubahan iklim mengacu pada perubahan jangka panjang dalam suhu dan pola cuaca. Pergeseran ini mungkin alami, seperti melalui variasi siklus matahari. Tetapi sejak tahun 1800-an, aktivitas manusia telah menjadi pendorong utama perubahan iklim, terutama akibat pembakaran bahan bakar fosil seperti batu bara, minyak, dan gas. Pembakaran bahan bakar fosil menghasilkan emisi gas rumah kaca yang bekerja seperti selimut yang melilit Bumi, memerangkap panas matahari dan menaikkan suhu.Contoh emisi gas rumah kaca yang menyebabkan perubahan iklim meliputi karbon dioksida dan metana. Ini berasal dari penggunaan bensin untuk mengemudi mobil atau batu bara untuk memanaskan gedung. Pembukaan lahan dan hutan juga dapat melepaskan karbon dioksida. Tempat pembuangan sampah merupakan sumber utama emisi metana. Energi, industri, transportasi, bangunan, pertanian, dan penggunaan lahan semuanya berkontribusi pada emisi gas rumah kaca.Suhu bumi telah meningkat secara signifikan selama satu abad terakhir. Setiap dekade sejak 1980-an telah lebih hangat daripada dekade sebelumnya.  Para ilmuwan memperkirakan bahwa suhu global akan terus meningkat di abad mendatang.  Meningkatnya suhu global menyebabkan berbagai dampak, termasuk naiknya permukaan laut, peristiwa cuaca ekstrem yang lebih sering dan intens, serta perubahan pola curah hujan.  Kenaikan permukaan laut merupakan ancaman bagi masyarakat pesisir dan pulau-pulau kecil.  Peristiwa cuaca ekstrem, seperti badai, kekeringan, dan gelombang panas, dapat menyebabkan kerusakan yang meluas dan hilangnya nyawa.  Perubahan pola curah hujan dapat menyebabkan kekurangan air di beberapa daerah dan banjir di daerah lain.  Perubahan iklim juga berdampak pada kesehatan manusia.  Suhu yang lebih tinggi dapat menyebabkan sengatan panas dan masalah pernapasan.  Perubahan pola curah hujan dapat menyebabkan penyebaran penyakit yang ditularkan melalui air.  Selain itu, perubahan iklim dapat menyebabkan kekurangan pangan dan air, yang dapat menyebabkan konflik dan migrasi.  Gletser Thwaites di Antartika, juga dikenal sebagai 'Gletser Kiamat', mencair dengan cepat karena perubahan iklim.  Gletser ini seukuran Florida dan mengandung cukup air untuk menaikkan permukaan laut global lebih dari dua kaki.  Jika gletser ini runtuh, itu akan memiliki konsekuensi yang menghancurkan bagi masyarakat pesisir di seluruh dunia.  Para ilmuwan sedang mempelajari Gletser Thwaites untuk lebih memahami bagaimana perubahan iklim memengaruhinya dan untuk memprediksi kapan gletser itu mungkin runtuh.  Mereka menggunakan berbagai teknologi, termasuk citra satelit, radar penembus es, dan instrumen bawah air, untuk mengumpulkan data tentang gletser.  Data ini digunakan untuk membuat model komputer yang dapat memprediksi perilaku gletser di masa depan.  Mencairnya gletser dan lapisan es berkontribusi terhadap kenaikan permukaan laut, yang mengancam masyarakat pesisir di seluruh dunia.  Kenaikan permukaan laut dapat menyebabkan banjir, erosi, dan intrusi air asin.  Ini juga dapat membuat badai menjadi lebih merusak.  Masyarakat pesisir mengambil langkah-langkah untuk beradaptasi dengan kenaikan permukaan laut, seperti membangun tembok laut dan memindahkan infrastruktur kritis.  Penting untuk mengurangi emisi gas rumah kaca untuk memperlambat laju kenaikan permukaan laut dan melindungi masyarakat pesisir.Efek rumah kaca merupakan proses alami yang menghangatkan permukaan bumi. Ketika energi matahari mencapai atmosfer bumi, sebagian dipantulkan kembali ke angkasa dan sisanya diserap dan dipancarkan kembali oleh gas rumah kaca. Gas-gas ini memerangkap panas di atmosfer yang membuat bumi cukup hangat untuk mendukung kehidupan. Tetapi efek rumah kaca dapat meningkat dengan meningkatnya kadar gas rumah kaca di atmosfer akibat pembakaran bahan bakar fosil, penggundulan hutan, dan proses industri. Aktivitas manusia telah menyebabkan peningkatan konsentrasi gas rumah kaca, sehingga memerangkap lebih banyak panas dan meningkatkan suhu bumi.  Ini menyebabkan berbagai dampak, termasuk perubahan iklim, kenaikan permukaan laut, peristiwa cuaca ekstrem yang lebih sering dan intens, serta perubahan pola curah hujan.  Efek rumah kaca yang meningkat adalah pendorong utama perubahan iklim.  Penting untuk mengurangi emisi gas rumah kaca untuk mengurangi dampak perubahan iklim.Panel Antarpemerintah tentang Perubahan Iklim (IPCC) adalah badan Perserikatan Bangsa-Bangsa untuk menilai sains yang berkaitan dengan perubahan iklim. IPCC didirikan pada tahun 1988 oleh Organisasi Meteorologi Dunia (WMO) dan Program Lingkungan Perserikatan Bangsa-Bangsa (UNEP).  Tujuan IPCC adalah untuk memberikan kepada pemerintah di semua tingkatan informasi ilmiah yang dapat mereka gunakan untuk mengembangkan kebijakan iklim.  IPCC tidak melakukan penelitiannya sendiri. Sebaliknya, IPCC meninjau dan menilai informasi ilmiah, teknis, dan sosial-ekonomi yang paling relevan untuk memahami perubahan iklim.  IPCC menghasilkan laporan penilaian setiap lima hingga tujuh tahun. Laporan-laporan ini memberikan penilaian komprehensif tentang keadaan pengetahuan ilmiah tentang perubahan iklim.  IPCC juga menghasilkan laporan khusus, laporan teknis, dan metodologi.  Laporan IPCC digunakan oleh pemerintah, bisnis, dan organisasi lain untuk membuat keputusan tentang perubahan iklim.  IPCC memainkan peran penting dalam meningkatkan kesadaran publik tentang perubahan iklim.  IPCC telah memberikan kontribusi yang signifikan terhadap pemahaman kita tentang perubahan iklim.  Karya IPCC telah diakui secara luas, dan telah dianugerahi Hadiah Nobel Perdamaian pada tahun 2007.  IPCC adalah sumber informasi yang berwibawa tentang perubahan iklim.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa penyebab utama perubahan iklim yang disebabkan oleh manusia?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pembakaran bahan bakar fosil"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Variasi siklus matahari"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Erupsi gunung berapi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Gempa bumi"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Pembakaran bahan bakar fosil seperti batu bara, minyak, dan gas melepaskan gas rumah kaca ke atmosfer, yang memerangkap panas dan menyebabkan perubahan iklim."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Efek rumah kaca adalah fenomena buatan manusia yang sepenuhnya disebabkan oleh aktivitas manusia.",
+                    "correct_answer": false,
+                    "explanation": "Efek rumah kaca adalah proses alami yang menghangatkan Bumi. Aktivitas manusia, seperti pembakaran bahan bakar fosil, telah meningkatkan efek rumah kaca, yang menyebabkan pemanasan global."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa nama gletser di Antartika yang mencair dengan cepat dan dijuluki 'Gletser Kiamat'?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Gletser Pine Island"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Gletser Thwaites"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Gletser Lambert"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Gletser Mertz"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Gletser Thwaites dijuluki 'Gletser Kiamat' karena ukurannya yang besar dan potensi kontribusinya terhadap kenaikan permukaan laut."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan dampak dari perubahan iklim?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kenaikan permukaan laut"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Peningkatan frekuensi dan intensitas peristiwa cuaca ekstrem"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Perubahan pola curah hujan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Peningkatan keanekaragaman hayati"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Kenaikan permukaan laut, peristiwa cuaca ekstrem yang lebih sering dan intens, dan perubahan pola curah hujan semuanya merupakan dampak dari perubahan iklim."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa peran utama Panel Antarpemerintah tentang Perubahan Iklim (IPCC)?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Melakukan penelitian tentang perubahan iklim"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mengembangkan kebijakan iklim untuk pemerintah"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menilai sains yang berkaitan dengan perubahan iklim"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mendanai proyek-proyek adaptasi perubahan iklim"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "IPCC menilai sains yang berkaitan dengan perubahan iklim dan menyediakan informasi ilmiah kepada pemerintah untuk membantu mereka mengembangkan kebijakan iklim."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Perubahan iklim, juga dikenal sebagai pemanasan global, mengacu pada perubahan jangka panjang dalam suhu dan pola cuaca Bumi.  Perubahan ini dapat disebabkan oleh proses alami, seperti variasi siklus matahari, tetapi sejak tahun 1800-an, aktivitas manusia telah menjadi pendorong utama perubahan iklim, terutama karena pembakaran bahan bakar fosil (seperti batu bara, minyak, dan gas) yang menghasilkan emisi gas rumah kaca.  Gas-gas ini, seperti karbon dioksida, metana, dan dinitrogen oksida, memerangkap panas di atmosfer bumi, menyebabkan peningkatan suhu global.  Bukti ilmiah menunjukkan bahwa perubahan iklim nyata dan disebabkan terutama oleh aktivitas manusia.  Dampak perubahan iklim sudah dirasakan di seluruh dunia, termasuk kenaikan permukaan laut, peristiwa cuaca ekstrem yang lebih sering dan intens, seperti gelombang panas, kekeringan, banjir, dan badai, serta perubahan pola curah hujan.  Kenaikan permukaan laut mengancam masyarakat pesisir dan pulau-pulau kecil, sementara peristiwa cuaca ekstrem dapat menyebabkan kerusakan yang meluas dan hilangnya nyawa.  Gletser dan lapisan es mencair pada tingkat yang mengkhawatirkan, berkontribusi pada kenaikan permukaan laut.  Perubahan iklim juga memengaruhi kesehatan manusia melalui peningkatan penyakit yang ditularkan melalui udara dan air, serta malnutrisi akibat kegagalan panen.  Selain itu, perubahan iklim dapat memperburuk ketidaksetaraan yang ada dan menyebabkan migrasi massal.  Untuk mengatasi perubahan iklim, penting untuk mengurangi emisi gas rumah kaca secara signifikan.  Hal ini dapat dilakukan melalui transisi ke sumber energi terbarukan, seperti energi surya dan angin, meningkatkan efisiensi energi, dan mengadopsi praktik pertanian berkelanjutan.  Perjanjian Paris, yang diadopsi pada tahun 2015, bertujuan untuk membatasi pemanasan global hingga jauh di bawah 2 derajat Celcius, jika memungkinkan 1,5 derajat Celcius, di atas tingkat pra-industri.  Banyak negara telah berkomitmen untuk mengurangi emisi mereka dan berinvestasi dalam teknologi dan infrastruktur yang bersih.  Adaptasi terhadap perubahan iklim juga penting, yang melibatkan penyesuaian terhadap efek perubahan iklim yang sudah terjadi dan yang diperkirakan akan terjadi di masa depan.  Langkah-langkah adaptasi termasuk membangun infrastruktur yang tahan terhadap iklim, mengembangkan varietas tanaman yang tahan kekeringan, dan meningkatkan sistem peringatan dini untuk peristiwa cuaca ekstrem.  Gletser Thwaites di Antartika, yang dijuluki \"Gletser Kiamat\", adalah salah satu gletser yang mencair paling cepat di dunia dan merupakan penyebab utama kekhawatiran para ilmuwan.  Pencairannya dapat menyebabkan kenaikan permukaan laut yang signifikan, yang berdampak buruk bagi masyarakat pesisir di seluruh dunia.  Efek rumah kaca adalah proses alami yang memerangkap panas di atmosfer bumi, tetapi aktivitas manusia telah meningkatkan efek ini, menyebabkan peningkatan suhu global.  Gas-gas rumah kaca, seperti karbon dioksida, metana, dan dinitrogen oksida, memerangkap panas matahari dan menghangatkan planet ini.  Tanpa efek rumah kaca, bumi akan terlalu dingin untuk mendukung kehidupan.  Namun, peningkatan konsentrasi gas rumah kaca akibat aktivitas manusia telah menyebabkan pemanasan global dan perubahan iklim.  Efek umpan balik, seperti pencairan permafrost dan berkurangnya albedo es, dapat memperburuk perubahan iklim.  Pencairan permafrost melepaskan metana, gas rumah kaca yang kuat, ke atmosfer, sementara berkurangnya albedo es berarti lebih sedikit energi matahari yang dipantulkan kembali ke angkasa, yang menyebabkan lebih banyak pemanasan.  Solusi berbasis alam, seperti reboisasi dan restorasi lahan gambut, dapat membantu mengurangi dampak perubahan iklim dengan menyerap karbon dioksida dari atmosfer.  Teknologi penangkapan dan penyimpanan karbon (CCS) juga dapat memainkan peran dalam mengurangi emisi dari pembangkit listrik dan fasilitas industri.  Kerjasama internasional sangat penting untuk mengatasi perubahan iklim secara efektif.  Perjanjian Paris adalah contoh dari upaya global untuk mengurangi emisi gas rumah kaca dan membatasi pemanasan global.  Pendidikan dan kesadaran publik juga penting dalam mengatasi perubahan iklim.  Memahami penyebab, dampak, dan solusi untuk perubahan iklim sangat penting bagi individu untuk membuat pilihan yang tepat dan mendukung kebijakan yang mempromosikan keberlanjutan.  Perubahan iklim adalah tantangan global yang mendesak yang membutuhkan tindakan segera dari pemerintah, bisnis, dan individu.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa pendorong utama perubahan iklim sejak tahun 1800-an?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Variasi siklus matahari"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Aktivitas gunung berapi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Aktivitas manusia"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Perubahan orbit bumi"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Aktivitas manusia, terutama pembakaran bahan bakar fosil, telah menjadi pendorong utama perubahan iklim sejak Revolusi Industri."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Gletser Thwaites, yang dijuluki 'Gletser Kiamat', terletak di Kutub Utara.",
+                    "correct_answer": false,
+                    "explanation": "Gletser Thwaites terletak di Antartika Barat."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa tujuan utama Perjanjian Paris?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menghilangkan emisi gas rumah kaca sepenuhnya"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Membatasi pemanasan global hingga jauh di bawah 2 derajat Celcius"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mempromosikan penggunaan bahan bakar fosil"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengurangi populasi dunia"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Perjanjian Paris bertujuan untuk membatasi pemanasan global hingga jauh di bawah 2 derajat Celcius, jika memungkinkan 1,5 derajat Celcius, di atas tingkat pra-industri."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan contoh solusi berbasis alam untuk perubahan iklim?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Reboisasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Penangkapan dan penyimpanan karbon (CCS)"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Restorasi lahan gambut"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Geoengineering"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c"
+                    ],
+                    "explanation": "Reboisasi dan restorasi lahan gambut adalah contoh solusi berbasis alam yang dapat membantu menyerap karbon dioksida dari atmosfer."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dilepaskan dari pencairan permafrost yang dapat memperburuk perubahan iklim?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Karbon dioksida"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Metana"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Dinitrogen oksida"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Uap air"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Pencairan permafrost melepaskan metana, gas rumah kaca yang kuat, ke atmosfer."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Perubahan iklim merujuk pada pergeseran jangka panjang dalam suhu dan pola cuaca.  Pergeseran ini mungkin alami, tetapi sejak tahun 1800-an, aktivitas manusia telah menjadi pendorong utama perubahan iklim, terutama karena pembakaran bahan bakar fosil (seperti batu bara, minyak, dan gas) yang menghasilkan emisi gas rumah kaca. Pemanasan global adalah peningkatan suhu rata-rata bumi dari waktu ke waktu. Itu terjadi ketika gas rumah kaca seperti karbon dioksida, metana, dan dinitrogen oksida memerangkap panas di atmosfer.  Gas-gas ini menumpuk di atmosfer, sebagian besar disebabkan oleh praktik manusia seperti pembakaran bahan bakar fosil dan penggundulan hutan.  Kenaikan tingkat gas rumah kaca meningkatkan efek rumah kaca, yang menjebak lebih banyak panas dan menyebabkan bumi menghangat.Efek rumah kaca merupakan proses alami yang menghangatkan permukaan bumi. Ketika energi matahari mencapai atmosfer bumi, sebagian dipantulkan kembali ke angkasa dan sisanya diserap dan dipancarkan kembali oleh gas rumah kaca. Gas-gas ini memerangkap panas di atmosfer yang membuat bumi cukup hangat untuk mendukung kehidupan.  Efek rumah kaca diperburuk oleh aktivitas manusia yang melepaskan gas rumah kaca ke atmosfer. Meningkatnya kadar gas rumah kaca ini memerangkap lebih banyak panas, menyebabkan peningkatan suhu dan berkontribusi pada perubahan iklim.Gas rumah kaca utama yang dilepaskan oleh aktivitas manusia adalah karbon dioksida, metana, nitro oksida, dan gas berfluorinasi. Karbon dioksida dilepaskan melalui pembakaran bahan bakar fosil, sementara metana dilepaskan dari peternakan dan tempat pembuangan sampah.  Nitro oksida dilepaskan melalui praktik pertanian, dan gas berfluorinasi digunakan dalam berbagai aplikasi industri.  Semua gas rumah kaca ini berkontribusi terhadap pemanasan global.Dampak perubahan iklim sudah meluas dan dirasakan di seluruh dunia. Naiknya permukaan laut akibat pencairan gletser dan lapisan es mengancam masyarakat pesisir dan pulau-pulau kecil.  Pola cuaca juga terpengaruh, dengan peristiwa cuaca ekstrem seperti badai, kekeringan, gelombang panas, dan banjir yang terjadi lebih sering dan dengan intensitas yang lebih besar. Perubahan iklim juga berdampak pada keanekaragaman hayati dan ekosistem, mengganggu habitat alami dan mengancam kelangsungan hidup spesies.Dampak perubahan iklim dapat dikurangi melalui upaya mitigasi dan adaptasi.  Mitigasi melibatkan pengurangan emisi gas rumah kaca melalui langkah-langkah seperti beralih ke sumber energi terbarukan, meningkatkan efisiensi energi, dan mengadopsi praktik berkelanjutan.  Adaptasi berfokus pada penyesuaian terhadap efek perubahan iklim, seperti membangun infrastruktur yang tahan terhadap iklim atau mengembangkan varietas tanaman yang tahan kekeringan.Gletser Thwaites di Antartika, yang sering disebut sebagai \"Gletser Kiamat\", mendapat perhatian yang signifikan karena potensinya untuk berkontribusi secara signifikan terhadap kenaikan permukaan laut.  Para ilmuwan sedang mempelajari gletser ini dengan cermat untuk memantau pencairannya dan menilai dampak potensial terhadap permukaan laut global.Pencairan gletser dan lapisan es berkontribusi terhadap kenaikan permukaan laut. Ini bukan hanya fenomena masa depan tetapi merupakan proses yang sedang berlangsung.  Kenaikan permukaan laut mengancam masyarakat pesisir dan pulau-pulau kecil, dan dapat menyebabkan perpindahan dan hilangnya infrastruktur penting.Efek rumah kaca berperan penting dalam perubahan iklim.  Aktivitas manusia yang melepaskan gas rumah kaca meningkatkan efek rumah kaca, yang menyebabkan peningkatan suhu dan berkontribusi pada perubahan iklim.  Mengurangi emisi gas rumah kaca sangat penting untuk mengurangi dampak perubahan iklim.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan pemanasan global?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Peningkatan suhu rata-rata Bumi dari waktu ke waktu"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Penurunan suhu rata-rata Bumi dari waktu ke waktu"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Peningkatan curah hujan rata-rata di Bumi dari waktu ke waktu"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Penurunan curah hujan rata-rata di Bumi dari waktu ke waktu"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Pemanasan global didefinisikan sebagai peningkatan suhu rata-rata Bumi dari waktu ke waktu."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Efek rumah kaca adalah proses yang sepenuhnya merugikan bagi planet ini.",
+                    "correct_answer": false,
+                    "explanation": "Efek rumah kaca adalah proses alami yang diperlukan untuk kehidupan di Bumi. Ia memerangkap panas dan membuat planet ini cukup hangat untuk mendukung kehidupan.  Namun, peningkatan efek rumah kaca karena aktivitas manusia menyebabkan pemanasan global yang berlebihan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Manakah dari gas-gas berikut yang BUKAN merupakan gas rumah kaca?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Karbon dioksida"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Metana"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Nitrogen"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Nitro oksida"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Meskipun nitrogen ada di atmosfer, ia bukan gas rumah kaca.  Gas rumah kaca utama adalah karbon dioksida, metana, nitro oksida, dan gas berfluorinasi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan dampak perubahan iklim?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Naiknya permukaan laut"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Peningkatan peristiwa cuaca ekstrem"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Perubahan pola curah hujan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Peningkatan tutupan es"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Naiknya permukaan laut, peningkatan peristiwa cuaca ekstrem, dan perubahan pola curah hujan semuanya adalah dampak perubahan iklim."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa nama gletser di Antartika yang diawasi dengan cermat oleh para ilmuwan karena potensi kontribusinya terhadap kenaikan permukaan laut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Gletser Pine Island"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Gletser Thwaites"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Gletser Lambert"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Gletser Beardmore"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Gletser Thwaites, yang dijuluki 'Gletser Kiamat', diawasi dengan cermat karena potensi kontribusinya terhadap kenaikan permukaan laut."
+                }
+            ]
+        }
+    }
+]

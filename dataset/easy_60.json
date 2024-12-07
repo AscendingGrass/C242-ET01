@@ -1,0 +1,1183 @@
+[
+    {
+        "context": "Termodinamika adalah cabang fisika yang mempelajari hubungan antara panas, kerja, dan energi. Secara khusus, termodinamika berfokus pada bagaimana energi ditransfer dari satu bentuk ke bentuk lainnya, dan bagaimana transfer energi ini memengaruhi sifat-sifat sistem fisik. Hukum pertama termodinamika menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan, hanya diubah dari satu bentuk ke bentuk lainnya. Hukum ini juga dikenal sebagai hukum kekekalan energi. Dalam konteks termodinamika, energi total suatu sistem dan lingkungannya adalah konstan. Hukum kedua termodinamika menyatakan bahwa entropi total suatu sistem terisolasi dapat meningkat seiring waktu atau tetap konstan dalam proses ideal yang dapat dibalik. Dengan kata lain, dalam proses alami, energi cenderung menyebar dan menjadi kurang terorganisir. Entropi adalah ukuran ketidakteraturan atau keacakan suatu sistem. Hukum ketiga termodinamika menyatakan bahwa entropi suatu sistem mendekati nilai konstan ketika suhunya mendekati nol mutlak. Nilai konstan ini adalah entropi residual sistem, yang terkait dengan jumlah keadaan dasar sistem. Prinsip ini juga menyatakan bahwa tidak mungkin untuk mencapai nol mutlak dalam sejumlah langkah yang terbatas.Termodinamika memiliki banyak aplikasi praktis dalam kehidupan sehari-hari, mulai dari mesin pembakaran internal hingga lemari es. Termodinamika juga memainkan peran penting dalam memahami proses-proses yang terjadi di alam semesta, seperti pembentukan bintang dan evolusi galaksi. Konsep entropi sering kali disalahpahami, yang mengarah pada interpretasi yang salah. Salah satu kesalahpahaman umum adalah bahwa entropi selalu meningkat dalam semua sistem. Meskipun ini benar untuk sistem terisolasi, tidak berlaku untuk sistem terbuka, yang dapat bertukar energi dan materi dengan lingkungannya.Sistem termodinamika dapat diklasifikasikan menjadi tiga jenis: sistem terisolasi, sistem tertutup, dan sistem terbuka. Sistem terisolasi tidak bertukar energi atau materi dengan lingkungannya. Sistem tertutup bertukar energi tetapi tidak bertukar materi dengan lingkungannya. Sistem terbuka dapat bertukar energi dan materi dengan lingkungannya. Mesin kalor adalah perangkat yang mengubah energi panas menjadi kerja mekanik. Mesin kalor beroperasi dalam suatu siklus, yang terdiri dari serangkaian proses termodinamika yang mengubah keadaan sistem. Contoh mesin kalor termasuk mesin pembakaran internal, mesin uap, dan turbin gas.  Efisiensi mesin kalor diukur dengan rasio kerja yang dihasilkan terhadap energi panas yang dipasok ke mesin. Mesin pendingin adalah perangkat yang memindahkan panas dari reservoir dingin ke reservoir panas.  Mesin pendingin membutuhkan kerja untuk beroperasi, dan mereka beroperasi berdasarkan prinsip-prinsip termodinamika. Contoh mesin pendingin termasuk lemari es, AC, dan pompa panas.  Mesin pendingin juga dapat digunakan untuk menghasilkan suhu yang sangat rendah, seperti yang dibutuhkan dalam penelitian ilmiah dan aplikasi industri tertentu. Pompa kalor adalah perangkat yang memindahkan panas dari reservoir dingin ke reservoir panas, mirip dengan mesin pendingin. Namun, pompa kalor dirancang khusus untuk tujuan pemanasan, sedangkan mesin pendingin digunakan untuk pendinginan. Pompa kalor dapat digunakan untuk memanaskan bangunan di musim dingin atau untuk mendinginkan bangunan di musim panas. Ada banyak jenis pompa kalor yang tersedia, masing-masing dengan kelebihan dan kekurangannya sendiri. Termokimia adalah studi tentang perubahan panas yang menyertai reaksi kimia. Prinsip-prinsip termodinamika digunakan untuk menghitung perubahan entalpi, entropi, dan energi bebas Gibbs yang terkait dengan reaksi kimia. Termokimia memainkan peran penting dalam memahami dan memprediksi kelayakan reaksi kimia.  Termokimia juga digunakan untuk mempelajari perilaku sistem kimia pada suhu dan tekanan tinggi. Termodinamika statistik adalah studi tentang sifat-sifat makroskopik sistem dalam kaitannya dengan perilaku mikroskopik partikel penyusunnya.  Ini menggunakan prinsip-prinsip mekanika statistik untuk menghitung sifat-sifat termodinamika, seperti energi internal, entropi, dan tekanan. Termodinamika statistik memberikan dasar yang kuat untuk memahami perilaku sistem yang kompleks, seperti gas, cairan, dan padatan. Termodinamika statistik juga digunakan untuk mempelajari perilaku sistem pada suhu dan tekanan ekstrem. Hukum nol termodinamika menyatakan bahwa jika dua sistem termodinamika berada dalam kesetimbangan termal dengan sistem ketiga, maka mereka juga berada dalam kesetimbangan termal satu sama lain. Hukum ini penting untuk mendefinisikan konsep suhu dan merupakan dasar untuk mengukur suhu. Hukum nol termodinamika adalah dasar bagi semua pengukuran suhu, yang sangat penting dalam banyak aplikasi ilmiah dan teknik. Proses termodinamika dapat diklasifikasikan menjadi beberapa jenis, termasuk proses isotermal, proses adiabatik, proses isobarik, dan proses isokhorik. Proses isotermal terjadi pada suhu konstan, proses adiabatik terjadi tanpa perpindahan panas, proses isobarik terjadi pada tekanan konstan, dan proses isokhorik terjadi pada volume konstan.  Masing-masing jenis proses ini memiliki karakteristik uniknya sendiri yang penting untuk dipahami ketika menganalisis sistem termodinamika.  Diagram PV digunakan untuk memvisualisasikan proses termodinamika. Diagram ini menunjukkan hubungan antara tekanan dan volume suatu sistem, dan dapat digunakan untuk menghitung kerja yang dilakukan selama suatu proses.  Diagram PV juga berguna untuk memahami perilaku sistem selama siklus termodinamika.  Dalam termodinamika, siklus adalah serangkaian proses yang mengembalikan sistem ke keadaan awalnya. Siklus Carnot adalah siklus termodinamika teoritis yang sangat efisien. Ini terdiri dari dua proses isotermal dan dua proses adiabatik. Siklus Carnot digunakan sebagai patokan untuk membandingkan efisiensi mesin kalor nyata.  Siklus Rankine adalah siklus termodinamika yang digunakan pada pembangkit listrik tenaga uap. Ini terdiri dari empat proses: pemanasan isobarik, ekspansi adiabatik, pendinginan isobarik, dan kompresi adiabatik. Siklus Rankine adalah siklus yang kompleks dan melibatkan banyak komponen, seperti turbin, kondensor, dan pompa. Siklus termodinamika penting untuk memahami prinsip-prinsip operasi banyak perangkat, seperti mesin kalor dan mesin pendingin. Mesin pendingin dan pompa kalor beroperasi berdasarkan prinsip-prinsip termodinamika yang sama, tetapi tujuan penggunaannya berbeda. Mesin pendingin digunakan untuk mendinginkan, sedangkan pompa kalor digunakan untuk memanaskan.  Keduanya melibatkan perpindahan panas dari reservoir dingin ke reservoir panas, tetapi pompa kalor membutuhkan kerja untuk melakukannya.  Efisiensi mesin pendingin dan pompa kalor diukur dengan koefisien kinerja (COP), yang merupakan rasio panas yang dipindahkan ke kerja yang dibutuhkan. Termokimia menyediakan alat untuk mempelajari perubahan panas yang menyertai reaksi kimia, yang penting dalam kimia dan teknik kimia. Hukum Hess adalah prinsip termodinamika yang menyatakan bahwa perubahan entalpi total suatu reaksi adalah jumlah dari perubahan entalpi langkah-langkah individu dalam reaksi, terlepas dari jalur yang diambil. Hukum ini berguna untuk menghitung perubahan entalpi reaksi yang sulit diukur secara langsung.  Termokimia juga digunakan untuk mempelajari kesetimbangan kimia, laju reaksi, dan sifat-sifat larutan. Termodinamika statistik memberikan jembatan antara dunia mikroskopik dan makroskopik, memungkinkan kita memahami sifat-sifat sistem berdasarkan perilaku partikel penyusunnya. Distribusi Maxwell-Boltzmann menggambarkan distribusi kecepatan partikel gas pada suhu tertentu. Distribusi ini penting untuk memahami sifat-sifat gas, seperti tekanan dan suhu.  Termodinamika statistik juga digunakan untuk mempelajari sifat-sifat cairan dan padatan, dan untuk memahami perilaku sistem pada suhu dan tekanan ekstrem. Termodinamika statistik menyediakan alat untuk mempelajari sistem yang kompleks dan menyimpulkan sifat-sifat makroskopik dari perilaku mikroskopik partikel.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Hubungan antara panas, kerja, dan energi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Struktur atom"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Perilaku cahaya"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Interaksi partikel subatom"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Termodinamika mempelajari hubungan antara panas, kerja, dan energi, serta bagaimana energi ditransfer dan memengaruhi sistem fisik."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Hukum kedua termodinamika menyatakan bahwa entropi selalu menurun dalam sistem terisolasi.",
+                    "correct_answer": false,
+                    "explanation": "Hukum kedua termodinamika menyatakan bahwa entropi total sistem terisolasi dapat meningkat seiring waktu atau tetap konstan dalam proses ideal yang dapat dibalik, bukan menurun."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa itu mesin kalor?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Perangkat yang mengubah kerja mekanik menjadi energi panas"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perangkat yang mengubah energi panas menjadi kerja mekanik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Perangkat yang mendinginkan sistem"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Perangkat yang memanaskan sistem"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Mesin kalor adalah perangkat yang mengubah energi panas menjadi kerja mekanik."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk contoh mesin pendingin?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Lemari es"
+                        },
+                        {
+                            "id": "b",
+                            "text": "AC"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mesin pembakaran internal"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Turbin gas"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Lemari es dan AC adalah contoh mesin pendingin, sedangkan mesin pembakaran internal dan turbin gas adalah contoh mesin kalor."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam termokimia?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Perubahan panas yang menyertai reaksi kimia"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perilaku sistem pada suhu dan tekanan ekstrem"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Distribusi kecepatan partikel gas"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Hukum nol termodinamika"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Termokimia adalah studi tentang perubahan panas yang menyertai reaksi kimia."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Termodinamika klasik membahas konsep-konsep seperti energi dalam, entalpi, entropi, dan energi bebas Gibbs.  Energi dalam adalah total energi yang terkandung dalam suatu sistem, sedangkan entalpi adalah jumlah energi dalam dan produk tekanan dan volume.  Entropi adalah ukuran ketidakteraturan atau keacakan suatu sistem, dan energi bebas Gibbs adalah ukuran energi yang tersedia untuk melakukan kerja yang berguna.  Konsep-konsep ini penting untuk memahami bagaimana sistem termodinamika berperilaku dan bagaimana energi ditransfer di antara mereka.  Hukum-hukum termodinamika memberikan kerangka kerja untuk memahami dan memprediksi perilaku sistem termodinamika. Hukum pertama termodinamika berkaitan dengan kekekalan energi, menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan, hanya diubah dari satu bentuk ke bentuk lain.  Hukum kedua termodinamika memperkenalkan konsep entropi dan menyatakan bahwa entropi total suatu sistem terisolasi selalu meningkat seiring waktu. Hukum ketiga termodinamika menyatakan bahwa entropi suatu sistem mendekati nilai konstan ketika suhu mendekati nol mutlak.Proses termodinamika dapat berupa reversibel atau ireversibel. Proses reversibel adalah proses yang dapat dibalik tanpa meninggalkan jejak pada lingkungan, sedangkan proses ireversibel adalah proses yang tidak dapat dibalik sepenuhnya.  Contoh proses reversibel adalah ekspansi isotermal gas ideal, sedangkan contoh proses ireversibel adalah transfer panas dari benda panas ke benda dingin.  Dalam praktiknya, semua proses nyata adalah ireversibel sampai batas tertentu.Mesin kalor adalah perangkat yang mengubah energi panas menjadi kerja mekanis.  Contoh mesin kalor termasuk mesin pembakaran internal, mesin uap, dan turbin gas.  Efisiensi mesin kalor didefinisikan sebagai rasio kerja yang dihasilkan terhadap energi panas yang dipasok.  Mesin Carnot adalah mesin kalor teoritis yang beroperasi dalam siklus reversibel dan memiliki efisiensi maksimum yang mungkin untuk suhu operasi tertentu. Mesin pendingin bekerja dengan prinsip yang berlawanan dengan mesin kalor. Mereka memindahkan panas dari reservoir dingin ke reservoir panas, membutuhkan input kerja.  Contoh mesin pendingin termasuk lemari es dan AC.  Koefisien kinerja (COP) mesin pendingin didefinisikan sebagai rasio panas yang dipindahkan dari reservoir dingin terhadap kerja yang dibutuhkan.  Pompa kalor adalah jenis mesin pendingin yang digunakan untuk pemanasan. Termokimia mempelajari perubahan panas yang menyertai reaksi kimia.  Entalpi reaksi adalah perubahan entalpi yang terjadi ketika suatu reaksi kimia berlangsung pada tekanan konstan.  Entropi reaksi adalah perubahan entropi yang terjadi ketika suatu reaksi kimia berlangsung.  Energi bebas Gibbs dari suatu reaksi menentukan apakah reaksi tersebut spontan atau tidak pada suhu dan tekanan konstan.  Reaksi spontan memiliki energi bebas Gibbs negatif. Termodinamika statistik menghubungkan perilaku mikroskopik suatu sistem dengan sifat-sifat makroskopiknya.  Ini menggunakan prinsip-prinsip mekanika statistik untuk menghitung sifat-sifat termodinamika, seperti energi internal, entropi, dan tekanan.  Fungsi partisi adalah konsep kunci dalam termodinamika statistik, yang menggambarkan keadaan statistik suatu sistem dalam kesetimbangan termal.  Termodinamika statistik memberikan dasar untuk memahami perilaku sistem yang kompleks, seperti gas, cairan, dan padatan.  Dalam termodinamika, sistem didefinisikan sebagai bagian dari alam semesta yang sedang dipelajari.  Lingkungan adalah segala sesuatu di luar sistem.  Sistem dapat berupa sistem terisolasi, sistem tertutup, atau sistem terbuka.  Sistem terisolasi tidak bertukar energi atau materi dengan lingkungannya.  Sistem tertutup bertukar energi tetapi tidak bertukar materi dengan lingkungannya.  Sistem terbuka bertukar energi dan materi dengan lingkungannya.  Variabel keadaan adalah sifat-sifat sistem yang hanya bergantung pada keadaan sistem saat ini, bukan pada bagaimana sistem mencapai keadaan tersebut.  Contoh variabel keadaan termasuk suhu, tekanan, volume, energi dalam, entalpi, dan entropi.  Proses termodinamika adalah perubahan keadaan sistem.  Proses dapat berupa isotermal (suhu konstan), adiabatik (tidak ada perpindahan panas), isobarik (tekanan konstan), atau isokhorik (volume konstan).  Kerja yang dilakukan oleh suatu sistem selama proses termodinamika didefinisikan sebagai energi yang ditransfer ke lingkungan sebagai akibat dari perubahan volume sistem.  Panas yang ditransfer ke atau dari suatu sistem selama proses termodinamika didefinisikan sebagai energi yang ditransfer sebagai akibat dari perbedaan suhu antara sistem dan lingkungannya.  Kapasitas panas suatu zat adalah jumlah panas yang dibutuhkan untuk menaikkan suhu satu gram zat sebesar satu derajat Celcius.  Persamaan keadaan adalah persamaan matematika yang menghubungkan variabel keadaan suatu sistem.  Contoh persamaan keadaan termasuk hukum gas ideal dan persamaan van der Waals.  Diagram fase adalah representasi grafis dari keadaan fisik suatu zat sebagai fungsi dari suhu dan tekanan.  Diagram fase dapat digunakan untuk memprediksi transisi fase suatu zat.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan entropi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Ukuran ketidakteraturan atau keacakan suatu sistem"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Jumlah energi dalam suatu sistem"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Energi yang tersedia untuk melakukan kerja"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Tekanan dan volume suatu sistem"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Entropi adalah ukuran ketidakteraturan atau keacakan suatu sistem."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Proses reversibel dapat dibalik tanpa meninggalkan jejak pada lingkungan.",
+                    "correct_answer": true,
+                    "explanation": "Definisi proses reversibel adalah proses yang dapat dibalik tanpa mengubah lingkungan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan efisiensi mesin kalor?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Rasio kerja yang dihasilkan terhadap energi panas yang dipasok"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Rasio energi panas yang dipasok terhadap kerja yang dihasilkan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Jumlah total energi dalam sistem"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Perbedaan suhu antara reservoir panas dan dingin"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Efisiensi mesin kalor didefinisikan sebagai rasio kerja yang dihasilkan terhadap energi panas yang dipasok."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan variabel keadaan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Suhu"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Tekanan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kerja"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Panas"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Suhu dan tekanan adalah variabel keadaan, sedangkan kerja dan panas bukanlah variabel keadaan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam termodinamika statistik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Hubungan antara panas dan kerja"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perilaku mikroskopik sistem dan sifat makroskopiknya"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Perubahan panas dalam reaksi kimia"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Efisiensi mesin kalor"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Termodinamika statistik menghubungkan perilaku mikroskopik suatu sistem dengan sifat-sifat makroskopiknya."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Konsep dasar termodinamika melibatkan sistem, lingkungan, dan variabel keadaan. Sistem adalah bagian spesifik dari alam semesta yang menjadi fokus studi, sedangkan lingkungan adalah segala sesuatu di luar sistem.  Variabel keadaan, seperti suhu, tekanan, volume, dan energi dalam, menggambarkan keadaan sistem. Hukum pertama termodinamika, juga dikenal sebagai hukum kekekalan energi, menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan, hanya diubah dari satu bentuk ke bentuk lain.  Dalam konteks termodinamika, ini berarti perubahan energi dalam suatu sistem sama dengan jumlah panas yang ditambahkan ke sistem dikurangi kerja yang dilakukan oleh sistem.  Hukum kedua termodinamika menyatakan bahwa entropi total suatu sistem terisolasi selalu meningkat seiring waktu.  Entropi adalah ukuran ketidakteraturan atau keacakan suatu sistem.  Hukum kedua termodinamika memiliki implikasi penting untuk arah proses spontan dan efisiensi mesin kalor.  Hukum ketiga termodinamika menyatakan bahwa entropi suatu sistem mendekati nilai konstan ketika suhu mendekati nol mutlak.  Proses termodinamika menggambarkan perubahan keadaan sistem.  Proses isotermal terjadi pada suhu konstan, proses adiabatik terjadi tanpa perpindahan panas, proses isobarik terjadi pada tekanan konstan, dan proses isokhorik terjadi pada volume konstan.  Setiap jenis proses memiliki karakteristik unik yang penting dalam analisis termodinamika.  Siklus termodinamika adalah serangkaian proses yang mengembalikan sistem ke keadaan awalnya. Siklus Carnot adalah siklus teoritis yang terdiri dari dua proses isotermal dan dua proses adiabatik.  Siklus Carnot dianggap sebagai siklus paling efisien yang mungkin untuk mesin kalor.  Mesin kalor adalah perangkat yang mengubah energi panas menjadi kerja mekanik.  Efisiensi mesin kalor dibatasi oleh hukum kedua termodinamika dan bergantung pada perbedaan suhu antara reservoir panas dan dingin.  Mesin pendingin, di sisi lain, memindahkan panas dari reservoir dingin ke reservoir panas, membutuhkan input kerja.  Koefisien kinerja (COP) adalah ukuran efisiensi mesin pendingin dan pompa kalor.  Entalpi adalah jumlah energi dalam dan produk tekanan dan volume suatu sistem.  Ini adalah fungsi keadaan yang berguna dalam menganalisis proses isobarik.  Energi bebas Gibbs adalah potensial termodinamika yang mengukur jumlah energi yang tersedia dalam suatu sistem untuk melakukan kerja yang berguna pada suhu dan tekanan konstan.  Ini digunakan untuk memprediksi spontanitas suatu reaksi atau proses.  Termokimia mempelajari perubahan panas yang menyertai reaksi kimia.  Ini menggunakan prinsip-prinsip termodinamika untuk menentukan perubahan entalpi, entropi, dan energi bebas Gibbs dalam reaksi.  Termodinamika statistik menghubungkan perilaku mikroskopik partikel dalam suatu sistem dengan sifat-sifat makroskopik sistem tersebut.  Ini menggunakan konsep-konsep seperti fungsi partisi dan distribusi probabilitas untuk menghitung sifat-sifat termodinamika. Diagram PV (tekanan-volume) adalah alat grafis yang digunakan dalam termodinamika untuk memvisualisasikan perubahan keadaan suatu sistem selama proses termodinamika.  Luas di bawah kurva pada diagram PV mewakili kerja yang dilakukan oleh sistem.  Diagram TS (temperatur-entropi) juga berguna untuk menganalisis siklus termodinamika dan menghitung perpindahan panas.  Aplikasi termodinamika sangat luas dan mencakup berbagai bidang, seperti teknik mesin, teknik kimia, ilmu material, dan bahkan kosmologi.  Prinsip-prinsip termodinamika digunakan dalam desain mesin, sistem pendingin, pembangkit listrik, dan banyak perangkat lainnya.  Termodinamika juga memainkan peran penting dalam memahami proses-proses di atmosfer, lautan, dan interior bumi. Dalam konteks sistem biologis, termodinamika memainkan peran kunci dalam memahami metabolisme, pertumbuhan, dan reproduksi.  Proses biologis, seperti fotosintesis dan respirasi seluler, tunduk pada hukum-hukum termodinamika.  Termodinamika juga digunakan untuk mempelajari stabilitas dan pelipatan protein, serta interaksi molekuler lainnya dalam sistem biologis.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan sistem dalam termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Bagian spesifik dari alam semesta yang dipelajari"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Segala sesuatu di luar sistem"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Suatu bentuk energi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Suatu proses termodinamika"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Sistem adalah bagian spesifik dari alam semesta yang menjadi fokus studi."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Hukum pertama termodinamika menyatakan bahwa entropi total sistem terisolasi selalu meningkat.",
+                    "correct_answer": false,
+                    "explanation": "Hukum pertama termodinamika berkaitan dengan kekekalan energi, bukan entropi. Hukum kedua termodinamika yang menyatakan peningkatan entropi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Proses apa yang terjadi pada suhu konstan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Proses adiabatik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Proses isobarik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Proses isotermal"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Proses isokhorik"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Proses isotermal terjadi pada suhu konstan."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan contoh penerapan termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Desain mesin"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sistem pendingin"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pelipatan protein"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Interaksi molekuler"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Semua pilihan yang diberikan merupakan contoh penerapan termodinamika."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang diwakili oleh luas di bawah kurva pada diagram PV?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kerja yang dilakukan oleh sistem"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Panas yang ditambahkan ke sistem"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Perubahan energi dalam sistem"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Perubahan entropi sistem"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Luas di bawah kurva pada diagram PV mewakili kerja yang dilakukan oleh sistem."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Termodinamika membahas hubungan antara panas, kerja, dan energi dalam sistem fisik.  Sistem dapat berupa apa saja, mulai dari secangkir kopi hingga seluruh alam semesta.  Lingkungan adalah segala sesuatu di luar sistem.  Termodinamika dijelaskan oleh tiga hukum utama. Hukum pertama termodinamika adalah hukum kekekalan energi.  Energi tidak dapat diciptakan atau dimusnahkan, hanya diubah dari satu bentuk ke bentuk lain.  Dalam sistem tertutup, perubahan energi internal sama dengan panas yang ditambahkan ke sistem dikurangi kerja yang dilakukan oleh sistem: ΔU = Q - W. Hukum kedua termodinamika berkaitan dengan konsep entropi, yang merupakan ukuran ketidakteraturan atau keacakan suatu sistem.  Entropi total sistem terisolasi selalu meningkat seiring waktu.  Ini berarti bahwa proses alami cenderung menuju keadaan yang lebih tidak teratur.  Hukum kedua termodinamika juga membatasi efisiensi mesin kalor. Hukum ketiga termodinamika menyatakan bahwa entropi suatu sistem mendekati nilai konstan minimum ketika suhu mendekati nol mutlak.  Ada beberapa jenis proses termodinamika, termasuk proses isotermal (suhu konstan), adiabatik (tidak ada perpindahan panas), isobarik (tekanan konstan), dan isokhorik (volume konstan).  Masing-masing proses ini memiliki karakteristik unik yang dapat dijelaskan secara matematis.  Siklus termodinamika adalah serangkaian proses termodinamika yang mengembalikan sistem ke keadaan awalnya.  Contoh siklus termodinamika termasuk siklus Carnot dan siklus Rankine. Mesin kalor mengubah energi panas menjadi kerja mekanik.  Efisiensi mesin kalor didefinisikan sebagai rasio kerja yang dihasilkan terhadap energi panas yang diserap.  Mesin pendingin, di sisi lain, menggunakan kerja untuk memindahkan panas dari reservoir dingin ke reservoir panas. Pompa kalor adalah jenis mesin pendingin yang digunakan untuk pemanasan.  Kinerja mesin pendingin dan pompa kalor diukur dengan koefisien kinerja (COP). Termokimia mempelajari perubahan panas yang terkait dengan reaksi kimia.  Hukum Hess menyatakan bahwa perubahan entalpi total suatu reaksi tidak bergantung pada jalur yang diambil, tetapi hanya pada keadaan awal dan akhir.  Termodinamika statistik menghubungkan perilaku mikroskopik partikel dengan sifat makroskopik sistem.  Ini menggunakan konsep probabilitas dan mekanika statistik untuk menghitung sifat-sifat termodinamika.  Konsep penting dalam termodinamika statistik meliputi fungsi partisi, distribusi Maxwell-Boltzmann, dan teorema ekipartisi.  Aplikasi termodinamika sangat luas dan mencakup berbagai bidang, dari teknik hingga biologi.  Dalam teknik, termodinamika digunakan untuk merancang mesin, pembangkit listrik, dan sistem pendingin.  Dalam biologi, termodinamika digunakan untuk memahami proses metabolisme dan reaksi biokimia lainnya.  Proses isentalpik adalah proses di mana entalpi tetap konstan.  Proses isentropik adalah proses di mana entropi tetap konstan.  Proses politropik adalah proses di mana hubungan antara tekanan dan volume mengikuti persamaan PV^n = konstan, di mana n adalah indeks politropik.  Energi bebas Helmholtz adalah potensial termodinamika yang mengukur kerja yang berguna yang dapat diperoleh dari sistem tertutup pada suhu dan volume konstan.  Diagram fase menunjukkan keadaan kesetimbangan suatu zat sebagai fungsi dari suhu, tekanan, dan komposisi.  Aturan fase Gibbs menghubungkan jumlah fase, jumlah komponen, dan derajat kebebasan dalam suatu sistem pada kesetimbangan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa rumus untuk hukum pertama termodinamika dalam sistem tertutup?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "ΔU = Q + W"
+                        },
+                        {
+                            "id": "b",
+                            "text": "ΔU = Q - W"
+                        },
+                        {
+                            "id": "c",
+                            "text": "ΔU = W - Q"
+                        },
+                        {
+                            "id": "d",
+                            "text": "ΔU = -Q - W"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Hukum pertama termodinamika dalam sistem tertutup dinyatakan sebagai ΔU = Q - W, di mana ΔU adalah perubahan energi internal, Q adalah panas yang ditambahkan ke sistem, dan W adalah kerja yang dilakukan oleh sistem."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Entropi total sistem terisolasi selalu menurun seiring waktu.",
+                    "correct_answer": false,
+                    "explanation": "Entropi total sistem terisolasi selalu meningkat atau tetap konstan seiring waktu, menurut hukum kedua termodinamika."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan mesin pendingin?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mesin yang mengubah energi panas menjadi kerja"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mesin yang memindahkan panas dari reservoir dingin ke reservoir panas"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mesin yang beroperasi dalam siklus Carnot"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mesin yang menghasilkan energi panas"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Mesin pendingin menggunakan kerja untuk memindahkan panas dari reservoir dingin ke reservoir panas."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam konsep termodinamika statistik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Fungsi partisi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Distribusi Maxwell-Boltzmann"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Siklus Carnot"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Hukum Hess"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Fungsi partisi dan distribusi Maxwell-Boltzmann adalah konsep dalam termodinamika statistik, sedangkan siklus Carnot dan hukum Hess termasuk dalam termodinamika klasik."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Dalam proses politropik, apa yang konstan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "PV"
+                        },
+                        {
+                            "id": "b",
+                            "text": "PV^n"
+                        },
+                        {
+                            "id": "c",
+                            "text": "P/V"
+                        },
+                        {
+                            "id": "d",
+                            "text": "P^nV"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Dalam proses politropik, PV^n = konstan, di mana n adalah indeks politropik."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Termodinamika adalah cabang ilmu fisika yang mempelajari panas dan hubungannya dengan bentuk energi lain.  Termodinamika berkaitan dengan sifat makroskopik zat dan proses yang melibatkan transfer energi sebagai panas dan kerja.  Ada empat hukum termodinamika yang mengatur perilaku sistem termodinamika. Hukum nol termodinamika mendefinisikan kesetimbangan termal dan membentuk dasar untuk pengukuran suhu.  Ini menyatakan bahwa jika dua sistem berada dalam kesetimbangan termal dengan sistem ketiga, maka mereka juga berada dalam kesetimbangan termal satu sama lain.  Hukum pertama termodinamika, juga dikenal sebagai prinsip kekekalan energi, menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan, hanya diubah dari satu bentuk ke bentuk lain.  Dalam sistem tertutup, perubahan energi internal (ΔU) sama dengan panas yang ditambahkan ke sistem (Q) dikurangi kerja yang dilakukan oleh sistem (W):  ΔU = Q - W. Hukum kedua termodinamika menyatakan bahwa entropi total sistem terisolasi tidak dapat berkurang seiring waktu.  Entropi (S) adalah ukuran ketidakteraturan atau keacakan suatu sistem.  Hukum kedua termodinamika memiliki implikasi penting untuk arah proses spontan dan efisiensi mesin kalor.  Ini juga dapat dinyatakan dalam hal energi bebas Gibbs (G):  ΔG = ΔH - TΔS, di mana ΔH adalah perubahan entalpi, T adalah suhu absolut, dan ΔS adalah perubahan entropi.  Untuk proses spontan pada suhu dan tekanan konstan, ΔG harus negatif.  Hukum ketiga termodinamika menyatakan bahwa entropi suatu sistem mendekati nilai konstan minimum ketika suhu mendekati nol mutlak.  Untuk kristal sempurna pada nol mutlak, entropi dianggap nol.  Sistem termodinamika dapat diklasifikasikan sebagai sistem terbuka, sistem tertutup, atau sistem terisolasi.  Sistem terbuka dapat bertukar energi dan materi dengan lingkungannya.  Sistem tertutup hanya dapat bertukar energi dengan lingkungannya, tetapi tidak materi.  Sistem terisolasi tidak dapat bertukar energi atau materi dengan lingkungannya.  Proses termodinamika dapat berupa reversibel atau ireversibel.  Proses reversibel adalah proses yang dapat dibalik tanpa meninggalkan jejak pada lingkungan.  Proses ireversibel, di sisi lain, tidak dapat dibalik sepenuhnya.  Semua proses nyata adalah ireversibel sampai batas tertentu.  Ada beberapa jenis proses termodinamika khusus, termasuk proses isotermal (suhu konstan), adiabatik (tidak ada perpindahan panas), isobarik (tekanan konstan), dan isokhorik (volume konstan).  Mesin kalor adalah perangkat yang mengubah energi panas menjadi kerja mekanik.  Mesin pendingin dan pompa kalor bekerja dengan prinsip yang berlawanan, menggunakan kerja untuk memindahkan panas dari reservoir dingin ke reservoir panas.  Efisiensi mesin kalor dan koefisien kinerja (COP) mesin pendingin dan pompa kalor adalah ukuran penting dari kinerja perangkat ini.  Termokimia adalah studi tentang perubahan panas yang menyertai reaksi kimia.  Hukum Hess menyatakan bahwa perubahan entalpi total suatu reaksi adalah jumlah dari perubahan entalpi langkah-langkah individu dalam reaksi, terlepas dari jalur yang diambil.  Termodinamika statistik memberikan dasar mikroskopik untuk termodinamika makroskopik.  Ini menggunakan prinsip-prinsip mekanika statistik untuk menghitung sifat-sifat termodinamika seperti energi internal, entropi, dan energi bebas.  Aplikasi termodinamika sangat luas dan mencakup berbagai bidang, termasuk fisika, kimia, biologi, dan teknik.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dinyatakan oleh hukum kedua termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Energi tidak dapat diciptakan atau dimusnahkan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Entropi total sistem terisolasi tidak dapat berkurang"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Entropi sistem mendekati nol pada nol mutlak"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Jika dua sistem berada dalam kesetimbangan termal dengan sistem ketiga, maka mereka juga berada dalam kesetimbangan termal satu sama lain"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Hukum kedua termodinamika menyatakan bahwa entropi total sistem terisolasi tidak dapat berkurang seiring waktu."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Sistem tertutup dapat bertukar energi dan materi dengan lingkungannya.",
+                    "correct_answer": false,
+                    "explanation": "Sistem tertutup hanya dapat bertukar energi dengan lingkungannya, tetapi tidak materi.  Sistem terbuka yang dapat bertukar energi dan materi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa rumus untuk perubahan energi internal dalam sistem tertutup?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "ΔU = Q + W"
+                        },
+                        {
+                            "id": "b",
+                            "text": "ΔU = Q - W"
+                        },
+                        {
+                            "id": "c",
+                            "text": "ΔU = W - Q"
+                        },
+                        {
+                            "id": "d",
+                            "text": "ΔU = -Q - W"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Perubahan energi internal (ΔU) dalam sistem tertutup sama dengan panas yang ditambahkan ke sistem (Q) dikurangi kerja yang dilakukan oleh sistem (W): ΔU = Q - W."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan proses termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Isotermal"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Adiabatik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Isometrik"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Isokhorik"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Proses termodinamika meliputi isotermal, adiabatik, dan isokhorik. Isometrik bukan proses termodinamika."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam termokimia?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Perubahan panas dalam reaksi kimia"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Efisiensi mesin kalor"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sifat makroskopik zat"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kesetimbangan termal"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Termokimia adalah studi tentang perubahan panas yang menyertai reaksi kimia."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sejarah termodinamika berakar pada upaya manusia purba untuk memahami dan mengendalikan panas dan api.  Penggunaan api untuk memasak, pemanasan, dan metalurgi menandai langkah awal dalam interaksi manusia dengan konsep termal.  Peradaban kuno, seperti Yunani dan Romawi, mengembangkan sistem pemanas dasar dan pemandian air panas, menunjukkan pemahaman praktis tentang transfer panas.  Namun, pemahaman termodinamika sebagai ilmu pengetahuan baru muncul berabad-abad kemudian.  Pada abad ke-17, Otto von Guericke merancang dan membangun pompa vakum pertama di dunia dan mendemonstrasikan vakum menggunakan belahan Magdeburgnya.  Guericke didorong untuk membuat vakum untuk menyangkal dugaan lama Aristoteles bahwa 'alam membenci vakum'.  Tak lama setelah itu, fisikawan dan kimiawan Irlandia Robert Boyle mengetahui tentang desain Guericke dan, pada 1656, bekerja sama dengan ilmuwan Inggris Robert Hooke, membangun pompa udara.  Menggunakan pompa ini, Boyle dan Hooke memperhatikan korelasi antara tekanan, volume, dan suhu.  Pada saat itu, Hukum Boyle dirumuskan, yang menyatakan bahwa tekanan dan volume berbanding terbalik.  Kemudian, pada 1679, berdasarkan karya ini, seorang rekan Boyle bernama Denis Papin membangun digester uap, yang merupakan bejana tertutup dengan penutup yang rapat yang membatasi uap hingga tekanan tinggi dihasilkan.  Desain kemudian menggabungkan katup pelepas uap untuk mencegah mesin meledak.  Dengan mengamati katup yang bergerak secara ritmis naik dan turun, Papin menyusun ide mesin piston dan silinder.  Namun, dia tidak menindaklanjuti desainnya.  Meskipun demikian, pada 1697, berdasarkan desain Papin, insinyur Thomas Savery membangun mesin pertama.  Meskipun mesin-mesin awal ini mentah dan tidak efisien, mereka menarik perhatian para ilmuwan terkemuka saat itu.  Salah satu ilmuwan tersebut adalah Sadi Carnot, yang dianggap sebagai \"bapak termodinamika\", yang pada 1824 menerbitkan _Reflections on the Motive Power of Fire_, sebuah wacana tentang panas, daya, dan efisiensi mesin.  Buku ini menguraikan hubungan energik dasar antara mesin Carnot, siklus Carnot, dan daya gerak.  Ini menandai awal termodinamika sebagai ilmu pengetahuan modern.  Perkembangan selanjutnya dari teori termodinamika datang dari James Prescott Joule yang, pada tahun 1843, menunjukkan kesetaraan mekanis panas, dan kemudian, William Thomson (Lord Kelvin), yang memformalkan hukum pertama dan kedua termodinamika pada tahun 1850-an.  Hukum pertama termodinamika, yang juga dikenal sebagai prinsip kekekalan energi, menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan, hanya diubah dari satu bentuk ke bentuk lain.  Hukum kedua termodinamika menyatakan bahwa entropi total suatu sistem terisolasi selalu meningkat seiring waktu.  Rudolf Clausius merumuskan konsep entropi dan hukum kedua pada tahun 1850, menekankan bahwa proses alami cenderung menuju keadaan ketidakteraturan yang lebih besar.  Kemudian, James Clerk Maxwell mengembangkan termodinamika statistik, menyediakan kerangka kerja untuk menghubungkan perilaku mikroskopik partikel dengan sifat makroskopik sistem.  Josiah Willard Gibbs, di sisi lain, menyelidiki aplikasi termodinamika pada reaksi kimia, memperkenalkan konsep energi bebas Gibbs pada tahun 1876, yang merupakan ukuran energi yang tersedia untuk melakukan kerja yang berguna.  Karyanya meletakkan dasar untuk termodinamika kimia.  Pada abad ke-20, termodinamika diperluas ke fenomena non-kesetimbangan dan sistem yang jauh dari kesetimbangan, dengan kontribusi dari ilmuwan seperti Lars Onsager dan Ilya Prigogine.  Pekerjaan mereka memperluas cakupan termodinamika ke sistem yang kompleks dan dinamis.  Dari upaya awal untuk memanfaatkan uap hingga pengembangan teori-teori canggih, sejarah termodinamika mencerminkan pengejaran terus-menerus manusia untuk memahami dan memanfaatkan energi dan entropi, membentuk dunia kita dengan cara yang mendalam.  Saat ini, termodinamika terus menjadi bidang studi yang aktif, dengan aplikasi dalam berbagai bidang, mulai dari ilmu material dan teknik hingga kosmologi dan biologi.  Penelitian saat ini berfokus pada topik-topik seperti termodinamika non-kesetimbangan, termodinamika kuantum, dan penerapan termodinamika pada sistem nano.  Termodinamika statistik terus memberikan wawasan penting tentang perilaku sistem yang kompleks, dan kemajuan dalam termodinamika kimia mengarah pada pengembangan material dan proses baru.  Sebagai ilmu pengetahuan mendasar, termodinamika memainkan peran penting dalam memahami dan mengatasi tantangan global, seperti perubahan iklim dan pengembangan sumber energi berkelanjutan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Siapakah yang dianggap sebagai 'bapak termodinamika'?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "James Prescott Joule"
+                        },
+                        {
+                            "id": "b",
+                            "text": "William Thomson (Lord Kelvin)"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sadi Carnot"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Rudolf Clausius"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Sadi Carnot, dengan karyanya 'Reflections on the Motive Power of Fire', dianggap sebagai 'bapak termodinamika'."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Hukum pertama termodinamika berkaitan dengan konsep entropi.",
+                    "correct_answer": false,
+                    "explanation": "Hukum pertama termodinamika berkaitan dengan kekekalan energi, sedangkan hukum kedua termodinamika berkaitan dengan entropi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa kontribusi Rudolf Clausius pada termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Merumuskan hukum pertama termodinamika"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mengembangkan termodinamika statistik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Merumuskan konsep entropi dan hukum kedua termodinamika"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menyelidiki aplikasi termodinamika pada reaksi kimia"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Rudolf Clausius dikenal karena merumuskan konsep entropi dan hukum kedua termodinamika."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Siapa saja yang berkontribusi pada perkembangan awal termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Otto von Guericke"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Robert Boyle"
+                        },
+                        {
+                            "id": "c",
+                            "text": "James Clerk Maxwell"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Josiah Willard Gibbs"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Otto von Guericke dan Robert Boyle adalah tokoh kunci dalam perkembangan awal termodinamika, sedangkan James Clerk Maxwell dan Josiah Willard Gibbs berkontribusi pada perkembangan selanjutnya."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam termodinamika kimia?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Hubungan antara panas dan kerja dalam mesin"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Aplikasi termodinamika pada reaksi kimia"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Perilaku sistem yang jauh dari kesetimbangan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sifat makroskopik zat"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Termodinamika kimia menyelidiki aplikasi termodinamika pada reaksi kimia."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Termodinamika adalah cabang fisika yang luas dan mendasar yang mengeksplorasi hubungan antara panas, kerja, energi, dan entropi, memberikan kerangka kerja untuk memahami bagaimana sistem berinteraksi dan bertransformasi.  Termodinamika klasik, yang didasarkan pada empat hukum fundamental, berfokus pada sifat makroskopik sistem tanpa memperhitungkan detail mikroskopiknya.  Hukum nol termodinamika menetapkan konsep kesetimbangan termal, menyatakan bahwa jika dua sistem berada dalam kesetimbangan termal dengan sistem ketiga, maka mereka juga berada dalam kesetimbangan termal satu sama lain.  Hukum ini meletakkan dasar untuk pengukuran suhu.  Hukum pertama termodinamika, yang merupakan perwujudan dari prinsip kekekalan energi, menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan, hanya diubah dari satu bentuk ke bentuk lain.  Dalam sistem tertutup, perubahan energi dalam (ΔU) sama dengan panas yang ditambahkan ke sistem (Q) dikurangi kerja yang dilakukan oleh sistem (W): ΔU = Q - W.  Hukum kedua termodinamika memperkenalkan konsep entropi (S), ukuran ketidakteraturan atau keacakan suatu sistem.  Ini menyatakan bahwa entropi total sistem terisolasi tidak dapat berkurang seiring waktu, hanya meningkat atau tetap konstan dalam proses reversibel.  Hukum ini menyiratkan bahwa proses alami cenderung menuju keadaan ketidakteraturan yang lebih besar dan membatasi efisiensi mesin kalor.  Hukum ketiga termodinamika menyatakan bahwa entropi suatu sistem mendekati nilai konstan minimum ketika suhu mendekati nol mutlak.  Untuk kristal sempurna pada nol mutlak, entropi dianggap nol.  Konsep-konsep ini membentuk fondasi untuk memahami berbagai proses termodinamika, seperti proses isotermal (suhu konstan), adiabatik (tidak ada perpindahan panas), isobarik (tekanan konstan), dan isokhorik (volume konstan).  Siklus termodinamika, serangkaian proses yang mengembalikan sistem ke keadaan awalnya, sangat penting dalam pengoperasian mesin kalor dan mesin pendingin.  Siklus Carnot, siklus teoritis yang terdiri dari dua proses isotermal dan dua proses adiabatik, berfungsi sebagai patokan untuk efisiensi mesin kalor.  Mesin kalor mengubah energi panas menjadi kerja mekanik, sedangkan mesin pendingin dan pompa kalor menggunakan kerja untuk memindahkan panas dari reservoir dingin ke reservoir panas.  Efisiensi dan koefisien kinerja (COP) mengukur efektivitas perangkat ini.  Termodinamika memainkan peran penting dalam berbagai disiplin ilmu, termasuk fisika, kimia, dan biologi.  Termokimia, cabang termodinamika, berfokus pada perubahan panas yang menyertai reaksi kimia.  Hukum Hess, prinsip kunci dalam termokimia, menyatakan bahwa perubahan entalpi total suatu reaksi tidak bergantung pada jalur yang diambil, tetapi hanya pada keadaan awal dan akhir.  Termodinamika statistik menjembatani kesenjangan antara dunia mikroskopik dan makroskopik dengan menerapkan prinsip-prinsip statistik pada perilaku sejumlah besar partikel untuk menurunkan sifat makroskopik sistem.  Distribusi Maxwell-Boltzmann menggambarkan distribusi kecepatan partikel dalam gas ideal, memberikan wawasan tentang sifat-sifat gas seperti suhu dan tekanan.  Fungsi partisi, konsep kunci lainnya dalam termodinamika statistik, menyandikan informasi statistik tentang keadaan suatu sistem dalam kesetimbangan termal.  Selain aplikasi klasiknya, termodinamika telah meluas ke bidang-bidang seperti termodinamika non-kesetimbangan, yang berkaitan dengan sistem yang jauh dari kesetimbangan, dan termodinamika kuantum, yang mengeksplorasi prinsip-prinsip termodinamika dalam konteks mekanika kuantum.  Bidang-bidang penelitian ini mendorong batas-batas pemahaman kita tentang termodinamika dan membuka jalan bagi aplikasi baru dalam teknologi canggih dan ilmu material.  Aplikasi termodinamika praktis mencakup berbagai macam teknologi, mulai dari desain mesin yang efisien dan sistem pendingin hingga pengembangan material baru dan proses industri.  Prinsip-prinsip termodinamika juga diterapkan dalam ilmu lingkungan untuk memahami fenomena seperti perubahan iklim dan polusi udara, serta dalam ilmu biologi untuk mempelajari metabolisme dan proses biologis lainnya.  Dalam konteks perubahan iklim, termodinamika membantu kita memahami bagaimana gas rumah kaca memengaruhi keseimbangan energi Bumi dan memprediksi dampak pemanasan global.  Selain itu, termodinamika memainkan peran penting dalam pengembangan sumber energi berkelanjutan, seperti sel bahan bakar dan energi surya, yang sangat penting untuk mengurangi ketergantungan kita pada bahan bakar fosil dan mengurangi emisi gas rumah kaca.  Secara keseluruhan, termodinamika adalah ilmu pengetahuan yang kuat dan serbaguna dengan implikasi yang luas jangkauannya bagi dunia kita.  Dari pemahaman proses sehari-hari hingga mengatasi tantangan global, prinsip-prinsip termodinamika terus membentuk pemahaman kita tentang alam semesta dan mendorong kemajuan teknologi.  Penelitian yang sedang berlangsung di bidang termodinamika menjanjikan untuk menghasilkan lebih banyak wawasan dan aplikasi inovatif di tahun-tahun mendatang, memperkuat pentingnya bidang studi yang menarik ini.  Mempelajari termodinamika tidak hanya meningkatkan pemahaman kita tentang dunia fisik tetapi juga memberdayakan kita untuk merancang solusi berkelanjutan dan mengatasi masalah-masalah penting yang dihadapi masyarakat kita.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dinyatakan oleh hukum kedua termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Energi tidak dapat diciptakan atau dimusnahkan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Entropi total sistem terisolasi tidak dapat berkurang."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Entropi sistem mendekati nol pada nol mutlak."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Jika dua sistem berada dalam kesetimbangan termal dengan sistem ketiga, maka mereka juga berada dalam kesetimbangan termal satu sama lain."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Hukum kedua termodinamika berkaitan dengan entropi dan menyatakan bahwa entropi total sistem terisolasi tidak dapat berkurang seiring waktu."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Proses adiabatik adalah proses di mana tidak ada perpindahan panas.",
+                    "correct_answer": true,
+                    "explanation": "Dalam proses adiabatik, sistem tidak bertukar panas dengan lingkungannya."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan siklus Carnot?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Siklus termodinamika yang digunakan dalam mesin pendingin."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Siklus teoritis yang paling efisien untuk mesin kalor."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Siklus yang menggambarkan proses isobarik."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Siklus yang menggambarkan proses isokhorik."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Siklus Carnot adalah siklus teoritis yang paling efisien untuk mesin kalor dan berfungsi sebagai patokan."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan aplikasi termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Desain mesin"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perubahan iklim"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Metabolisme biologis"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sistem nano"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Semua pilihan yang tertera adalah aplikasi termodinamika di berbagai bidang."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dijelaskan oleh distribusi Maxwell-Boltzmann?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Distribusi kecepatan partikel dalam gas ideal"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perubahan entalpi dalam reaksi kimia"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Efisiensi mesin kalor"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Entropi sistem"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Distribusi Maxwell-Boltzmann menggambarkan distribusi kecepatan partikel dalam gas ideal."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Termodinamika, ilmu tentang panas dan transformasinya menjadi energi, memainkan peran penting dalam memahami alam semesta dan banyak teknologi yang kita andalkan.  Empat hukum termodinamika memberikan kerangka kerja untuk menganalisis perilaku sistem termodinamika dan transfer energi sebagai panas dan kerja.  Hukum nol termodinamika menetapkan konsep kesetimbangan termal, yang merupakan dasar untuk pengukuran suhu.  Ini menyatakan bahwa jika dua sistem berada dalam kesetimbangan termal dengan sistem ketiga, maka mereka juga berada dalam kesetimbangan termal satu sama lain.  Hukum pertama termodinamika, ekspresi dari prinsip kekekalan energi, menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan, hanya diubah dari satu bentuk ke bentuk lain.  Untuk sistem tertutup, ini berarti perubahan energi dalam sama dengan panas yang ditambahkan ke sistem dikurangi kerja yang dilakukan oleh sistem: ΔU = Q - W.  Hukum kedua termodinamika memperkenalkan konsep entropi, ukuran ketidakteraturan atau keacakan dalam suatu sistem.  Entropi total sistem terisolasi selalu meningkat seiring waktu, menunjukkan bahwa proses alami cenderung menuju keadaan ketidakteraturan yang lebih besar.  Hukum kedua juga menempatkan batasan pada efisiensi mesin kalor, yang tidak pernah bisa mencapai 100%.  Hukum ketiga termodinamika menyatakan bahwa entropi suatu sistem mendekati nilai konstan minimum ketika suhu mendekati nol mutlak.  Dalam kristal sempurna pada nol mutlak, entropi dianggap nol.  Sistem termodinamika dapat diklasifikasikan sebagai terbuka, tertutup, atau terisolasi, tergantung pada pertukaran energi dan materi dengan lingkungannya.  Proses termodinamika, seperti proses isotermal, adiabatik, isobarik, dan isokhorik, menggambarkan perubahan keadaan sistem.  Siklus termodinamika, seperti siklus Carnot dan siklus Rankine, adalah serangkaian proses yang mengembalikan sistem ke keadaan awalnya.  Mesin kalor, yang mengubah energi panas menjadi kerja, dan mesin pendingin serta pompa kalor, yang menggunakan kerja untuk memindahkan panas, beroperasi berdasarkan prinsip-prinsip termodinamika ini.  Efisiensi mesin kalor dan koefisien kinerja (COP) mesin pendingin dan pompa kalor adalah parameter kunci yang mengukur kinerjanya.  Termokimia, studi tentang perubahan panas dalam reaksi kimia, dan termodinamika statistik, yang menghubungkan perilaku mikroskopik dengan sifat makroskopik, adalah cabang penting dari termodinamika.  Hukum Hess dalam termokimia menyatakan bahwa perubahan entalpi total suatu reaksi tidak bergantung pada jalur yang diambil.  Termodinamika statistik menggunakan konsep-konsep seperti distribusi Maxwell-Boltzmann dan fungsi partisi untuk memahami perilaku sistem pada tingkat mikroskopik.  Aplikasi termodinamika sangat luas dan mencakup berbagai bidang, mulai dari ilmu material dan teknik hingga biologi dan kosmologi.  Dalam ilmu material, termodinamika digunakan untuk memahami transisi fase dan perilaku material pada suhu dan tekanan yang berbeda.  Dalam teknik, termodinamika sangat penting untuk desain dan pengoperasian mesin, pembangkit listrik, dan sistem pendingin.  Dalam biologi, termodinamika membantu kita memahami proses metabolisme dan reaksi biokimia.  Dalam kosmologi, termodinamika memainkan peran penting dalam memahami evolusi alam semesta.  Selain itu, termodinamika sangat penting dalam pengembangan sumber energi berkelanjutan dan dalam memahami serta mengatasi perubahan iklim.  Dengan menganalisis siklus termodinamika dan efisiensi energi, kita dapat merancang teknologi yang lebih efisien dan ramah lingkungan.  Termodinamika juga merupakan alat penting dalam mempelajari proses industri, seperti di pabrik kimia dan pembangkit listrik.  Dalam pabrik kimia, termodinamika digunakan untuk mengoptimalkan proses dan memaksimalkan hasil.  Dalam pembangkit listrik, termodinamika digunakan untuk memahami dan meningkatkan efisiensi pembangkit listrik.  Termodinamika juga relevan dalam konteks fenomena sehari-hari, seperti pendinginan makanan di lemari es dan pengoperasian mesin mobil.  Prinsip-prinsip termodinamika membantu kita memahami bagaimana perangkat ini bekerja dan bagaimana mengoptimalkan kinerjanya.  Singkatnya, termodinamika adalah ilmu pengetahuan yang mendasar dan luas dengan aplikasi yang tak terhitung jumlahnya dalam kehidupan kita sehari-hari dan dalam pemahaman kita tentang alam semesta.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Hubungan antara gaya dan gerak"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Struktur atom dan molekul"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Hubungan antara panas dan bentuk energi lain"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Interaksi antara cahaya dan materi"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Termodinamika mempelajari panas dan hubungannya dengan bentuk energi lain."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Hukum pertama termodinamika menyatakan bahwa entropi sistem terisolasi selalu meningkat.",
+                    "correct_answer": false,
+                    "explanation": "Hukum pertama termodinamika berkaitan dengan kekekalan energi, bukan entropi. Hukum kedua termodinamika yang membahas tentang entropi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan entropi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Ukuran energi yang tersedia untuk melakukan kerja"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Ukuran ketidakteraturan atau keacakan sistem"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Jumlah panas dalam sistem"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Suhu sistem"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Entropi adalah ukuran ketidakteraturan atau keacakan dalam suatu sistem."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam contoh penerapan termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Desain mesin"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perubahan iklim"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Reaksi biokimia"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Evolusi alam semesta"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Semua pilihan yang tertera merupakan contoh penerapan termodinamika."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dinyatakan oleh hukum Hess?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Energi tidak dapat diciptakan atau dimusnahkan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Entropi total sistem terisolasi selalu meningkat."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Perubahan entalpi total reaksi tidak bergantung pada jalur yang diambil."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Entropi sistem mendekati nol pada nol mutlak."
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Hukum Hess menyatakan bahwa perubahan entalpi total suatu reaksi hanya bergantung pada keadaan awal dan akhir, bukan pada jalur reaksi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Termodinamika adalah cabang fisika yang mempelajari hubungan antara panas, kerja, dan energi.  Ini memberikan kerangka kerja untuk memahami bagaimana energi ditransfer dan diubah dalam sistem fisik, dari mesin sederhana hingga proses kompleks di bintang.  Empat hukum termodinamika membentuk dasar pemahaman kita tentang perilaku sistem ini. Hukum nol termodinamika menetapkan konsep kesetimbangan termal dan memungkinkan pengukuran suhu.  Ini menyatakan bahwa jika dua sistem berada dalam kesetimbangan termal dengan sistem ketiga, maka mereka juga berada dalam kesetimbangan termal satu sama lain.  Konsep ini penting untuk memahami bagaimana kalor mengalir antara benda-benda. Hukum pertama termodinamika, juga dikenal sebagai hukum kekekalan energi, menyatakan bahwa energi total suatu sistem terisolasi tetap konstan.  Energi dapat diubah dari satu bentuk ke bentuk lain, tetapi tidak dapat diciptakan atau dimusnahkan.  Dalam sistem tertutup, perubahan energi internal (ΔU) sama dengan panas yang ditambahkan ke sistem (Q) dikurangi kerja yang dilakukan oleh sistem (W):  ΔU = Q - W.  Hukum ini penting untuk memahami bagaimana energi disimpan dan ditransfer dalam sistem fisik. Hukum kedua termodinamika memperkenalkan konsep entropi (S), yang merupakan ukuran ketidakteraturan atau keacakan suatu sistem.  Hukum ini menyatakan bahwa entropi total sistem terisolasi selalu meningkat seiring waktu atau tetap konstan dalam proses reversibel ideal.  Ini berarti bahwa proses alami cenderung menuju keadaan yang lebih tidak teratur, dan bahwa tidak mungkin untuk mengubah semua panas menjadi kerja dalam siklus termodinamika.  Hukum kedua juga memiliki implikasi penting untuk arah waktu dan panah waktu kosmologis.  Hukum ketiga termodinamika menyatakan bahwa entropi suatu sistem mendekati nilai konstan minimum ketika suhu mendekati nol mutlak.  Dalam kristal sempurna pada nol mutlak, entropi adalah nol.  Hukum ini memiliki implikasi penting untuk perilaku materi pada suhu yang sangat rendah.  Sistem termodinamika dapat diklasifikasikan sebagai terbuka, tertutup, atau terisolasi, tergantung pada interaksi mereka dengan lingkungan.  Sistem terbuka dapat bertukar energi dan materi dengan lingkungannya.  Sistem tertutup hanya dapat bertukar energi, sedangkan sistem terisolasi tidak dapat bertukar energi atau materi.  Proses termodinamika menggambarkan perubahan keadaan sistem.  Proses dapat berupa isotermal (suhu konstan), adiabatik (tidak ada perpindahan panas), isobarik (tekanan konstan), atau isokhorik (volume konstan).  Siklus termodinamika adalah serangkaian proses yang mengembalikan sistem ke keadaan awalnya.  Contoh penting termasuk siklus Carnot, yang mewakili mesin kalor ideal, dan siklus Rankine, yang digunakan dalam pembangkit listrik tenaga uap.  Mesin kalor mengubah energi panas menjadi kerja mekanik.  Efisiensi mesin kalor dibatasi oleh hukum kedua termodinamika dan bergantung pada perbedaan suhu antara reservoir panas dan dingin.  Mesin pendingin bekerja dengan prinsip yang berlawanan, menggunakan kerja untuk memindahkan panas dari reservoir dingin ke reservoir panas.  Pompa kalor adalah jenis khusus mesin pendingin yang digunakan untuk pemanasan. Termokimia adalah studi tentang perubahan panas yang menyertai reaksi kimia.  Ini menggunakan prinsip-prinsip termodinamika untuk menghitung perubahan entalpi, entropi, dan energi bebas Gibbs dalam reaksi.  Termodinamika statistik menghubungkan perilaku mikroskopik partikel individu dengan sifat makroskopik sistem.  Ini menggunakan alat statistik untuk menghitung sifat-sifat seperti energi internal, entropi, dan tekanan.  Distribusi Maxwell-Boltzmann menggambarkan distribusi kecepatan partikel dalam gas ideal, dan fungsi partisi menyandikan informasi statistik tentang keadaan suatu sistem.  Aplikasi termodinamika sangat luas dan beragam, mulai dari desain mesin dan sistem pendingin hingga pengembangan material baru dan pemahaman proses biologis.  Termodinamika juga penting dalam ilmu lingkungan, di mana ia digunakan untuk mempelajari perubahan iklim dan polusi udara.  Selain itu, termodinamika memainkan peran penting dalam kosmologi, membantu kita memahami evolusi alam semesta.  Termodinamika juga diterapkan dalam rekayasa kimia untuk desain dan optimasi proses kimia, serta dalam ilmu material untuk memahami perilaku material pada suhu dan tekanan yang berbeda.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dinyatakan oleh hukum pertama termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Entropi total sistem terisolasi selalu meningkat."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Energi total sistem terisolasi tetap konstan."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Entropi sistem mendekati nol pada nol mutlak."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Jika dua sistem berada dalam kesetimbangan termal dengan sistem ketiga, maka mereka juga berada dalam kesetimbangan termal satu sama lain."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Hukum pertama termodinamika adalah hukum kekekalan energi, yang menyatakan bahwa energi total sistem terisolasi tetap konstan."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Sistem terisolasi dapat bertukar energi dan materi dengan lingkungannya.",
+                    "correct_answer": false,
+                    "explanation": "Sistem terisolasi tidak dapat bertukar energi atau materi dengan lingkungannya. Sistem terbuka yang dapat bertukar keduanya, sedangkan sistem tertutup hanya dapat bertukar energi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Proses termodinamika apa yang terjadi pada tekanan konstan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Proses isotermal"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Proses adiabatik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Proses isobarik"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Proses isokhorik"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Proses isobarik adalah proses yang terjadi pada tekanan konstan."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan contoh penerapan termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Desain mesin"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perubahan iklim"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Proses biologis"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kosmologi"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Semua pilihan yang diberikan adalah contoh penerapan termodinamika."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dijelaskan oleh distribusi Maxwell-Boltzmann?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Distribusi kecepatan partikel dalam gas ideal"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perubahan entalpi dalam reaksi kimia"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Efisiensi mesin kalor"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Entropi sistem"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Distribusi Maxwell-Boltzmann menggambarkan distribusi kecepatan partikel dalam gas ideal."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Termodinamika adalah studi tentang hubungan antara panas, kerja, energi, dan entropi. Ini adalah cabang fisika yang sangat penting dengan aplikasi luas di berbagai bidang, termasuk teknik, kimia, dan biologi.  Hukum-hukum termodinamika adalah prinsip-prinsip dasar yang mengatur perilaku sistem termodinamika dan transfer energi.  Hukum nol termodinamika mendefinisikan kesetimbangan termal dan memungkinkan pengukuran suhu.  Ini menyatakan bahwa jika dua sistem berada dalam kesetimbangan termal dengan sistem ketiga, maka mereka juga berada dalam kesetimbangan termal satu sama lain.  Hukum pertama termodinamika adalah pernyataan dari prinsip kekekalan energi.  Ini menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan, hanya diubah dari satu bentuk ke bentuk lain.  Dalam sistem tertutup, perubahan energi internal (ΔU) sama dengan panas yang ditambahkan ke sistem (Q) dikurangi kerja yang dilakukan oleh sistem (W): ΔU = Q - W.  Hukum kedua termodinamika memperkenalkan konsep entropi, yang merupakan ukuran ketidakteraturan atau keacakan suatu sistem.  Ini menyatakan bahwa entropi total sistem terisolasi selalu meningkat seiring waktu untuk proses spontan.  Dengan kata lain, proses alami cenderung menuju keadaan ketidakteraturan yang lebih besar.  Hukum kedua juga memiliki implikasi penting untuk efisiensi mesin kalor, menyatakan bahwa tidak mungkin untuk membangun mesin yang mengubah semua panas yang diserapnya menjadi kerja. Hukum ketiga termodinamika menyatakan bahwa entropi suatu sistem mendekati nilai konstan minimum ketika suhu mendekati nol mutlak.  Untuk kristal sempurna pada nol mutlak, entropi dianggap nol.  Ada berbagai jenis proses termodinamika, termasuk proses isotermal (suhu konstan), adiabatik (tidak ada perpindahan panas), isobarik (tekanan konstan), dan isokhorik (volume konstan).  Siklus termodinamika adalah serangkaian proses yang mengembalikan sistem ke keadaan awalnya.  Contoh siklus termodinamika termasuk siklus Carnot, yang merupakan siklus paling efisien yang mungkin untuk mesin kalor, dan siklus Rankine, yang digunakan dalam pembangkit listrik tenaga uap. Mesin kalor adalah perangkat yang mengubah energi panas menjadi kerja mekanik.  Efisiensi mesin kalor didefinisikan sebagai rasio kerja yang dilakukan terhadap panas yang diserap.  Mesin pendingin bekerja dengan prinsip yang berlawanan, menggunakan kerja untuk memindahkan panas dari reservoir dingin ke reservoir panas.  Pompa kalor adalah jenis mesin pendingin yang digunakan untuk pemanasan. Termokimia adalah studi tentang perubahan panas yang menyertai reaksi kimia.  Ini menggunakan prinsip-prinsip termodinamika untuk menghitung perubahan entalpi, entropi, dan energi bebas Gibbs.  Termodinamika statistik memberikan dasar mikroskopik untuk termodinamika dengan menghubungkan perilaku mikroskopik partikel individu dengan sifat makroskopik sistem.  Ini menggunakan konsep-konsep seperti distribusi Maxwell-Boltzmann dan fungsi partisi untuk menghitung sifat-sifat termodinamika. Aplikasi termodinamika sangat luas dan mencakup berbagai bidang.  Dalam teknik, termodinamika digunakan untuk merancang mesin, pembangkit listrik, dan sistem pendingin.  Dalam kimia, termodinamika digunakan untuk mempelajari kesetimbangan kimia dan spontanitas reaksi.  Dalam biologi, termodinamika digunakan untuk memahami proses metabolisme dan fungsi seluler lainnya.  Konsep termodinamika juga penting dalam ilmu material, ilmu lingkungan, dan kosmologi.  Memahami prinsip-prinsip termodinamika sangat penting bagi para ilmuwan dan insinyur di berbagai bidang.  Ini memungkinkan mereka untuk merancang sistem yang efisien, memprediksi perilaku material, dan memahami proses fisik dan kimia yang kompleks.  Termodinamika juga memainkan peran penting dalam mengatasi tantangan global seperti perubahan iklim dan pengembangan sumber energi berkelanjutan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Hubungan antara gaya dan gerak"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Struktur atom dan molekul"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Hubungan antara panas, kerja, energi, dan entropi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Interaksi antara cahaya dan materi"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Termodinamika mempelajari hubungan antara panas, kerja, energi, dan entropi."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Hukum kedua termodinamika menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan.",
+                    "correct_answer": false,
+                    "explanation": "Hukum pertama termodinamika yang menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan. Hukum kedua termodinamika membahas tentang entropi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa itu siklus termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Serangkaian proses yang mengembalikan sistem ke keadaan awalnya"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Proses di mana suhu tetap konstan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Proses di mana tidak ada perpindahan panas"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Proses di mana tekanan tetap konstan"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Siklus termodinamika adalah serangkaian proses yang mengembalikan sistem ke keadaan awalnya."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan contoh penerapan termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Desain mesin"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kesetimbangan kimia"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Proses metabolisme"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Perubahan iklim"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Semua pilihan yang diberikan adalah contoh penerapan termodinamika."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam termodinamika statistik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Hubungan antara panas dan kerja"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perilaku mikroskopik partikel dan sifat makroskopik sistem"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Perubahan panas dalam reaksi kimia"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Efisiensi mesin kalor"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Termodinamika statistik menghubungkan perilaku mikroskopik partikel individu dengan sifat makroskopik sistem."
+                }
+            ]
+        }
+    }
+]

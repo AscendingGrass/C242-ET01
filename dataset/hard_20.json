@@ -1,0 +1,1174 @@
+[
+    {
+        "context": "Elektrolisis adalah proses kimia yang menggunakan arus listrik untuk menggerakkan reaksi redoks non-spontan. Ini melibatkan penggunaan elektroda, yaitu anoda dan katoda, yang dicelupkan ke dalam larutan elektrolit.  Pada anoda, terjadi oksidasi, di mana spesies kehilangan elektron. Di katoda, terjadi reduksi, di mana spesies memperoleh elektron.  Elektrolisis digunakan dalam berbagai aplikasi industri, seperti produksi logam, pemurnian logam, dan pelapisan logam. Contoh spesifik termasuk produksi aluminium dari bauksit, pemurnian tembaga, dan pelapisan perak pada perhiasan. Prinsip dasar elektrolisis adalah bahwa arus listrik memaksa reaksi kimia yang tidak akan terjadi secara spontan.  Reaksi ini didorong oleh energi listrik yang dipasok ke sistem.  Elektrolisis air, misalnya, menguraikan air menjadi hidrogen dan oksigen. Dalam konteks kimia organik, rantai karbon membentuk kerangka molekul organik.  Rantai ini dapat bervariasi panjangnya dan dapat berupa rantai lurus, bercabang, atau siklik.  Sifat-sifat molekul organik sangat dipengaruhi oleh struktur rantai karbonnya.  Sebagai contoh, alkana, alkena, dan alkuna adalah hidrokarbon dengan struktur rantai karbon yang berbeda.  Alkana memiliki ikatan tunggal antara atom karbon, alkena memiliki ikatan rangkap, dan alkuna memiliki ikatan rangkap tiga. Perbedaan dalam ikatan ini memengaruhi reaktivitas dan sifat fisik senyawa ini. DNA, atau asam deoksiribonukleat, adalah molekul yang membawa informasi genetik dalam semua organisme hidup.  Ini terdiri dari dua rantai polinukleotida yang saling melilit membentuk heliks ganda.  Setiap nukleotida terdiri dari gula deoksiribosa, gugus fosfat, dan basa nitrogen.  Ada empat basa nitrogen dalam DNA: adenin (A), guanin (G), sitosin (C), dan timin (T).  Adenin selalu berpasangan dengan timin, dan guanin selalu berpasangan dengan sitosin.  Urutan basa nitrogen dalam DNA menentukan informasi genetik yang dibawa oleh molekul tersebut.  Informasi ini digunakan untuk mengarahkan sintesis protein, yang melakukan berbagai fungsi dalam tubuh. DNA direplikasi sebelum sel membelah, memastikan bahwa setiap sel anak menerima salinan lengkap dari informasi genetik. Proses replikasi ini sangat akurat, tetapi kesalahan terkadang dapat terjadi, yang menyebabkan mutasi.  Mutasi ini dapat memiliki berbagai efek pada organisme, mulai dari tidak berpengaruh hingga menyebabkan penyakit genetik.  Struktur heliks ganda DNA ditemukan oleh James Watson dan Francis Crick pada tahun 1953, sebuah penemuan yang merevolusi biologi molekuler. Elektrolisis juga digunakan dalam produksi senyawa kimia, seperti natrium hidroksida dan klorin, dari natrium klorida.  Dalam proses ini, larutan natrium klorida dielektrolisis menggunakan elektroda inert. Klorin diproduksi di anoda, sedangkan natrium hidroksida dan hidrogen diproduksi di katoda. Protein adalah makromolekul yang terdiri dari asam amino. Urutan asam amino dalam protein ditentukan oleh urutan basa nitrogen dalam DNA.  Protein melakukan berbagai fungsi dalam tubuh, termasuk katalisis reaksi kimia, transportasi molekul, dan dukungan struktural.  Struktur protein sangat penting untuk fungsinya.  Protein dapat memiliki empat tingkat struktur: primer, sekunder, tersier, dan kuaterner. Struktur protein dapat dipengaruhi oleh faktor-faktor seperti suhu dan pH. Rantai karbon dapat membentuk struktur kompleks, seperti cincin benzena, yang merupakan dasar dari banyak senyawa aromatik. Senyawa aromatik, seperti benzena, toluena, dan xilena, memiliki aroma khas dan digunakan dalam berbagai aplikasi industri, termasuk produksi plastik, pewarna, dan obat-obatan.  Struktur cincin benzena memberikan stabilitas khusus pada senyawa aromatik.  Sifat-sifat senyawa aromatik berbeda dari senyawa alifatik, yang tidak mengandung cincin benzena.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Dalam elektrolisis larutan NaCl dengan elektroda inert, produk apa yang terbentuk di anoda dan katoda?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Anoda: Na; Katoda: Cl₂"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Anoda: Cl₂; Katoda: NaOH dan H₂"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Anoda: NaOH dan H₂; Katoda: Cl₂"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Anoda: H₂; Katoda: NaOH dan Cl₂"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Dalam elektrolisis larutan NaCl, klorin (Cl₂) diproduksi di anoda, sedangkan natrium hidroksida (NaOH) dan hidrogen (H₂) diproduksi di katoda."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Rantai karbon dalam senyawa organik hanya bisa berbentuk rantai lurus.",
+                    "correct_answer": false,
+                    "explanation": "Rantai karbon dapat berupa rantai lurus, bercabang, atau siklik."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Basa nitrogen apa dalam DNA yang selalu berpasangan dengan timin?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Guanin"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sitosin"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Adenin"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Urasil"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Adenin selalu berpasangan dengan timin dalam DNA."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah pernyataan yang benar tentang protein?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Protein terdiri dari asam amino."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Urutan asam amino dalam protein ditentukan oleh urutan basa nitrogen dalam RNA."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Protein melakukan berbagai fungsi dalam tubuh, termasuk katalisis reaksi kimia."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Struktur protein tidak penting untuk fungsinya."
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c"
+                    ],
+                    "explanation": "Protein terdiri dari asam amino, dan urutannya ditentukan oleh DNA. Protein juga memiliki berbagai fungsi, termasuk katalisis, dan strukturnya sangat penting untuk fungsinya."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang memberikan stabilitas khusus pada senyawa aromatik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Rantai karbon lurus"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Struktur cincin benzena"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Ikatan rangkap tiga"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kehadiran gugus karboksil"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Struktur cincin benzena memberikan stabilitas khusus pada senyawa aromatik."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Dalam kimia, stoikiometri adalah studi tentang hubungan kuantitatif antara reaktan dan produk dalam reaksi kimia.  Ini didasarkan pada hukum kekekalan massa, yang menyatakan bahwa massa total reaktan sama dengan massa total produk. Koefisien stoikiometri dalam persamaan kimia yang seimbang mewakili rasio mol reaktan dan produk.  Sebagai contoh, dalam reaksi 2H₂ + O₂ → 2H₂O, dua mol hidrogen bereaksi dengan satu mol oksigen untuk menghasilkan dua mol air.  Stoikiometri digunakan untuk menghitung jumlah reaktan yang dibutuhkan atau produk yang dihasilkan dalam reaksi kimia.  Ini juga digunakan untuk menentukan rumus empiris dan rumus molekul suatu senyawa. Reaksi kimia melibatkan pemutusan dan pembentukan ikatan kimia.  Energi yang dibutuhkan untuk memutuskan ikatan disebut energi ikatan.  Ketika ikatan baru terbentuk, energi dilepaskan.  Perbedaan antara energi yang dibutuhkan untuk memutuskan ikatan dan energi yang dilepaskan ketika ikatan baru terbentuk disebut perubahan entalpi reaksi.  Reaksi eksotermik melepaskan panas, sedangkan reaksi endotermik menyerap panas.  Laju reaksi kimia dipengaruhi oleh beberapa faktor, termasuk konsentrasi reaktan, suhu, dan keberadaan katalis.  Katalis adalah zat yang meningkatkan laju reaksi tanpa dikonsumsi dalam reaksi.  Katalis bekerja dengan menurunkan energi aktivasi reaksi.  Senyawa organik mengandung karbon dan hidrogen, dan seringkali juga mengandung unsur-unsur lain seperti oksigen, nitrogen, sulfur, dan fosfor.  Senyawa organik diklasifikasikan ke dalam berbagai kelompok fungsional, seperti alkohol, aldehida, keton, asam karboksilat, amina, dan amida.  Setiap kelompok fungsional memiliki sifat khas yang menentukan reaktivitas dan sifat fisik senyawa tersebut.  Rantai karbon panjang dalam asam lemak dapat jenuh, yang berarti mengandung ikatan tunggal antara atom karbon, atau tak jenuh, yang berarti mengandung satu atau lebih ikatan rangkap antara atom karbon.  Lemak tak jenuh dapat berupa tak jenuh tunggal, yang berarti mengandung satu ikatan rangkap, atau tak jenuh ganda, yang berarti mengandung dua atau lebih ikatan rangkap.  Lemak jenuh cenderung padat pada suhu kamar, sedangkan lemak tak jenuh cenderung cair. Ikatan kimia adalah gaya tarik-menarik yang menyatukan atom-atom dalam molekul.  Ada dua jenis utama ikatan kimia: ikatan ionik dan ikatan kovalen.  Ikatan ionik terbentuk ketika atom-atom mentransfer elektron untuk membentuk ion yang bermuatan berlawanan.  Ikatan kovalen terbentuk ketika atom-atom berbagi elektron.  Senyawa ionik, seperti natrium klorida (NaCl), terbentuk dari ikatan ionik. Senyawa kovalen, seperti air (H₂O), terbentuk dari ikatan kovalen.  DNA direplikasi sebelum pembelahan sel, memastikan bahwa setiap sel anak menerima satu set lengkap kromosom. Replikasi DNA adalah proses yang kompleks yang melibatkan banyak enzim. Enzim helikase membuka heliks ganda DNA, dan enzim DNA polimerase menambahkan nukleotida baru ke rantai DNA yang sedang tumbuh. DNA juga dapat ditranskripsi menjadi RNA, yang kemudian ditranslasi menjadi protein. RNA, atau asam ribonukleat, adalah molekul yang terlibat dalam sintesis protein.  Ini adalah asam nukleat beruntai tunggal yang terdiri dari nukleotida.  Setiap nukleotida terdiri dari gula ribosa, gugus fosfat, dan basa nitrogen. Ada empat basa nitrogen dalam RNA: adenin (A), guanin (G), sitosin (C), dan urasil (U). RNA ditranskripsi dari DNA dalam proses yang disebut transkripsi. RNA memainkan peran penting dalam ekspresi gen, yaitu proses di mana informasi yang dikodekan dalam DNA digunakan untuk mensintesis protein.  Ada tiga jenis utama RNA: messenger RNA (mRNA), transfer RNA (tRNA), dan ribosomal RNA (rRNA). Masing-masing jenis RNA memainkan peran tertentu dalam sintesis protein.  Stoikiometri juga digunakan dalam analisis gravimetri, teknik analitik kuantitatif yang digunakan untuk menentukan konsentrasi analit dengan mengukur massa endapan yang terbentuk. Dalam titrasi, larutan dengan konsentrasi yang diketahui (titran) ditambahkan ke larutan dengan konsentrasi yang tidak diketahui (analit) hingga reaksi selesai. Titik di mana reaksi selesai disebut titik ekivalen.  Stoikiometri digunakan untuk menghitung konsentrasi analit berdasarkan volume titran yang digunakan. Elektrokimia adalah cabang kimia yang mempelajari hubungan antara listrik dan reaksi kimia.  Reaksi redoks, yang melibatkan transfer elektron, adalah dasar dari elektrokimia.  Sel elektrokimia, seperti sel galvanik dan sel elektrolisis, digunakan untuk menghasilkan listrik atau menggerakkan reaksi kimia.  Sel galvanik, seperti baterai, mengubah energi kimia menjadi energi listrik.  Sel elektrolisis, seperti yang digunakan dalam elektrolisis, mengubah energi listrik menjadi energi kimia.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Dalam reaksi 2H₂ + O₂ → 2H₂O, berapa mol air yang dihasilkan dari 4 mol hidrogen?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "2 mol"
+                        },
+                        {
+                            "id": "b",
+                            "text": "4 mol"
+                        },
+                        {
+                            "id": "c",
+                            "text": "6 mol"
+                        },
+                        {
+                            "id": "d",
+                            "text": "8 mol"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Berdasarkan stoikiometri reaksi, 2 mol hidrogen menghasilkan 2 mol air. Jadi, 4 mol hidrogen akan menghasilkan 4 mol air."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Reaksi endotermik melepaskan panas.",
+                    "correct_answer": false,
+                    "explanation": "Reaksi endotermik menyerap panas, sedangkan reaksi eksotermik melepaskan panas."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa peran katalis dalam reaksi kimia?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Meningkatkan energi aktivasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menurunkan energi aktivasi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengurangi konsentrasi reaktan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Meningkatkan konsentrasi produk"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Katalis menurunkan energi aktivasi reaksi, sehingga meningkatkan laju reaksi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah pernyataan yang benar tentang lemak?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Lemak jenuh cenderung padat pada suhu kamar."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Lemak tak jenuh cenderung cair pada suhu kamar."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Lemak tak jenuh tunggal mengandung dua atau lebih ikatan rangkap."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Lemak jenuh mengandung satu atau lebih ikatan rangkap."
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Lemak jenuh cenderung padat pada suhu kamar, sedangkan lemak tak jenuh cenderung cair. Lemak tak jenuh tunggal mengandung satu ikatan rangkap, dan lemak tak jenuh ganda mengandung dua atau lebih ikatan rangkap."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Sel elektrokimia apa yang mengubah energi kimia menjadi energi listrik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Sel elektrolisis"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sel galvanik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sel konsentrasi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sel bahan bakar"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Sel galvanik, seperti baterai, mengubah energi kimia menjadi energi listrik."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Termokimia adalah studi tentang perubahan panas yang menyertai reaksi kimia.  Kalor reaksi, dilambangkan dengan ΔH, adalah perubahan entalpi yang terjadi selama reaksi kimia.  Reaksi eksotermik memiliki ΔH negatif, yang berarti mereka melepaskan panas, sedangkan reaksi endotermik memiliki ΔH positif, yang berarti mereka menyerap panas.  Hukum Hess menyatakan bahwa perubahan entalpi total untuk suatu reaksi adalah sama apakah reaksi berlangsung dalam satu langkah atau beberapa langkah.  Entalpi pembentukan standar, dilambangkan dengan ΔHf°, adalah perubahan entalpi yang terjadi ketika satu mol senyawa dibentuk dari unsur-unsurnya dalam keadaan standar.  Kinetika kimia adalah studi tentang laju reaksi kimia. Laju reaksi dipengaruhi oleh beberapa faktor, termasuk konsentrasi reaktan, suhu, dan keberadaan katalis.  Persamaan laju reaksi menyatakan hubungan antara laju reaksi dan konsentrasi reaktan.  Orde reaksi adalah jumlah pangkat konsentrasi reaktan dalam persamaan laju.  Energi aktivasi adalah energi minimum yang dibutuhkan agar reaksi dapat terjadi. Katalis menurunkan energi aktivasi, sehingga meningkatkan laju reaksi. Senyawa koordinasi, juga dikenal sebagai kompleks logam, adalah senyawa yang mengandung ion logam pusat yang dikelilingi oleh ligan. Ligan adalah ion atau molekul yang menyumbangkan pasangan elektron ke ion logam pusat. Bilangan koordinasi adalah jumlah ligan yang terikat pada ion logam pusat. Senyawa koordinasi menunjukkan berbagai warna dan sifat magnetik. Mereka digunakan dalam berbagai aplikasi, termasuk katalisis, elektrokimia, dan pengobatan.  Teori medan ligan menjelaskan ikatan dan sifat senyawa koordinasi dalam hal interaksi antara ligan dan orbital d ion logam pusat.  Senyawa koordinasi dapat berupa kompleks tetrahedral, planar persegi, atau oktahedral, tergantung pada bilangan koordinasinya. Spektroskopi adalah studi tentang interaksi antara materi dan radiasi elektromagnetik. Spektroskopi UV-Vis digunakan untuk mempelajari transisi elektronik dalam molekul. Spektroskopi inframerah (IR) digunakan untuk mempelajari vibrasi molekul. Spektroskopi resonansi magnetik nuklir (NMR) digunakan untuk mempelajari struktur molekul.  Spektroskopi massa (MS) digunakan untuk menentukan massa molekul dan rumus molekul.  Spektroskopi digunakan dalam berbagai aplikasi, termasuk analisis kimia, identifikasi senyawa, dan penentuan struktur.  Kromatografi adalah teknik yang digunakan untuk memisahkan campuran menjadi komponen-komponennya. Ada berbagai jenis kromatografi, termasuk kromatografi lapis tipis (TLC), kromatografi gas (GC), dan kromatografi cair kinerja tinggi (HPLC). Kromatografi digunakan dalam berbagai aplikasi, termasuk pemurnian senyawa, analisis lingkungan, dan ilmu forensik. Dalam kimia analitik, titrasi adalah teknik yang digunakan untuk menentukan konsentrasi analit dengan mereaksikannya dengan larutan reagen dengan konsentrasi yang diketahui. Titik di mana reaksi selesai disebut titik ekivalen.  Indikator digunakan untuk menandai titik ekivalen dalam titrasi.  Titrasi asam-basa digunakan untuk menentukan konsentrasi asam atau basa.  Titrasi redoks digunakan untuk menentukan konsentrasi zat pengoksidasi atau pereduksi.  Titrasi kompleksometri digunakan untuk menentukan konsentrasi ion logam.  Elektroforesis adalah teknik yang digunakan untuk memisahkan molekul berdasarkan ukuran dan muatannya. Molekul ditempatkan pada gel dan medan listrik diterapkan. Molekul yang lebih kecil dan lebih bermuatan bermigrasi lebih cepat melalui gel.  Elektroforesis gel digunakan untuk memisahkan DNA, RNA, dan protein.  Elektroforesis kapiler digunakan untuk memisahkan molekul kecil, seperti asam amino dan peptida.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Reaksi apa yang memiliki ΔH negatif?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Reaksi endotermik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Reaksi eksotermik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Reaksi netral"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Reaksi redoks"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Reaksi eksotermik melepaskan panas dan memiliki ΔH negatif."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Katalis memengaruhi posisi kesetimbangan.",
+                    "correct_answer": false,
+                    "explanation": "Katalis tidak memengaruhi posisi kesetimbangan, tetapi mempercepat laju reaksi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan bilangan koordinasi dalam senyawa koordinasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Jumlah elektron valensi ion logam pusat"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Jumlah ligan yang terikat pada ion logam pusat"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Muatan ion logam pusat"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Jumlah atom dalam ligan"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Bilangan koordinasi adalah jumlah ligan yang terikat pada ion logam pusat."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah teknik spektroskopi yang digunakan untuk mempelajari struktur molekul?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Spektroskopi UV-Vis"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Spektroskopi IR"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Spektroskopi NMR"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Spektroskopi massa"
+                        }
+                    ],
+                    "correct_answer": [
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Spektroskopi IR digunakan untuk mempelajari vibrasi molekul, dan spektroskopi NMR digunakan untuk mempelajari struktur molekul."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Teknik apa yang digunakan untuk memisahkan molekul berdasarkan ukuran dan muatannya?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kromatografi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Elektroforesis"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Titrasi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Spektroskopi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Elektroforesis adalah teknik yang digunakan untuk memisahkan molekul berdasarkan ukuran dan muatannya."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Kimia polimer berkaitan dengan sintesis dan sifat polimer, yang merupakan makromolekul yang terdiri dari unit berulang yang disebut monomer. Polimerisasi adalah proses di mana monomer bergabung membentuk polimer. Ada dua jenis utama polimerisasi: polimerisasi adisi dan polimerisasi kondensasi. Dalam polimerisasi adisi, monomer bergabung tanpa kehilangan atom, sedangkan dalam polimerisasi kondensasi, monomer bergabung dengan kehilangan molekul kecil, seperti air. Polimer dapat diklasifikasikan berdasarkan strukturnya, seperti polimer linier, bercabang, atau jaringan.  Mereka juga dapat diklasifikasikan berdasarkan sifatnya, seperti termoplastik, yang melunak saat dipanaskan dan mengeras saat didinginkan, dan termoset, yang mengeras secara permanen saat dipanaskan.  Contoh polimer termasuk polietilen, polipropilen, polivinil klorida (PVC), polistirena, nilon, dan poliester.  Polimer digunakan dalam berbagai aplikasi, termasuk plastik, serat, elastomer, perekat, dan pelapis.  Kimia supramolekul berkaitan dengan struktur dan fungsi supramolekul, yang merupakan ansambel molekul yang disatukan oleh ikatan nonkovalen, seperti ikatan hidrogen, interaksi van der Waals, dan interaksi elektrostatik. Supramolekul dapat memiliki berbagai bentuk dan ukuran, dan mereka dapat menunjukkan sifat yang muncul yang tidak dimiliki oleh molekul individu.  Contoh supramolekul termasuk misel, liposom, dan kompleks tuan rumah-tamu.  Kimia supramolekul digunakan dalam berbagai aplikasi, termasuk sensor, katalisis, dan pengiriman obat.  Nanokimia berkaitan dengan sintesis dan sifat nanomaterial, yang merupakan material dengan setidaknya satu dimensi dalam kisaran nanometer (1-100 nm). Nanomaterial menunjukkan sifat unik yang berbeda dari material massal karena rasio permukaan-volume-nya yang tinggi dan efek kuantum.  Contoh nanomaterial termasuk nanopartikel, nanotube, dan nanokomposit. Nanokimia digunakan dalam berbagai aplikasi, termasuk elektronik, energi, dan biomedis.  Katalisis adalah proses di mana laju reaksi kimia ditingkatkan oleh keberadaan katalis. Katalis adalah zat yang menurunkan energi aktivasi reaksi tanpa dikonsumsi dalam reaksi. Katalis dapat berupa homogen, yang berarti berada dalam fase yang sama dengan reaktan, atau heterogen, yang berarti berada dalam fase yang berbeda dari reaktan.  Katalisis digunakan dalam berbagai aplikasi industri, termasuk produksi bahan bakar, polimer, dan bahan kimia.  Kimia hijau adalah desain produk dan proses kimia yang mengurangi atau menghilangkan penggunaan dan pembentukan zat berbahaya.  Ini didasarkan pada dua belas prinsip kimia hijau, yang mencakup pencegahan limbah, atom ekonomi, penggunaan reagen yang kurang berbahaya, desain bahan kimia dan produk yang lebih aman, penggunaan pelarut dan kondisi reaksi yang lebih aman, efisiensi energi, penggunaan sumber daya terbarukan, pengurangan turunan, katalisis, desain untuk degradasi, analisis waktu nyata untuk pencegahan polusi, dan pencegahan kecelakaan.  Kimia hijau digunakan dalam berbagai aplikasi, termasuk sintesis kimia, manufaktur, dan remediasi lingkungan.  Kimia komputasi menggunakan simulasi komputer untuk mempelajari dan memprediksi perilaku molekul dan reaksi kimia.  Ini melibatkan penggunaan metode mekanika kuantum dan mekanika molekuler untuk menghitung sifat molekul, seperti struktur, energi, dan reaktivitas.  Kimia komputasi digunakan dalam berbagai aplikasi, termasuk desain obat, penemuan material, dan katalisis.  Biokimia adalah studi tentang proses kimia dalam organisme hidup.  Ini mencakup berbagai topik, seperti struktur dan fungsi biomolekul, metabolisme, dan genetika molekuler.  Biomolekul, seperti protein, asam nukleat, karbohidrat, dan lipid, adalah blok bangunan kehidupan. Metabolisme adalah rangkaian reaksi kimia yang terjadi dalam sel untuk mempertahankan kehidupan.  Genetika molekuler adalah studi tentang bagaimana informasi genetik disimpan, ditransmisikan, dan diekspresikan.  Biokimia digunakan dalam berbagai aplikasi, termasuk kedokteran, pertanian, dan bioteknologi.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa perbedaan utama antara polimerisasi adisi dan polimerisasi kondensasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Polimerisasi adisi melibatkan kehilangan molekul kecil, sedangkan polimerisasi kondensasi tidak."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Polimerisasi adisi tidak melibatkan kehilangan atom, sedangkan polimerisasi kondensasi melibatkan kehilangan molekul kecil."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Polimerisasi adisi menghasilkan polimer linier, sedangkan polimerisasi kondensasi menghasilkan polimer bercabang."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Polimerisasi adisi menggunakan katalis, sedangkan polimerisasi kondensasi tidak."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Dalam polimerisasi adisi, monomer bergabung tanpa kehilangan atom, sedangkan dalam polimerisasi kondensasi, monomer bergabung dengan kehilangan molekul kecil."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Termoplastik mengeras secara permanen saat dipanaskan.",
+                    "correct_answer": false,
+                    "explanation": "Termoplastik melunak saat dipanaskan dan mengeras saat didinginkan, sedangkan termoset mengeras secara permanen saat dipanaskan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang menyatukan molekul-molekul dalam supramolekul?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Ikatan kovalen"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Ikatan ionik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Ikatan metalik"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Ikatan nonkovalen"
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Supramolekul disatukan oleh ikatan nonkovalen, seperti ikatan hidrogen, interaksi van der Waals, dan interaksi elektrostatik."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam prinsip kimia hijau?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Penggunaan bahan berbahaya"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pencegahan limbah"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Efisiensi energi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Penggunaan sumber daya tak terbarukan"
+                        }
+                    ],
+                    "correct_answer": [
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Prinsip kimia hijau mencakup pencegahan limbah dan efisiensi energi, antara lain."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam biokimia?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Reaksi kimia dalam batuan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Reaksi kimia di atmosfer"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Reaksi kimia dalam organisme hidup"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Reaksi kimia dalam senyawa anorganik"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Biokimia adalah studi tentang proses kimia dalam organisme hidup."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Dalam kimia analitik, spektrofotometri adalah teknik yang digunakan untuk mengukur absorbansi atau transmisi cahaya melalui larutan. Ini didasarkan pada prinsip bahwa zat menyerap cahaya pada panjang gelombang tertentu, dan jumlah cahaya yang diserap sebanding dengan konsentrasi zat dalam larutan. Spektrofotometer adalah instrumen yang digunakan untuk mengukur absorbansi atau transmisi cahaya. Ini terdiri dari sumber cahaya, monokromator, tempat sampel, detektor, dan perangkat pembaca. Hukum Beer-Lambert menyatakan hubungan antara absorbansi, konsentrasi, dan panjang lintasan cahaya melalui larutan.  Spektrofotometri digunakan dalam berbagai aplikasi, termasuk penentuan konsentrasi zat dalam larutan, analisis kinetika reaksi, dan studi interaksi molekul.  Potensiometri adalah teknik elektroanalitik yang digunakan untuk mengukur potensial elektroda dalam larutan. Potensial elektroda adalah ukuran kecenderungan suatu elektroda untuk mendapatkan atau kehilangan elektron.  Elektroda referensi, seperti elektroda kalomel jenuh (SCE) dan elektroda perak/perak klorida (Ag/AgCl), digunakan untuk memberikan potensial referensi yang stabil.  Potensiometri digunakan dalam berbagai aplikasi, termasuk penentuan pH, titrasi redoks, dan studi reaksi elektrokimia.  Kromatografi adalah teknik pemisahan yang digunakan untuk memisahkan campuran menjadi komponen-komponennya. Ini didasarkan pada prinsip bahwa komponen yang berbeda dalam campuran memiliki afinitas yang berbeda untuk fase diam dan fase gerak. Fase diam biasanya berupa padatan atau cairan yang dilapisi pada padatan, sedangkan fase gerak biasanya berupa cairan atau gas.  Ada berbagai jenis kromatografi, termasuk kromatografi lapis tipis (TLC), kromatografi gas (GC), dan kromatografi cair kinerja tinggi (HPLC).  Kromatografi digunakan dalam berbagai aplikasi, termasuk pemurnian senyawa, analisis lingkungan, dan ilmu forensik.  Termogravimetri (TGA) adalah teknik yang digunakan untuk mempelajari perubahan massa sampel sebagai fungsi suhu. Ini didasarkan pada prinsip bahwa sampel kehilangan massa saat dipanaskan karena dekomposisi, penguapan, atau reaksi kimia lainnya.  TGA digunakan dalam berbagai aplikasi, termasuk penentuan kemurnian sampel, studi kinetika dekomposisi, dan analisis material.  Kalorimetri pemindaian diferensial (DSC) adalah teknik yang digunakan untuk mempelajari perubahan panas yang menyertai transisi fisik dan kimia dalam sampel. Ini didasarkan pada prinsip bahwa sampel menyerap atau melepaskan panas saat mengalami transisi, seperti peleburan, kristalisasi, atau reaksi kimia.  DSC digunakan dalam berbagai aplikasi, termasuk penentuan titik lebur, studi kinetika reaksi, dan analisis material.  Mikroskopi elektron adalah teknik yang menggunakan berkas elektron untuk menghasilkan gambar sampel. Mikroskop elektron transmisi (TEM) digunakan untuk mempelajari struktur internal sampel, sedangkan mikroskop elektron payaran (SEM) digunakan untuk mempelajari permukaan sampel. Mikroskopi elektron digunakan dalam berbagai aplikasi, termasuk ilmu material, biologi, dan nanoteknologi.  Difraksi sinar-X adalah teknik yang digunakan untuk mempelajari struktur kristal material. Ini didasarkan pada prinsip bahwa sinar-X dihamburkan oleh atom-atom dalam kisi kristal, dan pola hamburan dapat digunakan untuk menentukan susunan atom-atom dalam kisi. Difraksi sinar-X digunakan dalam berbagai aplikasi, termasuk penentuan struktur kristal, studi cacat kristal, dan analisis material.  Spektrometri massa (MS) adalah teknik yang digunakan untuk mengukur rasio massa terhadap muatan ion. Ini didasarkan pada prinsip bahwa ion dapat dipisahkan berdasarkan rasio massa terhadap muatannya dalam medan magnet atau listrik.  Spektrometri massa digunakan dalam berbagai aplikasi, termasuk identifikasi senyawa, analisis isotop, dan proteomik.  Resonansi magnetik nuklir (NMR) adalah teknik yang digunakan untuk mempelajari struktur molekul. Ini didasarkan pada prinsip bahwa inti atom tertentu, seperti hidrogen dan karbon, memiliki momen magnetik, dan momen-momen ini dapat dideteksi dengan menerapkan medan magnet dan frekuensi radio.  NMR digunakan dalam berbagai aplikasi, termasuk penentuan struktur molekul, studi dinamika molekul, dan pencitraan medis.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Hukum apa yang menyatakan hubungan antara absorbansi, konsentrasi, dan panjang lintasan cahaya dalam spektrofotometri?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Hukum Beer-Lambert"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Hukum Hess"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Hukum Raoult"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Hukum Henry"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Hukum Beer-Lambert menyatakan hubungan antara absorbansi, konsentrasi, dan panjang lintasan cahaya."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Potensiometri digunakan untuk mengukur arus listrik dalam larutan.",
+                    "correct_answer": false,
+                    "explanation": "Potensiometri digunakan untuk mengukur potensial elektroda, bukan arus listrik."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa perbedaan antara mikroskop elektron transmisi (TEM) dan mikroskop elektron payaran (SEM)?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "TEM digunakan untuk mempelajari permukaan sampel, sedangkan SEM digunakan untuk mempelajari struktur internal."
+                        },
+                        {
+                            "id": "b",
+                            "text": "TEM menggunakan berkas cahaya, sedangkan SEM menggunakan berkas elektron."
+                        },
+                        {
+                            "id": "c",
+                            "text": "TEM digunakan untuk mempelajari struktur internal sampel, sedangkan SEM digunakan untuk mempelajari permukaan sampel."
+                        },
+                        {
+                            "id": "d",
+                            "text": "TEM dan SEM adalah teknik yang sama."
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "TEM digunakan untuk mempelajari struktur internal, sedangkan SEM digunakan untuk mempelajari permukaan."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah teknik yang digunakan untuk mempelajari perubahan termal dalam sampel?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Termogravimetri (TGA)"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kalorimetri pemindaian diferensial (DSC)"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kromatografi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Spektrofotometri"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "TGA mempelajari perubahan massa sebagai fungsi suhu, dan DSC mempelajari perubahan panas yang menyertai transisi."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Teknik apa yang digunakan untuk mengukur rasio massa terhadap muatan ion?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Spektrometri massa"
+                        },
+                        {
+                            "id": "b",
+                            "text": "NMR"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Difraksi sinar-X"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kromatografi"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Spektrometri massa digunakan untuk mengukur rasio massa terhadap muatan ion."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Kimia nuklir adalah cabang kimia yang mempelajari radioaktivitas, proses nuklir, dan sifat inti atom. Radioaktivitas adalah peluruhan spontan inti atom yang tidak stabil, yang memancarkan partikel atau radiasi.  Ada tiga jenis utama peluruhan radioaktif: peluruhan alfa, peluruhan beta, dan peluruhan gamma.  Peluruhan alfa melibatkan emisi partikel alfa, yang merupakan inti helium. Peluruhan beta melibatkan emisi partikel beta, yang merupakan elektron atau positron. Peluruhan gamma melibatkan emisi sinar gamma, yang merupakan radiasi elektromagnetik berenergi tinggi. Waktu paruh adalah waktu yang dibutuhkan untuk setengah dari sampel isotop radioaktif untuk meluruh. Radioaktivitas digunakan dalam berbagai aplikasi, termasuk penanggalan radiokarbon, pencitraan medis, dan terapi radiasi.  Kimia lingkungan adalah studi tentang proses kimia di lingkungan, termasuk udara, air, dan tanah.  Polusi udara disebabkan oleh emisi dari berbagai sumber, seperti kendaraan bermotor, pembangkit listrik, dan pabrik industri.  Polutan udara, seperti sulfur dioksida, nitrogen oksida, dan ozon, dapat menyebabkan masalah kesehatan pernapasan.  Polusi air disebabkan oleh pembuangan limbah industri, limbah pertanian, dan limbah domestik ke badan air. Polutan air, seperti logam berat dan pestisida, dapat membahayakan kehidupan akuatik dan manusia.  Polusi tanah disebabkan oleh penggunaan pestisida, pupuk, dan limbah industri.  Polutan tanah dapat mencemari air tanah dan tanaman.  Kimia hijau adalah desain produk dan proses kimia yang mengurangi atau menghilangkan penggunaan dan pembentukan zat berbahaya. Ini didasarkan pada dua belas prinsip kimia hijau, yang bertujuan untuk meminimalkan dampak lingkungan dari kimia.  Kimia hijau digunakan dalam berbagai aplikasi, termasuk sintesis kimia, manufaktur, dan remediasi lingkungan.  Kimia teoretis menggunakan metode matematika dan komputasi untuk mempelajari dan memprediksi perilaku molekul dan reaksi kimia. Ini mencakup mekanika kuantum, yang menggambarkan perilaku materi pada tingkat atom dan subatom, dan mekanika molekuler, yang menggambarkan perilaku molekul dalam hal interaksi atom-atomnya.  Kimia teoretis digunakan dalam berbagai aplikasi, termasuk desain obat, penemuan material, dan katalisis.  Spektroskopi adalah studi tentang interaksi antara materi dan radiasi elektromagnetik. Ada berbagai jenis spektroskopi, termasuk spektroskopi UV-Vis, spektroskopi IR, spektroskopi NMR, dan spektroskopi massa.  Spektroskopi digunakan untuk mengidentifikasi dan mengukur konsentrasi zat, mempelajari struktur dan dinamika molekul, dan menyelidiki proses kimia.  Kimia material berkaitan dengan sintesis, karakterisasi, dan aplikasi material, termasuk logam, keramik, polimer, dan komposit. Ini melibatkan studi tentang struktur, sifat, dan pemrosesan material.  Kimia material digunakan dalam berbagai aplikasi, termasuk elektronik, energi, dan biomedis.  Nanoteknologi adalah manipulasi materi pada skala nanometer.  Nanomaterial menunjukkan sifat unik yang berbeda dari material massal karena rasio permukaan-volume-nya yang tinggi dan efek kuantum. Nanoteknologi digunakan dalam berbagai aplikasi, termasuk elektronik, energi, dan biomedis.  Bioteknologi adalah penggunaan organisme hidup atau sistem biologi untuk mengembangkan atau membuat produk yang bermanfaat. Ini mencakup berbagai aplikasi, seperti rekayasa genetika, produksi obat-obatan, dan pengembangan biofuel.  Bioteknologi memainkan peran penting dalam kedokteran, pertanian, dan lingkungan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan waktu paruh dalam peluruhan radioaktif?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Waktu yang dibutuhkan untuk semua sampel isotop radioaktif untuk meluruh."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Waktu yang dibutuhkan untuk setengah dari sampel isotop radioaktif untuk meluruh."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Waktu yang dibutuhkan untuk seperempat dari sampel isotop radioaktif untuk meluruh."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Waktu yang dibutuhkan untuk sampel isotop radioaktif untuk meluruh sepenuhnya."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Waktu paruh adalah waktu yang dibutuhkan untuk setengah dari sampel untuk meluruh."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Polusi udara hanya disebabkan oleh kendaraan bermotor.",
+                    "correct_answer": false,
+                    "explanation": "Polusi udara disebabkan oleh berbagai sumber, termasuk kendaraan bermotor, pembangkit listrik, dan pabrik industri."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam kimia teoretis?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Reaksi kimia di laboratorium"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perilaku molekul dan reaksi kimia menggunakan metode komputasi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sifat fisik dan kimia material"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Struktur dan fungsi organisme hidup"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Kimia teoretis menggunakan metode komputasi untuk mempelajari molekul dan reaksi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam aplikasi nanoteknologi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Elektronik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Energi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pertanian"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Biomedis"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Nanoteknologi digunakan dalam elektronik, energi, dan biomedis, antara lain."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan bioteknologi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Studi tentang batuan dan mineral"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Studi tentang tumbuhan dan hewan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Penggunaan organisme hidup untuk membuat produk yang bermanfaat"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Studi tentang cuaca dan iklim"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Bioteknologi adalah penggunaan organisme atau sistem biologi untuk membuat produk."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Kimia organik logam mempelajari senyawa yang mengandung ikatan logam-karbon. Senyawa ini memainkan peran penting dalam berbagai reaksi katalitik, seperti reaksi Heck, reaksi Suzuki, dan reaksi metatesis olefin.  Katalis logam transisi, seperti paladium, platinum, dan rodium, digunakan secara luas dalam kimia organik sintetik untuk memfasilitasi pembentukan ikatan karbon-karbon dan karbon-heteroatom.  Senyawa organolitium dan organomagnesium, juga dikenal sebagai reagen Grignard, adalah nukleofil yang sangat reaktif yang digunakan untuk membentuk ikatan karbon-karbon. Kimia koordinasi berfokus pada senyawa koordinasi, juga dikenal sebagai kompleks logam, yang terdiri dari ion logam pusat yang dikelilingi oleh ligan. Ligan adalah ion atau molekul yang menyumbangkan pasangan elektron ke ion logam pusat.  Bilangan koordinasi mengacu pada jumlah ligan yang terikat pada logam pusat. Senyawa koordinasi menunjukkan berbagai geometri, termasuk tetrahedral, planar persegi, dan oktahedral.  Mereka menunjukkan sifat optik dan magnetik yang menarik, dan digunakan dalam berbagai aplikasi, seperti katalisis, elektrokimia, dan pengobatan. Teori medan kristal dan teori medan ligan digunakan untuk menjelaskan ikatan dan sifat senyawa koordinasi.  Katalisis homogen melibatkan katalis yang berada dalam fase yang sama dengan reaktan, sedangkan katalisis heterogen melibatkan katalis yang berada dalam fase yang berbeda dari reaktan.  Katalis homogen seringkali lebih selektif dan efisien daripada katalis heterogen, tetapi mereka dapat lebih sulit untuk dipisahkan dari produk reaksi.  Katalis heterogen, di sisi lain, dapat dengan mudah dipisahkan dan didaur ulang.  Contoh katalis heterogen termasuk logam yang didukung, oksida logam, dan zeolit.  Kimia supramolekul mempelajari interaksi nonkovalen antara molekul.  Interaksi ini, seperti ikatan hidrogen, interaksi van der Waals, dan interaksi elektrostatik, dapat digunakan untuk merakit molekul menjadi supramolekul yang lebih besar dan lebih kompleks. Kimia supramolekul memiliki aplikasi dalam berbagai bidang, seperti pengenalan molekuler, sensor, dan pengiriman obat.  Kimia keadaan padat mempelajari sintesis, struktur, sifat, dan aplikasi material dalam keadaan padat.  Ini mencakup berbagai macam material, termasuk kristal, keramik, gelas, polimer, dan komposit. Kimia keadaan padat memainkan peran penting dalam pengembangan material baru untuk elektronik, energi, dan biomedis.  Spektroskopi keadaan padat digunakan untuk mempelajari sifat elektronik dan getaran material dalam keadaan padat.  Kimia kuantum adalah cabang kimia teoretis yang menggunakan mekanika kuantum untuk mempelajari dan memprediksi perilaku molekul dan reaksi kimia.  Ini melibatkan penyelesaian persamaan Schrödinger untuk sistem molekuler untuk mendapatkan informasi tentang struktur elektronik, energi, dan reaktivitasnya.  Metode ab initio dan metode semi-empiris digunakan dalam kimia kuantum untuk melakukan perhitungan pada sistem molekuler.  Kimia komputasi menggunakan simulasi komputer untuk mempelajari dan memprediksi perilaku molekul dan reaksi kimia.  Ini melibatkan penggunaan berbagai metode, termasuk mekanika molekuler, dinamika molekuler, dan metode Monte Carlo. Kimia komputasi digunakan dalam desain obat, penemuan material, dan studi proses kimia.  Kimia bioanorganik mempelajari peran ion logam dalam sistem biologi.  Ini mencakup studi tentang metaloprotein, yang merupakan protein yang mengandung satu atau lebih ion logam, dan peran ion logam dalam katalisis, transportasi, dan pensinyalan.  Metaloprotein memainkan peran penting dalam berbagai proses biologi, seperti fotosintesis, respirasi, dan replikasi DNA.  Kimia bioorganik mempelajari struktur, fungsi, dan sintesis molekul organik yang ditemukan dalam sistem biologi. Ini mencakup studi tentang biomolekul, seperti protein, asam nukleat, karbohidrat, dan lipid, dan interaksi mereka satu sama lain. Kimia bioorganik memainkan peran penting dalam pengembangan obat baru, memahami proses biologis, dan merancang material biomimetik.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fokus utama kimia organik logam?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Senyawa yang mengandung ikatan logam-karbon"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Reaksi antara asam dan basa"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sifat fisik gas"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Struktur dan fungsi biomolekul"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Kimia organik logam berfokus pada senyawa dengan ikatan logam-karbon."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Katalis homogen lebih mudah dipisahkan dari produk reaksi daripada katalis heterogen.",
+                    "correct_answer": false,
+                    "explanation": "Katalis heterogen lebih mudah dipisahkan karena berada dalam fase yang berbeda."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Interaksi apa yang dipelajari dalam kimia supramolekul?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Ikatan kovalen"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Ikatan ionik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Ikatan metalik"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Interaksi nonkovalen"
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Kimia supramolekul mempelajari interaksi nonkovalen antar molekul."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam kimia komputasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mekanika kuantum"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mekanika molekuler"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Spektroskopi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Dinamika molekuler"
+                        }
+                    ],
+                    "correct_answer": [
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Kimia komputasi menggunakan mekanika molekuler dan dinamika molekuler, di antara metode lainnya."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa peran kimia bioanorganik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mempelajari reaksi kimia di atmosfer"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mempelajari peran ion logam dalam sistem biologi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mempelajari sintesis dan sifat polimer"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mempelajari struktur dan fungsi sel"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Kimia bioanorganik berfokus pada peran ion logam dalam proses biologis."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Dalam kimia fisik, termodinamika berkaitan dengan hubungan antara panas, kerja, energi, dan entropi. Hukum pertama termodinamika menyatakan kekekalan energi, yang berarti bahwa energi tidak dapat diciptakan atau dimusnahkan, tetapi hanya dapat diubah dari satu bentuk ke bentuk lainnya. Hukum kedua termodinamika menyatakan bahwa entropi total dari sistem terisolasi selalu meningkat seiring waktu. Entropi adalah ukuran keacakan atau gangguan suatu sistem.  Hukum ketiga termodinamika menyatakan bahwa entropi suatu sistem mendekati nilai konstan saat suhu mendekati nol mutlak.  Energi bebas Gibbs, dilambangkan dengan G, adalah ukuran potensial suatu sistem untuk melakukan kerja non-mekanis.  Reaksi spontan memiliki perubahan energi bebas Gibbs negatif (ΔG < 0).  Kesetimbangan kimia adalah keadaan di mana laju reaksi maju sama dengan laju reaksi balik.  Pada kesetimbangan, perubahan energi bebas Gibbs adalah nol (ΔG = 0).  Elektrokimia adalah cabang kimia yang mempelajari hubungan antara listrik dan reaksi kimia.  Reaksi redoks, yang melibatkan transfer elektron, adalah dasar dari elektrokimia.  Sel elektrokimia, seperti sel galvanik dan sel elektrolisis, digunakan untuk menghasilkan listrik atau menggerakkan reaksi kimia.  Sel galvanik mengubah energi kimia menjadi energi listrik, sedangkan sel elektrolisis mengubah energi listrik menjadi energi kimia.  Potensial elektroda standar, dilambangkan dengan E°, adalah ukuran kecenderungan suatu elektroda untuk mendapatkan atau kehilangan elektron.  Persamaan Nernst menghubungkan potensial sel dengan konsentrasi reaktan dan produk.  Kinetika kimia adalah studi tentang laju reaksi kimia.  Laju reaksi dipengaruhi oleh beberapa faktor, termasuk konsentrasi reaktan, suhu, dan keberadaan katalis. Persamaan laju reaksi menyatakan hubungan antara laju reaksi dan konsentrasi reaktan. Orde reaksi adalah jumlah pangkat konsentrasi reaktan dalam persamaan laju.  Energi aktivasi adalah energi minimum yang dibutuhkan agar reaksi dapat terjadi. Katalis menurunkan energi aktivasi, sehingga meningkatkan laju reaksi. Mekanisme reaksi adalah rangkaian langkah-langkah elementer yang dengannya reaksi kimia berlangsung.  Langkah penentu laju adalah langkah paling lambat dalam mekanisme reaksi.  Kimia permukaan adalah studi tentang proses kimia yang terjadi pada antarmuka antara dua fase, seperti antarmuka padat-cair, padat-gas, atau cair-gas. Ini mencakup adsorpsi, yang merupakan penempelan molekul ke permukaan, dan desorpsi, yang merupakan pelepasan molekul dari permukaan.  Katalisis heterogen, di mana katalis berada dalam fase yang berbeda dari reaktan, merupakan aplikasi penting dari kimia permukaan. Kimia koloid mempelajari sistem koloid, yang merupakan campuran heterogen di mana satu zat tersebar sebagai partikel kecil (fase terdispersi) dalam zat lain (medium pendispersi).  Partikel koloid memiliki ukuran berkisar antara 1 nanometer hingga 1 mikrometer. Contoh sistem koloid termasuk sol, gel, emulsi, dan busa.  Efek Tyndall adalah hamburan cahaya oleh partikel koloid.  Gerak Brown adalah gerakan acak partikel koloid yang disebabkan oleh tumbukan dengan molekul medium pendispersi.  Kimia lingkungan mempelajari proses kimia di lingkungan, termasuk polusi udara dan air.  Polusi udara disebabkan oleh emisi dari berbagai sumber, seperti kendaraan bermotor, pembangkit listrik, dan pabrik industri.  Polutan udara, seperti sulfur dioksida, nitrogen oksida, dan partikel, dapat menyebabkan masalah kesehatan pernapasan. Polusi air disebabkan oleh pembuangan limbah industri, limbah pertanian, dan limbah domestik ke badan air. Polutan air, seperti logam berat dan pestisida, dapat membahayakan kehidupan akuatik dan manusia.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dinyatakan oleh hukum kedua termodinamika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Energi tidak dapat diciptakan atau dimusnahkan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Entropi total sistem terisolasi selalu meningkat."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Entropi sistem mendekati nol pada nol mutlak."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Energi bebas Gibbs selalu negatif untuk reaksi spontan."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Hukum kedua termodinamika berkaitan dengan peningkatan entropi."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Sel galvanik mengubah energi listrik menjadi energi kimia.",
+                    "correct_answer": false,
+                    "explanation": "Sel galvanik mengubah energi kimia menjadi energi listrik. Sel elektrolisis melakukan yang sebaliknya."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan energi aktivasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Energi minimum yang dibutuhkan agar reaksi dapat terjadi."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Energi yang dilepaskan selama reaksi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Energi yang diserap selama reaksi."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Energi total sistem."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Energi aktivasi adalah penghalang energi yang harus diatasi agar reaksi dapat terjadi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam kimia permukaan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Adsorpsi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Desorpsi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kesetimbangan kimia"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Katalisis homogen"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Kimia permukaan mempelajari adsorpsi (penempelan molekul ke permukaan) dan desorpsi (pelepasan molekul dari permukaan)."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang menyebabkan gerak Brown dalam sistem koloid?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Tumbukan dengan molekul medium pendispersi."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Gravitasi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Medan listrik."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Medan magnet."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Gerak Brown adalah gerakan acak partikel koloid karena tumbukan."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Kimia analitik adalah cabang kimia yang berkaitan dengan pemisahan, identifikasi, dan kuantifikasi materi kimia. Kimia analitik kualitatif berfokus pada identifikasi komponen kimia dalam sampel, sedangkan kimia analitik kuantitatif berfokus pada penentuan jumlah masing-masing komponen dalam sampel.  Kimia analitik memainkan peran penting dalam berbagai bidang, termasuk kedokteran, ilmu lingkungan, ilmu forensik, dan kendali mutu industri.  Teknik pemisahan yang umum digunakan dalam kimia analitik termasuk kromatografi, elektroforesis, dan ekstraksi. Kromatografi memisahkan komponen berdasarkan perbedaan afinitas mereka terhadap fase diam dan fase gerak.  Elektroforesis memisahkan komponen berdasarkan ukuran dan muatannya dalam medan listrik. Ekstraksi memisahkan komponen berdasarkan kelarutan diferensialnya dalam dua pelarut yang tidak bercampur.  Teknik spektroskopi, seperti spektrofotometri UV-Vis, spektroskopi IR, spektroskopi NMR, dan spektrometri massa, digunakan untuk mengidentifikasi dan mengukur konsentrasi zat. Spektrofotometri UV-Vis mengukur absorbansi atau transmisi cahaya UV-Vis oleh sampel. Spektroskopi IR mengukur absorbansi radiasi inframerah oleh sampel, yang memberikan informasi tentang gugus fungsi dalam molekul.  Spektroskopi NMR mengukur absorbansi radiasi frekuensi radio oleh inti atom tertentu dalam medan magnet, yang memberikan informasi tentang struktur molekul.  Spektrometri massa mengukur rasio massa terhadap muatan ion, yang dapat digunakan untuk mengidentifikasi dan mengukur konsentrasi senyawa.  Teknik elektroanalitik, seperti potensiometri dan voltametri, digunakan untuk mengukur potensial dan arus listrik dalam larutan.  Potensiometri mengukur potensial elektroda untuk menentukan konsentrasi ion.  Voltametri mengukur arus sebagai fungsi potensial yang diterapkan untuk mempelajari reaksi redoks.  Metode analisis gravimetri melibatkan penentuan massa analit atau zat yang secara kimiawi terkait dengannya.  Titrasi adalah teknik yang digunakan untuk menentukan konsentrasi analit dengan mereaksikannya dengan larutan reagen dengan konsentrasi yang diketahui.  Titik di mana reaksi selesai disebut titik ekivalen. Indikator digunakan untuk menandai titik ekivalen.  Metode statistik digunakan dalam kimia analitik untuk menganalisis data dan menentukan ketidakpastian dalam pengukuran.  Metode statistik, seperti uji-t dan analisis varians (ANOVA), digunakan untuk membandingkan rata-rata dari dua atau lebih kelompok data.  Regresi linier digunakan untuk memodelkan hubungan antara dua variabel.  Jaminan kualitas dan kendali kualitas (QA/QC) sangat penting dalam kimia analitik untuk memastikan keakuratan dan keandalan hasil.  Prosedur QA/QC melibatkan penggunaan bahan referensi bersertifikat, kalibrasi instrumen, dan analisis duplikat.  Limit deteksi (LOD) dan limit kuantifikasi (LOQ) adalah parameter penting dalam kimia analitik yang menentukan konsentrasi analit terendah yang dapat dideteksi dan diukur secara akurat.  Kimia analitik terus berkembang dengan perkembangan teknik dan instrumentasi baru.  Teknik-teknik ini digunakan untuk memecahkan berbagai macam masalah analitis di berbagai bidang.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fokus utama kimia analitik kuantitatif?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Identifikasi komponen kimia dalam sampel."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Penentuan jumlah masing-masing komponen dalam sampel."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Studi tentang reaksi kimia dan mekanismenya."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sintesis dan karakterisasi senyawa baru."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Kimia analitik kuantitatif berfokus pada penentuan jumlah."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Spektroskopi NMR mengukur absorbansi radiasi ultraviolet oleh sampel.",
+                    "correct_answer": false,
+                    "explanation": "NMR menggunakan radiasi frekuensi radio, bukan UV."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Teknik apa yang memisahkan komponen berdasarkan kelarutan diferensialnya?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kromatografi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Elektroforesis"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Ekstraksi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Titrasi"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Ekstraksi menggunakan perbedaan kelarutan."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan teknik elektroanalitik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Potensiometri"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Voltametri"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Spektrofotometri"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kromatografi"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Potensiometri dan voltametri adalah teknik elektroanalitik."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan titik ekivalen dalam titrasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Titik di mana indikator berubah warna."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Titik di mana reaksi selesai."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Titik di mana konsentrasi analit sama dengan konsentrasi titran."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Titik di mana volume titran sama dengan volume analit."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Titik ekivalen adalah saat reaksi selesai."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Kimia medisinal adalah disiplin ilmu yang berfokus pada desain, sintesis, dan pengembangan obat-obatan baru. Ini melibatkan pemahaman tentang interaksi obat dengan target biologis, seperti reseptor, enzim, dan asam nukleat.  Desain obat rasional melibatkan penggunaan pengetahuan tentang struktur dan fungsi target biologis untuk merancang obat yang akan berinteraksi secara spesifik dengan target tersebut.  Hubungan struktur-aktivitas kuantitatif (QSAR) adalah metode komputasi yang digunakan untuk memprediksi aktivitas biologis senyawa berdasarkan strukturnya.  Pengujian praklinis melibatkan pengujian obat kandidat pada hewan untuk mengevaluasi keamanan dan efikasinya.  Uji klinis melibatkan pengujian obat kandidat pada manusia untuk mengevaluasi keamanan, kemanjuran, dan dosis optimal.  Farmakokinetik adalah studi tentang bagaimana tubuh memproses obat, termasuk penyerapan, distribusi, metabolisme, dan ekskresi.  Farmakodinamik adalah studi tentang bagaimana obat memengaruhi tubuh, termasuk mekanisme kerjanya dan efek sampingnya.  Kimia kombinatorial adalah metode sintesis yang digunakan untuk menghasilkan sejumlah besar senyawa secara cepat dan efisien.  Pustaka senyawa ini kemudian dapat disaring untuk aktivitas biologis.  Penemuan obat berbasis fragmen melibatkan penyaringan fragmen molekul kecil untuk aktivitas biologis, dan kemudian menggabungkan fragmen-fragmen ini untuk membuat molekul yang lebih besar dan lebih kompleks dengan aktivitas yang lebih baik.  Bioteknologi memainkan peran penting dalam penemuan dan pengembangan obat.  Rekayasa genetika digunakan untuk menghasilkan protein terapeutik, seperti antibodi dan hormon.  Terapi gen melibatkan penggunaan DNA atau RNA untuk mengobati penyakit.  Nanoteknologi digunakan untuk mengembangkan sistem penghantaran obat baru, seperti nanopartikel dan liposom.  Kimia komputasi digunakan dalam penemuan dan pengembangan obat untuk memprediksi struktur, sifat, dan interaksi obat dengan target biologis.  Metode docking molekuler digunakan untuk memprediksi bagaimana obat berinteraksi dengan target biologis.  Simulasi dinamika molekuler digunakan untuk mempelajari perilaku dinamis sistem obat-target.  Kimia medisinal adalah bidang interdisipliner yang melibatkan kimia, biologi, farmakologi, dan kedokteran.  Ini memainkan peran penting dalam peningkatan kesehatan manusia dengan menyediakan obat-obatan baru untuk mengobati dan mencegah penyakit.  Bidang kimia medisinal terus berkembang dengan munculnya teknologi dan pendekatan baru, seperti kecerdasan buatan dan pembelajaran mesin, untuk penemuan dan pengembangan obat.  Teknik-teknik ini digunakan untuk menganalisis sejumlah besar data dan mengidentifikasi senyawa kandidat obat yang menjanjikan.  Selain itu, ada peningkatan fokus pada pengembangan obat yang dipersonalisasi, yang disesuaikan dengan profil genetik individu.  Pengobatan yang dipersonalisasi berpotensi untuk meningkatkan kemanjuran dan mengurangi efek samping obat.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fokus utama kimia medisinal?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Desain, sintesis, dan pengembangan obat baru"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Studi tentang reaksi kimia di lingkungan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Analisis komposisi kimia material"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sintesis dan karakterisasi senyawa anorganik"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Kimia medisinal berkaitan dengan penemuan dan pengembangan obat."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "QSAR digunakan untuk memprediksi sifat fisik senyawa.",
+                    "correct_answer": false,
+                    "explanation": "QSAR memprediksi aktivitas biologis, bukan sifat fisik."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam farmakokinetik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Bagaimana tubuh memproses obat"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Bagaimana obat memengaruhi tubuh"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Bagaimana obat berinteraksi dengan target biologis"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Bagaimana obat disintesis"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Farmakokinetik mempelajari pemrosesan obat oleh tubuh."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan aplikasi bioteknologi dalam penemuan obat?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Rekayasa genetika untuk protein terapeutik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Terapi gen"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Nanoteknologi untuk penghantaran obat"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sintesis kimia kombinatorial"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Bioteknologi digunakan dalam rekayasa genetika, terapi gen, dan nanoteknologi untuk penghantaran obat."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Metode komputasi apa yang digunakan untuk memprediksi interaksi obat dengan target biologis?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "QSAR"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Docking molekuler"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Spektrofotometri"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kromatografi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Docking molekuler memprediksi interaksi obat-target."
+                }
+            ]
+        }
+    }
+]

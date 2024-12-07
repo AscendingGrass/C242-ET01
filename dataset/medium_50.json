@@ -1,0 +1,1179 @@
+[
+    {
+        "context": "Bahasa adalah sistem komunikasi yang digunakan oleh manusia untuk menyampaikan informasi, ide, dan perasaan.  Bahasa dapat berupa lisan, tertulis, atau isyarat.  Setiap bahasa memiliki seperangkat aturan tata bahasa dan kosa kata yang unik.  Bahasa digunakan untuk berbagai tujuan, termasuk komunikasi, pendidikan, hiburan, dan ekspresi diri.  Mempelajari bahasa baru dapat memperluas wawasan dan meningkatkan kemampuan kognitif.  Bahasa terus berkembang dan berubah seiring waktu. Bahasa merupakan alat penting untuk membangun hubungan sosial dan budaya. Kemampuan berbahasa yang baik sangat penting untuk kesuksesan dalam banyak bidang kehidupan.  Mempelajari tata bahasa dapat membantu meningkatkan kemampuan menulis dan berbicara.  Kosa kata yang luas dapat membantu memahami teks dan berkomunikasi secara efektif. Puisi adalah bentuk seni sastra yang menggunakan bahasa estetis untuk membangkitkan imajinasi dan emosi. Puisi sering menggunakan rima, ritme, dan kiasan.  Menulis puisi dapat menjadi cara yang bagus untuk mengekspresikan diri dan menjelajahi ide-ide baru.  Membaca puisi dapat memperkaya pemahaman kita tentang bahasa dan dunia.  Ada berbagai jenis puisi, termasuk soneta, haiku, dan puisi bebas.  Setiap jenis puisi memiliki karakteristik dan strukturnya sendiri. Kalimat adalah unit dasar tata bahasa yang terdiri dari subjek dan predikat. Subjek adalah orang, tempat, benda, atau ide yang melakukan tindakan. Predikat adalah tindakan yang dilakukan oleh subjek. Kalimat dapat berupa deklaratif, interogatif, imperatif, atau eksklamasi.  Kalimat deklaratif membuat pernyataan. Kalimat interogatif mengajukan pertanyaan. Kalimat imperatif memberikan perintah. Kalimat eksklamasi mengungkapkan emosi yang kuat.  Memahami struktur kalimat sangat penting untuk menulis dan berbicara yang baik.  Menggunakan variasi kalimat dapat membuat tulisan lebih menarik.  Hindari kalimat yang terlalu panjang dan rumit. Membaca adalah kegiatan yang kompleks yang melibatkan decoding teks, memahami makna, dan menghubungkannya dengan pengetahuan yang sudah ada. Membaca merupakan keterampilan penting untuk pembelajaran dan perkembangan pribadi.  Membaca secara teratur dapat meningkatkan kosa kata, pemahaman bacaan, dan kemampuan berpikir kritis.  Ada berbagai jenis bacaan, termasuk fiksi, nonfiksi, puisi, dan drama.  Memilih bacaan yang tepat dapat meningkatkan minat dan motivasi membaca. Tata bahasa adalah seperangkat aturan yang mengatur penggunaan bahasa.  Tata bahasa mencakup morfologi, sintaksis, dan semantik.  Morfologi mempelajari pembentukan kata.  Sintaksis mempelajari struktur kalimat.  Semantik mempelajari makna kata dan kalimat.  Mempelajari tata bahasa dapat membantu meningkatkan kemampuan menulis dan berbicara. Memahami tata bahasa dapat membantu menghindari kesalahan tata bahasa yang umum.  Tata bahasa yang baik sangat penting untuk komunikasi yang efektif. Menulis adalah proses kreatif yang melibatkan menuangkan ide, informasi, dan perasaan ke dalam bentuk tertulis.  Menulis dapat berupa fiksi atau nonfiksi.  Menulis secara teratur dapat meningkatkan kemampuan berpikir kritis, kreativitas, dan kemampuan berkomunikasi.  Ada berbagai jenis tulisan, termasuk esai, cerita pendek, puisi, dan laporan.  Menulis yang baik membutuhkan perencanaan, pengorganisasian, dan revisi.  Membaca banyak dapat membantu meningkatkan kemampuan menulis. Berbicara di depan umum adalah keterampilan penting untuk kesuksesan dalam banyak bidang kehidupan. Berbicara di depan umum yang efektif membutuhkan persiapan yang matang, penggunaan bahasa tubuh yang tepat, dan kemampuan untuk menyampaikan pesan secara jelas dan ringkas.  Berlatih secara teratur dapat membantu meningkatkan kepercayaan diri dan kemampuan berbicara di depan umum.  Menggunakan alat bantu visual dapat membuat presentasi lebih menarik.  Berbicara di depan umum yang baik dapat memengaruhi audiens dan menyampaikan pesan secara efektif.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama bahasa?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menyampaikan informasi, ide, dan perasaan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menghibur diri sendiri"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengekspresikan seni"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mempelajari budaya baru"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Fungsi utama bahasa adalah untuk menyampaikan informasi, ide, dan perasaan antar manusia."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Bahasa tidak mengalami perubahan seiring waktu.",
+                    "correct_answer": false,
+                    "explanation": "Bahasa terus berkembang dan berubah seiring waktu, dipengaruhi oleh faktor sosial dan budaya."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan predikat dalam kalimat?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Orang, tempat, benda, atau ide yang melakukan tindakan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Tindakan yang dilakukan oleh subjek"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kata yang menjelaskan kata benda"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kata yang menghubungkan dua kata"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Predikat adalah tindakan yang dilakukan oleh subjek dalam sebuah kalimat."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam jenis puisi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Soneta"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Haiku"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Novel"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Puisi bebas"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Soneta, haiku, dan puisi bebas adalah jenis-jenis puisi. Novel termasuk dalam karya prosa."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Cabang tata bahasa apa yang mempelajari makna kata dan kalimat?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Morfologi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sintaksis"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Semantik"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Fonetik"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Semantik adalah cabang tata bahasa yang mempelajari makna kata dan kalimat."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Fonologi mempelajari bunyi bahasa dan bagaimana bunyi-bunyi tersebut diorganisasikan dalam suatu bahasa. Setiap bahasa memiliki seperangkat bunyi yang berbeda, dan fonologi mempelajari bagaimana bunyi-bunyi ini dikombinasikan untuk membentuk kata dan kalimat. Fonologi juga mempelajari perubahan bunyi yang terjadi ketika bunyi-bunyi tersebut digabungkan. Misalnya, dalam bahasa Indonesia, bunyi /k/ dan /a/ digabungkan menjadi /ka/, tetapi dalam bahasa Inggris, bunyi /k/ dan /a/ digabungkan menjadi /kæ/. Intonasi, nada, dan tekanan juga dipelajari dalam fonologi.  Intonasi adalah variasi nada dalam ucapan yang digunakan untuk mengekspresikan emosi atau makna. Nada adalah tinggi rendahnya suara yang digunakan untuk membedakan makna kata.  Tekanan adalah penekanan pada suku kata tertentu dalam sebuah kata. Memahami fonologi dapat membantu meningkatkan kemampuan berbicara dan mendengarkan. Morfologi mempelajari struktur internal kata dan bagaimana kata-kata dibentuk.  Morfem adalah unit terkecil dari bahasa yang memiliki makna.  Kata dapat terdiri dari satu atau lebih morfem. Misalnya, kata \"rumah\" terdiri dari satu morfem, sedangkan kata \"rumah-rumah\" terdiri dari dua morfem: \"rumah\" dan \"-rumah\". Morfologi juga mempelajari proses pembentukan kata, seperti afiksasi, reduplikasi, dan komposisi. Afiksasi adalah proses menambahkan afiks (awalan, akhiran, atau sisipan) ke kata dasar. Reduplikasi adalah proses mengulang sebagian atau seluruh kata dasar. Komposisi adalah proses menggabungkan dua atau lebih kata dasar untuk membentuk kata baru. Memahami morfologi dapat membantu meningkatkan pemahaman kosakata dan tata bahasa. Sintaksis mempelajari bagaimana kata-kata digabungkan untuk membentuk frasa dan kalimat.  Sintaksis mempelajari aturan tata bahasa yang mengatur urutan kata dalam kalimat.  Sintaksis juga mempelajari jenis-jenis kalimat, seperti kalimat deklaratif, interogatif, imperatif, dan eksklamasi. Memahami sintaksis dapat membantu meningkatkan kemampuan menulis dan berbicara. Semantik mempelajari makna kata, frasa, dan kalimat.  Semantik mempelajari bagaimana makna kata dipengaruhi oleh konteks.  Semantik juga mempelajari hubungan makna antar kata, seperti sinonim, antonim, dan homonim.  Memahami semantik dapat membantu meningkatkan pemahaman bacaan dan komunikasi. Pragmatik mempelajari bagaimana bahasa digunakan dalam konteks sosial.  Pragmatik mempelajari bagaimana penutur menggunakan bahasa untuk mencapai tujuan komunikatif mereka.  Pragmatik juga mempelajari bagaimana makna yang tersirat dapat dipahami dari konteks. Memahami pragmatik dapat membantu meningkatkan kemampuan komunikasi dan interaksi sosial.  Bahasa isyarat adalah bahasa yang menggunakan gerakan tangan dan tubuh untuk berkomunikasi.  Bahasa isyarat digunakan oleh orang tuli dan tuna rungu.  Setiap bahasa isyarat memiliki seperangkat tata bahasa dan kosa kata yang unik.  Mempelajari bahasa isyarat dapat membantu berkomunikasi dengan orang tuli dan tuna rungu. Bahasa pemrograman adalah bahasa formal yang digunakan untuk menulis instruksi untuk komputer.  Bahasa pemrograman digunakan untuk membuat perangkat lunak, aplikasi, dan situs web.  Ada berbagai jenis bahasa pemrograman, masing-masing dengan sintaksis dan semantik yang unik. Mempelajari bahasa pemrograman dapat membuka peluang karir di bidang teknologi. Bahasa gaul adalah bahasa informal yang digunakan oleh kelompok sosial tertentu.  Bahasa gaul sering kali menggunakan kata-kata dan frasa yang tidak baku.  Bahasa gaul terus berkembang dan berubah seiring waktu.  Bahasa gaul dapat mencerminkan identitas dan budaya kelompok sosial tertentu. Bahasa daerah adalah bahasa yang digunakan di wilayah geografis tertentu.  Bahasa daerah sering kali memiliki dialek yang berbeda.  Bahasa daerah merupakan bagian penting dari warisan budaya suatu daerah. Mempelajari bahasa daerah dapat membantu memahami budaya dan sejarah suatu daerah.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Cabang ilmu bahasa apa yang mempelajari bunyi bahasa?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Fonologi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Morfologi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sintaksis"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Semantik"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Fonologi adalah cabang ilmu bahasa yang mempelajari bunyi bahasa."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Morfem adalah unit terkecil dari bahasa yang memiliki makna.",
+                    "correct_answer": true,
+                    "explanation": "Pernyataan ini benar. Morfem adalah unit terkecil yang bermakna dalam suatu bahasa."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Proses pengulangan sebagian atau seluruh kata dasar disebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Afiksasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Reduplikasi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Komposisi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Derivasi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Reduplikasi adalah proses mengulang sebagian atau seluruh kata dasar."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam studi sintaksis?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Urutan kata dalam kalimat"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Jenis-jenis kalimat"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Makna kata"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Konteks sosial penggunaan bahasa"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Sintaksis mempelajari aturan tata bahasa yang mengatur urutan kata dalam kalimat dan jenis-jenis kalimat. Makna kata dipelajari dalam semantik, sedangkan konteks sosial dipelajari dalam pragmatik."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam pragmatik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Struktur internal kata"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Bagaimana kata-kata digabungkan menjadi frasa dan kalimat"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Makna kata, frasa, dan kalimat"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Bagaimana bahasa digunakan dalam konteks sosial"
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Pragmatik mempelajari bagaimana bahasa digunakan dalam konteks sosial."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Dialek adalah variasi bahasa yang digunakan oleh sekelompok penutur dalam suatu wilayah geografis atau kelompok sosial tertentu. Dialek dapat dibedakan berdasarkan pengucapan, kosa kata, dan tata bahasa.  Dialek merupakan bagian penting dari identitas budaya suatu daerah.  Studi dialektologi mempelajari variasi bahasa dan faktor-faktor yang memengaruhinya.  Dialek dapat berkembang karena isolasi geografis atau sosial. Dialek juga dapat dipengaruhi oleh bahasa-bahasa lain yang digunakan di sekitarnya.  Pemahaman tentang dialek dapat meningkatkan apresiasi terhadap keragaman bahasa. Sosiolinguistik mempelajari hubungan antara bahasa dan masyarakat.  Sosiolinguistik mempelajari bagaimana faktor-faktor sosial, seperti kelas sosial, usia, jenis kelamin, dan etnis, memengaruhi penggunaan bahasa.  Sosiolinguistik juga mempelajari bagaimana bahasa digunakan untuk membangun dan mempertahankan hubungan sosial.  Pemahaman tentang sosiolinguistik dapat meningkatkan kesadaran akan keragaman bahasa dan budaya.  Bahasa mencerminkan nilai-nilai dan norma-norma sosial suatu masyarakat. Bahasa dapat digunakan untuk mengekspresikan identitas sosial dan kelompok.  Variasi bahasa dapat mencerminkan perbedaan status sosial dan kekuasaan. Psikolinguistik mempelajari proses mental yang terlibat dalam penggunaan bahasa.  Psikolinguistik mempelajari bagaimana otak memproses bahasa, baik dalam memahami maupun menghasilkan bahasa.  Psikolinguistik juga mempelajari bagaimana bahasa memengaruhi kognisi dan perilaku.  Pemahaman tentang psikolinguistik dapat membantu meningkatkan kemampuan berbahasa dan komunikasi.  Bahasa memengaruhi cara kita berpikir dan memandang dunia.  Bahasa dapat digunakan untuk memanipulasi dan memengaruhi orang lain. Bahasa dapat digunakan untuk mengekspresikan emosi dan perasaan. Neurolinguistik mempelajari hubungan antara bahasa dan otak.  Neurolinguistik mempelajari area otak yang terlibat dalam pemrosesan bahasa.  Neurolinguistik juga mempelajari gangguan bahasa yang disebabkan oleh kerusakan otak.  Pemahaman tentang neurolinguistik dapat membantu dalam diagnosis dan pengobatan gangguan bahasa.  Otak kiri umumnya lebih dominan dalam pemrosesan bahasa.  Kerusakan pada area Broca dapat menyebabkan kesulitan dalam menghasilkan bahasa.  Kerusakan pada area Wernicke dapat menyebabkan kesulitan dalam memahami bahasa.  Bahasa merupakan fungsi kognitif yang kompleks yang melibatkan berbagai area otak. Sejarah bahasa mempelajari perkembangan bahasa dari waktu ke waktu.  Sejarah bahasa mempelajari bagaimana bahasa berubah dan berevolusi.  Sejarah bahasa juga mempelajari asal-usul bahasa dan hubungan antar bahasa.  Pemahaman tentang sejarah bahasa dapat memberikan wawasan tentang perkembangan budaya dan peradaban manusia.  Bahasa Proto-Indo-Eropa dianggap sebagai nenek moyang dari banyak bahasa di Eropa dan Asia. Bahasa terus berubah dan berkembang seiring waktu karena pengaruh budaya dan teknologi.  Studi etimologi mempelajari asal-usul kata. Filologi mempelajari bahasa dan sastra dalam konteks sejarah dan budaya.  Filologi mempelajari teks-teks kuno dan manuskrip.  Filologi juga mempelajari perkembangan bahasa dan sastra dari waktu ke waktu.  Pemahaman tentang filologi dapat memberikan wawasan tentang sejarah dan budaya suatu masyarakat.  Filologi melibatkan analisis teks, interpretasi makna, dan pemahaman konteks sejarah dan budaya.  Filologi membutuhkan pengetahuan tentang bahasa kuno dan sistem penulisan.  Filologi merupakan disiplin ilmu yang penting untuk memahami warisan budaya dan sastra.  ",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam dialektologi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Variasi bahasa"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Hubungan antara bahasa dan masyarakat"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Proses mental yang terlibat dalam penggunaan bahasa"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Hubungan antara bahasa dan otak"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Dialektologi mempelajari variasi bahasa dan faktor-faktor yang memengaruhinya."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Sosiolinguistik mempelajari bagaimana bahasa digunakan untuk membangun dan mempertahankan hubungan sosial.",
+                    "correct_answer": true,
+                    "explanation": "Pernyataan ini benar. Sosiolinguistik mengkaji bagaimana bahasa berperan dalam interaksi dan hubungan sosial."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Cabang ilmu bahasa apa yang mempelajari proses mental yang terlibat dalam penggunaan bahasa?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Dialektologi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sosiolinguistik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Psikolinguistik"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Neurolinguistik"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Psikolinguistik mempelajari proses mental dalam penggunaan bahasa."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam studi neurolinguistik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Area otak yang terlibat dalam pemrosesan bahasa"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Gangguan bahasa akibat kerusakan otak"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Perkembangan bahasa dari waktu ke waktu"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pengaruh faktor sosial terhadap penggunaan bahasa"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Neurolinguistik mempelajari area otak yang terlibat dalam pemrosesan bahasa dan gangguan bahasa akibat kerusakan otak. Perkembangan bahasa dari waktu ke waktu dipelajari dalam sejarah bahasa, sedangkan pengaruh faktor sosial dipelajari dalam sosiolinguistik."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam filologi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Bunyi bahasa"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Struktur internal kata"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Bahasa dan sastra dalam konteks sejarah dan budaya"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Bagaimana bahasa digunakan dalam konteks sosial"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Filologi mempelajari bahasa dan sastra dalam konteks sejarah dan budaya."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Semiotika adalah studi tentang tanda dan simbol dan bagaimana mereka digunakan untuk berkomunikasi makna.  Ini mengeksplorasi bagaimana makna diciptakan, diinterpretasikan, dan dipahami dalam berbagai konteks, termasuk bahasa, budaya, dan media. Semiotika mengkaji tanda-tanda verbal dan nonverbal, mulai dari kata-kata dan gambar hingga musik dan gerakan tubuh.  Ini menganalisis hubungan antara tanda, objek yang diwakilinya, dan interpretasi yang diberikan oleh individu.  Semiotika diterapkan di berbagai bidang, termasuk periklanan, desain, dan analisis film.  Memahami semiotika dapat membantu kita menjadi lebih sadar akan pesan yang kita kirim dan terima, dan bagaimana makna dibangun di sekitar kita.  Tanda-tanda dapat berupa ikonik, indeksikal, atau simbolik.  Tanda ikonik menyerupai objek yang diwakilinya, seperti foto.  Tanda indeksikal memiliki hubungan sebab-akibat dengan objek yang diwakilinya, seperti asap dan api.  Tanda simbolik memiliki hubungan arbitrer dengan objek yang diwakilinya, seperti kata \"pohon\".  Semiotika membantu kita memahami bagaimana tanda-tanda bekerja sama untuk menciptakan makna yang kompleks.  Analisis wacana mempelajari bagaimana bahasa digunakan dalam konteks sosial untuk menciptakan makna dan mencapai tujuan komunikatif.  Ini meneliti bagaimana bahasa membentuk dan dipengaruhi oleh faktor-faktor sosial, budaya, dan politik.  Analisis wacana digunakan di berbagai bidang, termasuk linguistik, sosiologi, dan ilmu politik.  Ini membantu kita memahami bagaimana bahasa digunakan untuk membangun kekuasaan, identitas, dan ideologi.  Analisis wacana dapat diterapkan pada berbagai jenis teks, termasuk percakapan, pidato, dan dokumen tertulis.  Ini mengkaji struktur teks, strategi retoris, dan konteks sosial untuk memahami bagaimana makna diciptakan. Stilistika mempelajari gaya bahasa dan efek estetika dalam teks sastra dan non-sastra.  Ini meneliti bagaimana pilihan kata, struktur kalimat, dan kiasan berkontribusi pada makna dan efek keseluruhan dari suatu karya tulis.  Stilistika digunakan di bidang sastra, linguistik, dan jurnalisme.  Ini membantu kita menghargai keindahan dan kekuatan bahasa, serta memahami bagaimana penulis menggunakan bahasa untuk mencapai tujuan tertentu. Stilistika mengkaji elemen-elemen seperti metafora, simile, personifikasi, dan ironi.  Ini juga menganalisis ritme, rima, dan struktur puisi.  Memahami stilistika dapat meningkatkan kemampuan kita untuk menganalisis dan menafsirkan teks.  Retorika adalah seni persuasi melalui bahasa.  Ini mempelajari bagaimana bahasa digunakan untuk memengaruhi keyakinan, sikap, dan perilaku audiens.  Retorika digunakan di bidang pidato publik, periklanan, dan politik.  Ini membantu kita memahami bagaimana bahasa dapat digunakan untuk meyakinkan, menginspirasi, dan memotivasi.  Retorika melibatkan penggunaan strategi seperti etos, patos, dan logos.  Etos membangun kredibilitas pembicara.  Patos membangkitkan emosi audiens.  Logos menggunakan logika dan penalaran untuk mendukung argumen.  Memahami retorika dapat membantu kita menjadi komunikator yang lebih efektif dan kritis terhadap pesan persuasif.  Kritik sastra mempelajari dan menginterpretasikan karya sastra.  Ini mengeksplorasi tema, karakter, plot, gaya bahasa, dan konteks sejarah dan budaya dari suatu karya sastra.  Kritik sastra digunakan di bidang akademis, jurnalisme, dan penerbitan.  Ini membantu kita memahami dan menghargai kompleksitas dan kekayaan sastra.  Kritik sastra melibatkan berbagai pendekatan, seperti formalisme, feminisme, dan psikoanalisa.  Formalisme berfokus pada elemen-elemen internal teks.  Feminisme memeriksa representasi gender dalam sastra.  Psikoanalisa mengeksplorasi motivasi bawah sadar dari karakter.  Memahami kritik sastra dapat memperdalam apresiasi kita terhadap karya sastra.  Sejarah bahasa  mempelajari evolusi bahasa dari waktu ke waktu.  Ini menelusuri asal-usul bahasa, perubahan dalam struktur dan kosa kata, dan pengaruh budaya dan sosial terhadap perkembangan bahasa.  Sejarah bahasa membantu kita memahami bagaimana bahasa yang kita gunakan saat ini telah berkembang selama berabad-abad.  Sejarah bahasa meneliti bahasa Proto-Indo-Eropa, yang dianggap sebagai nenek moyang dari banyak bahasa di Eropa dan Asia.  Ini juga mempelajari bagaimana bahasa telah dipengaruhi oleh kontak bahasa, migrasi, dan perubahan sosial.  Memahami sejarah bahasa dapat memberi kita wawasan tentang sejarah dan budaya manusia.  ",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam semiotika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Tanda dan simbol dan bagaimana mereka digunakan untuk berkomunikasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Hubungan antara bahasa dan masyarakat"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Proses mental yang terlibat dalam penggunaan bahasa"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Gaya bahasa dan efek estetika dalam teks"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Semiotika adalah studi tentang tanda dan simbol dan bagaimana mereka digunakan untuk berkomunikasi makna."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Tanda indeksikal memiliki hubungan sebab-akibat dengan objek yang diwakilinya.",
+                    "correct_answer": true,
+                    "explanation": "Pernyataan ini benar. Contohnya, asap adalah tanda indeksikal dari api."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam analisis wacana?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Tanda dan simbol"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Bagaimana bahasa digunakan dalam konteks sosial"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Gaya bahasa dan efek estetika"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Seni persuasi melalui bahasa"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Analisis wacana mempelajari bagaimana bahasa digunakan dalam konteks sosial untuk menciptakan makna dan mencapai tujuan komunikatif."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam studi stilistika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pilihan kata"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Struktur kalimat"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kiasan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Konteks sosial"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Stilistika mengkaji pilihan kata, struktur kalimat, dan kiasan dalam teks. Konteks sosial dipelajari dalam analisis wacana."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan etos dalam retorika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Membangun kredibilitas pembicara"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Membangkitkan emosi audiens"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menggunakan logika dan penalaran"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menganalisis struktur teks"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Etos adalah salah satu strategi retorika yang bertujuan untuk membangun kredibilitas pembicara."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Tipografi adalah seni dan teknik penyusunan huruf untuk membuat komunikasi visual yang efektif dan estetis. Ini melibatkan pemilihan jenis huruf, ukuran, spasi, dan tata letak untuk menciptakan tampilan visual yang menarik dan mudah dibaca. Tipografi digunakan dalam berbagai media, termasuk buku, majalah, situs web, dan poster.  Prinsip-prinsip tipografi yang baik mencakup keterbacaan, hierarki visual, dan konsistensi.  Keterbacaan memastikan bahwa teks mudah dibaca dan dipahami. Hierarki visual membantu pembaca menavigasi informasi dengan mudah. Konsistensi menciptakan tampilan yang kohesif dan profesional.  Tipografi yang buruk dapat membuat teks sulit dibaca dan mengurangi efektivitas komunikasi.  Pemilihan jenis huruf yang tepat sangat penting dalam tipografi.  Setiap jenis huruf memiliki karakteristik dan kepribadian yang berbeda.  Jenis huruf serif, seperti Times New Roman, memiliki guratan kecil di ujung huruf, yang membuatnya lebih mudah dibaca dalam teks panjang.  Jenis huruf sans-serif, seperti Arial, tidak memiliki guratan ini dan sering digunakan untuk judul dan teks pendek.  Ukuran dan spasi huruf juga penting dalam tipografi.  Ukuran huruf yang terlalu kecil atau terlalu besar dapat membuat teks sulit dibaca.  Spasi yang tidak tepat dapat membuat teks terlihat berantakan dan tidak profesional.  Tata letak tipografi yang baik dapat meningkatkan keterbacaan dan daya tarik visual suatu teks.  Menggunakan grid dan margin yang tepat dapat membantu menciptakan tata letak yang seimbang dan terstruktur.  Tipografi adalah elemen penting dalam desain grafis dan komunikasi visual.  Tipografi yang baik dapat meningkatkan efektivitas pesan dan menciptakan kesan yang positif.  Memahami prinsip-prinsip tipografi dapat membantu kita menciptakan komunikasi visual yang lebih efektif dan menarik. Tipografi yang efektif tidak hanya mempertimbangkan estetika, tetapi juga fungsi dan tujuan komunikasi.  Dalam desain web, tipografi yang responsif sangat penting untuk memastikan bahwa teks ditampilkan dengan baik di berbagai perangkat dan ukuran layar.  Tipografi juga dapat digunakan untuk menciptakan identitas merek yang unik dan mudah diingat.  Sejarah tipografi berawal dari penemuan mesin cetak oleh Johannes Gutenberg pada abad ke-15.  Penemuan ini merevolusi cara informasi disebarluaskan dan memiliki dampak yang besar pada perkembangan budaya dan peradaban.  Tipografi digital telah membawa banyak perubahan dan inovasi dalam bidang tipografi.  Perkembangan perangkat lunak desain grafis dan teknologi web telah memungkinkan para desainer untuk menciptakan tipografi yang lebih kompleks dan dinamis.  Tipografi terus berkembang seiring dengan perkembangan teknologi dan tren desain.  Tren tipografi saat ini mencakup penggunaan jenis huruf geometris, tipografi minimalis, dan tipografi kinetik.  Tipografi kinetik adalah tipografi yang bergerak atau berubah seiring waktu.  Tipografi adalah bidang yang terus berkembang dan menawarkan banyak peluang bagi kreativitas dan inovasi.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan tipografi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Seni dan teknik penyusunan huruf"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Studi tentang tanda dan simbol"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Ilmu tentang struktur bahasa"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Proses mental yang terlibat dalam membaca"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Tipografi adalah seni dan teknik penyusunan huruf untuk membuat komunikasi visual yang efektif dan estetis."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Jenis huruf serif lebih cocok untuk judul dan teks pendek.",
+                    "correct_answer": false,
+                    "explanation": "Jenis huruf serif lebih mudah dibaca dalam teks panjang, sedangkan sans-serif lebih cocok untuk judul dan teks pendek."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan hierarki visual dalam tipografi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Ukuran huruf yang konsisten"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Membantu pembaca menavigasi informasi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Spasi yang tepat antar huruf"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pemilihan jenis huruf yang tepat"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Hierarki visual membantu pembaca menavigasi informasi dengan mudah."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja prinsip tipografi yang baik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Keterbacaan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Hierarki visual"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kompleksitas"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Konsistensi"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Prinsip tipografi yang baik mencakup keterbacaan, hierarki visual, dan konsistensi. Kompleksitas bukanlah prinsip tipografi yang baik."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Siapa penemu mesin cetak?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Benjamin Franklin"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Johannes Gutenberg"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Leonardo da Vinci"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Thomas Edison"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Johannes Gutenberg menemukan mesin cetak pada abad ke-15."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Linguistik komputasional adalah bidang interdisipliner yang berkaitan dengan pemodelan bahasa manusia secara komputasional. Ini menggabungkan ilmu komputer, linguistik, dan kecerdasan buatan untuk mengembangkan algoritma dan model yang dapat memproses dan memahami bahasa manusia.  Aplikasi linguistik komputasional meliputi terjemahan mesin, pengenalan suara, analisis sentimen, dan pemrosesan bahasa alami.  Terjemahan mesin menggunakan komputer untuk menerjemahkan teks dari satu bahasa ke bahasa lain.  Pengenalan suara memungkinkan komputer untuk memahami ucapan manusia.  Analisis sentimen digunakan untuk menentukan nada emosional dari suatu teks.  Pemrosesan bahasa alami (NLP) berfokus pada pengembangan sistem yang dapat memahami, menafsirkan, dan menghasilkan bahasa manusia.  Linguistik komputasional memainkan peran penting dalam pengembangan teknologi seperti asisten virtual, chatbot, dan mesin pencari.  Bidang ini terus berkembang pesat seiring dengan kemajuan teknologi dan peningkatan data bahasa yang tersedia.  Pemrosesan bahasa alami (NLP) merupakan subbidang dari linguistik komputasional yang berfokus pada interaksi antara komputer dan bahasa manusia.  NLP mencakup berbagai tugas, seperti tokenisasi, stemming, dan tagging part-of-speech.  Tokenisasi adalah proses memecah teks menjadi kata-kata atau frasa individual.  Stemming adalah proses mereduksi kata ke bentuk dasarnya.  Tagging part-of-speech adalah proses mengidentifikasi peran tata bahasa dari setiap kata dalam kalimat.  NLP digunakan dalam berbagai aplikasi, termasuk pencarian informasi, peringkasan teks, dan analisis sentimen.  Representasi kata adalah cara merepresentasikan kata-kata secara numerik agar dapat diproses oleh komputer.  Word embedding adalah teknik populer untuk representasi kata yang memetakan kata ke vektor dalam ruang berdimensi tinggi.  Word embedding menangkap hubungan semantik antara kata-kata, memungkinkan komputer untuk memahami makna dan konteks kata.  Model bahasa adalah model statistik yang memprediksi probabilitas urutan kata dalam suatu bahasa.  Model bahasa dilatih pada korpus teks yang besar dan digunakan dalam berbagai aplikasi NLP, seperti terjemahan mesin dan pembuatan teks.  Model bahasa dapat berupa model n-gram, model hidden Markov, atau model neural network.  Deep learning telah merevolusi bidang linguistik komputasional dengan memungkinkan pengembangan model yang lebih canggih dan akurat.  Jaringan saraf tiruan, khususnya recurrent neural networks (RNNs) dan convolutional neural networks (CNNs), telah berhasil diterapkan pada berbagai tugas NLP, seperti terjemahan mesin dan pengenalan suara.  Jaringan saraf tiruan dapat mempelajari pola yang kompleks dalam data bahasa dan menghasilkan prediksi yang akurat.  Evaluasi model dalam linguistik komputasional sangat penting untuk mengukur kinerja model dan membandingkan model yang berbeda.  Metrik evaluasi yang umum digunakan meliputi akurasi, presisi, recall, dan F1-score.  Akurasi mengukur proporsi prediksi yang benar.  Presisi mengukur proporsi prediksi positif yang benar.  Recall mengukur proporsi instance positif yang diprediksi dengan benar.  F1-score adalah rata-rata harmonik dari presisi dan recall.  Evaluasi model membantu para peneliti untuk meningkatkan kinerja model dan mengembangkan model yang lebih baik.  Linguistik komputasional adalah bidang yang terus berkembang dengan aplikasi yang luas dan terus berkembang.  Perkembangan baru dalam deep learning dan kecerdasan buatan terus mendorong batas-batas linguistik komputasional dan membuka peluang baru untuk inovasi.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan linguistik komputasional?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pemodelan bahasa manusia secara komputasional"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Studi tentang struktur bahasa"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Seni persuasi melalui bahasa"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Studi tentang tanda dan simbol"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Linguistik komputasional berkaitan dengan pemodelan bahasa manusia secara komputasional."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Analisis sentimen digunakan untuk menerjemahkan teks dari satu bahasa ke bahasa lain.",
+                    "correct_answer": false,
+                    "explanation": "Analisis sentimen digunakan untuk menentukan nada emosional dari suatu teks, sedangkan terjemahan mesin digunakan untuk menerjemahkan teks."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa kepanjangan dari NLP?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Natural Language Processing"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Neuro-Linguistic Programming"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Non-Linear Programming"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Neural Language Paradigm"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "NLP adalah singkatan dari Natural Language Processing."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam tugas NLP?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Tokenisasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Stemming"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Parsing"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Rendering"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Tokenisasi, stemming, dan parsing adalah tugas-tugas NLP. Rendering bukan tugas NLP."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan word embedding?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Teknik untuk merepresentasikan kata secara numerik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Model statistik yang memprediksi probabilitas urutan kata"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Metrik evaluasi untuk mengukur kinerja model"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Jaringan saraf tiruan untuk pemrosesan bahasa"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Word embedding adalah teknik untuk merepresentasikan kata secara numerik."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Pragmatik adalah cabang linguistik yang mempelajari bagaimana konteks berkontribusi pada makna. Ini mengeksplorasi bagaimana orang menggunakan bahasa dalam situasi dunia nyata dan bagaimana faktor-faktor seperti niat pembicara, pengetahuan bersama, dan lingkungan percakapan membentuk interpretasi ucapan. Pragmatik melampaui makna literal kata-kata untuk memeriksa makna yang tersirat, asumsi, dan implikatur percakapan.  Ini membahas topik-topik seperti tindakan ujaran, deixis, implikatur, dan prinsip-prinsip percakapan. Tindakan ujaran adalah tindakan yang dilakukan ketika seseorang mengucapkan sesuatu, seperti membuat pernyataan, mengajukan pertanyaan, atau memberikan perintah. Deixis mengacu pada kata-kata yang maknanya bergantung pada konteks, seperti \"di sini\", \"sekarang\", dan \"saya\". Implikatur adalah makna yang tersirat tetapi tidak dinyatakan secara eksplisit. Prinsip kerjasama percakapan, yang diusulkan oleh H.P. Grice, menyarankan bahwa orang bekerja sama dalam percakapan dengan mengikuti seperangkat aturan untuk memastikan komunikasi yang efektif. Pragmatik memainkan peran penting dalam memahami humor, sarkasme, dan bahasa kiasan lainnya.  Ini membantu kita menafsirkan makna yang tidak harfiah dan mengidentifikasi niat pembicara yang tersembunyi.  Pragmatik juga penting dalam interaksi lintas budaya, karena norma dan harapan percakapan dapat bervariasi di seluruh budaya.  Memahami pragmatik dapat meningkatkan kemampuan komunikasi dan membantu kita menghindari kesalahpahaman.  Analisis percakapan adalah metode untuk mempelajari interaksi percakapan secara rinci.  Ini memeriksa struktur percakapan, giliran bicara, tumpang tindih, dan strategi perbaikan untuk memahami bagaimana orang bernegosiasi dan membangun makna bersama dalam percakapan.  Analisis percakapan digunakan di berbagai bidang, termasuk sosiologi, antropologi, dan linguistik.  Ini membantu kita memahami dinamika sosial percakapan dan bagaimana bahasa digunakan untuk membangun hubungan sosial.  Semantik leksikal adalah cabang semantik yang mempelajari makna kata dan hubungan antara kata-kata.  Ini mengeksplorasi bagaimana makna kata-kata dibangun, bagaimana kata-kata berhubungan satu sama lain dalam suatu bahasa, dan bagaimana makna kata-kata dapat berubah seiring waktu.  Semantik leksikal mencakup konsep-konsep seperti sinonim, antonim, hiponim, dan hipernim.  Sinonim adalah kata-kata yang memiliki arti yang sama atau hampir sama.  Antonim adalah kata-kata yang memiliki arti yang berlawanan.  Hiponim adalah kata-kata yang merupakan subkategori dari kata lain.  Hipernim adalah kata-kata yang merupakan kategori umum dari kata lain.  Memahami semantik leksikal dapat meningkatkan pemahaman kosa kata dan kemampuan membaca kita.  Semantik komposisional adalah cabang semantik yang mempelajari bagaimana makna frasa dan kalimat dibangun dari makna kata-kata penyusunnya dan aturan tata bahasa yang menggabungkannya. Ini mengeksplorasi bagaimana kata-kata berinteraksi satu sama lain untuk menciptakan makna yang lebih kompleks.  Semantik komposisional mencakup konsep-konsep seperti ambiguitas, implikatur, dan presuposisi.  Ambiguitas adalah situasi di mana sebuah frasa atau kalimat memiliki lebih dari satu arti yang mungkin.  Implikatur adalah makna yang tersirat tetapi tidak dinyatakan secara eksplisit.  Presuposisi adalah asumsi yang mendasari suatu ucapan.  Memahami semantik komposisional dapat meningkatkan pemahaman bacaan dan kemampuan kita untuk menafsirkan teks yang kompleks.  Sosiolinguistik  mempelajari hubungan antara bahasa dan masyarakat.  Ini mengeksplorasi bagaimana bahasa bervariasi di seluruh kelompok sosial dan bagaimana faktor-faktor sosial seperti kelas sosial, usia, jenis kelamin, dan etnis memengaruhi penggunaan bahasa.  Sosiolinguistik juga mempelajari bagaimana bahasa digunakan untuk mengekspresikan identitas sosial, membangun hubungan sosial, dan menegosiasikan kekuasaan.  Memahami sosiolinguistik dapat membantu kita menjadi lebih sadar akan keragaman bahasa dan bagaimana bahasa mencerminkan dan membentuk masyarakat kita.  Dialektologi  mempelajari variasi bahasa geografis.  Ini mengeksplorasi bagaimana bahasa bervariasi di seluruh wilayah geografis dan bagaimana faktor-faktor seperti isolasi geografis, migrasi, dan kontak bahasa memengaruhi perkembangan dialek. Dialektologi mencakup studi tentang perbedaan dalam pengucapan, kosa kata, dan tata bahasa antar dialek.  Memahami dialektologi dapat membantu kita menghargai keragaman bahasa dan memahami bagaimana bahasa berevolusi seiring waktu.  Tipologi bahasa  mempelajari pola dan variasi struktur bahasa di seluruh dunia.  Ini mengklasifikasikan bahasa berdasarkan fitur-fitur umum dan perbedaan dalam struktur tata bahasa, fonologi, dan semantik mereka.  Tipologi bahasa membantu kita memahami keragaman bahasa manusia dan mengidentifikasi prinsip-prinsip universal yang mendasari semua bahasa.  Tipologi bahasa mengkaji fitur-fitur seperti urutan kata, sistem kasus, dan jenis kelamin gramatikal.  Ini juga mempelajari bagaimana bahasa berubah dan berevolusi seiring waktu.  Memahami tipologi bahasa dapat memberi kita wawasan tentang kognisi manusia dan sifat bahasa itu sendiri.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam pragmatik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Bagaimana konteks berkontribusi pada makna"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Struktur internal kata"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Bunyi bahasa"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sejarah bahasa"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Pragmatik mempelajari bagaimana konteks berkontribusi pada makna dalam komunikasi."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Implikatur adalah makna yang dinyatakan secara eksplisit dalam suatu ucapan.",
+                    "correct_answer": false,
+                    "explanation": "Implikatur adalah makna yang tersirat, bukan dinyatakan secara langsung."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Siapa yang mengusulkan prinsip kerjasama percakapan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Noam Chomsky"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Ferdinand de Saussure"
+                        },
+                        {
+                            "id": "c",
+                            "text": "H.P. Grice"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Roman Jakobson"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "H.P. Grice adalah yang mengusulkan prinsip kerjasama percakapan."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam topik bahasan pragmatik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Tindakan ujaran"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Deixis"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Implikatur"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Fonologi"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Tindakan ujaran, deixis, dan implikatur adalah topik bahasan pragmatik. Fonologi mempelajari bunyi bahasa."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam analisis percakapan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Struktur percakapan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Makna kata"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sejarah bahasa"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Hubungan antara bahasa dan otak"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Analisis percakapan mempelajari struktur dan dinamika interaksi percakapan."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Neurolinguistik adalah studi tentang hubungan antara bahasa dan otak.  Ini menyelidiki bagaimana otak memproses bahasa, baik dalam memahami maupun menghasilkannya.  Neurolinguistik menggabungkan pengetahuan dari linguistik, neurologi, psikologi kognitif, dan ilmu komputer untuk memahami mekanisme neural yang mendasari bahasa.  Area Broca dan area Wernicke di otak memainkan peran penting dalam pemrosesan bahasa.  Area Broca terlibat dalam produksi bahasa, sedangkan area Wernicke terlibat dalam pemahaman bahasa.  Kerusakan pada area-area ini dapat menyebabkan afasia, gangguan bahasa yang memengaruhi kemampuan seseorang untuk berbicara, memahami, membaca, atau menulis.  Neurolinguistik menggunakan berbagai teknik pencitraan otak, seperti fMRI dan EEG, untuk mempelajari aktivitas otak selama pemrosesan bahasa.  Teknik-teknik ini memungkinkan para peneliti untuk melihat area otak mana yang aktif ketika seseorang berbicara, mendengarkan, membaca, atau menulis.  Neurolinguistik juga mempelajari bagaimana bahasa dipelajari dan diperoleh.  Ini menyelidiki bagaimana anak-anak memperoleh bahasa pertama mereka dan bagaimana orang dewasa mempelajari bahasa kedua.  Neurolinguistik telah menemukan bahwa ada periode kritis untuk akuisisi bahasa, yaitu periode di mana otak paling reseptif terhadap pembelajaran bahasa.  Bilingualisme, kemampuan untuk berbicara dua bahasa, telah terbukti memiliki efek positif pada fungsi kognitif.  Orang bilingual cenderung memiliki kemampuan eksekutif yang lebih baik, seperti peralihan tugas dan penghambatan.  Neurolinguistik juga mempelajari gangguan bahasa perkembangan, seperti disleksia dan gangguan bahasa spesifik.  Disleksia adalah gangguan membaca yang ditandai dengan kesulitan dalam membaca, mengeja, dan menulis. Gangguan bahasa spesifik adalah gangguan yang memengaruhi kemampuan anak untuk memahami atau menggunakan bahasa.  Neurolinguistik adalah bidang yang terus berkembang dan memberikan wawasan berharga tentang hubungan antara bahasa dan otak.  Penelitian di bidang ini membantu kita memahami bagaimana bahasa bekerja, bagaimana bahasa dipelajari, dan bagaimana gangguan bahasa dapat diobati.  Neurolinguistik juga memiliki implikasi penting bagi pendidikan, terapi wicara, dan kecerdasan buatan.  Memahami prinsip-prinsip neurolinguistik dapat membantu kita menjadi komunikator yang lebih efektif dan membantu mereka yang mengalami kesulitan bahasa.  Neurolinguistik juga menyelidiki bagaimana bahasa memengaruhi kognisi kita dan bagaimana kita memandang dunia.  Hipotesis Sapir-Whorf menyatakan bahwa bahasa yang kita gunakan membentuk cara kita berpikir.  Meskipun hipotesis ini masih diperdebatkan, ada bukti yang menunjukkan bahwa bahasa dapat memengaruhi persepsi dan kognisi kita.  Neurolinguistik juga mempelajari bagaimana bahasa digunakan dalam konteks sosial.  Ini menyelidiki bagaimana kita menggunakan bahasa untuk berkomunikasi dengan orang lain, membangun hubungan, dan menegosiasikan makna.  Neurolinguistik adalah bidang yang menarik dan kompleks yang menawarkan banyak peluang untuk penelitian dan penemuan di masa depan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam neurolinguistik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Hubungan antara bahasa dan otak"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Struktur bahasa"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sejarah bahasa"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Variasi bahasa"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Neurolinguistik mempelajari hubungan antara bahasa dan otak."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Area Broca terlibat dalam pemahaman bahasa.",
+                    "correct_answer": false,
+                    "explanation": "Area Broca terlibat dalam produksi bahasa, sedangkan area Wernicke terlibat dalam pemahaman bahasa."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan afasia?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Gangguan bahasa"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kemampuan berbicara dua bahasa"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Periode kritis untuk akuisisi bahasa"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Teknik pencitraan otak"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Afasia adalah gangguan bahasa yang memengaruhi kemampuan seseorang untuk berbicara, memahami, membaca, atau menulis."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Teknik apa saja yang digunakan dalam neurolinguistik untuk mempelajari aktivitas otak?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "fMRI"
+                        },
+                        {
+                            "id": "b",
+                            "text": "EEG"
+                        },
+                        {
+                            "id": "c",
+                            "text": "CT scan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "X-ray"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "fMRI, EEG, dan CT scan adalah teknik pencitraan otak yang digunakan dalam neurolinguistik. X-ray bukan teknik pencitraan otak."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan bilingualisme?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Gangguan bahasa"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kemampuan berbicara dua bahasa"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Periode kritis untuk akuisisi bahasa"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Teknik pencitraan otak"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Bilingualisme adalah kemampuan untuk berbicara dua bahasa."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Semantik adalah studi tentang makna dalam bahasa. Ini mengeksplorasi bagaimana kata, frasa, dan kalimat menyampaikan makna dan bagaimana makna ini diinterpretasikan oleh penutur dan pendengar. Semantik mencakup berbagai topik, termasuk makna leksikal, semantik komposisional, semantik formal, dan semantik lintas budaya. Makna leksikal mengacu pada makna kata-kata individual.  Ini berkaitan dengan bagaimana kata-kata memperoleh makna mereka dan bagaimana makna ini terkait dengan konsep di dunia nyata.  Semantik komposisional mempelajari bagaimana makna frasa dan kalimat dibangun dari makna kata-kata penyusunnya dan aturan tata bahasa yang menggabungkannya.  Semantik formal menggunakan logika dan matematika untuk merepresentasikan dan menganalisis makna bahasa. Semantik lintas budaya membandingkan dan mengkontraskan bagaimana makna disampaikan dalam berbagai bahasa dan budaya.  Semantik memainkan peran penting dalam memahami bagaimana kita berkomunikasi dan bagaimana kita memahami dunia di sekitar kita.  Ini membantu kita menafsirkan teks, mengidentifikasi ambiguitas, dan menghindari kesalahpahaman.  Semantik juga penting dalam pengembangan teknologi bahasa, seperti terjemahan mesin dan pemrosesan bahasa alami.  Polisemi mengacu pada kata-kata yang memiliki banyak arti terkait. Misalnya, kata \"kepala\" dapat mengacu pada bagian tubuh, pemimpin suatu organisasi, atau bagian atas sesuatu.  Homonimi mengacu pada kata-kata yang memiliki bentuk yang sama tetapi makna yang berbeda. Misalnya, kata \"bank\" dapat mengacu pada lembaga keuangan atau tepi sungai.  Sinonim adalah kata-kata yang memiliki arti yang sama atau hampir sama.  Antonim adalah kata-kata yang memiliki arti yang berlawanan.  Hiponim adalah kata-kata yang merupakan subkategori dari kata lain. Hipernim adalah kata-kata yang merupakan kategori umum dari kata lain.  Hubungan semantik ini penting dalam memahami bagaimana kata-kata terkait satu sama lain dan bagaimana mereka digunakan dalam konteks yang berbeda.  Semantik juga berkaitan dengan bagaimana makna dibangun dalam wacana.  Ini mengeksplorasi bagaimana kata-kata dan kalimat berinteraksi satu sama lain untuk menciptakan makna yang kohesif dan koheren.  Semantik juga mempelajari bagaimana konteks memengaruhi interpretasi makna.  Semantik adalah bidang yang kompleks dan terus berkembang yang memberikan wawasan berharga tentang sifat bahasa dan kognisi manusia.  Penelitian di bidang ini membantu kita memahami bagaimana kita berkomunikasi, bagaimana kita berpikir, dan bagaimana kita memahami dunia di sekitar kita.  Semantik juga memiliki implikasi penting bagi pendidikan, penerjemahan, dan pengembangan teknologi bahasa.  Memahami prinsip-prinsip semantik dapat membantu kita menjadi komunikator yang lebih efektif dan pemikir yang lebih kritis.  Semantik juga berkaitan dengan bagaimana bahasa berubah dan berkembang seiring waktu.  Perubahan semantik dapat terjadi ketika makna kata meluas, menyempit, atau bergeser.  Semantik juga mempelajari bagaimana kata-kata baru diciptakan dan bagaimana kata-kata lama menghilang dari bahasa.  Semantik adalah bidang yang menarik dan multifaset yang menawarkan banyak peluang untuk penelitian dan penemuan di masa depan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam semantik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Makna dalam bahasa"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Bunyi bahasa"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Struktur kalimat"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Hubungan antara bahasa dan masyarakat"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Semantik adalah studi tentang makna dalam bahasa."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Makna leksikal mengacu pada makna frasa dan kalimat.",
+                    "correct_answer": false,
+                    "explanation": "Makna leksikal mengacu pada makna kata-kata individual, sedangkan makna frasa dan kalimat dipelajari dalam semantik komposisional."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan polisemi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kata-kata yang memiliki bentuk yang sama tetapi makna yang berbeda"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kata-kata yang memiliki banyak arti terkait"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kata-kata yang memiliki arti yang sama atau hampir sama"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kata-kata yang memiliki arti yang berlawanan"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Polisemi mengacu pada kata-kata yang memiliki banyak arti terkait."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam contoh hubungan semantik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Sinonim"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Antonim"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Homofon"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Hiponim"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Sinonim, antonim, dan hiponim adalah contoh hubungan semantik. Homofon adalah kata-kata yang terdengar sama tetapi memiliki arti dan ejaan yang berbeda."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Cabang semantik apa yang mempelajari bagaimana makna frasa dan kalimat dibangun?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Semantik leksikal"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Semantik komposisional"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Semantik formal"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Semantik lintas budaya"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Semantik komposisional mempelajari bagaimana makna frasa dan kalimat dibangun dari makna kata-kata penyusunnya."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Psikolinguistik adalah studi tentang proses kognitif yang terlibat dalam bahasa. Ini mengeksplorasi bagaimana otak memproses bahasa, baik dalam pemahaman maupun produksi, dan bagaimana bahasa memengaruhi kognisi kita. Psikolinguistik menggabungkan wawasan dari linguistik, psikologi, dan ilmu saraf untuk memahami mekanisme mental yang mendasari bahasa. Pemrosesan bahasa melibatkan berbagai tahap, termasuk persepsi, penguraian, dan interpretasi. Persepsi mengacu pada proses mengenali dan mengidentifikasi bunyi atau huruf.  Penguraian melibatkan analisis struktur tata bahasa kalimat. Interpretasi adalah proses memahami makna kalimat.  Psikolinguistik menggunakan berbagai metode penelitian, termasuk eksperimen perilaku, studi pencitraan otak, dan pemodelan komputasional.  Eksperimen perilaku mengukur waktu reaksi dan akurasi dalam tugas-tugas bahasa.  Studi pencitraan otak, seperti fMRI dan EEG, mengungkap aktivitas otak selama pemrosesan bahasa. Pemodelan komputasional menciptakan simulasi komputer dari proses kognitif yang terlibat dalam bahasa.  Psikolinguistik mempelajari bagaimana anak-anak memperoleh bahasa pertama mereka.  Ini menyelidiki bagaimana bayi dan anak-anak belajar memahami dan menghasilkan bahasa, dan bagaimana mereka mengembangkan tata bahasa dan kosa kata.  Psikolinguistik juga mempelajari bagaimana orang dewasa mempelajari bahasa kedua. Ini meneliti faktor-faktor yang memengaruhi keberhasilan akuisisi bahasa kedua, seperti usia, motivasi, dan lingkungan pembelajaran.  Bilingualisme telah terbukti memiliki efek positif pada fungsi kognitif. Orang bilingual cenderung memiliki kemampuan eksekutif yang lebih baik, seperti peralihan tugas dan penghambatan.  Psikolinguistik juga mempelajari gangguan bahasa, seperti afasia dan disleksia.  Afasia adalah gangguan bahasa yang disebabkan oleh kerusakan otak.  Disleksia adalah gangguan membaca yang ditandai dengan kesulitan dalam membaca dan mengeja.  Psikolinguistik adalah bidang yang terus berkembang dan memberikan wawasan penting tentang kognisi manusia dan sifat bahasa.  Penelitian di bidang ini membantu kita memahami bagaimana kita belajar, bagaimana kita berkomunikasi, dan bagaimana kita berpikir.  Psikolinguistik juga memiliki implikasi penting bagi pendidikan, terapi wicara, dan pengembangan teknologi bahasa.  Psikolinguistik mempelajari bagaimana bahasa memengaruhi memori kita.  Kita cenderung mengingat informasi yang disajikan dalam bahasa yang kita pahami dengan lebih baik. Psikolinguistik juga mempelajari bagaimana bahasa memengaruhi pengambilan keputusan kita.  Kata-kata dan frasa yang kita gunakan dapat memengaruhi bagaimana kita mengevaluasi pilihan dan membuat keputusan.  Psikolinguistik adalah bidang yang menarik dan multifaset yang menawarkan banyak peluang untuk penelitian dan penemuan di masa depan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam psikolinguistik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Proses kognitif yang terlibat dalam bahasa"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Struktur bahasa"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sejarah bahasa"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Variasi bahasa"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Psikolinguistik mempelajari proses kognitif yang terlibat dalam bahasa."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Interpretasi dalam pemrosesan bahasa adalah proses mengenali dan mengidentifikasi bunyi atau huruf.",
+                    "correct_answer": false,
+                    "explanation": "Interpretasi adalah proses memahami makna kalimat, sedangkan persepsi adalah proses mengenali dan mengidentifikasi bunyi atau huruf."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Metode apa yang digunakan dalam psikolinguistik untuk mengukur waktu reaksi dan akurasi dalam tugas-tugas bahasa?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Eksperimen perilaku"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Studi pencitraan otak"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pemodelan komputasional"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Analisis wacana"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Eksperimen perilaku digunakan untuk mengukur waktu reaksi dan akurasi dalam tugas-tugas bahasa."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Gangguan bahasa apa saja yang dipelajari dalam psikolinguistik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Afasia"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Disleksia"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Skizofrenia"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Autisme"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Afasia dan disleksia adalah gangguan bahasa yang dipelajari dalam psikolinguistik. Skizofrenia dan autisme adalah gangguan mental yang dapat memengaruhi bahasa, tetapi bukan fokus utama psikolinguistik."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa dampak bilingualisme pada fungsi kognitif?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Meningkatkan kemampuan eksekutif"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mengurangi kemampuan memori"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menyebabkan kebingungan bahasa"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Tidak ada dampak"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Bilingualisme telah terbukti memiliki efek positif pada fungsi kognitif, termasuk meningkatkan kemampuan eksekutif."
+                }
+            ]
+        }
+    }
+]

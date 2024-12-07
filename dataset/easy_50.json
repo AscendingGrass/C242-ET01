@@ -1,0 +1,1178 @@
+[
+    {
+        "context": "Resistor adalah komponen elektronika pasif yang memiliki dua terminal dan dirancang untuk menahan aliran arus listrik dengan menghasilkan penurunan tegangan di antara terminalnya sesuai dengan hukum Ohm. Nilai resistansi resistor diukur dalam satuan ohm (Ω). Resistor digunakan dalam berbagai rangkaian elektronika untuk berbagai tujuan, seperti pembatas arus, pembagi tegangan, pencocokan impedansi, dan pengaturan penguatan. Ada berbagai jenis resistor, termasuk resistor film karbon, resistor film logam, resistor kawat-luka, dan resistor variabel (potensiometer dan trimpot). Resistor film karbon terbuat dari lapisan tipis karbon yang diendapkan pada batang keramik. Mereka murah dan umum digunakan dalam rangkaian elektronika umum. Resistor film logam terbuat dari lapisan tipis logam yang diendapkan pada batang keramik. Mereka lebih presisi dan stabil daripada resistor film karbon. Resistor kawat-luka terbuat dari kawat resistif yang dililitkan pada inti keramik atau plastik. Mereka dapat menangani daya yang lebih tinggi daripada resistor film. Resistor variabel, seperti potensiometer dan trimpot, memungkinkan resistansi untuk diubah secara manual. Mereka digunakan untuk mengontrol volume, kecerahan, dan pengaturan lainnya.  Resistor memiliki kode warna yang menunjukkan nilai resistansinya.  Kode warna ini terdiri dari empat pita berwarna yang dicetak pada tubuh resistor.  Setiap warna mewakili angka atau pengali.  Dengan membaca kode warna, kita dapat menentukan nilai resistansi resistor.  Resistor juga memiliki toleransi, yang menunjukkan seberapa akurat nilai resistansi yang sebenarnya dibandingkan dengan nilai yang ditunjukkan oleh kode warna.  Toleransi biasanya dinyatakan sebagai persentase.  Misalnya, resistor dengan toleransi 5% berarti nilai resistansi yang sebenarnya dapat bervariasi hingga 5% dari nilai yang ditunjukkan oleh kode warna.  Dalam rangkaian, resistor dihubungkan secara seri atau paralel.  Ketika resistor dihubungkan secara seri, resistansi totalnya adalah jumlah dari resistansi masing-masing resistor.  Ketika resistor dihubungkan secara paralel, resistansi totalnya lebih kecil dari resistansi terkecil dari resistor-resistor tersebut.  Hukum Ohm menyatakan bahwa arus yang mengalir melalui konduktor antara dua titik berbanding lurus dengan tegangan di kedua titik tersebut dan berbanding terbalik dengan resistansi di antara keduanya.  Hukum ini dapat dinyatakan dalam rumus I = V/R, di mana I adalah arus, V adalah tegangan, dan R adalah resistansi. Resistor adalah komponen dasar dalam elektronika dan digunakan di hampir semua rangkaian elektronika.  Pemahaman tentang resistor dan hukum Ohm sangat penting untuk merancang dan menganalisis rangkaian elektronika.  Memilih resistor yang tepat untuk aplikasi tertentu membutuhkan pertimbangan nilai resistansi, toleransi, daya, dan jenis resistor.  Resistor yang salah dapat menyebabkan kerusakan pada rangkaian atau menyebabkannya tidak berfungsi dengan baik. Oleh karena itu, penting untuk memilih resistor dengan hati-hati dan memastikan bahwa resistor tersebut sesuai untuk aplikasi yang dimaksudkan. Selain itu, penting untuk menyimpan resistor dengan benar untuk mencegah kerusakan. Resistor harus disimpan di tempat yang sejuk dan kering untuk mencegah korosi dan kerusakan lainnya.  Resistor yang rusak dapat menyebabkan masalah pada rangkaian, jadi penting untuk memeriksanya secara teratur dan menggantinya jika perlu.  Dengan perawatan dan penggunaan yang tepat, resistor dapat memberikan kinerja yang andal selama bertahun-tahun. Selain resistor tetap, ada juga resistor variabel seperti potensiometer dan trimpot. Potensiometer digunakan untuk pengaturan yang sering diubah, seperti kontrol volume, sedangkan trimpot digunakan untuk pengaturan yang jarang diubah, seperti kalibrasi rangkaian.  Thermistor adalah jenis resistor khusus yang resistansinya berubah dengan suhu.  Mereka digunakan dalam sensor suhu dan aplikasi lainnya.  Varistor adalah jenis resistor khusus lainnya yang resistansinya berubah dengan tegangan.  Mereka digunakan untuk melindungi rangkaian dari lonjakan tegangan.  Light-dependent resistor (LDR) adalah resistor yang resistansinya berubah dengan intensitas cahaya.  Mereka digunakan dalam sensor cahaya dan aplikasi lainnya.  Ada banyak jenis resistor khusus lainnya yang dirancang untuk aplikasi tertentu.  Memilih jenis resistor yang tepat sangat penting untuk memastikan kinerja dan keandalan rangkaian.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa satuan resistansi resistor?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Volt"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Ampere"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Ohm"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Watt"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Resistensi resistor diukur dalam ohm (Ω)."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Resistor film karbon lebih presisi daripada resistor film logam.",
+                    "correct_answer": false,
+                    "explanation": "Resistor film logam lebih presisi dan stabil daripada resistor film karbon."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Jenis resistor apa yang memungkinkan resistansi diubah secara manual?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Resistor film karbon"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Resistor film logam"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Resistor kawat-luka"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Resistor variabel"
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Resistor variabel, seperti potensiometer dan trimpot, memungkinkan resistansi untuk diubah secara manual."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja kegunaan resistor dalam rangkaian elektronika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pembatas arus"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Penghasil tegangan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pembagi tegangan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pencocokan impedansi"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Resistor digunakan sebagai pembatas arus, pembagi tegangan, pencocokan impedansi, dan pengaturan penguatan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang ditunjukkan oleh toleransi resistor?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Daya tahan resistor"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Akurasi nilai resistansi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Ukuran fisik resistor"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Bahan pembuat resistor"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Toleransi menunjukkan seberapa akurat nilai resistansi yang sebenarnya dibandingkan dengan nilai yang ditunjukkan oleh kode warna."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Kapasitor adalah komponen elektronika pasif yang menyimpan energi dalam medan listrik. Kapasitor terdiri dari dua pelat konduktif yang dipisahkan oleh bahan dielektrik. Ketika tegangan diterapkan pada kapasitor, muatan listrik terakumulasi pada pelat, menciptakan medan listrik di antara keduanya.  Kapasitansi kapasitor diukur dalam satuan farad (F).  Kapasitor digunakan dalam berbagai rangkaian elektronika untuk berbagai tujuan, seperti filter, kopling, decoupling, dan penyimpanan energi.  Ada berbagai jenis kapasitor, termasuk kapasitor keramik, kapasitor elektrolitik, kapasitor tantalum, dan kapasitor film.  Kapasitor keramik terbuat dari bahan keramik dan memiliki nilai kapasitansi yang relatif kecil.  Kapasitor elektrolitik terbuat dari lapisan tipis oksida logam dan memiliki nilai kapasitansi yang relatif besar.  Kapasitor tantalum terbuat dari tantalum dan memiliki nilai kapasitansi yang lebih tinggi dan stabilitas yang lebih baik daripada kapasitor elektrolitik.  Kapasitor film terbuat dari bahan plastik dan memiliki stabilitas yang sangat baik dan toleransi yang ketat.  Kapasitor memiliki polaritas, yang berarti mereka harus dihubungkan dengan cara yang benar dalam rangkaian.  Kapasitor elektrolitik dan tantalum memiliki terminal positif dan negatif yang harus diidentifikasi dengan benar.  Menghubungkan kapasitor dengan polaritas yang salah dapat merusaknya.  Dalam rangkaian, kapasitor dapat dihubungkan secara seri atau paralel.  Ketika kapasitor dihubungkan secara seri, kapasitansi totalnya lebih kecil dari kapasitansi terkecil dari kapasitor-kapasitor tersebut.  Ketika kapasitor dihubungkan secara paralel, kapasitansi totalnya adalah jumlah dari kapasitansi masing-masing kapasitor.  Reaktansi kapasitif adalah oposisi kapasitor terhadap aliran arus bolak-balik (AC). Reaktansi kapasitif berbanding terbalik dengan frekuensi sinyal AC dan kapasitansi kapasitor.  Kapasitor digunakan dalam filter untuk memblokir frekuensi tertentu dan melewatkan frekuensi lainnya.  Mereka juga digunakan dalam rangkaian kopling untuk menghubungkan dua tahap rangkaian tanpa mentransfer komponen DC.  Kapasitor decoupling digunakan untuk menghilangkan riak atau noise dari catu daya.  Kapasitor juga digunakan untuk menyimpan energi, seperti dalam lampu kilat kamera.  Kapasitor adalah komponen penting dalam elektronika dan digunakan di hampir semua rangkaian elektronika.  Pemahaman tentang kapasitor dan cara kerjanya sangat penting untuk merancang dan menganalisis rangkaian elektronika.  Memilih kapasitor yang tepat untuk aplikasi tertentu membutuhkan pertimbangan nilai kapasitansi, toleransi, tegangan kerja, dan jenis kapasitor.  Kapasitor yang salah dapat menyebabkan kerusakan pada rangkaian atau menyebabkannya tidak berfungsi dengan baik.  Oleh karena itu, penting untuk memilih kapasitor dengan hati-hati dan memastikan bahwa kapasitor tersebut sesuai untuk aplikasi yang dimaksudkan.  Selain itu, penting untuk menyimpan kapasitor dengan benar untuk mencegah kerusakan.  Kapasitor harus disimpan di tempat yang sejuk dan kering untuk mencegah elektrolit mengering atau bahan dielektrik rusak.  Kapasitor yang rusak dapat menyebabkan masalah pada rangkaian, jadi penting untuk memeriksanya secara teratur dan menggantinya jika perlu.  Dengan perawatan dan penggunaan yang tepat, kapasitor dapat memberikan kinerja yang andal selama bertahun-tahun.  Kapasitor variabel, seperti varaktor, digunakan dalam rangkaian yang disetel dan aplikasi lainnya di mana kapasitansi perlu diubah secara elektronik.  Superkapasitor adalah jenis kapasitor khusus yang dapat menyimpan energi jauh lebih banyak daripada kapasitor konvensional.  Mereka digunakan dalam aplikasi penyimpanan energi, seperti kendaraan listrik.  Ada banyak jenis kapasitor khusus lainnya yang dirancang untuk aplikasi tertentu.  Memilih jenis kapasitor yang tepat sangat penting untuk memastikan kinerja dan keandalan rangkaian.  Kapasitor memainkan peran penting dalam berbagai aplikasi elektronika, mulai dari rangkaian sederhana hingga sistem yang kompleks.  Mereka adalah komponen serbaguna yang berkontribusi pada fungsi dan efisiensi banyak perangkat elektronik yang kita gunakan sehari-hari.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa satuan kapasitansi kapasitor?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Ohm"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Farad"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Henry"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Tesla"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Kapasitansi kapasitor diukur dalam satuan farad (F)."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Kapasitor keramik memiliki nilai kapasitansi yang relatif besar.",
+                    "correct_answer": false,
+                    "explanation": "Kapasitor keramik memiliki nilai kapasitansi yang relatif kecil."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Jenis kapasitor apa yang terbuat dari tantalum?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kapasitor keramik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kapasitor elektrolitik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kapasitor tantalum"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kapasitor film"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Kapasitor tantalum terbuat dari tantalum."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja kegunaan kapasitor dalam rangkaian elektronika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Filter"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Amplifier"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kopling"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Penyimpanan energi"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Kapasitor digunakan dalam filter, kopling, decoupling, dan penyimpanan energi."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan reaktans kapasitif?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kemampuan kapasitor untuk menyimpan energi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Oposisi kapasitor terhadap aliran arus AC"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kecepatan pengisian dan pengosongan kapasitor"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Tegangan maksimum yang dapat ditahan kapasitor"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Reaktansi kapasitif adalah oposisi kapasitor terhadap aliran arus bolak-balik (AC)."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Induktor adalah komponen elektronika pasif yang menyimpan energi dalam medan magnet. Induktor terdiri dari kumparan kawat yang dililitkan pada inti feromagnetik atau non-feromagnetik. Ketika arus mengalir melalui induktor, medan magnet dihasilkan di sekitar kumparan. Induktansi induktor diukur dalam satuan henry (H). Induktor digunakan dalam berbagai rangkaian elektronika untuk berbagai tujuan, seperti filter, rangkaian resonansi, dan penyimpanan energi. Ada berbagai jenis induktor, termasuk induktor inti udara, induktor inti feromagnetik, dan induktor variabel. Induktor inti udara tidak memiliki inti dan memiliki induktansi yang relatif kecil. Induktor inti feromagnetik memiliki inti yang terbuat dari bahan feromagnetik, seperti besi atau ferit, yang meningkatkan induktansi. Induktor variabel memungkinkan induktansi untuk diubah secara manual. Reaktansi induktif adalah oposisi induktor terhadap aliran arus bolak-balik (AC). Reaktansi induktif berbanding lurus dengan frekuensi sinyal AC dan induktansi induktor. Induktor digunakan dalam filter untuk memblokir frekuensi tertentu dan melewatkan frekuensi lainnya. Mereka juga digunakan dalam rangkaian resonansi untuk menghasilkan osilasi pada frekuensi tertentu. Induktor juga digunakan untuk menyimpan energi, seperti dalam konverter DC-DC. Induktor adalah komponen penting dalam elektronika dan digunakan di hampir semua rangkaian elektronika. Pemahaman tentang induktor dan cara kerjanya sangat penting untuk merancang dan menganalisis rangkaian elektronika. Memilih induktor yang tepat untuk aplikasi tertentu membutuhkan pertimbangan nilai induktansi, toleransi, arus saturasi, dan jenis induktor. Induktor yang salah dapat menyebabkan kerusakan pada rangkaian atau menyebabkannya tidak berfungsi dengan baik. Oleh karena itu, penting untuk memilih induktor dengan hati-hati dan memastikan bahwa induktor tersebut sesuai untuk aplikasi yang dimaksudkan. Selain itu, penting untuk menyimpan induktor dengan benar untuk mencegah kerusakan. Induktor harus disimpan di tempat yang sejuk dan kering untuk mencegah korosi dan kerusakan lainnya. Induktor yang rusak dapat menyebabkan masalah pada rangkaian, jadi penting untuk memeriksanya secara teratur dan menggantinya jika perlu. Dengan perawatan dan penggunaan yang tepat, induktor dapat memberikan kinerja yang andal selama bertahun-tahun. Induktor coupled adalah dua atau lebih induktor yang digabungkan secara magnetis. Mereka digunakan dalam transformer dan aplikasi lainnya. Induktor chip adalah induktor kecil yang dipasang di permukaan (SMD) yang digunakan dalam rangkaian terintegrasi. Ada banyak jenis induktor khusus lainnya yang dirancang untuk aplikasi tertentu. Memilih jenis induktor yang tepat sangat penting untuk memastikan kinerja dan keandalan rangkaian. Induktor memainkan peran penting dalam berbagai aplikasi elektronika, mulai dari rangkaian sederhana hingga sistem yang kompleks. Mereka adalah komponen serbaguna yang berkontribusi pada fungsi dan efisiensi banyak perangkat elektronik yang kita gunakan sehari-hari.  Induktor sering digunakan dalam catu daya untuk menyaring riak dan noise. Mereka juga digunakan dalam rangkaian osilator untuk menghasilkan sinyal AC.  Induktor juga dapat digunakan untuk mengukur arus dengan mengukur medan magnet yang dihasilkan.  Induktor adalah komponen penting dalam banyak aplikasi elektronika daya, seperti motor, solenoid, dan relay.  Induktor juga digunakan dalam rangkaian RF untuk mencocokkan impedansi dan menyaring sinyal yang tidak diinginkan.  Pemahaman tentang induktor dan cara kerjanya sangat penting bagi siapa saja yang bekerja di bidang elektronika.  Induktor adalah komponen dasar yang digunakan di hampir semua jenis rangkaian elektronika.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa satuan induktansi induktor?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Ohm"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Farad"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Henry"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Tesla"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Induktansi induktor diukur dalam satuan henry (H)."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Induktor inti udara memiliki induktansi yang relatif besar.",
+                    "correct_answer": false,
+                    "explanation": "Induktor inti udara memiliki induktansi yang relatif kecil."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Jenis induktor apa yang memungkinkan induktansi diubah secara manual?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Induktor inti udara"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Induktor inti feromagnetik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Induktor variabel"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Induktor chip"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Induktor variabel memungkinkan induktansi untuk diubah secara manual."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja kegunaan induktor dalam rangkaian elektronika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Filter"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Amplifier"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Rangkaian resonansi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Penyimpanan energi"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Induktor digunakan dalam filter, rangkaian resonansi, dan penyimpanan energi."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan reaktans induktif?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kemampuan induktor untuk menyimpan energi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Oposisi induktor terhadap aliran arus AC"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kecepatan perubahan arus dalam induktor"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Arus maksimum yang dapat ditahan induktor"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Reaktansi induktif adalah oposisi induktor terhadap aliran arus bolak-balik (AC)."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Dioda adalah komponen elektronika dua terminal yang menghalirkan arus terutama dalam satu arah (asimetris). Dioda memiliki resistansi rendah terhadap arus dalam satu arah, dan resistansi yang sangat tinggi terhadap arus dalam arah sebaliknya.  Dioda paling umum terbuat dari silikon atau germanium.  Dioda memiliki anoda (terminal positif) dan katoda (terminal negatif).  Prinsip kerja dioda didasarkan pada persimpangan p-n, yang terbentuk ketika semikonduktor tipe-p dan tipe-n digabungkan.  Ketika tegangan maju diterapkan pada dioda (anoda positif terhadap katoda), dioda menghantarkan arus.  Ketika tegangan balik diterapkan pada dioda (anoda negatif terhadap katoda), dioda memblokir arus.  Dioda digunakan dalam berbagai aplikasi elektronika, termasuk penyearah, detektor, clipper, clamper, dan regulator tegangan.  Penyearah digunakan untuk mengubah arus bolak-balik (AC) menjadi arus searah (DC).  Detektor digunakan untuk mendemodulasi sinyal radio.  Clipper digunakan untuk membatasi amplitudo sinyal.  Clamper digunakan untuk menggeser level DC sinyal.  Regulator tegangan digunakan untuk menjaga tegangan output tetap konstan.  Ada berbagai jenis dioda, termasuk dioda penyearah, dioda Zener, dioda LED (Light Emitting Diode), dioda Schottky, dan dioda varactor.  Dioda penyearah digunakan untuk mengubah AC menjadi DC.  Dioda Zener digunakan sebagai regulator tegangan.  Dioda LED memancarkan cahaya ketika arus mengalir melaluinya.  Dioda Schottky memiliki penurunan tegangan maju yang rendah.  Dioda varactor memiliki kapasitansi yang berubah dengan tegangan.  Dioda adalah komponen penting dalam elektronika dan digunakan di hampir semua rangkaian elektronika.  Pemahaman tentang dioda dan cara kerjanya sangat penting untuk merancang dan menganalisis rangkaian elektronika.  Memilih dioda yang tepat untuk aplikasi tertentu membutuhkan pertimbangan tegangan balik puncak (PIV), arus maju maksimum, dan jenis dioda.  Dioda yang salah dapat menyebabkan kerusakan pada rangkaian atau menyebabkannya tidak berfungsi dengan baik.  Oleh karena itu, penting untuk memilih dioda dengan hati-hati dan memastikan bahwa dioda tersebut sesuai untuk aplikasi yang dimaksudkan.  Selain itu, penting untuk memasang dioda dengan benar dalam rangkaian.  Polaritas dioda harus diperhatikan, dan dioda harus dilindungi dari panas berlebih.  Dioda yang rusak dapat menyebabkan masalah pada rangkaian, jadi penting untuk memeriksanya secara teratur dan menggantinya jika perlu.  Dengan perawatan dan penggunaan yang tepat, dioda dapat memberikan kinerja yang andal selama bertahun-tahun.  Dioda juga digunakan dalam rangkaian proteksi untuk mencegah kerusakan pada komponen lain.  Dioda bridge adalah rangkaian penyearah yang umum digunakan yang terdiri dari empat dioda.  Dioda tunnel adalah jenis dioda khusus yang menunjukkan resistansi negatif pada rentang tegangan tertentu.  Ada banyak jenis dioda khusus lainnya yang dirancang untuk aplikasi tertentu.  Memilih jenis dioda yang tepat sangat penting untuk memastikan kinerja dan keandalan rangkaian.  Dioda memainkan peran penting dalam berbagai aplikasi elektronika, mulai dari rangkaian sederhana hingga sistem yang kompleks.  Mereka adalah komponen serbaguna yang berkontribusi pada fungsi dan efisiensi banyak perangkat elektronik yang kita gunakan sehari-hari.  Dioda digunakan dalam catu daya, rangkaian komunikasi, dan berbagai aplikasi elektronik lainnya.  Pemahaman tentang dioda dan karakteristiknya sangat penting bagi siapa saja yang bekerja di bidang elektronika.  Dioda adalah komponen dasar yang digunakan di hampir semua jenis rangkaian elektronika.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Dioda terutama menghantarkan arus dalam berapa arah?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Satu arah"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Dua arah"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Tiga arah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Semua arah"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Dioda menghalirkan arus terutama dalam satu arah (asimetris)."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Dioda paling umum terbuat dari emas.",
+                    "correct_answer": false,
+                    "explanation": "Dioda paling umum terbuat dari silikon atau germanium."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa nama terminal positif dioda?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Katoda"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Anoda"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Gate"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Drain"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Terminal positif dioda disebut anoda."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja aplikasi dioda dalam elektronika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Penyearah"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Amplifier"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Detektor"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Osilator"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c"
+                    ],
+                    "explanation": "Dioda digunakan dalam penyearah, detektor, clipper, clamper, dan regulator tegangan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Dioda jenis apa yang memancarkan cahaya?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Dioda penyearah"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Dioda Zener"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Dioda LED"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Dioda Schottky"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Dioda LED (Light Emitting Diode) memancarkan cahaya ketika arus mengalir melaluinya."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Transistor adalah komponen semikonduktor yang digunakan sebagai penguat, sakelar, stabilisasi tegangan, modulasi sinyal, dan banyak fungsi lainnya. Transistor bipolar junction (BJT) adalah salah satu jenis transistor yang paling umum digunakan.  BJT memiliki tiga terminal: basis, kolektor, dan emitor.  Arus kecil yang diterapkan ke basis dapat mengontrol arus yang lebih besar yang mengalir antara kolektor dan emitor.  Transistor efek medan (FET) adalah jenis transistor lain yang umum digunakan. FET memiliki tiga terminal: gerbang, sumber, dan cerat.  Tegangan yang diterapkan ke gerbang mengontrol arus yang mengalir antara sumber dan cerat.  MOSFET (Metal-Oxide-Semiconductor FET) adalah jenis FET yang paling umum.  CMOS (Complementary MOS) adalah teknologi yang menggunakan pasangan MOSFET komplementer untuk mengimplementasikan gerbang logika.  Transistor digunakan di hampir semua perangkat elektronik modern, dari smartphone dan komputer hingga peralatan rumah tangga dan sistem industri.  Transistor telah merevolusi industri elektronik dan memungkinkan pengembangan perangkat yang lebih kecil, lebih cepat, dan lebih hemat energi.  Transistor bipolar memiliki dua jenis: NPN dan PNP.  Dalam transistor NPN, arus mengalir dari kolektor ke emitor ketika tegangan positif diterapkan ke basis.  Dalam transistor PNP, arus mengalir dari emitor ke kolektor ketika tegangan negatif diterapkan ke basis.  FET juga memiliki dua jenis: N-channel dan P-channel.  Dalam FET N-channel, arus mengalir dari sumber ke cerat ketika tegangan positif diterapkan ke gerbang.  Dalam FET P-channel, arus mengalir dari cerat ke sumber ketika tegangan negatif diterapkan ke gerbang.  Karakteristik transistor dapat dijelaskan oleh kurva karakteristiknya, yang menunjukkan hubungan antara arus dan tegangan pada terminal yang berbeda.  Penggunaan transistor sebagai sakelar memungkinkan untuk mengontrol daya ke beban dengan sinyal kontrol yang kecil.  Penggunaan transistor sebagai penguat memungkinkan untuk memperkuat sinyal kecil menjadi sinyal yang lebih besar.  Transistor digunakan dalam berbagai konfigurasi rangkaian, seperti common emitter, common collector, dan common base untuk BJT, dan common source, common drain, dan common gate untuk FET.  Setiap konfigurasi memiliki karakteristik dan kegunaan tersendiri.  Transistor juga digunakan dalam rangkaian terpadu (IC), yang merupakan chip silikon kecil yang berisi ribuan atau bahkan jutaan transistor.  IC digunakan di hampir semua perangkat elektronik modern.  Pemilihan transistor yang tepat untuk aplikasi tertentu membutuhkan pertimbangan gain, frekuensi operasi, daya, dan tegangan.  Transistor yang salah dapat menyebabkan kerusakan pada rangkaian atau menyebabkannya tidak berfungsi dengan baik.  Transistor juga rentan terhadap panas berlebih, jadi penting untuk memastikan pendinginan yang memadai dalam rangkaian.  Transistor telah menjadi salah satu penemuan paling penting dalam sejarah elektronik.  Mereka telah memungkinkan pengembangan berbagai macam perangkat elektronik yang kita gunakan setiap hari.  Pemahaman tentang transistor dan cara kerjanya sangat penting bagi siapa saja yang bekerja di bidang elektronika.  Transistor terus berkembang, dengan teknologi baru yang muncul untuk meningkatkan kinerja dan efisiensi.  Transistor adalah komponen fundamental dalam elektronika modern dan akan terus memainkan peran penting di masa depan.  Transistor memungkinkan miniaturisasi rangkaian elektronika, yang mengarah pada pengembangan perangkat yang lebih kecil dan lebih portabel.  Transistor juga digunakan dalam rangkaian daya untuk mengontrol motor dan beban lainnya.  Transistor adalah komponen kunci dalam konverter daya, inverter, dan aplikasi elektronika daya lainnya. Transistor memungkinkan pengembangan komputer modern, smartphone, dan perangkat elektronik lainnya yang kita andalkan setiap hari.  Tanpa transistor, dunia modern kita akan sangat berbeda.  Transistor adalah bukti kekuatan inovasi dan dampaknya terhadap masyarakat.  Transistor juga digunakan dalam sensor, pengatur waktu, dan berbagai aplikasi lainnya.  Transistor adalah komponen yang sangat serbaguna dan digunakan di hampir semua aspek kehidupan modern kita.  Mempelajari tentang transistor adalah langkah penting bagi siapa saja yang tertarik dengan elektronika dan teknologi.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Transistor berfungsi sebagai...",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Penyimpan energi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Penguat, sakelar, dan lainnya"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Penghasil sinyal"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Penurun tegangan"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Transistor berfungsi sebagai penguat, sakelar, stabilisasi tegangan, modulasi sinyal, dan banyak fungsi lainnya."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "BJT memiliki empat terminal.",
+                    "correct_answer": false,
+                    "explanation": "BJT memiliki tiga terminal: basis, kolektor, dan emitor."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa kepanjangan dari MOSFET?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Metal-Oxide-Semiconductor FET"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Metal-Oxide-Silicon FET"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Metal-Oxide-Semiconductor Transistor"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Metal-Oxide-Silicon Transistor"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "MOSFET adalah singkatan dari Metal-Oxide-Semiconductor FET."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Sebutkan dua jenis transistor bipolar! (Pilih dua jawaban)",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "NPN"
+                        },
+                        {
+                            "id": "b",
+                            "text": "PNP"
+                        },
+                        {
+                            "id": "c",
+                            "text": "N-channel"
+                        },
+                        {
+                            "id": "d",
+                            "text": "P-channel"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Dua jenis transistor bipolar adalah NPN dan PNP."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan CMOS?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Jenis transistor bipolar"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Teknologi yang menggunakan pasangan MOSFET komplementer"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Konfigurasi rangkaian transistor"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Bahan semikonduktor"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "CMOS (Complementary MOS) adalah teknologi yang menggunakan pasangan MOSFET komplementer untuk mengimplementasikan gerbang logika."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Osiloskop adalah alat ukur elektronik yang digunakan untuk menampilkan dan menganalisis bentuk gelombang sinyal elektronik. Osiloskop menampilkan sinyal sebagai grafik tegangan terhadap waktu.  Sumbu vertikal mewakili tegangan, dan sumbu horizontal mewakili waktu.  Osiloskop digunakan untuk mengukur berbagai parameter sinyal, seperti amplitudo, frekuensi, periode, dan fase.  Osiloskop analog menggunakan tabung sinar katoda (CRT) untuk menampilkan bentuk gelombang.  Osiloskop digital menggunakan layar LCD untuk menampilkan bentuk gelombang.  Osiloskop digital memiliki banyak fitur canggih, seperti penyimpanan bentuk gelombang, pengukuran otomatis, dan analisis spektrum.  Osiloskop digunakan dalam berbagai aplikasi, termasuk desain dan pengujian rangkaian elektronik, diagnostik medis, dan penelitian ilmiah.  Osiloskop dapat menampilkan sinyal periodik dan non-periodik.  Sinyal periodik berulang secara teratur dari waktu ke waktu, sedangkan sinyal non-periodik tidak.  Osiloskop memiliki kontrol untuk menyesuaikan skala vertikal dan horizontal, yang memungkinkan pengguna untuk memperbesar atau memperkecil bentuk gelombang.  Osiloskop juga memiliki kontrol untuk memicu, yang memungkinkan pengguna untuk menangkap dan menampilkan bentuk gelombang yang stabil.  Pemicuan dapat didasarkan pada level tegangan, kemiringan, atau lebar pulsa.  Osiloskop memiliki probe yang digunakan untuk menghubungkan osiloskop ke rangkaian yang diukur.  Probe memiliki atenuasi yang berbeda, yang memungkinkan pengguna untuk mengukur sinyal dengan amplitudo yang berbeda.  Impedansi input osiloskop biasanya tinggi untuk menghindari pemuatan rangkaian yang diukur.  Osiloskop dapat digunakan untuk mengukur sinyal DC dan AC.  Sinyal DC memiliki nilai konstan, sedangkan sinyal AC bervariasi dari waktu ke waktu.  Osiloskop dapat digunakan untuk mengukur sinyal dalam domain waktu dan frekuensi.  Domain waktu menunjukkan bagaimana sinyal berubah dari waktu ke waktu, sedangkan domain frekuensi menunjukkan komponen frekuensi yang menyusun sinyal.  Osiloskop digital dapat menyimpan bentuk gelombang untuk analisis nanti.  Bentuk gelombang yang disimpan dapat dianalisis menggunakan perangkat lunak komputer.  Osiloskop digital juga dapat melakukan pengukuran otomatis, seperti amplitudo, frekuensi, dan periode.  Osiloskop digital juga dapat melakukan analisis spektrum, yang menunjukkan komponen frekuensi yang menyusun sinyal.  Osiloskop adalah alat yang sangat ampuh untuk menganalisis sinyal elektronik.  Osiloskop digunakan oleh insinyur, teknisi, dan ilmuwan di berbagai bidang.  Osiloskop terus berkembang, dengan teknologi baru yang muncul untuk meningkatkan kinerja dan fitur.  Osiloskop adalah alat penting bagi siapa saja yang bekerja dengan elektronika.  Osiloskop membantu dalam pemecahan masalah rangkaian elektronik dan pemahaman tentang perilaku sinyal.  Osiloskop memungkinkan pengguna untuk memvisualisasikan sinyal elektronik, yang dapat membantu dalam mengidentifikasi masalah dan anomali.  Osiloskop adalah investasi yang berharga bagi siapa saja yang serius dengan elektronika.  Osiloskop tersedia dalam berbagai ukuran dan harga, dari model genggam yang murah hingga instrumen benchtop yang canggih.  Memilih osiloskop yang tepat tergantung pada aplikasi dan anggaran.  Osiloskop adalah alat yang sangat serbaguna dan dapat digunakan dalam berbagai aplikasi.  Osiloskop membantu dalam desain, pengujian, dan pemeliharaan peralatan elektronik.  Osiloskop adalah bagian penting dari kotak peralatan elektronik apa pun.  Osiloskop memungkinkan kita untuk melihat dunia sinyal elektronik yang tidak terlihat.  Osiloskop adalah jendela ke dunia elektronik.  Osiloskop terus berkembang dan berinovasi, memberikan kemampuan yang lebih canggih untuk menganalisis sinyal elektronik.  Osiloskop memainkan peran penting dalam kemajuan teknologi elektronik.  Osiloskop membantu kita memahami dan mengendalikan dunia elektronik di sekitar kita.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama osiloskop?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengukur arus listrik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menampilkan dan menganalisis bentuk gelombang sinyal elektronik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengukur resistansi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengukur kapasitansi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Osiloskop digunakan untuk menampilkan dan menganalisis bentuk gelombang sinyal elektronik."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Osiloskop analog menggunakan layar LCD untuk menampilkan bentuk gelombang.",
+                    "correct_answer": false,
+                    "explanation": "Osiloskop analog menggunakan tabung sinar katoda (CRT) untuk menampilkan bentuk gelombang."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Sumbu vertikal pada osiloskop mewakili apa?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Waktu"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Tegangan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Frekuensi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Fase"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Sumbu vertikal mewakili tegangan, dan sumbu horizontal mewakili waktu."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja fitur canggih yang dimiliki osiloskop digital?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Penyimpanan bentuk gelombang"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pengukuran otomatis"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Analisis spektrum"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pembangkitan sinyal"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Osiloskop digital memiliki fitur canggih seperti penyimpanan bentuk gelombang, pengukuran otomatis, dan analisis spektrum."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi probe pada osiloskop?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menghasilkan sinyal"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menghubungkan osiloskop ke rangkaian yang diukur"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menyimpan bentuk gelombang"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menganalisis spektrum"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Probe digunakan untuk menghubungkan osiloskop ke rangkaian yang diukur."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Rangkaian terpadu (IC), juga dikenal sebagai microchip, chip, atau microcircuit, adalah sekumpulan rangkaian elektronik pada substrat kecil yang terbuat dari bahan semikonduktor, biasanya silikon. IC dapat berupa analog, digital, atau campuran sinyal.  IC analog memproses sinyal kontinu, sedangkan IC digital memproses sinyal diskrit.  IC campuran sinyal menggabungkan kedua jenis rangkaian.  IC diklasifikasikan berdasarkan jumlah transistor yang dikandungnya, mulai dari Small-Scale Integration (SSI) dengan kurang dari 100 transistor hingga Very Large-Scale Integration (VLSI) dengan jutaan atau bahkan milyaran transistor.  IC dibuat menggunakan proses fotolitografi, yang melibatkan penyinaran pola rangkaian ke wafer silikon.  IC dikemas dalam berbagai jenis kemasan, seperti DIP (Dual In-line Package), SOIC (Small Outline Integrated Circuit), dan QFP (Quad Flat Package).  IC digunakan di hampir semua perangkat elektronik modern, dari smartphone dan komputer hingga peralatan rumah tangga dan sistem industri.  IC telah merevolusi industri elektronik dan memungkinkan pengembangan perangkat yang lebih kecil, lebih cepat, dan lebih hemat energi.  Mikroprosesor adalah jenis IC yang berisi unit pemrosesan pusat (CPU) komputer.  Mikrokontroler adalah jenis IC yang berisi CPU, memori, dan periferal input/output.  DSP (Digital Signal Processor) adalah jenis IC yang dirancang khusus untuk memproses sinyal digital.  FPGA (Field-Programmable Gate Array) adalah jenis IC yang dapat dikonfigurasi oleh pengguna akhir untuk mengimplementasikan fungsi logika apa pun.  ASIC (Application-Specific Integrated Circuit) adalah jenis IC yang dirancang khusus untuk aplikasi tertentu.  IC analog termasuk amplifier operasional (op-amp), komparator, dan pengatur tegangan.  IC digital termasuk gerbang logika, flip-flop, dan counter.  IC campuran sinyal menggabungkan rangkaian analog dan digital pada chip yang sama.  IC digunakan dalam berbagai aplikasi, termasuk pemrosesan sinyal, telekomunikasi, komputasi, dan kontrol industri.  IC terus berkembang, dengan teknologi baru yang muncul untuk meningkatkan kinerja, mengurangi ukuran, dan meningkatkan efisiensi energi.  Hukum Moore menyatakan bahwa jumlah transistor pada sebuah chip akan berlipat ganda kira-kira setiap dua tahun.  Hukum ini telah berlaku selama beberapa dekade dan telah mendorong kemajuan pesat dalam teknologi IC.  IC telah memungkinkan pengembangan berbagai perangkat elektronik yang kita gunakan setiap hari.  IC adalah komponen kunci dalam smartphone, komputer, televisi, mobil, dan banyak perangkat lainnya.  IC telah mengubah cara kita hidup, bekerja, dan berkomunikasi.  IC adalah salah satu penemuan paling penting dalam sejarah manusia.  IC terus berinovasi, dengan teknologi baru yang muncul untuk memenuhi tuntutan aplikasi baru.  IC adalah bidang studi yang menarik dan menantang, dan ada banyak peluang karir bagi insinyur dan ilmuwan yang berspesialisasi dalam desain dan pengembangan IC.  IC adalah bukti kekuatan inovasi manusia dan kemampuan kita untuk menciptakan teknologi yang mengubah dunia.  IC adalah komponen penting dalam banyak sistem elektronik modern dan akan terus memainkan peran penting di masa depan.  IC memungkinkan kita untuk menghubungkan dunia dan mengakses informasi dengan cara yang tidak pernah terpikirkan sebelumnya.  IC adalah fondasi dari revolusi digital.  IC terus mendorong batas-batas teknologi dan membuka kemungkinan baru untuk masa depan.  IC adalah alat yang ampuh yang dapat digunakan untuk kebaikan, dan kita harus menggunakannya secara bertanggung jawab untuk menciptakan dunia yang lebih baik.  IC adalah bukti kecerdikan dan kreativitas manusia.  IC adalah simbol kemajuan teknologi dan potensinya untuk meningkatkan kehidupan kita.  IC adalah keajaiban teknik modern.  IC adalah kunci untuk masa depan teknologi.  IC adalah dunia dalam sebuah chip.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa kepanjangan dari IC?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Integrated Circuit"
+                        },
+                        {
+                            "id": "b",
+                            "text": "International Circuit"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Internal Circuit"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Interconnected Circuit"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "IC adalah singkatan dari Integrated Circuit."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "IC hanya dapat berupa digital.",
+                    "correct_answer": false,
+                    "explanation": "IC dapat berupa analog, digital, atau campuran sinyal."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan VLSI?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Very Large-Scale Integration"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Very Low-Scale Integration"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Variable Large-Scale Integration"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Virtual Large-Scale Integration"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "VLSI adalah singkatan dari Very Large-Scale Integration."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Sebutkan dua jenis IC berdasarkan fungsinya!",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Analog"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Digital"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Linear"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Non-linear"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Dua jenis IC berdasarkan fungsinya adalah analog dan digital."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan Hukum Moore?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Jumlah transistor pada sebuah chip akan berlipat ganda kira-kira setiap dua tahun"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kecepatan prosesor akan berlipat ganda kira-kira setiap dua tahun"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kapasitas memori akan berlipat ganda kira-kira setiap dua tahun"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Ukuran chip akan berlipat ganda kira-kira setiap dua tahun"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Hukum Moore menyatakan bahwa jumlah transistor pada sebuah chip akan berlipat ganda kira-kira setiap dua tahun."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Transformer adalah perangkat listrik pasif statis yang mentransfer energi listrik dari satu rangkaian ke rangkaian lain melalui induksi elektromagnetik.  Transformer digunakan untuk menaikkan atau menurunkan tegangan AC.  Transformer terdiri dari dua atau lebih kumparan kawat yang dililitkan pada inti feromagnetik.  Kumparan primer dihubungkan ke sumber tegangan AC, dan kumparan sekunder dihubungkan ke beban.  Ketika arus bolak-balik mengalir melalui kumparan primer, medan magnet bolak-balik dihasilkan di sekitar inti.  Medan magnet bolak-balik ini menginduksi tegangan bolak-balik pada kumparan sekunder.  Rasio jumlah lilitan pada kumparan primer dan sekunder menentukan rasio tegangan antara kedua kumparan.  Transformer step-up meningkatkan tegangan, sedangkan transformer step-down menurunkan tegangan.  Transformer isolasi digunakan untuk memisahkan dua rangkaian secara elektrik.  Transformer autotransformer hanya memiliki satu kumparan yang digunakan untuk kedua rangkaian.  Transformer digunakan dalam berbagai aplikasi, termasuk catu daya, transmisi dan distribusi daya, dan rangkaian elektronik.  Transformer memainkan peran penting dalam sistem tenaga modern.  Transformer memungkinkan transmisi daya jarak jauh dengan kerugian yang minimal.  Transformer juga digunakan dalam adaptor AC untuk perangkat elektronik.  Transformer ideal tidak memiliki kerugian daya.  Namun, transformer nyata memiliki kerugian daya karena resistansi kumparan, arus eddy, dan histeresis.  Efisiensi transformer adalah rasio daya output terhadap daya input.  Transformer tiga fasa digunakan dalam sistem tenaga tiga fasa.  Transformer instrumentasi digunakan untuk mengukur tegangan dan arus.  Transformer daya digunakan untuk mentransfer daya dalam jumlah besar.  Transformer distribusi digunakan untuk mendistribusikan daya ke rumah dan bisnis.  Transformer pulsa digunakan dalam rangkaian pulsa.  Transformer audio digunakan dalam rangkaian audio.  Transformer RF digunakan dalam rangkaian radio frekuensi.  Pemilihan transformer yang tepat untuk aplikasi tertentu membutuhkan pertimbangan tegangan input dan output, arus, frekuensi, dan daya.  Transformer yang salah dapat menyebabkan kerusakan pada rangkaian atau menyebabkannya tidak berfungsi dengan baik.  Transformer harus diproteksi dari kelebihan beban dan korsleting.  Transformer dapat berdengung selama operasi normal.  Dengungan ini disebabkan oleh magnetostriksi, yang merupakan perubahan dimensi material feromagnetik ketika dimagnetisasi.  Transformer adalah perangkat yang relatif sederhana tetapi penting dalam sistem tenaga dan elektronika modern.  Transformer memungkinkan kita untuk menggunakan listrik secara efisien dan aman.  Transformer adalah contoh yang bagus tentang penerapan induksi elektromagnetik.  Transformer telah merevolusi industri kelistrikan dan terus memainkan peran penting dalam kehidupan modern kita.  Transformer memungkinkan kita untuk menyalakan rumah, bisnis, dan kota kita.  Transformer adalah bagian penting dari infrastruktur modern kita.  Transformer membantu kita memanfaatkan kekuatan listrik.  Transformer adalah keajaiban teknik modern.  Transformer adalah perangkat yang andal dan tahan lama.  Transformer dirancang untuk beroperasi selama bertahun-tahun dengan perawatan minimal.  Transformer adalah investasi yang berharga dalam sistem tenaga dan elektronika modern.  Transformer adalah kunci untuk masa depan energi.  Transformer membantu kita membangun dunia yang lebih berkelanjutan.  Transformer adalah simbol kemajuan teknologi.  Transformer adalah bagian penting dari dunia modern kita.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama transformer?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menyimpan energi listrik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menaikkan atau menurunkan tegangan AC"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengubah AC menjadi DC"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menguatkan sinyal"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Transformer digunakan untuk menaikkan atau menurunkan tegangan AC."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Transformer ideal memiliki kerugian daya.",
+                    "correct_answer": false,
+                    "explanation": "Transformer ideal tidak memiliki kerugian daya. Transformer nyata memiliki kerugian daya."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang menentukan rasio tegangan antara kumparan primer dan sekunder pada transformer?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Jenis inti"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Frekuensi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Rasio jumlah lilitan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Bahan kumparan"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Rasio jumlah lilitan pada kumparan primer dan sekunder menentukan rasio tegangan."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja jenis-jenis transformer?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Step-up"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Step-down"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Isolasi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Penyearah"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Jenis-jenis transformer antara lain step-up, step-down, isolasi, dan autotransformer."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang menyebabkan dengungan pada transformer?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Arus eddy"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Histeresis"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Magnetostriksi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Resistansi kumparan"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Dengungan pada transformer disebabkan oleh magnetostriksi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Mikrokontroler adalah sirkuit terpadu (IC) tunggal yang berisi inti prosesor, memori, dan periferal input/output yang dapat diprogram.  Mereka dirancang untuk mengontrol fungsi perangkat dan sistem yang disematkan. Mikrokontroler digunakan dalam berbagai aplikasi, termasuk peralatan rumah tangga, otomotif, industri, medis, dan banyak lagi.  Arsitektur mikrokontroler biasanya mencakup CPU, RAM, ROM/Flash, timer, counter, port input/output, dan antarmuka komunikasi seperti UART, SPI, dan I2C.  CPU bertanggung jawab untuk menjalankan instruksi yang disimpan dalam memori.  RAM digunakan untuk menyimpan data dan instruksi yang sedang diproses.  ROM/Flash digunakan untuk menyimpan program dan data secara permanen.  Timer dan counter digunakan untuk mengukur waktu dan menghitung peristiwa.  Port input/output digunakan untuk berinteraksi dengan dunia luar, seperti membaca sensor dan mengontrol aktuator.  Antarmuka komunikasi digunakan untuk berkomunikasi dengan perangkat lain.  Mikrokontroler dapat diprogram menggunakan berbagai bahasa pemrograman, seperti C, C++, dan Assembly.  Proses pemrograman melibatkan penulisan kode, mengkompilasinya menjadi kode mesin, dan kemudian mengunggah kode mesin ke memori mikrokontroler.  Mikrokontroler dapat diprogram berulang kali.  Ada berbagai macam mikrokontroler yang tersedia di pasaran, masing-masing dengan fitur dan kemampuannya sendiri.  Beberapa mikrokontroler populer termasuk keluarga AVR dari Microchip, keluarga PIC dari Microchip, dan keluarga STM32 dari STMicroelectronics.  Memilih mikrokontroler yang tepat untuk aplikasi tertentu membutuhkan pertimbangan faktor-faktor seperti kecepatan clock, jumlah memori, periferal yang tersedia, konsumsi daya, dan biaya.  Mikrokontroler telah merevolusi industri elektronik dan memungkinkan pengembangan perangkat yang lebih kecil, lebih cerdas, dan lebih hemat energi.  Mikrokontroler digunakan dalam berbagai aplikasi, seperti sistem kontrol mesin, robotika, otomatisasi rumah, perangkat medis, dan mainan elektronik.  Mikrokontroler dapat diprogram untuk melakukan berbagai tugas, dari tugas sederhana seperti mengedipkan LED hingga tugas kompleks seperti mengontrol robot.  Mikrokontroler adalah komponen kunci dalam Internet of Things (IoT), memungkinkan perangkat untuk terhubung ke internet dan berbagi data.  Mikrokontroler memungkinkan pengembangan perangkat yang lebih cerdas dan lebih responsif yang dapat beradaptasi dengan lingkungannya.  Mikrokontroler terus berkembang, dengan teknologi baru yang muncul untuk meningkatkan kinerja, mengurangi konsumsi daya, dan menambahkan fitur baru.  Pemrograman mikrokontroler dapat menjadi hobi yang menyenangkan dan mendidik, dan ada banyak sumber daya yang tersedia online dan di perpustakaan untuk membantu pemula memulai.  Mikrokontroler adalah alat yang ampuh yang dapat digunakan untuk membuat berbagai macam proyek elektronik.  Mikrokontroler memungkinkan siapa saja untuk menjadi penemu dan berinovasi.  Mikrokontroler adalah bagian penting dari dunia elektronik modern dan akan terus memainkan peran penting di masa depan.  Mikrokontroler memberdayakan kita untuk menciptakan teknologi yang mengubah dunia.  Mikrokontroler adalah kunci untuk masa depan yang lebih cerdas dan lebih terhubung.  Mikrokontroler adalah keajaiban teknologi modern.  Mikrokontroler memungkinkan kita untuk mewujudkan ide-ide kita.  Mikrokontroler adalah jantung dari banyak perangkat elektronik yang kita gunakan setiap hari.  Mikrokontroler adalah bukti kecerdikan dan kreativitas manusia.  Mikrokontroler adalah alat yang serbaguna dan dapat digunakan dalam aplikasi yang tak terhitung jumlahnya.  Mikrokontroler terus mendorong batas-batas teknologi dan membuka kemungkinan baru untuk masa depan.  Mikrokontroler adalah komponen penting dalam banyak sistem yang disematkan dan akan terus memainkan peran penting dalam membentuk dunia kita.  Mikrokontroler memungkinkan kita untuk berinteraksi dengan dunia di sekitar kita dengan cara baru dan inovatif.  Mikrokontroler adalah otak dari banyak perangkat pintar. Mikrokontroler adalah kunci untuk otomasi dan kontrol di berbagai industri. Mikrokontroler adalah komponen penting dalam revolusi digital. Mikrokontroler memungkinkan kita untuk menciptakan solusi yang lebih efisien dan berkelanjutan. Mikrokontroler adalah masa depan teknologi yang disematkan.  Mikrokontroler adalah alat yang ampuh untuk inovasi dan kreativitas. Mikrokontroler adalah fondasi dari banyak teknologi yang mengubah dunia. Mikrokontroler adalah bukti kekuatan teknologi untuk meningkatkan kehidupan kita. Mikrokontroler adalah keajaiban teknik modern. Mikrokontroler adalah kunci untuk masa depan yang lebih baik. Mikrokontroler adalah dunia dalam sebuah chip. Mikrokontroler memungkinkan kita untuk bermimpi besar dan menciptakan hal-hal menakjubkan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama mikrokontroler?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menyimpan data"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mengontrol fungsi perangkat dan sistem"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menampilkan informasi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menghubungkan ke internet"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Mikrokontroler dirancang untuk mengontrol fungsi perangkat dan sistem yang disematkan."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Mikrokontroler hanya digunakan dalam peralatan rumah tangga.",
+                    "correct_answer": false,
+                    "explanation": "Mikrokontroler digunakan dalam berbagai aplikasi, termasuk peralatan rumah tangga, otomotif, industri, medis, dan banyak lagi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang digunakan untuk menyimpan program dan data secara permanen dalam mikrokontroler?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "RAM"
+                        },
+                        {
+                            "id": "b",
+                            "text": "ROM/Flash"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Timer"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Counter"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "ROM/Flash digunakan untuk menyimpan program dan data secara permanen."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Sebutkan dua contoh antarmuka komunikasi yang umum digunakan dalam mikrokontroler!",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "UART"
+                        },
+                        {
+                            "id": "b",
+                            "text": "USB"
+                        },
+                        {
+                            "id": "c",
+                            "text": "SPI"
+                        },
+                        {
+                            "id": "d",
+                            "text": "I2C"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Antarmuka komunikasi yang umum digunakan dalam mikrokontroler antara lain UART, SPI, dan I2C."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bahasa pemrograman apa yang dapat digunakan untuk memprogram mikrokontroler?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Java"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Python"
+                        },
+                        {
+                            "id": "c",
+                            "text": "C"
+                        },
+                        {
+                            "id": "d",
+                            "text": "HTML"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Mikrokontroler dapat diprogram menggunakan berbagai bahasa pemrograman, seperti C, C++, dan Assembly."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sensor adalah perangkat yang mendeteksi dan merespons beberapa jenis input dari lingkungan fisik. Input ini dapat berupa cahaya, panas, gerakan, tekanan, atau berbagai jenis energi lainnya. Output biasanya berupa sinyal listrik yang dapat dibaca oleh instrumen atau sistem. Sensor digunakan dalam berbagai aplikasi, termasuk otomotif, industri, medis, dan konsumen.  Sensor cahaya, seperti fotodioda dan fototransistor, mendeteksi cahaya dan mengubahnya menjadi sinyal listrik.  Sensor suhu, seperti termistor dan termokopel, mendeteksi perubahan suhu. Sensor gerak, seperti akselerometer dan giroskop, mendeteksi perubahan gerakan dan orientasi. Sensor tekanan, seperti sensor piezoresistif dan kapasitif, mendeteksi perubahan tekanan. Sensor kimia, seperti sensor gas dan pH, mendeteksi keberadaan dan konsentrasi bahan kimia tertentu.  Sensor biomedis, seperti sensor glukosa dan detak jantung, digunakan dalam aplikasi medis.  Sensor otomotif, seperti sensor oksigen dan tekanan ban, digunakan dalam mobil.  Sensor industri, seperti sensor suhu dan tekanan, digunakan dalam proses manufaktur. Sensor konsumen, seperti sensor cahaya dalam smartphone dan sensor gerak dalam konsol game, digunakan dalam berbagai produk konsumen.  Sensor memainkan peran penting dalam Internet of Things (IoT), memungkinkan perangkat untuk mengumpulkan dan berbagi data tentang lingkungannya.  Sensor nirkabel dapat mengirimkan data tanpa kabel.  Sensor cerdas menggabungkan sensor dengan kemampuan pemrosesan untuk melakukan analisis data lokal.  Akurasi sensor adalah seberapa dekat pengukuran sensor dengan nilai sebenarnya.  Presisi sensor adalah seberapa konsisten sensor menghasilkan pengukuran yang sama.  Resolusi sensor adalah perubahan terkecil dalam input yang dapat dideteksi oleh sensor.  Sensitivitas sensor adalah perubahan output per perubahan input.  Linearitas sensor adalah seberapa dekat output sensor dengan fungsi linier dari input.  Waktu respons sensor adalah waktu yang dibutuhkan sensor untuk merespons perubahan input.  Kalibrasi sensor adalah proses penyesuaian sensor untuk memastikan akurasi.  Sensor terus berkembang, dengan teknologi baru yang muncul untuk meningkatkan kinerja, mengurangi ukuran, dan menurunkan biaya.  Nanoteknologi memungkinkan pengembangan sensor yang lebih kecil dan lebih sensitif.  Sensor MEMS (Micro-Electro-Mechanical Systems) menggabungkan komponen mekanis dan elektronik pada chip yang sama.  Sensor nirkabel dan sensor cerdas semakin banyak digunakan dalam berbagai aplikasi.  Sensor memainkan peran penting dalam kehidupan modern kita, dari memantau lingkungan hingga meningkatkan perawatan kesehatan dan meningkatkan efisiensi industri.  Sensor membantu kita memahami dan berinteraksi dengan dunia di sekitar kita dengan cara baru dan inovatif.  Sensor adalah kunci untuk otomatisasi, kontrol, dan pengambilan keputusan yang lebih baik.  Sensor adalah komponen penting dalam banyak sistem modern dan akan terus memainkan peran penting di masa depan.  Sensor memungkinkan kita untuk mengumpulkan data tentang dunia di sekitar kita dan menggunakan data tersebut untuk membuat keputusan yang lebih baik.  Sensor adalah alat yang ampuh yang dapat digunakan untuk kebaikan, dan kita harus menggunakannya secara bertanggung jawab untuk menciptakan dunia yang lebih baik.  Sensor adalah bukti kecerdikan dan kreativitas manusia.  Sensor adalah simbol kemajuan teknologi dan potensinya untuk meningkatkan kehidupan kita. Sensor adalah keajaiban teknik modern. Sensor adalah kunci untuk masa depan teknologi.  Sensor adalah dunia dalam sebuah chip. Sensor memungkinkan kita untuk bermimpi besar dan menciptakan hal-hal menakjubkan. Sensor adalah jembatan antara dunia fisik dan digital. Sensor adalah mata, telinga, dan hidung dari sistem elektronik. Sensor adalah kunci untuk memahami dan mengendalikan lingkungan kita. Sensor adalah masa depan penginderaan dan pengukuran. Sensor adalah alat yang ampuh untuk inovasi dan penemuan. Sensor adalah fondasi dari banyak teknologi yang mengubah dunia. Sensor adalah bukti kekuatan teknologi untuk meningkatkan kehidupan kita. Sensor adalah keajaiban ilmu pengetahuan dan teknik. Sensor adalah kunci untuk masa depan yang lebih baik.  Sensor adalah jendela ke dunia di sekitar kita.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dideteksi oleh sensor?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Input dari lingkungan fisik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sinyal digital"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Informasi dari internet"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Perintah dari pengguna"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Sensor mendeteksi dan merespons beberapa jenis input dari lingkungan fisik."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Sensor hanya digunakan dalam aplikasi industri.",
+                    "correct_answer": false,
+                    "explanation": "Sensor digunakan dalam berbagai aplikasi, termasuk otomotif, industri, medis, dan konsumen."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang diukur oleh akselerometer?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Suhu"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Tekanan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Gerakan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Cahaya"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Akselerometer mendeteksi perubahan gerakan dan orientasi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Sebutkan dua contoh sensor cahaya!",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Fotodioda"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Termistor"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Fototransistor"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Termokopel"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c"
+                    ],
+                    "explanation": "Contoh sensor cahaya adalah fotodioda dan fototransistor."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan sensor cerdas?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Sensor yang dapat terhubung ke internet"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sensor yang menggabungkan sensor dengan kemampuan pemrosesan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sensor yang sangat akurat"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sensor yang sangat kecil"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Sensor cerdas menggabungkan sensor dengan kemampuan pemrosesan untuk melakukan analisis data lokal."
+                }
+            ]
+        }
+    }
+]

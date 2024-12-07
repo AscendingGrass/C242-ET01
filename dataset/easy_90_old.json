@@ -1,0 +1,1179 @@
+[
+    {
+        "context": "Sistem pencernaan manusia bertanggung jawab untuk memecah makanan menjadi nutrisi yang dapat diserap oleh tubuh. Proses ini dimulai di mulut, tempat makanan dikunyah dan dicampur dengan air liur yang mengandung enzim pencernaan. Makanan kemudian bergerak ke kerongkongan dan masuk ke lambung. Di lambung, makanan dicerna lebih lanjut oleh asam lambung dan enzim.  Selanjutnya, makanan masuk ke usus halus, tempat sebagian besar nutrisi diserap.  Usus halus memiliki vili, tonjolan kecil seperti jari yang meningkatkan luas permukaan untuk penyerapan.  Sisa makanan yang tidak tercerna kemudian bergerak ke usus besar, tempat air diserap dan sisa-sisa padat terbentuk menjadi feses.  Feses dikeluarkan dari tubuh melalui anus.  Kanker adalah penyakit yang ditandai dengan pertumbuhan sel yang tidak terkendali.  Sel kanker dapat menyebar ke bagian tubuh lain melalui sistem limfatik atau darah. Ada banyak jenis kanker, dan penyebabnya bervariasi.  Beberapa faktor risiko kanker termasuk genetika, gaya hidup, dan paparan karsinogen lingkungan.  Pengobatan kanker dapat mencakup pembedahan, kemoterapi, dan radiasi. DNA, atau asam deoksiribonukleat, adalah molekul yang membawa informasi genetik di semua organisme hidup.  DNA terdiri dari dua untai yang membentuk heliks ganda.  Setiap untai terdiri dari nukleotida, yang terdiri dari basa nitrogen, gula deoksiribosa, dan gugus fosfat.  Ada empat basa nitrogen dalam DNA: adenin (A), guanin (G), sitosin (C), dan timin (T).  Urutan basa nitrogen menentukan informasi genetik yang dibawa oleh DNA.  DNA direplikasi sebelum sel membelah, sehingga setiap sel anak menerima salinan lengkap DNA.  DNA dapat mengalami mutasi, atau perubahan dalam urutan basa nitrogen.  Mutasi dapat disebabkan oleh berbagai faktor, termasuk radiasi dan bahan kimia tertentu. Beberapa mutasi dapat menyebabkan penyakit genetik. Sel darah merah adalah sel yang paling melimpah dalam darah.  Mereka bertanggung jawab untuk mengangkut oksigen ke seluruh tubuh.  Sel darah merah mengandung hemoglobin, protein yang mengikat oksigen.  Sel darah merah diproduksi di sumsum tulang.  Sel darah putih adalah bagian dari sistem kekebalan tubuh dan membantu melawan infeksi.  Ada berbagai jenis sel darah putih, masing-masing dengan fungsi khususnya sendiri.  Keping darah adalah fragmen sel kecil yang membantu pembekuan darah.  Kanker darah, seperti leukemia, memengaruhi produksi sel darah di sumsum tulang.  Sistem limfatik adalah jaringan pembuluh dan organ yang membantu menjaga keseimbangan cairan dalam tubuh dan melawan infeksi.  Sistem limfatik mengangkut getah bening, cairan bening yang mengandung sel darah putih, ke seluruh tubuh.  Kelenjar getah bening adalah bagian dari sistem limfatik dan menyaring getah bening untuk menghilangkan bakteri dan zat asing lainnya. Sistem limfatik juga memainkan peran dalam penyerapan lemak dari usus halus.  Limfoma adalah jenis kanker yang berkembang di sistem limfatik.  Jantung adalah organ berotot yang memompa darah ke seluruh tubuh.  Jantung memiliki empat ruang: dua atrium dan dua ventrikel.  Darah yang kekurangan oksigen kembali ke jantung melalui atrium kanan dan kemudian dipompa ke ventrikel kanan, yang memompa darah ke paru-paru untuk mengambil oksigen.  Darah yang kaya oksigen kembali ke jantung melalui atrium kiri dan kemudian dipompa ke ventrikel kiri, yang memompa darah ke seluruh tubuh.  Penyakit jantung adalah penyebab utama kematian di banyak negara.  Faktor risiko penyakit jantung termasuk tekanan darah tinggi, kolesterol tinggi, dan merokok.  Paru-paru adalah organ utama sistem pernapasan.  Mereka bertanggung jawab untuk pertukaran gas antara udara dan darah.  Oksigen dihirup ke dalam paru-paru dan berdifusi ke dalam darah, sementara karbon dioksida berdifusi dari darah ke udara dan dihembuskan.  Kanker paru-paru adalah salah satu jenis kanker yang paling umum.  Merokok adalah faktor risiko utama kanker paru-paru.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama sel darah merah?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengangkut oksigen"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Melawan infeksi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Membekukan darah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mencerna makanan"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Sel darah merah mengandung hemoglobin yang mengikat oksigen dan mengangkutnya ke seluruh tubuh."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Sel kanker dapat menyebar ke bagian tubuh lain.",
+                    "correct_answer": true,
+                    "explanation": "Sel kanker dapat menyebar melalui sistem limfatik atau darah, proses yang disebut metastasis."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama DNA?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menghasilkan energi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Membawa informasi genetik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengatur suhu tubuh"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Melawan infeksi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "DNA membawa informasi genetik yang menentukan karakteristik suatu organisme."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan bagian dari sistem pencernaan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Lambung"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Jantung"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Usus halus"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Paru-paru"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c"
+                    ],
+                    "explanation": "Lambung dan usus halus adalah bagian dari sistem pencernaan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa faktor risiko utama kanker paru-paru?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Polusi udara"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Merokok"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Genetika"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kurang olahraga"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Merokok adalah faktor risiko utama kanker paru-paru."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sistem saraf manusia adalah jaringan kompleks yang mengontrol dan mengkoordinasikan fungsi tubuh. Sistem saraf terdiri dari otak, sumsum tulang belakang, dan saraf. Otak adalah pusat kendali tubuh dan bertanggung jawab atas pemikiran, pembelajaran, memori, dan emosi. Sumsum tulang belakang menghubungkan otak ke seluruh tubuh dan mengirimkan sinyal saraf. Saraf adalah serat yang membawa sinyal saraf antara otak, sumsum tulang belakang, dan seluruh tubuh. Sistem saraf dibagi menjadi dua bagian utama: sistem saraf pusat (SSP) dan sistem saraf tepi (SST). SSP terdiri dari otak dan sumsum tulang belakang, sedangkan SST terdiri dari semua saraf di luar SSP.  Stroke adalah kondisi medis yang terjadi ketika suplai darah ke bagian otak terganggu, yang mengakibatkan kerusakan sel otak.  Stroke dapat disebabkan oleh penyumbatan arteri (stroke iskemik) atau pecahnya pembuluh darah (stroke hemoragik).  Gejala stroke dapat bervariasi tergantung pada area otak yang terkena, tetapi dapat termasuk mati rasa atau kelemahan tiba-tiba pada satu sisi tubuh, kesulitan berbicara, pusing, dan kehilangan penglihatan.  Faktor risiko stroke termasuk tekanan darah tinggi, kolesterol tinggi, merokok, dan diabetes. DNA adalah materi genetik yang membawa informasi herediter di hampir semua organisme hidup.  DNA terdiri dari empat basa kimia: adenin (A), guanin (G), sitosin (C), dan timin (T).  Urutan basa-basa ini menentukan instruksi genetik untuk perkembangan dan fungsi semua organisme hidup.  DNA ditemukan di dalam nukleus sel, di mana ia dikemas menjadi struktur yang disebut kromosom. Sel darah adalah komponen penting dari darah dan memainkan peran penting dalam berbagai fungsi tubuh, termasuk transportasi oksigen, pembekuan darah, dan kekebalan.  Ada tiga jenis utama sel darah: sel darah merah (eritrosit), sel darah putih (leukosit), dan keping darah (trombosit).  Sel darah merah bertanggung jawab untuk membawa oksigen dari paru-paru ke jaringan tubuh dan karbon dioksida kembali ke paru-paru untuk dikeluarkan.  Sel darah putih adalah bagian dari sistem kekebalan tubuh dan membantu melawan infeksi dan penyakit.  Keping darah membantu pembekuan darah untuk menghentikan pendarahan.  Mutasi genetik pada DNA dapat menyebabkan kelainan darah, seperti anemia sel sabit dan hemofilia.  Ginjal adalah dua organ berbentuk kacang yang terletak di belakang rongga perut.  Fungsi utama ginjal adalah menyaring limbah dari darah dan menghasilkan urine.  Ginjal juga berperan penting dalam mengatur tekanan darah, keseimbangan elektrolit, dan produksi sel darah merah.  Penyakit ginjal kronis adalah kondisi di mana ginjal secara bertahap kehilangan kemampuannya untuk berfungsi dengan baik.  Faktor risiko penyakit ginjal kronis termasuk diabetes, tekanan darah tinggi, dan riwayat keluarga penyakit ginjal.  Hati adalah organ terbesar dalam tubuh manusia dan terletak di sisi kanan atas rongga perut.  Hati memainkan peran penting dalam metabolisme, detoksifikasi, penyimpanan nutrisi, dan produksi berbagai zat penting.  Hati menghasilkan empedu, yang membantu dalam pencernaan lemak.  Hati juga menyaring racun dari darah dan menyimpan glukosa sebagai glikogen.  Penyakit hati, seperti sirosis dan hepatitis, dapat merusak fungsi hati. Pankreas adalah organ yang terletak di belakang lambung dan menghasilkan enzim pencernaan dan hormon.  Enzim pencernaan membantu memecah karbohidrat, protein, dan lemak dalam usus halus.  Pankreas juga menghasilkan insulin dan glukagon, hormon yang mengatur kadar gula darah.  Diabetes adalah penyakit yang ditandai dengan kadar gula darah tinggi dan dapat disebabkan oleh produksi insulin yang tidak mencukupi atau resistensi tubuh terhadap insulin.  Kanker pankreas adalah jenis kanker yang agresif yang seringkali sulit diobati.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama otak?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Memompa darah"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mencerna makanan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengontrol dan mengkoordinasikan fungsi tubuh"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menyaring limbah dari darah"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Otak adalah pusat kendali tubuh dan bertanggung jawab atas pemikiran, pembelajaran, memori, dan emosi, serta mengontrol dan mengkoordinasikan fungsi tubuh."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Stroke hanya disebabkan oleh penyumbatan arteri.",
+                    "correct_answer": false,
+                    "explanation": "Stroke dapat disebabkan oleh penyumbatan arteri (stroke iskemik) atau pecahnya pembuluh darah (stroke hemoragik)."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama ginjal?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menghasilkan energi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menyaring limbah dari darah"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mencerna makanan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Memompa darah"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Ginjal menyaring limbah dari darah dan menghasilkan urine."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan jenis sel darah?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Sel darah merah"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sel darah putih"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sel darah kuning"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Keping darah"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Tiga jenis utama sel darah adalah sel darah merah, sel darah putih, dan keping darah (trombosit)."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Hormon apa yang dihasilkan oleh pankreas untuk mengatur kadar gula darah?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Adrenalin"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Tiroksin"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Insulin"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kortisol"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Pankreas menghasilkan insulin dan glukagon untuk mengatur kadar gula darah."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sistem pernapasan manusia bertanggung jawab untuk mengambil oksigen dari udara dan melepaskan karbon dioksida dari tubuh.  Proses ini dimulai ketika udara dihirup melalui hidung atau mulut dan masuk ke trakea.  Trakea bercabang menjadi dua bronkus, satu untuk setiap paru-paru.  Di dalam paru-paru, bronkus bercabang menjadi bronkiolus yang lebih kecil, yang berakhir di alveolus. Alveolus adalah kantung udara kecil tempat pertukaran gas terjadi.  Oksigen berdifusi dari alveolus ke dalam darah, sementara karbon dioksida berdifusi dari darah ke alveolus untuk dihembuskan.  Asma adalah penyakit pernapasan kronis yang menyebabkan peradangan dan penyempitan saluran udara di paru-paru.  Gejala asma termasuk mengi, sesak napas, batuk, dan sesak dada.  Pemicu asma dapat bervariasi dari orang ke orang, tetapi dapat termasuk alergen, iritasi, olahraga, dan infeksi pernapasan.  Pengobatan asma bertujuan untuk mengurangi peradangan dan membuka saluran udara. DNA (asam deoksiribonukleat) adalah molekul yang membawa informasi genetik dalam semua organisme hidup.  DNA terdiri dari dua untai yang saling melilit untuk membentuk heliks ganda.  Setiap untai terbuat dari unit berulang yang disebut nukleotida.  Setiap nukleotida terdiri dari gula deoksiribosa, gugus fosfat, dan basa nitrogen.  Ada empat basa nitrogen dalam DNA: adenin (A), timin (T), guanin (G), dan sitosin (C).  Urutan basa-basa ini menentukan informasi genetik yang dibawa oleh DNA. Sel darah adalah komponen penting dari darah dan bertanggung jawab untuk mengangkut oksigen, melawan infeksi, dan membantu pembekuan darah.  Ada tiga jenis utama sel darah: sel darah merah (eritrosit), sel darah putih (leukosit), dan keping darah (trombosit).  Sel darah merah mengandung hemoglobin, protein yang mengikat oksigen dan memberinya warna merah.  Sel darah putih adalah bagian dari sistem kekebalan dan membantu melindungi tubuh dari infeksi.  Keping darah membantu proses pembekuan darah.   Anemia adalah kondisi di mana tubuh tidak memiliki cukup sel darah merah yang sehat untuk membawa oksigen yang cukup ke jaringan tubuh.  Gejala anemia dapat bervariasi, tetapi seringkali termasuk kelelahan, kelemahan, kulit pucat, dan sesak napas.  Ada banyak jenis anemia, masing-masing dengan penyebabnya sendiri.  Otot adalah jaringan lunak dalam tubuh manusia dan hewan yang bertanggung jawab untuk gerakan.  Otot terdiri dari serat otot yang dapat berkontraksi dan berelaksasi untuk menghasilkan gerakan.  Ada tiga jenis otot: otot rangka, otot polos, dan otot jantung.  Otot rangka melekat pada tulang dan bertanggung jawab untuk gerakan tubuh secara sadar.  Otot polos ditemukan di dinding organ dalam, seperti lambung dan usus, dan bertanggung jawab untuk gerakan tak sadar.  Otot jantung ditemukan di jantung dan bertanggung jawab untuk memompa darah. Distrofi otot adalah sekelompok penyakit genetik yang menyebabkan kelemahan otot progresif dan hilangnya massa otot.  Ada banyak jenis distrofi otot, masing-masing dengan penyebab genetik dan gejala yang berbeda.  Tidak ada obat untuk distrofi otot, tetapi pengobatan dapat membantu mengelola gejala dan memperlambat perkembangan penyakit. Kerangka manusia adalah kerangka internal yang mendukung tubuh manusia.  Ini terdiri dari sekitar 206 tulang pada orang dewasa, yang dihubungkan oleh sendi, ligamen, dan tendon.  Kerangka memberikan dukungan struktural untuk tubuh, melindungi organ vital, dan memungkinkan gerakan.  Sumsum tulang, yang ditemukan di dalam beberapa tulang, menghasilkan sel darah.  Osteoporosis adalah penyakit yang melemahkan tulang, meningkatkan risiko patah tulang.  Osteoporosis sering disebabkan oleh penurunan kepadatan tulang seiring bertambahnya usia. Kulit adalah organ terbesar dalam tubuh manusia dan membentuk lapisan pelindung luar.  Kulit terdiri dari tiga lapisan utama: epidermis, dermis, dan hipodermis.  Epidermis adalah lapisan terluar dan memberikan penghalang pelindung terhadap lingkungan.  Dermis mengandung pembuluh darah, saraf, kelenjar keringat, dan folikel rambut.  Hipodermis adalah lapisan terdalam dan terdiri dari jaringan lemak dan jaringan ikat.  Kanker kulit adalah jenis kanker yang paling umum dan disebabkan oleh pertumbuhan sel kulit yang tidak terkendali.  Paparan sinar ultraviolet (UV) dari sinar matahari atau tanning bed adalah faktor risiko utama kanker kulit.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Di manakah pertukaran gas terjadi dalam paru-paru?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Trakea"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Bronkus"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Bronkiolus"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Alveolus"
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Pertukaran gas terjadi di alveolus, kantung udara kecil di paru-paru."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Asma adalah penyakit menular.",
+                    "correct_answer": false,
+                    "explanation": "Asma adalah penyakit pernapasan kronis, bukan penyakit menular."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama keping darah?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengangkut oksigen"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Melawan infeksi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Membekukan darah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mencerna makanan"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Keping darah membantu dalam proses pembekuan darah."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Basa nitrogen apa saja yang ditemukan dalam DNA?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Adenin"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Urasil"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Guanin"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sitosin"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Basa nitrogen dalam DNA adalah adenin, timin, guanin, dan sitosin. Urasil ditemukan dalam RNA."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa faktor risiko utama kanker kulit?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Merokok"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Paparan sinar UV"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kurang olahraga"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pola makan yang buruk"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Paparan sinar ultraviolet (UV) dari sinar matahari atau tanning bed adalah faktor risiko utama kanker kulit."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sistem endokrin manusia terdiri dari kelenjar yang menghasilkan hormon, pembawa pesan kimia yang mengatur berbagai fungsi tubuh. Hormon dilepaskan ke aliran darah dan berjalan ke organ dan jaringan target, tempat mereka mengikat reseptor spesifik dan memulai respons seluler.  Kelenjar utama sistem endokrin meliputi kelenjar pituitari, kelenjar tiroid, kelenjar paratiroid, kelenjar adrenal, pankreas, ovarium (pada wanita), dan testis (pada pria). Kelenjar pituitari, yang terletak di dasar otak, sering disebut sebagai \"kelenjar utama\" karena menghasilkan hormon yang mengontrol kelenjar endokrin lainnya.  Gangguan endokrin, seperti diabetes dan hipotiroidisme, dapat terjadi ketika kelenjar menghasilkan terlalu banyak atau terlalu sedikit hormon. DNA, atau asam deoksiribonukleat, adalah molekul yang membawa informasi genetik di semua organisme hidup.  DNA terdiri dari dua untai yang membentuk heliks ganda.  Setiap untai terdiri dari nukleotida, yang terdiri dari basa nitrogen, gula deoksiribosa, dan gugus fosfat.  Ada empat basa nitrogen dalam DNA: adenin (A), guanin (G), sitosin (C), dan timin (T).  Urutan basa nitrogen menentukan informasi genetik yang dibawa oleh DNA.  DNA direplikasi sebelum sel membelah, sehingga setiap sel anak menerima salinan lengkap DNA.  Mutasi, atau perubahan dalam urutan DNA, dapat menyebabkan penyakit genetik. Sel darah merah adalah sel yang paling melimpah dalam darah dan bertanggung jawab untuk mengangkut oksigen ke seluruh tubuh. Mereka mengandung hemoglobin, protein yang mengikat oksigen di paru-paru dan melepaskannya ke jaringan.  Sel darah putih adalah bagian dari sistem kekebalan tubuh dan membantu melawan infeksi.  Keping darah membantu dalam pembekuan darah untuk mencegah pendarahan yang berlebihan.  Anemia adalah suatu kondisi yang ditandai dengan kekurangan sel darah merah yang sehat atau hemoglobin, yang mengakibatkan berkurangnya kapasitas pembawa oksigen darah. Otot adalah jaringan lunak yang terdiri dari serat yang dapat berkontraksi untuk menghasilkan gerakan.  Ada tiga jenis otot: otot rangka, otot polos, dan otot jantung.  Otot rangka melekat pada tulang dan bertanggung jawab untuk gerakan tubuh secara sadar.  Otot polos ditemukan di dinding organ internal dan bertanggung jawab untuk gerakan tak sadar, seperti pencernaan dan aliran darah.  Otot jantung ditemukan di jantung dan bertanggung jawab untuk memompa darah.  Distrofi otot adalah sekelompok penyakit genetik yang menyebabkan kelemahan otot progresif dan degenerasi. Kerangka manusia adalah kerangka internal yang memberikan dukungan, perlindungan, dan gerakan bagi tubuh.  Ini terdiri dari tulang, tulang rawan, ligamen, dan tendon.  Tulang adalah jaringan ikat yang keras dan padat yang membentuk sebagian besar kerangka.  Tulang rawan adalah jaringan ikat yang fleksibel yang ditemukan di sendi dan bagian tubuh lainnya.  Ligamen menghubungkan tulang ke tulang, sedangkan tendon menghubungkan otot ke tulang.  Osteoporosis adalah suatu kondisi yang ditandai dengan penurunan kepadatan tulang, meningkatkan risiko patah tulang. Kulit adalah organ terbesar dalam tubuh manusia dan berfungsi sebagai penghalang pelindung antara tubuh dan lingkungan eksternal.  Kulit terdiri dari tiga lapisan utama: epidermis, dermis, dan hipodermis.  Epidermis adalah lapisan terluar dan menyediakan penghalang tahan air.  Dermis mengandung pembuluh darah, saraf, kelenjar keringat, dan folikel rambut.  Hipodermis adalah lapisan terdalam dan terdiri dari jaringan lemak dan jaringan ikat.  Kanker kulit adalah jenis kanker yang paling umum dan dapat disebabkan oleh paparan sinar ultraviolet (UV) yang berlebihan dari sinar matahari atau tanning bed. Ginjal adalah dua organ berbentuk kacang yang terletak di belakang rongga perut.  Fungsi utama ginjal adalah menyaring limbah dari darah dan menghasilkan urine.  Ginjal juga berperan penting dalam mengatur keseimbangan cairan, keseimbangan elektrolit, dan tekanan darah.  Penyakit ginjal kronis (PGK) adalah kondisi di mana ginjal secara bertahap kehilangan fungsinya dari waktu ke waktu.  Faktor risiko PGK termasuk diabetes, tekanan darah tinggi, dan riwayat keluarga penyakit ginjal. Jantung adalah organ berotot yang memompa darah ke seluruh tubuh.  Jantung memiliki empat ruang: dua atrium dan dua ventrikel.  Atrium menerima darah dari tubuh dan paru-paru, sedangkan ventrikel memompa darah ke paru-paru dan tubuh.  Penyakit jantung koroner (PJK) adalah kondisi di mana plak menumpuk di arteri koroner, yang memasok darah ke jantung.  PJK dapat menyebabkan nyeri dada (angina), sesak napas, dan serangan jantung. Paru-paru adalah organ utama sistem pernapasan dan bertanggung jawab untuk pertukaran gas antara udara dan darah.  Udara dihirup ke dalam paru-paru, tempat oksigen berdifusi ke dalam darah dan karbon dioksida berdifusi dari darah ke udara untuk dihembuskan.  Penyakit paru obstruktif kronik (PPOK) adalah sekelompok penyakit paru progresif yang menyulitkan pernapasan.  Merokok adalah penyebab utama PPOK.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama sistem endokrin?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengatur fungsi tubuh melalui hormon"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mencerna makanan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengangkut oksigen"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Melawan infeksi"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Sistem endokrin menghasilkan hormon yang mengatur berbagai fungsi tubuh."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "DNA hanya ditemukan pada manusia.",
+                    "correct_answer": false,
+                    "explanation": "DNA ditemukan di semua organisme hidup."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan anemia?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kelebihan sel darah merah"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kekurangan sel darah merah atau hemoglobin"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kelebihan sel darah putih"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kekurangan keping darah"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Anemia adalah kekurangan sel darah merah yang sehat atau hemoglobin."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan jenis otot?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Otot rangka"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Otot polos"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Otot lurik"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Otot jantung"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Tiga jenis otot adalah otot rangka, otot polos, dan otot jantung. Otot lurik adalah nama lain untuk otot rangka."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa penyebab utama PPOK?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Polusi udara"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Merokok"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Genetika"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Infeksi virus"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Merokok adalah penyebab utama PPOK."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sistem saraf manusia adalah jaringan komunikasi elektrokimia yang kompleks yang mengatur dan mengkoordinasikan fungsi tubuh. Sistem ini terdiri dari dua bagian utama: sistem saraf pusat (SSP), yang terdiri dari otak dan sumsum tulang belakang, dan sistem saraf tepi (SST), yang terdiri dari semua saraf yang memanjang dari SSP ke seluruh tubuh. Neuron adalah unit fungsional dasar sistem saraf. Neuron mengirimkan sinyal ke neuron lain, otot, atau kelenjar melalui sinapsis, persimpangan antara dua neuron. Neurotransmiter adalah pembawa pesan kimia yang mengirimkan sinyal melintasi sinapsis.  Penyakit neurodegeneratif, seperti penyakit Alzheimer dan penyakit Parkinson, ditandai dengan hilangnya progresif struktur atau fungsi neuron.  DNA (asam deoksiribonukleat) adalah molekul yang membawa informasi genetik di semua organisme hidup.  Informasi genetik ini menentukan karakteristik suatu organisme, seperti warna mata dan tinggi badan.  DNA terdiri dari dua untai yang membentuk heliks ganda.  Setiap untai terdiri dari nukleotida, yang terdiri dari basa nitrogen, gula deoksiribosa, dan gugus fosfat.  Ada empat basa nitrogen dalam DNA: adenin (A), guanin (G), sitosin (C), dan timin (T). Urutan basa-basa ini menentukan kode genetik. Sel darah adalah komponen seluler darah dan memainkan peran penting dalam berbagai fungsi tubuh, termasuk transportasi oksigen, pembekuan darah, dan kekebalan.  Ada tiga jenis utama sel darah: sel darah merah (eritrosit), sel darah putih (leukosit), dan keping darah (trombosit).  Sel darah merah mengandung hemoglobin, protein yang membawa oksigen dari paru-paru ke jaringan tubuh.  Sel darah putih adalah bagian dari sistem kekebalan tubuh dan membantu melawan infeksi.  Keping darah membantu dalam pembekuan darah untuk mencegah pendarahan yang berlebihan. Kelainan darah, seperti anemia dan leukemia, dapat memengaruhi produksi dan fungsi sel darah. Otot rangka, juga dikenal sebagai otot lurik, melekat pada tulang dan bertanggung jawab untuk gerakan tubuh secara sadar.  Otot polos, juga dikenal sebagai otot viseral, ditemukan di dinding organ internal dan bertanggung jawab untuk gerakan tak sadar, seperti pencernaan.  Otot jantung adalah jenis otot khusus yang ditemukan di jantung.  Otot jantung berkontraksi secara ritmis untuk memompa darah ke seluruh tubuh.  Kerangka aksial terdiri dari tengkorak, tulang belakang, tulang rusuk, dan sternum.  Kerangka apendikular terdiri dari tulang-tulang anggota badan, serta tulang belikat dan panggul.  Tulang memberikan dukungan struktural untuk tubuh, melindungi organ internal, dan memungkinkan gerakan.  Sendi adalah tempat dua atau lebih tulang bertemu.  Ada berbagai jenis sendi, termasuk sendi engsel, sendi peluru, dan sendi putar. Kulit adalah organ terbesar dalam tubuh dan berfungsi sebagai penghalang pelindung antara tubuh dan lingkungan eksternal.  Kulit terdiri dari tiga lapisan utama: epidermis, dermis, dan hipodermis.  Epidermis adalah lapisan terluar dan memberikan penghalang tahan air.  Dermis mengandung pembuluh darah, saraf, kelenjar keringat, dan folikel rambut.  Hipodermis adalah lapisan terdalam dan terdiri dari jaringan lemak dan jaringan ikat. Ginjal adalah sepasang organ berbentuk kacang yang terletak di rongga perut.  Mereka bertanggung jawab untuk menyaring limbah dari darah dan memproduksi urine.  Ginjal juga berperan penting dalam mengatur keseimbangan cairan dan elektrolit dalam tubuh.  Nefron adalah unit fungsional ginjal. Sistem kardiovaskular, juga dikenal sebagai sistem sirkulasi, terdiri dari jantung, pembuluh darah, dan darah.  Jantung adalah organ berotot yang memompa darah ke seluruh tubuh.  Arteri membawa darah dari jantung, sedangkan vena membawa darah kembali ke jantung.  Kapiler adalah pembuluh darah kecil yang menghubungkan arteri dan vena.  Darah membawa oksigen, nutrisi, dan zat penting lainnya ke sel-sel tubuh dan membuang limbah. Sistem pernapasan bertanggung jawab untuk pertukaran gas antara tubuh dan lingkungan eksternal.  Paru-paru adalah organ utama sistem pernapasan.  Udara dihirup melalui hidung atau mulut dan masuk ke trakea, yang bercabang menjadi dua bronkus, satu untuk setiap paru-paru.  Di dalam paru-paru, bronkus bercabang menjadi bronkiolus yang lebih kecil, yang berakhir di alveolus, tempat pertukaran gas terjadi.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama neuron?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menghasilkan energi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menyimpan nutrisi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menyaring limbah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengirimkan sinyal"
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Neuron adalah sel yang mengirimkan sinyal ke neuron lain, otot, atau kelenjar."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "DNA membawa informasi genetik yang menentukan karakteristik suatu organisme.",
+                    "correct_answer": true,
+                    "explanation": "Urutan basa nitrogen dalam DNA menentukan kode genetik yang mengontrol sifat-sifat organisme."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama sel darah putih?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengangkut oksigen"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Melawan infeksi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Membekukan darah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mencerna makanan"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Sel darah putih adalah bagian dari sistem kekebalan tubuh dan membantu melawan infeksi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam kerangka aksial?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Tengkorak"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Tulang belakang"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Tulang belikat"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Tulang panggul"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Kerangka aksial terdiri dari tengkorak, tulang belakang, tulang rusuk, dan sternum."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama ginjal?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Memompa darah"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mencerna makanan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menyaring limbah dari darah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menghasilkan hormon"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Ginjal menyaring limbah dari darah dan memproduksi urine."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sistem kardiovaskular, juga dikenal sebagai sistem sirkulasi, bertanggung jawab untuk mengangkut darah ke seluruh tubuh. Darah membawa oksigen, nutrisi, hormon, dan zat penting lainnya ke sel-sel tubuh, serta membuang produk limbah. Sistem ini terdiri dari jantung, pembuluh darah, dan darah. Jantung adalah organ berotot yang memompa darah ke seluruh tubuh. Jantung memiliki empat ruang: dua atrium dan dua ventrikel. Atrium menerima darah dari tubuh dan paru-paru, sedangkan ventrikel memompa darah ke seluruh tubuh dan paru-paru.  Penyakit jantung koroner (PJK) adalah kondisi di mana plak menumpuk di arteri koroner, yang memasok darah ke jantung.  PJK dapat menyebabkan nyeri dada (angina), sesak napas, dan serangan jantung. DNA (asam deoksiribonukleat) adalah molekul yang membawa informasi genetik di semua organisme hidup.  Informasi genetik ini menentukan karakteristik suatu organisme, seperti warna mata dan tinggi badan.  DNA terdiri dari dua untai yang membentuk heliks ganda.  Setiap untai terdiri dari nukleotida, yang terdiri dari basa nitrogen, gula deoksiribosa, dan gugus fosfat.  Ada empat basa nitrogen dalam DNA: adenin (A), guanin (G), sitosin (C), dan timin (T).  Urutan basa-basa ini menentukan kode genetik.  Mutasi, atau perubahan dalam urutan DNA, dapat menyebabkan penyakit genetik. Sel darah merah (eritrosit) adalah sel yang paling melimpah dalam darah dan bertanggung jawab untuk mengangkut oksigen dari paru-paru ke jaringan tubuh.  Sel darah putih (leukosit) adalah bagian dari sistem kekebalan tubuh dan membantu melawan infeksi.  Keping darah (trombosit) membantu dalam pembekuan darah untuk mencegah pendarahan yang berlebihan.  Sumsum tulang adalah jaringan lunak yang ditemukan di dalam tulang dan bertanggung jawab untuk memproduksi sel darah.  Anemia adalah suatu kondisi yang ditandai dengan kekurangan sel darah merah atau hemoglobin yang sehat, yang mengakibatkan berkurangnya kapasitas pembawa oksigen darah.  Sistem otot manusia terdiri dari lebih dari 600 otot yang bekerja sama untuk menghasilkan gerakan, menjaga postur, dan menghasilkan panas.  Otot terdiri dari serat otot yang dapat berkontraksi dan berelaksasi.  Ada tiga jenis otot: otot rangka, otot polos, dan otot jantung.  Otot rangka melekat pada tulang dan bertanggung jawab untuk gerakan tubuh secara sadar.  Otot polos ditemukan di dinding organ internal dan bertanggung jawab untuk gerakan tak sadar, seperti pencernaan.  Otot jantung ditemukan di jantung dan bertanggung jawab untuk memompa darah.  Distrofi otot adalah sekelompok penyakit genetik yang menyebabkan kelemahan otot progresif dan degenerasi.  Kerangka manusia adalah kerangka internal yang memberikan dukungan, perlindungan, dan gerakan bagi tubuh.  Ini terdiri dari tulang, tulang rawan, ligamen, dan tendon.  Tulang adalah jaringan ikat yang keras dan padat yang membentuk sebagian besar kerangka.  Tulang rawan adalah jaringan ikat yang fleksibel yang ditemukan di sendi dan bagian tubuh lainnya.  Ligamen menghubungkan tulang ke tulang, sedangkan tendon menghubungkan otot ke tulang.  Osteoporosis adalah suatu kondisi yang ditandai dengan penurunan kepadatan tulang, meningkatkan risiko patah tulang.  Kulit adalah organ terbesar dalam tubuh dan berfungsi sebagai penghalang pelindung antara tubuh dan lingkungan eksternal.  Kulit terdiri dari tiga lapisan utama: epidermis, dermis, dan hipodermis.  Epidermis adalah lapisan terluar dan memberikan penghalang tahan air.  Dermis mengandung pembuluh darah, saraf, kelenjar keringat, dan folikel rambut.  Hipodermis adalah lapisan terdalam dan terdiri dari jaringan lemak dan jaringan ikat.  Melanoma adalah jenis kanker kulit yang serius yang berkembang dari melanosit, sel yang memproduksi melanin, pigmen yang memberi warna pada kulit. Sistem pencernaan manusia bertanggung jawab untuk memecah makanan menjadi nutrisi yang dapat diserap oleh tubuh.  Proses ini dimulai di mulut, tempat makanan dikunyah dan dicampur dengan air liur.  Air liur mengandung enzim yang mulai memecah karbohidrat.  Makanan kemudian masuk ke kerongkongan, tabung berotot yang menghubungkan mulut ke lambung.  Di lambung, makanan dicampur dengan asam lambung dan enzim, yang memecah protein.  Makanan yang dicerna sebagian kemudian masuk ke usus halus, tempat sebagian besar nutrisi diserap.  Usus halus memiliki vili, tonjolan kecil seperti jari yang meningkatkan luas permukaan untuk penyerapan.  Sisa makanan yang tidak tercerna kemudian masuk ke usus besar, tempat air diserap dan sisa-sisa padat terbentuk menjadi feses.  Feses dikeluarkan dari tubuh melalui anus.  Sistem pernapasan bertanggung jawab untuk pertukaran gas antara tubuh dan lingkungan eksternal.  Udara dihirup melalui hidung atau mulut dan masuk ke trakea, yang bercabang menjadi dua bronkus, satu untuk setiap paru-paru.  Di dalam paru-paru, bronkus bercabang menjadi bronkiolus yang lebih kecil, yang berakhir di alveolus.  Alveolus adalah kantung udara kecil tempat pertukaran gas terjadi.  Oksigen berdifusi dari alveolus ke dalam darah, sementara karbon dioksida berdifusi dari darah ke alveolus untuk dihembuskan. Asma adalah penyakit pernapasan kronis yang ditandai dengan peradangan dan penyempitan saluran udara di paru-paru.  Gejala asma dapat termasuk mengi, sesak napas, batuk, dan sesak dada.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama sistem kardiovaskular?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengangkut darah ke seluruh tubuh"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mencerna makanan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menyaring limbah dari darah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengatur fungsi tubuh melalui hormon"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Sistem kardiovaskular mengangkut darah, yang membawa oksigen, nutrisi, dan zat penting lainnya ke sel-sel tubuh."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Jantung memiliki tiga ruang.",
+                    "correct_answer": false,
+                    "explanation": "Jantung memiliki empat ruang: dua atrium dan dua ventrikel."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi sel darah merah?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Melawan infeksi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Membekukan darah"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengangkut oksigen"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mencerna makanan"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Sel darah merah mengangkut oksigen dari paru-paru ke jaringan tubuh."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan bagian dari sistem kerangka?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Tulang"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Otot"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Tulang rawan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Ligamen"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Sistem kerangka terdiri dari tulang, tulang rawan, ligamen, dan tendon."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Di manakah pertukaran gas terjadi dalam sistem pernapasan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Trakea"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Bronkus"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Alveolus"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kerongkongan"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Pertukaran gas terjadi di alveolus, kantung udara kecil di paru-paru."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sistem saraf adalah jaringan kompleks sel-sel khusus yang disebut neuron yang mengirimkan sinyal ke seluruh tubuh.  Sistem ini mengontrol dan mengkoordinasikan banyak fungsi tubuh, termasuk gerakan, sensasi, pikiran, dan emosi. Sistem saraf dibagi menjadi dua bagian utama: sistem saraf pusat (SSP), yang terdiri dari otak dan sumsum tulang belakang, dan sistem saraf tepi (SST), yang terdiri dari semua saraf lain di tubuh. Otak adalah organ yang kompleks yang mengontrol pikiran, memori, emosi, sentuhan, keterampilan motorik, penglihatan, pernapasan, suhu, rasa lapar, dan setiap proses yang mengatur tubuh kita. Sumsum tulang belakang adalah bundel panjang jaringan saraf yang memanjang dari otak ke bawah punggung.  Ini mengirimkan sinyal antara otak dan seluruh tubuh.  Cedera tulang belakang dapat menyebabkan hilangnya sensasi dan gerakan di bawah tingkat cedera.  DNA (asam deoksiribonukleat) adalah materi genetik yang membawa informasi untuk perkembangan dan fungsi semua organisme hidup.  DNA terdiri dari dua untai yang membentuk heliks ganda.  Setiap untai terbuat dari nukleotida, yang terdiri dari gula deoksiribosa, gugus fosfat, dan basa nitrogen.  Ada empat basa nitrogen dalam DNA: adenin (A), timin (T), guanin (G), dan sitosin (C).  Urutan basa-basa ini menentukan kode genetik.  Sel darah adalah komponen darah yang penting dan memainkan peran penting dalam banyak fungsi tubuh.  Ada tiga jenis utama sel darah: sel darah merah, sel darah putih, dan keping darah. Sel darah merah membawa oksigen dari paru-paru ke jaringan tubuh dan karbon dioksida kembali ke paru-paru untuk dikeluarkan.  Sel darah putih adalah bagian dari sistem kekebalan dan membantu melawan infeksi.  Keping darah membantu membekukan darah. Sistem otot manusia adalah jaringan kompleks yang memungkinkan gerakan, menjaga postur, dan menghasilkan panas.  Ada tiga jenis otot: otot rangka, otot polos, dan otot jantung. Otot rangka adalah otot lurik yang melekat pada tulang dan bertanggung jawab untuk gerakan tubuh secara sadar.  Otot polos adalah otot tidak lurik yang ditemukan di dinding organ internal dan bertanggung jawab untuk gerakan tak sadar, seperti pencernaan.  Otot jantung adalah jenis otot khusus yang ditemukan di jantung.  Distrofi otot adalah sekelompok penyakit genetik yang menyebabkan kelemahan otot progresif dan hilangnya massa otot. Kerangka manusia adalah kerangka internal tubuh.  Ini terdiri dari 270 tulang saat lahir – jumlah ini berkurang menjadi sekitar 206 tulang pada masa dewasa setelah beberapa tulang menyatu – dan tulang rawan.  Kerangka memberikan dukungan struktural untuk tubuh, melindungi organ vital, dan memungkinkan gerakan.  Tulang adalah jaringan hidup yang terus menerus dipecah dan dibangun kembali.  Osteoporosis adalah suatu kondisi yang melemahkan tulang, meningkatkan risiko patah tulang.  Kulit adalah organ terbesar dalam tubuh dan bertindak sebagai penghalang pelindung antara tubuh dan lingkungan eksternal.  Ini terdiri dari tiga lapisan utama: epidermis, dermis, dan hipodermis.  Epidermis adalah lapisan terluar dan memberikan penghalang tahan air.  Dermis mengandung pembuluh darah, saraf, kelenjar keringat, dan folikel rambut.  Hipodermis adalah lapisan terdalam dan terdiri dari jaringan lemak dan jaringan ikat.  Kanker kulit adalah jenis kanker yang paling umum. Sistem limfatik adalah jaringan pembuluh dan kelenjar getah bening yang merupakan bagian dari sistem kekebalan dan membantu melindungi tubuh dari infeksi dan penyakit.  Ini mengangkut getah bening, cairan bening yang mengandung sel darah putih, ke seluruh tubuh. Kelenjar getah bening menyaring getah bening untuk menghilangkan bakteri, virus, dan zat asing lainnya.  Limfoma adalah jenis kanker yang berkembang di sistem limfatik.  Sistem endokrin adalah jaringan kelenjar yang menghasilkan hormon, pembawa pesan kimia yang mengatur berbagai fungsi tubuh.  Kelenjar utama sistem endokrin meliputi kelenjar pituitari, kelenjar tiroid, kelenjar paratiroid, kelenjar adrenal, pankreas, ovarium (pada wanita), dan testis (pada pria).  Hormon memainkan peran penting dalam pertumbuhan dan perkembangan, metabolisme, reproduksi, dan suasana hati.  Diabetes adalah penyakit kronis yang terjadi baik ketika pankreas tidak menghasilkan cukup insulin atau ketika tubuh tidak dapat secara efektif menggunakan insulin yang dihasilkannya.  Sistem pencernaan bertanggung jawab untuk memecah makanan menjadi nutrisi yang dapat diserap oleh tubuh.  Sistem ini terdiri dari mulut, kerongkongan, lambung, usus halus, usus besar, rektum, dan anus.  Penyakit radang usus (IBD) adalah sekelompok gangguan yang menyebabkan peradangan kronis pada saluran pencernaan.  Sistem urinaria, juga dikenal sebagai sistem ginjal, bertanggung jawab untuk menghilangkan limbah dari tubuh dalam bentuk urine.  Ginjal adalah organ utama sistem urinaria.  Mereka menyaring limbah dari darah dan menghasilkan urine.  Ureter membawa urine dari ginjal ke kandung kemih, tempat urine disimpan sampai dikeluarkan dari tubuh melalui uretra.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa dua bagian utama dari sistem saraf?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Otak dan saraf tepi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sistem saraf pusat dan sistem saraf tepi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sumsum tulang belakang dan saraf"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Otak dan sumsum tulang belakang"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Sistem saraf dibagi menjadi sistem saraf pusat (SSP) dan sistem saraf tepi (SST)."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Cedera tulang belakang selalu menyebabkan kelumpuhan total.",
+                    "correct_answer": false,
+                    "explanation": "Cedera tulang belakang dapat menyebabkan berbagai tingkat hilangnya sensasi dan gerakan, tergantung pada tingkat keparahan dan lokasi cedera."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama sel darah merah?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Melawan infeksi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Membekukan darah"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengangkut oksigen"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mencerna makanan"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Sel darah merah membawa oksigen dari paru-paru ke jaringan tubuh."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan jenis otot?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Otot rangka"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Otot polos"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Otot jantung"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Otot lurik"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Ada tiga jenis otot: otot rangka, otot polos, dan otot jantung. Otot lurik adalah nama lain untuk otot rangka."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama sistem limfatik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Memompa darah"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mencerna makanan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Membantu melindungi tubuh dari infeksi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menghasilkan hormon"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Sistem limfatik adalah bagian dari sistem kekebalan dan membantu melindungi tubuh dari infeksi dan penyakit."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sistem integumen, terdiri dari kulit, rambut, dan kuku, adalah organ terbesar dalam tubuh manusia. Ia berfungsi sebagai penghalang pelindung antara tubuh dan lingkungan eksternal, membantu mengatur suhu tubuh, dan memainkan peran dalam sintesis vitamin D. Kulit terdiri dari tiga lapisan utama: epidermis, dermis, dan hipodermis. Epidermis adalah lapisan terluar dan memberikan penghalang tahan air. Dermis mengandung pembuluh darah, saraf, kelenjar keringat, dan folikel rambut. Hipodermis, juga dikenal sebagai lapisan subkutan, sebagian besar terdiri dari jaringan lemak dan membantu melindungi tubuh dan mengatur suhu.  Psoriasis adalah penyakit kulit kronis yang menyebabkan sel-sel kulit menumpuk dengan cepat di permukaan kulit, yang mengakibatkan bercak-bercak merah bersisik yang gatal dan terkadang menyakitkan. DNA (asam deoksiribonukleat) membawa instruksi genetik untuk pengembangan dan fungsi semua organisme hidup.  Ia terdiri dari empat basa kimia: adenin (A), guanin (G), sitosin (C), dan timin (T). Urutan basa-basa ini menentukan informasi yang dibutuhkan untuk membangun dan memelihara suatu organisme.  DNA disusun dalam struktur yang disebut kromosom, yang terletak di dalam inti sel.  Gen adalah segmen DNA yang mengkode protein tertentu, yang melakukan berbagai fungsi dalam tubuh.  Mutasi DNA dapat menyebabkan perubahan protein yang dihasilkan, yang dapat menyebabkan penyakit genetik. Sel darah merah membawa oksigen dari paru-paru ke jaringan tubuh dan karbon dioksida kembali ke paru-paru untuk dikeluarkan.  Sel darah putih adalah bagian dari sistem kekebalan dan membantu melawan infeksi.  Keping darah membantu membekukan darah.  Sel darah diproduksi di sumsum tulang.  Anemia adalah suatu kondisi yang ditandai dengan kekurangan sel darah merah yang sehat atau hemoglobin, yang mengakibatkan berkurangnya kapasitas pembawa oksigen darah.  Leukemia adalah jenis kanker yang memengaruhi sel darah putih. Otot rangka melekat pada tulang dan bertanggung jawab untuk gerakan tubuh secara sadar.  Otot polos ditemukan di dinding organ internal dan bertanggung jawab untuk gerakan tak sadar, seperti pencernaan.  Otot jantung ditemukan di jantung dan memompa darah.  Distrofi otot adalah sekelompok penyakit genetik yang menyebabkan kelemahan otot progresif dan hilangnya massa otot.  Kerangka manusia, kerangka internal tubuh, terdiri dari tulang, tulang rawan, ligamen, dan tendon.  Ini memberikan dukungan struktural untuk tubuh, melindungi organ vital, memungkinkan gerakan, dan menghasilkan sel darah.  Tulang adalah jaringan ikat yang keras dan padat yang membentuk sebagian besar kerangka.  Tulang rawan adalah jaringan ikat yang fleksibel yang ditemukan di sendi dan bagian tubuh lainnya.  Ligamen menghubungkan tulang dengan tulang, dan tendon menghubungkan otot dengan tulang.  Arthritis adalah suatu kondisi yang menyebabkan peradangan pada sendi. Sistem endokrin adalah jaringan kelenjar yang menghasilkan dan melepaskan hormon, pembawa pesan kimia yang mengatur berbagai fungsi tubuh, termasuk metabolisme, pertumbuhan dan perkembangan, dan suasana hati.  Kelenjar utama sistem endokrin meliputi kelenjar pituitari, kelenjar tiroid, kelenjar paratiroid, kelenjar adrenal, pankreas, ovarium, dan testis.  Gangguan endokrin, seperti diabetes dan hipotiroidisme, dapat terjadi ketika kelenjar menghasilkan terlalu banyak atau terlalu sedikit hormon. Ginjal menyaring limbah dari darah dan memproduksi urine.  Mereka juga membantu mengatur keseimbangan cairan dan elektrolit dalam tubuh, serta tekanan darah.  Penyakit ginjal kronis (PGK) adalah kondisi di mana ginjal secara bertahap kehilangan fungsinya dari waktu ke waktu.  Hati adalah organ vital yang terletak di sisi kanan atas perut.  Ini melakukan berbagai fungsi penting, termasuk menyaring racun dari darah, menghasilkan empedu, menyimpan glukosa, dan menghasilkan protein darah.  Sirosis adalah suatu kondisi di mana jaringan parut menggantikan jaringan hati yang sehat.  Pankreas menghasilkan enzim pencernaan yang memecah makanan di usus halus dan hormon seperti insulin dan glukagon, yang mengatur kadar gula darah.  Diabetes adalah penyakit kronis yang memengaruhi kemampuan tubuh untuk mengatur kadar gula darah.  Paru-paru adalah organ utama sistem pernapasan dan bertanggung jawab untuk pertukaran gas antara udara dan darah.  Oksigen dihirup ke dalam paru-paru dan masuk ke aliran darah, sementara karbon dioksida, produk limbah metabolisme, dilepaskan dari darah dan dihembuskan.  Asma adalah penyakit pernapasan kronis yang menyebabkan peradangan dan penyempitan saluran udara di paru-paru.  Sistem limfatik adalah jaringan pembuluh dan organ yang membantu menjaga keseimbangan cairan dalam tubuh dan melawan infeksi.  Sistem ini mengangkut getah bening, cairan bening yang mengandung sel darah putih, ke seluruh tubuh.  Limfoma adalah jenis kanker yang berkembang di sistem limfatik.  Pembuluh getah bening membawa getah bening ke kelenjar getah bening, yang menyaring getah bening untuk menghilangkan bakteri, virus, dan zat asing lainnya.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama sistem integumen?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mencerna makanan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Melindungi tubuh dari lingkungan eksternal"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengangkut oksigen"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menyaring limbah dari darah"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Sistem integumen bertindak sebagai penghalang pelindung antara tubuh dan lingkungan eksternal."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "DNA disusun dalam struktur yang disebut kromosom.",
+                    "correct_answer": true,
+                    "explanation": "DNA dikemas ke dalam kromosom di dalam inti sel."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi sel darah putih?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengangkut oksigen"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Melawan infeksi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Membekukan darah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mencerna makanan"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Sel darah putih adalah bagian dari sistem kekebalan dan membantu melawan infeksi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan kelenjar endokrin?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kelenjar pituitari"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kelenjar tiroid"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kelenjar keringat"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kelenjar adrenal"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Kelenjar pituitari, kelenjar tiroid, dan kelenjar adrenal adalah bagian dari sistem endokrin."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama hati?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menyaring limbah dari darah"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mencerna makanan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Memompa darah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menghasilkan hormon"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Hati melakukan berbagai fungsi, termasuk menyaring racun dari darah."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sistem reproduksi manusia memungkinkan manusia untuk bereproduksi. Sistem reproduksi pria terdiri dari testis, yang menghasilkan sperma, dan penis. Sistem reproduksi wanita terdiri dari ovarium, yang menghasilkan sel telur, dan rahim, tempat janin berkembang.  Pembuahan terjadi ketika sperma membuahi sel telur, yang kemudian ditanamkan di dinding rahim. Kehamilan adalah periode di mana janin berkembang di dalam rahim wanita. DNA (asam deoksiribonukleat) adalah molekul yang membawa informasi genetik dalam semua organisme hidup.  Ini menentukan karakteristik organisme, seperti warna mata dan tinggi badan.  DNA terdiri dari dua untai yang membentuk heliks ganda.  Setiap untai terbuat dari nukleotida, yang terdiri dari gula, gugus fosfat, dan basa nitrogen. Ada empat basa nitrogen: adenin (A), timin (T), guanin (G), dan sitosin (C).  Urutan basa nitrogen menentukan kode genetik.  Mutasi adalah perubahan dalam urutan DNA. Sel darah merah membawa oksigen dari paru-paru ke jaringan tubuh, sedangkan sel darah putih adalah bagian dari sistem kekebalan dan membantu melawan infeksi.  Keping darah membantu dalam pembekuan darah.  Sel darah diproduksi di sumsum tulang.  Anemia adalah kondisi yang ditandai dengan kekurangan sel darah merah yang sehat.  Otot rangka melekat pada tulang dan bertanggung jawab untuk gerakan.  Otot polos ditemukan di dinding organ internal dan mengontrol gerakan tak sadar, seperti pencernaan.  Otot jantung ditemukan di jantung.  Distrofi otot adalah sekelompok penyakit genetik yang menyebabkan kelemahan otot. Kerangka manusia menyediakan dukungan dan struktur untuk tubuh.  Ini melindungi organ vital, seperti jantung dan paru-paru.  Tulang juga menghasilkan sel darah di sumsum tulang.  Osteoporosis adalah kondisi di mana tulang menjadi lemah dan rapuh.  Kulit adalah organ terbesar dalam tubuh manusia.  Ini melindungi tubuh dari lingkungan eksternal dan membantu mengatur suhu tubuh.  Kanker kulit adalah jenis kanker yang paling umum. Sistem limfatik membantu menjaga keseimbangan cairan dalam tubuh dan melawan infeksi.  Ini terdiri dari jaringan pembuluh dan organ yang disebut kelenjar getah bening, yang menyaring getah bening untuk menghilangkan bakteri, virus, dan zat asing lainnya.  Limfoma adalah kanker sistem limfatik.  Sistem endokrin menghasilkan hormon, yang merupakan pembawa pesan kimia yang mengatur berbagai fungsi tubuh.  Diabetes adalah penyakit yang memengaruhi kemampuan tubuh untuk memproses gula darah. Ginjal menyaring limbah dari darah dan menghasilkan urine.  Mereka juga membantu mengatur tekanan darah.  Penyakit ginjal kronis adalah suatu kondisi di mana ginjal secara bertahap kehilangan fungsinya. Hati menyaring racun dari darah, menghasilkan empedu, dan menyimpan glukosa.  Sirosis adalah kondisi di mana jaringan parut menggantikan jaringan hati yang sehat.  Pankreas menghasilkan enzim pencernaan dan hormon, termasuk insulin.  Diabetes adalah penyakit yang memengaruhi kadar gula darah. Paru-paru bertanggung jawab untuk pertukaran gas antara udara dan darah.  Asma adalah penyakit pernapasan kronis yang memengaruhi saluran udara di paru-paru.  Sistem pencernaan memecah makanan menjadi nutrisi.  Penyakit radang usus (IBD) menyebabkan peradangan kronis pada saluran pencernaan. Sistem urinaria menghilangkan limbah dari tubuh dalam bentuk urine.  Batu ginjal adalah endapan keras yang dapat terbentuk di ginjal.  Sistem saraf adalah jaringan komunikasi elektrokimia tubuh.  Multiple sclerosis (MS) adalah penyakit sistem saraf pusat.  Sistem integumen melindungi tubuh dari lingkungan eksternal.  Kulit adalah organ terbesar dalam tubuh. Kanker kulit adalah jenis kanker yang paling umum.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama sistem reproduksi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Memungkinkan manusia untuk bereproduksi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mencerna makanan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menyaring limbah dari darah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengatur fungsi tubuh melalui hormon"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Sistem reproduksi memungkinkan manusia untuk menghasilkan keturunan."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Mutasi adalah perubahan dalam urutan DNA.",
+                    "correct_answer": true,
+                    "explanation": "Mutasi dapat disebabkan oleh berbagai faktor, termasuk kesalahan selama replikasi DNA dan paparan mutagen lingkungan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama otot rangka?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengontrol gerakan tak sadar"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Memompa darah"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menghasilkan gerakan tubuh secara sadar"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mencerna makanan"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Otot rangka melekat pada tulang dan bertanggung jawab untuk gerakan tubuh secara sadar."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan bagian dari sistem pencernaan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Lambung"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Jantung"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Usus halus"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Paru-paru"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c"
+                    ],
+                    "explanation": "Lambung dan usus halus adalah bagian dari sistem pencernaan. Jantung adalah bagian dari sistem peredaran darah, dan paru-paru adalah bagian dari sistem pernapasan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama ginjal?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menghasilkan hormon"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menyaring limbah dari darah"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mencerna makanan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Memompa darah"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Ginjal menyaring limbah dari darah dan menghasilkan urine."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sistem saraf manusia adalah jaringan kompleks yang terdiri dari otak, sumsum tulang belakang, dan saraf. Sistem ini mengontrol dan mengkoordinasikan semua fungsi tubuh, dari bernapas dan berdetaknya jantung hingga berpikir dan merasakan. Neuron adalah sel-sel khusus yang mengirimkan sinyal listrik ke seluruh sistem saraf. Sinyal-sinyal ini memungkinkan kita untuk merasakan dunia di sekitar kita, berpikir, belajar, dan bergerak.  Multiple sclerosis (MS) adalah penyakit di mana sistem kekebalan tubuh menyerang selubung pelindung (mielin) yang menutupi serabut saraf, menyebabkan masalah komunikasi antara otak dan seluruh tubuh.  DNA adalah materi genetik yang membawa informasi untuk perkembangan dan fungsi semua organisme hidup.  Itu terbuat dari empat basa kimia: adenin (A), guanin (G), sitosin (C), dan timin (T). Urutan basa-basa ini menentukan informasi yang dibutuhkan untuk membangun dan memelihara organisme.  Gen adalah segmen DNA yang mengkode protein tertentu.  Sel darah merah membawa oksigen ke seluruh tubuh, sel darah putih melawan infeksi, dan keping darah membantu pembekuan darah.  Anemia adalah kondisi di mana ada kekurangan sel darah merah yang sehat. Sistem muskuloskeletal memungkinkan gerakan, postur, dan produksi panas tubuh. Otot rangka menggerakkan tulang, otot polos ditemukan di organ internal, dan otot jantung memompa darah. Distrofi otot adalah sekelompok penyakit genetik yang menyebabkan kelemahan otot.  Kerangka manusia memberikan dukungan dan struktur tubuh, melindungi organ, memungkinkan gerakan, dan memproduksi sel darah. Tulang adalah jaringan ikat yang keras, tulang rawan fleksibel, ligamen menghubungkan tulang, dan tendon menghubungkan otot ke tulang.  Osteoporosis menyebabkan tulang menjadi lemah. Kulit, organ terbesar, melindungi tubuh, mengatur suhu, dan mendeteksi sensasi. Kanker kulit adalah jenis kanker yang paling umum. Sistem limfatik, bagian dari sistem kekebalan tubuh, menjaga keseimbangan cairan dan melawan infeksi. Pembuluh limfatik membawa getah bening, yang disaring oleh kelenjar getah bening untuk menghilangkan zat asing. Limfoma adalah kanker sistem limfatik. Sistem endokrin menghasilkan hormon yang mengatur berbagai fungsi tubuh. Kelenjar utama termasuk kelenjar pituitari, tiroid, paratiroid, adrenal, pankreas, ovarium, dan testis. Diabetes memengaruhi pengolahan gula darah. Ginjal menyaring limbah dari darah dan menghasilkan urine, mengatur keseimbangan cairan dan tekanan darah. Penyakit ginjal kronis melibatkan hilangnya fungsi ginjal secara bertahap.  Hati menyaring racun, menghasilkan empedu, menyimpan glukosa, dan menghasilkan protein darah. Sirosis adalah jaringan parut pada hati. Pankreas menghasilkan enzim pencernaan dan hormon seperti insulin. Diabetes memengaruhi kadar gula darah. Paru-paru melakukan pertukaran gas, mengambil oksigen dan melepaskan karbon dioksida. Asma adalah penyakit pernapasan kronis. Sistem pencernaan memecah makanan menjadi nutrisi. Penyakit radang usus (IBD) menyebabkan peradangan pada saluran pencernaan.  Sistem urinaria menghilangkan limbah melalui urine. Batu ginjal adalah endapan keras di ginjal.  Sistem saraf mengontrol dan mengkoordinasikan fungsi tubuh. Multiple sclerosis (MS) adalah penyakit autoimun yang menyerang sistem saraf. Sistem integumen, termasuk kulit, rambut, dan kuku, melindungi tubuh. Kanker kulit adalah jenis kanker yang paling umum.  Sistem reproduksi memungkinkan reproduksi.  DNA membawa informasi genetik.  Sel darah membawa oksigen, melawan infeksi, dan membantu pembekuan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama neuron?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menyaring limbah dari darah"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mengirimkan sinyal listrik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menghasilkan hormon"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mencerna makanan"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Neuron adalah sel khusus yang mengirimkan sinyal listrik ke seluruh sistem saraf."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Multiple sclerosis (MS) adalah penyakit menular.",
+                    "correct_answer": false,
+                    "explanation": "MS adalah penyakit autoimun, bukan penyakit menular."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi sel darah putih?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengangkut oksigen"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Melawan infeksi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Membekukan darah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mencerna makanan"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Sel darah putih adalah bagian dari sistem kekebalan dan melawan infeksi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan fungsi kerangka manusia?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Memberikan dukungan struktural"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Melindungi organ vital"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menghasilkan sel darah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mencerna makanan"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Kerangka manusia memberikan dukungan, melindungi organ, memungkinkan gerakan, dan memproduksi sel darah."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama pankreas?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menyaring limbah dari darah"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menghasilkan enzim pencernaan dan hormon"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Memompa darah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengatur suhu tubuh"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Pankreas menghasilkan enzim pencernaan dan hormon seperti insulin."
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,1181 @@
+[
+    {
+        "context": "Kristal, dengan struktur atomnya yang teratur, terbentuk melalui proses geologi yang beragam.  Proses kristalisasi mineral melibatkan pendinginan dan pemadatan magma di bawah permukaan bumi. Mineral-mineral ini, seperti kuarsa dan feldspar, membentuk batuan beku yang menjadi dasar banyak bentang alam.  Lempeng tektonik,  fragmen kerak bumi dan mantel atas,  terus bergerak, bertabukan, dan bergeser satu sama lain.  Pergerakan ini menghasilkan gempa bumi, gunung berapi, dan palung laut yang membentuk permukaan bumi.  Iklim global dipengaruhi oleh berbagai faktor, termasuk sirkulasi atmosfer dan lautan, radiasi matahari, dan aktivitas manusia.  Perubahan iklim dapat menyebabkan kenaikan permukaan laut,  peristiwa cuaca ekstrem, dan perubahan pola curah hujan.  Pemahaman tentang geografi fisik sangat penting untuk mengelola sumber daya alam dan mengurangi dampak bencana alam. Mineral seperti emas, perak, dan tembaga terbentuk melalui proses hidrotermal, di mana air panas yang kaya mineral bersirkulasi melalui batuan.  Mineral-mineral ini sering ditemukan di dekat batas lempeng tektonik, di mana aktivitas vulkanik dan tektonik tinggi. Erosi, proses pelapukan dan pengangkutan batuan dan tanah oleh air, angin, atau es, membentuk bentang alam seperti lembah, ngarai, dan delta.  Proses erosi juga dapat menyebabkan degradasi lahan dan hilangnya kesuburan tanah.  Pemetaan geologi dan analisis data geospasial memungkinkan para ilmuwan untuk memahami struktur dan komposisi bumi, mengidentifikasi sumber daya mineral, dan memantau perubahan lingkungan.  Teknologi ini juga digunakan untuk perencanaan tata ruang dan pengelolaan bencana.  Iklim regional dipengaruhi oleh faktor-faktor lokal, seperti topografi, vegetasi, dan keberadaan badan air.  Iklim mikro, pada skala yang lebih kecil, dapat bervariasi secara signifikan bahkan dalam jarak yang dekat, dipengaruhi oleh faktor-faktor seperti paparan sinar matahari dan tutupan vegetasi. Siklus batuan menggambarkan transformasi batuan dari satu jenis ke jenis lainnya melalui proses geologi, seperti pelapukan, erosi, pengendapan, dan metamorfisme. Siklus ini menggambarkan interaksi dinamis antara proses internal dan eksternal bumi.  Pemahaman tentang siklus batuan penting untuk memahami pembentukan berbagai jenis batuan dan mineral.  Batuan sedimen, seperti batu pasir dan batu kapur, terbentuk dari akumulasi dan pemadatan sedimen, seperti pasir, kerikil, dan sisa-sisa organisme.  Batuan metamorf, seperti marmer dan batu tulis, terbentuk dari transformasi batuan yang sudah ada sebelumnya akibat tekanan dan suhu tinggi di bawah permukaan bumi.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Proses apa yang membentuk kristal?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pelapukan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kristalisasi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Erosi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sedimentasi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Kristal terbentuk melalui proses kristalisasi, yang melibatkan pendinginan dan pemadatan magma atau larutan."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Lempeng tektonik adalah fragmen kerak bumi yang diam.",
+                    "correct_answer": false,
+                    "explanation": "Lempeng tektonik terus bergerak, bertabrakan, dan bergeser, menyebabkan gempa bumi, gunung berapi, dan pembentukan palung laut."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang menggambarkan transformasi batuan dari satu jenis ke jenis lainnya?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Siklus air"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Siklus batuan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Siklus karbon"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Siklus nitrogen"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Siklus batuan menggambarkan transformasi batuan melalui proses geologi seperti pelapukan, erosi, dan metamorfisme."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Faktor apa saja yang memengaruhi iklim global?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Sirkulasi atmosfer"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Aktivitas vulkanik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Radiasi matahari"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Aktivitas manusia"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Sirkulasi atmosfer dan lautan, radiasi matahari, dan aktivitas manusia merupakan faktor-faktor yang memengaruhi iklim global."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Proses apa yang membentuk lembah, ngarai, dan delta?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kristalisasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Tektonik lempeng"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Erosi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Metamorfisme"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Erosi, proses pelapukan dan pengangkutan batuan dan tanah, membentuk lembah, ngarai, dan delta."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Pegunungan Himalaya,  yang merupakan pegunungan tertinggi di dunia, terbentuk dari tabrakan lempeng India dan Eurasia.  Proses pembentukan pegunungan ini masih berlangsung hingga saat ini, menyebabkan gempa bumi yang sering terjadi di wilayah tersebut.  Gurun Sahara, gurun terpanas di dunia,  terbentuk karena kombinasi faktor iklim dan geografis.  Sirkulasi atmosfer yang unik dan lokasinya di dekat garis balik utara menyebabkan curah hujan yang sangat rendah dan suhu yang ekstrem.  Sungai Amazon, sungai terpanjang di dunia,  membentang melintasi Amerika Selatan dan memainkan peran penting dalam siklus air global.  Hutan hujan Amazon, yang merupakan hutan hujan tropis terbesar di dunia,  memiliki keanekaragaman hayati yang luar biasa dan menyerap karbon dioksida dalam jumlah besar,  membantu mengurangi perubahan iklim.  Fenomena cuaca El Niño dan La Niña,  yang terjadi di Samudra Pasifik tropis,  dapat memengaruhi pola cuaca global. El Niño menyebabkan kekeringan di beberapa wilayah dan banjir di wilayah lain,  sementara La Niña biasanya memiliki efek sebaliknya. Arsitektur batuan sedimen di Grand Canyon,  Amerika Serikat,  mengungkapkan sejarah geologi bumi selama jutaan tahun.  Lapisan-lapisan batuan yang berbeda warna dan tekstur merekam perubahan lingkungan dan iklim di masa lalu.  Pembentukan delta Sungai Nil di Mesir dipengaruhi oleh proses erosi,  transportasi sedimen, dan pengendapan.  Delta ini merupakan daerah pertanian yang subur dan mendukung populasi manusia yang besar.  Gletser,  massa es yang besar dan bergerak perlahan,  terbentuk di daerah yang bersuhu rendah dan akumulasi salju melebihi pencairannya.  Pergerakan gletser dapat membentuk lembah,  danau, dan fjord.  Gletser juga menyimpan air tawar dalam jumlah besar dan berperan penting dalam siklus air.  Pemahaman tentang dinamika gletser sangat penting untuk mengelola sumber daya air dan memprediksi dampak perubahan iklim.  Gempa bumi terjadi akibat pergerakan lempeng tektonik, yang melepaskan energi dalam bentuk gelombang seismik.  Kekuatan gempa bumi diukur dengan skala Richter.  Gempa bumi dapat menyebabkan kerusakan yang signifikan pada infrastruktur dan hilangnya nyawa manusia.  Tsunami,  gelombang laut besar yang disebabkan oleh gempa bumi bawah laut atau letusan gunung berapi,  dapat menimbulkan ancaman yang dahsyat bagi wilayah pesisir.  Pemahaman tentang proses tektonik dan sistem peringatan dini sangat penting untuk mengurangi dampak bencana alam ini.  Gunung berapi terbentuk di batas lempeng tektonik atau di atas titik panas mantel, di mana magma naik ke permukaan bumi.  Letusan gunung berapi dapat melepaskan lava, abu vulkanik, dan gas ke atmosfer, memengaruhi iklim global dan lingkungan sekitar.  Studi tentang gunung berapi membantu kita memahami proses internal bumi dan memprediksi letusan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Pegunungan apa yang tertinggi di dunia dan bagaimana terbentuk?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pegunungan Andes, tabrakan lempeng Amerika Selatan dan Nazca"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pegunungan Himalaya, tabrakan lempeng India dan Eurasia"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pegunungan Alpen, tabrakan lempeng Afrika dan Eurasia"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pegunungan Rocky, tabrakan lempeng Pasifik dan Amerika Utara"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Pegunungan Himalaya adalah yang tertinggi di dunia dan terbentuk dari tabrakan lempeng India dan Eurasia."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Gurun Sahara terbentuk karena kurangnya vegetasi.",
+                    "correct_answer": false,
+                    "explanation": "Meskipun kurangnya vegetasi berperan, Gurun Sahara terbentuk terutama karena kombinasi faktor iklim dan geografis, termasuk sirkulasi atmosfer dan lokasinya."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Fenomena cuaca apa yang terjadi di Samudra Pasifik tropis dan memengaruhi pola cuaca global?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Monsun"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Siklon tropis"
+                        },
+                        {
+                            "id": "c",
+                            "text": "El Niño dan La Niña"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Badai salju"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "El Niño dan La Niña adalah fenomena cuaca yang terjadi di Samudra Pasifik tropis dan dapat memengaruhi pola cuaca global."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja yang dilepaskan oleh letusan gunung berapi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Lava"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Abu vulkanik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Gas"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Air"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Letusan gunung berapi dapat melepaskan lava, abu vulkanik, dan gas ke atmosfer."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang membentuk lembah, danau, dan fjord akibat pergerakannya?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Sungai"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Gletser"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Angin"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Hujan"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Pergerakan gletser dapat membentuk lembah, danau, dan fjord."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Karst, topografi yang terbentuk oleh pelarutan batuan seperti batu gamping, dolomit, dan gipsum, dicirikan oleh gua, lubang runtuhan, sungai bawah tanah, dan mata air.  Proses pelarutan ini dipengaruhi oleh faktor iklim,  kualitas air, dan jenis batuan.  Wilayah karst seringkali memiliki sumber daya air yang unik dan ekosistem yang rentan.  Peta topografi digunakan untuk merepresentasikan fitur permukaan bumi, seperti ketinggian, kemiringan, dan bentuk lahan.  Peta ini menggunakan garis kontur untuk menghubungkan titik-titik dengan ketinggian yang sama,  memungkinkan visualisasi tiga dimensi dari medan.  Sistem Informasi Geografis (SIG)  memungkinkan integrasi, analisis, dan visualisasi data geospasial untuk memahami pola dan hubungan geografis.  SIG digunakan dalam berbagai aplikasi,  termasuk pemetaan sumber daya alam, perencanaan tata ruang, dan pengelolaan bencana.  Siklus hidrologi menggambarkan pergerakan air di bumi, termasuk presipitasi, evaporasi, transpirasi, infiltrasi, dan limpasan.  Siklus ini dipengaruhi oleh faktor iklim, topografi, dan penggunaan lahan.  Pemahaman tentang siklus hidrologi sangat penting untuk mengelola sumber daya air dan memprediksi banjir dan kekeringan.  Mineral ekonomis, seperti batubara, minyak bumi, dan gas alam, terbentuk dari sisa-sisa organisme yang terkubur dan terkompresi selama jutaan tahun. Eksploitasi sumber daya ini memiliki dampak lingkungan yang signifikan dan memerlukan pengelolaan yang berkelanjutan.  Erosi tanah, proses hilangnya lapisan atas tanah yang subur akibat angin atau air, dapat menyebabkan degradasi lahan dan penurunan produktivitas pertanian.  Praktik konservasi tanah, seperti terasering dan penanaman pohon,  dapat membantu mengurangi erosi dan menjaga kesuburan tanah.  Biogeografi mempelajari distribusi organisme hidup di bumi dan faktor-faktor yang memengaruhinya,  seperti iklim, vegetasi, dan sejarah geologi.  Bioma,  komunitas ekologis utama yang diklasifikasikan berdasarkan vegetasi dominan,  merefleksikan adaptasi organisme terhadap lingkungan mereka. Hutan hujan tropis dicirikan oleh curah hujan yang tinggi, suhu yang hangat, dan keanekaragaman hayati yang tinggi. Gurun dicirikan oleh curah hujan yang rendah, suhu yang ekstrem, dan vegetasi yang jarang.  Tundra dicirikan oleh suhu yang sangat rendah, permafrost, dan vegetasi yang pendek dan tahan beku.  Sabana dicirikan oleh padang rumput yang luas dengan pohon-pohon yang tersebar dan iklim tropis atau subtropis.  Taiga dicirikan oleh hutan konifer yang luas dan iklim subarktik yang dingin.  Setiap bioma memiliki karakteristik unik dan mendukung berbagai spesies tumbuhan dan hewan yang beradaptasi dengan kondisi lingkungannya.  Pemahaman tentang bioma penting untuk konservasi keanekaragaman hayati dan pengelolaan ekosistem.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Topografi apa yang terbentuk oleh pelarutan batuan seperti batu gamping?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Karst"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Delta"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Gurun"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pegunungan"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Karst adalah topografi yang terbentuk oleh pelarutan batuan seperti batu gamping, dolomit, dan gipsum."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Peta topografi menggunakan garis kontur untuk menunjukkan perbedaan suhu.",
+                    "correct_answer": false,
+                    "explanation": "Garis kontur pada peta topografi menghubungkan titik-titik dengan ketinggian yang sama, bukan suhu."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa kepanjangan dari SIG?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Sistem Informasi Geologi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sistem Informasi Geografis"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sistem Informasi Geofisika"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sistem Informasi Geodesi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "SIG adalah singkatan dari Sistem Informasi Geografis."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja contoh mineral ekonomis?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Batubara"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Minyak bumi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Emas"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Gas alam"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Batubara, minyak bumi, dan gas alam adalah contoh mineral ekonomis yang terbentuk dari sisa-sisa organisme."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bioma apa yang dicirikan oleh curah hujan yang tinggi dan keanekaragaman hayati yang tinggi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Gurun"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Tundra"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Hutan hujan tropis"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Taiga"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Hutan hujan tropis dicirikan oleh curah hujan yang tinggi, suhu yang hangat, dan keanekaragaman hayati yang tinggi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Gempa bumi, getaran atau guncangan yang terjadi di permukaan bumi akibat pelepasan energi dari dalam bumi, disebabkan oleh pergerakan lempeng tektonik.  Skala Richter digunakan untuk mengukur magnitudo gempa bumi.  Tsunami, gelombang laut besar yang dipicu oleh gempa bumi bawah laut, letusan gunung berapi, atau longsor bawah laut, dapat menyebabkan kerusakan yang luas di wilayah pesisir.  Sistem peringatan dini tsunami sangat penting untuk mengurangi dampak bencana ini. Siklus batuan, proses geologi yang terus-menerus mengubah batuan dari satu jenis ke jenis lainnya, melibatkan pelapukan, erosi, sedimentasi, pemadatan, dan metamorfisme.  Siklus ini menggambarkan interaksi dinamis antara proses internal dan eksternal bumi.  Pelapukan adalah proses pemecahan batuan menjadi partikel yang lebih kecil akibat pengaruh fisik, kimia, atau biologis. Erosi adalah proses pengangkutan material batuan yang telah lapuk oleh air, angin, es, atau gravitasi.  Sedimentasi adalah proses pengendapan material batuan yang tererosi di suatu tempat.  Pemadatan adalah proses pemadatan sedimen menjadi batuan sedimen.  Metamorfisme adalah proses perubahan batuan yang sudah ada akibat tekanan dan suhu tinggi.  Mineral adalah zat padat anorganik yang terjadi secara alami dengan komposisi kimia dan struktur kristal yang spesifik.  Mineral terbentuk melalui proses geologi yang beragam, termasuk kristalisasi dari magma, pengendapan dari larutan, dan metamorfisme.  Identifikasi mineral didasarkan pada sifat fisik, seperti warna, kilap, kekerasan, dan bentuk kristal.  Batuan beku terbentuk dari pendinginan dan kristalisasi magma atau lava.  Contoh batuan beku termasuk granit, basal, dan obsidian. Batuan sedimen terbentuk dari akumulasi dan pemadatan sedimen.  Contoh batuan sedimen termasuk batu pasir, batu kapur, dan konglomerat.  Batuan metamorf terbentuk dari transformasi batuan yang sudah ada akibat tekanan dan suhu tinggi.  Contoh batuan metamorf termasuk marmer, batu tulis, dan gneis.  Pemahaman tentang jenis-jenis batuan dan mineral sangat penting untuk memahami proses geologi dan sumber daya bumi.  Tanah adalah lapisan terluar kerak bumi yang terdiri dari bahan organik, mineral, air, udara, dan organisme hidup.  Pembentukan tanah dipengaruhi oleh faktor-faktor seperti iklim,  topografi,  bahan induk, dan waktu.  Tanah merupakan sumber daya alam yang penting untuk pertanian, kehutanan, dan ekosistem.  Erosi tanah, hilangnya lapisan atas tanah yang subur akibat angin atau air,  dapat menyebabkan degradasi lahan dan mengurangi produktivitas pertanian.  Konservasi tanah, praktik pengelolaan tanah untuk mencegah erosi dan menjaga kesuburan,  sangat penting untuk keberlanjutan pertanian dan lingkungan.  Metode konservasi tanah meliputi terasering, penanaman pohon, rotasi tanaman, dan pertanian tanpa olah.  Pemahaman tentang tanah dan proses erosinya sangat penting untuk pengelolaan lahan yang berkelanjutan.  Polusi tanah, kontaminasi tanah oleh polutan seperti logam berat, pestisida, dan limbah industri, dapat berdampak negatif pada kesehatan manusia dan lingkungan.  Remediasi tanah, proses membersihkan tanah yang terkontaminasi,  sangat penting untuk memulihkan kualitas tanah dan mencegah penyebaran polutan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang digunakan untuk mengukur magnitudo gempa bumi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Skala Mercalli"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Skala Richter"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Skala Fujita"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Skala Saffir-Simpson"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Skala Richter digunakan untuk mengukur magnitudo gempa bumi."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Tsunami hanya disebabkan oleh gempa bumi.",
+                    "correct_answer": false,
+                    "explanation": "Tsunami dapat dipicu oleh gempa bumi bawah laut, letusan gunung berapi, atau longsor bawah laut."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Proses apa yang mengubah batuan yang sudah ada akibat tekanan dan suhu tinggi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pelapukan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Erosi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Metamorfisme"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sedimentasi"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Metamorfisme adalah proses perubahan batuan yang sudah ada akibat tekanan dan suhu tinggi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja contoh batuan sedimen?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Granit"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Batu pasir"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Batu kapur"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Marmer"
+                        }
+                    ],
+                    "correct_answer": [
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Batu pasir dan batu kapur adalah contoh batuan sedimen."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan erosi tanah?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pembentukan tanah"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Hilangnya lapisan atas tanah yang subur"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kontaminasi tanah oleh polutan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pembersihan tanah yang terkontaminasi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Erosi tanah adalah hilangnya lapisan atas tanah yang subur akibat angin atau air."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Delta sungai terbentuk di muara sungai, di mana sungai bertemu dengan badan air yang lebih besar seperti laut atau danau.  Proses pembentukan delta melibatkan pengendapan sedimen yang dibawa oleh sungai, yang terakumulasi seiring waktu dan membentuk daratan baru.  Bentuk dan ukuran delta dipengaruhi oleh faktor-faktor seperti volume sedimen, arus air, dan pasang surut.  Delta seringkali merupakan daerah yang subur dan mendukung pertanian, perikanan, dan permukiman manusia.  Sungai Nil di Mesir memiliki delta yang luas dan subur, yang telah mendukung peradaban manusia selama ribuan tahun.  Pegunungan terbentuk melalui proses tektonik, di mana lempeng-lempeng bumi bertabrakan, bergeser, atau saling menjauh.  Tabrakan lempeng benua dapat menghasilkan pegunungan lipatan, seperti Himalaya.  Pergeseran lempeng dapat menghasilkan patahan dan pegunungan patahan, seperti Pegunungan San Andreas.  Aktivitas vulkanik juga dapat membentuk pegunungan berapi, seperti Gunung Fuji.  Pegunungan memengaruhi iklim regional dengan menciptakan penghalang bagi angin dan awan, serta memengaruhi pola curah hujan.  Gurun adalah wilayah yang menerima curah hujan yang sangat sedikit.  Gurun dapat berupa gurun panas, seperti Gurun Sahara, atau gurun dingin, seperti Gurun Gobi.  Kurangnya vegetasi di gurun membuat tanah rentan terhadap erosi angin.  Adaptasi tumbuhan dan hewan gurun memungkinkan mereka untuk bertahan hidup di lingkungan yang keras ini.  Unta, misalnya, dapat menyimpan air dalam jumlah besar di punuk mereka, dan kaktus memiliki daun yang dimodifikasi menjadi duri untuk mengurangi kehilangan air.  Pesisir adalah daerah pertemuan antara daratan dan laut.  Bentuk lahan pesisir, seperti pantai, tebing, dan laguna, dibentuk oleh proses erosi, sedimentasi, dan aktivitas gelombang.  Ekosistem pesisir, seperti hutan bakau dan terumbu karang,  memiliki keanekaragaman hayati yang tinggi dan menyediakan habitat bagi berbagai spesies tumbuhan dan hewan.  Kenaikan permukaan laut, yang disebabkan oleh perubahan iklim, mengancam ekosistem pesisir dan permukiman manusia di daerah pesisir.  Hutan hujan tropis adalah bioma yang dicirikan oleh curah hujan yang tinggi, suhu yang hangat, dan keanekaragaman hayati yang sangat tinggi.  Hutan hujan tropis ditemukan di dekat khatulistiwa dan merupakan rumah bagi lebih dari setengah spesies tumbuhan dan hewan di dunia.  Deforestasi, pembukaan hutan untuk pertanian dan penggunaan lahan lainnya, merupakan ancaman serius bagi hutan hujan tropis dan keanekaragaman hayatinya. Hutan hujan Amazon, yang merupakan hutan hujan tropis terbesar di dunia, memainkan peran penting dalam siklus air dan iklim global.  Konservasi hutan hujan tropis sangat penting untuk menjaga keseimbangan ekosistem bumi.  Wilayah kutub, Arktik dan Antartika, dicirikan oleh suhu yang sangat rendah, es, dan salju.  Ekosistem kutub, seperti tundra dan lautan es,  merupakan rumah bagi spesies yang beradaptasi dengan kondisi lingkungan yang ekstrem. Beruang kutub, misalnya, memiliki lapisan lemak tebal dan bulu yang lebat untuk melindungi mereka dari dingin. Perubahan iklim menyebabkan pencairan es di wilayah kutub, yang mengancam habitat hewan kutub dan menyebabkan kenaikan permukaan laut.  Pemahaman tentang geografi wilayah kutub sangat penting untuk mengelola sumber daya alam dan melindungi lingkungan yang unik ini.  Pemetaan geologi dan analisis data geospasial memungkinkan para ilmuwan untuk memahami struktur dan komposisi bumi, mengidentifikasi sumber daya mineral, dan memantau perubahan lingkungan.  Teknologi ini juga digunakan untuk perencanaan tata ruang dan pengelolaan bencana.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Di manakah delta sungai terbentuk?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Hulu sungai"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Muara sungai"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Tengah sungai"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Dasar sungai"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Delta sungai terbentuk di muara sungai, di mana sungai bertemu dengan badan air yang lebih besar."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Gurun selalu panas.",
+                    "correct_answer": false,
+                    "explanation": "Gurun dapat berupa gurun panas atau gurun dingin, tergantung pada lokasinya dan faktor iklim lainnya."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang mengancam ekosistem pesisir?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kenaikan permukaan laut"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Penurunan permukaan laut"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Peningkatan salinitas air laut"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Penurunan salinitas air laut"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Kenaikan permukaan laut, yang disebabkan oleh perubahan iklim, mengancam ekosistem pesisir."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja contoh pegunungan lipatan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Himalaya"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pegunungan San Andreas"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pegunungan Alpen"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Gunung Fuji"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c"
+                    ],
+                    "explanation": "Himalaya dan Alpen adalah contoh pegunungan lipatan yang terbentuk dari tabrakan lempeng benua."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Bioma apa yang dicirikan oleh curah hujan yang tinggi, suhu hangat, dan keanekaragaman hayati yang tinggi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Gurun"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Tundra"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Hutan hujan tropis"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Taiga"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Hutan hujan tropis dicirikan oleh curah hujan yang tinggi, suhu yang hangat, dan keanekaragaman hayati yang sangat tinggi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Siklus batuan adalah proses geologi yang menggambarkan transformasi batuan dari satu jenis ke jenis lainnya melalui proses pelapukan, erosi, sedimentasi, dan metamorfisme. Pelapukan mengacu pada proses disintegrasi dan dekomposisi batuan di permukaan bumi akibat pengaruh atmosfer, hidrosfer, dan biosfer.  Erosi adalah proses pengangkutan material batuan yang telah lapuk oleh agen-agen seperti air, angin, es, atau gravitasi. Sedimentasi adalah proses pengendapan material batuan yang tererosi di suatu tempat, biasanya di dasar laut, danau, atau sungai.  Lempeng tektonik adalah teori geologi yang menjelaskan pergerakan dan interaksi lempeng-lempeng yang membentuk kerak bumi.  Pergerakan lempeng tektonik dapat menyebabkan gempa bumi, letusan gunung berapi, dan pembentukan pegunungan.  Batas lempeng konvergen terjadi ketika dua lempeng bertabrakan, batas lempeng divergen terjadi ketika dua lempeng saling menjauh, dan batas lempeng transform terjadi ketika dua lempeng bergeser satu sama lain. Gempa bumi adalah getaran atau guncangan yang terjadi di permukaan bumi akibat pelepasan energi dari dalam bumi.  Skala Richter digunakan untuk mengukur magnitudo gempa bumi.  Tsunami adalah gelombang laut besar yang dipicu oleh gempa bumi bawah laut, letusan gunung berapi, atau longsor bawah laut.  Sistem Informasi Geografis (SIG) adalah sistem komputer yang digunakan untuk menyimpan, mengelola, menganalisis, dan menampilkan data geospasial.  SIG digunakan dalam berbagai aplikasi, termasuk pemetaan, perencanaan tata ruang, dan pengelolaan sumber daya alam.  Data geospasial dapat berupa data vektor, yang merepresentasikan fitur geografis sebagai titik, garis, atau poligon, atau data raster, yang merepresentasikan fitur geografis sebagai grid sel.  Vulkanisme adalah proses keluarnya magma dari dalam bumi ke permukaan bumi.  Magma yang mencapai permukaan bumi disebut lava.  Letusan gunung berapi dapat berupa letusan eksplosif, yang melepaskan abu vulkanik dan gas ke atmosfer, atau letusan efusif, yang melepaskan lava yang mengalir.  Gunung berapi terbentuk di batas lempeng tektonik atau di atas titik panas mantel.  Iklim adalah kondisi rata-rata cuaca di suatu wilayah dalam jangka waktu yang lama.  Iklim dipengaruhi oleh faktor-faktor seperti lintang, ketinggian, jarak dari laut, dan arus laut.  Perubahan iklim mengacu pada perubahan jangka panjang dalam pola cuaca global, yang disebabkan oleh peningkatan konsentrasi gas rumah kaca di atmosfer.  Dampak perubahan iklim termasuk kenaikan permukaan laut, peningkatan frekuensi dan intensitas peristiwa cuaca ekstrem, dan perubahan pola curah hujan.  Mitigasi perubahan iklim melibatkan upaya untuk mengurangi emisi gas rumah kaca, sementara adaptasi perubahan iklim melibatkan upaya untuk menyesuaikan diri dengan dampak perubahan iklim.  Pemetaan tanah adalah proses mengidentifikasi dan memetakan berbagai jenis tanah di suatu wilayah.  Jenis tanah diklasifikasikan berdasarkan sifat fisik dan kimianya, seperti tekstur, struktur, pH, dan kandungan bahan organik.  Peta tanah digunakan dalam pertanian, kehutanan, dan perencanaan tata ruang.  Erosi tanah adalah proses hilangnya lapisan atas tanah yang subur akibat angin atau air.  Konservasi tanah adalah praktik pengelolaan tanah untuk mencegah erosi dan menjaga kesuburan.  Metode konservasi tanah meliputi terasering, penanaman pohon, rotasi tanaman, dan pertanian tanpa olah.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan siklus batuan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Proses pembentukan batuan dari magma"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Proses transformasi batuan dari satu jenis ke jenis lainnya"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Proses pelapukan batuan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Proses pengendapan sedimen"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Siklus batuan adalah proses geologi yang menggambarkan transformasi batuan dari satu jenis ke jenis lainnya."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Lempeng tektonik adalah teori yang menjelaskan pergerakan benua.",
+                    "correct_answer": true,
+                    "explanation": "Lempeng tektonik adalah teori geologi yang menjelaskan pergerakan dan interaksi lempeng-lempeng yang membentuk kerak bumi, termasuk benua."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang digunakan untuk mengukur magnitudo gempa bumi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Skala Mercalli"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Skala Richter"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Skala Fujita"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Skala Saffir-Simpson"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Skala Richter digunakan untuk mengukur magnitudo gempa bumi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja komponen Sistem Informasi Geografis (SIG)?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Perangkat keras"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Perangkat lunak"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Data"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Metode"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "SIG terdiri dari perangkat keras, perangkat lunak, data, metode, dan orang."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan vulkanisme?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Proses pembentukan batuan beku"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Proses keluarnya magma dari dalam bumi ke permukaan bumi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Proses pembentukan pegunungan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Proses pelapukan batuan"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Vulkanisme adalah proses keluarnya magma dari dalam bumi ke permukaan bumi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Atmosfer bumi adalah lapisan gas yang mengelilingi planet kita,  terdiri dari berbagai gas seperti nitrogen, oksigen, argon, karbon dioksida, dan uap air.  Atmosfer melindungi kehidupan di bumi dengan menyerap radiasi ultraviolet yang berbahaya dari matahari dan menjaga suhu planet tetap stabil.  Lapisan-lapisan atmosfer meliputi troposfer, stratosfer, mesosfer, termosfer, dan eksosfer.  Cuaca dan iklim dipengaruhi oleh interaksi antara atmosfer, lautan, dan daratan.  Pola cuaca jangka pendek, seperti hujan, angin, dan suhu,  disebut cuaca.  Pola cuaca jangka panjang, yang berlangsung selama beberapa dekade atau lebih, disebut iklim.  Perubahan iklim mengacu pada perubahan jangka panjang dalam pola cuaca global, yang disebabkan oleh aktivitas manusia seperti pembakaran bahan bakar fosil.  Dampak perubahan iklim termasuk pemanasan global, kenaikan permukaan laut, dan peningkatan frekuensi dan intensitas peristiwa cuaca ekstrem.  Siklus hidrologi, atau siklus air, adalah proses pergerakan air di bumi,  meliputi evaporasi, transpirasi, kondensasi, presipitasi, infiltrasi, dan limpasan.  Evaporasi adalah proses perubahan air dari cair menjadi gas.  Transpirasi adalah proses pelepasan uap air dari tumbuhan ke atmosfer. Kondensasi adalah proses perubahan uap air menjadi cair.  Presipitasi adalah jatuhnya air dari atmosfer ke permukaan bumi dalam bentuk hujan, salju, hujan es, atau hujan beku.  Infiltrasi adalah proses meresapnya air ke dalam tanah.  Limpasan adalah aliran air di atas permukaan tanah.  Hidrologi adalah ilmu yang mempelajari air di bumi,  termasuk distribusinya, pergerakannya, dan kualitasnya.  Sumber daya air, seperti sungai, danau, dan air tanah,  sangat penting untuk kehidupan manusia dan ekosistem.  Pengelolaan sumber daya air yang berkelanjutan sangat penting untuk memastikan ketersediaan air bersih untuk generasi mendatang.  Bioma adalah komunitas ekologis utama yang diklasifikasikan berdasarkan vegetasi dominan.  Bioma terestrial utama meliputi hutan hujan tropis, gurun, padang rumput, hutan gugur beriklim sedang, taiga, dan tundra.  Bioma akuatik utama meliputi lautan, danau, dan sungai. Setiap bioma memiliki karakteristik iklim, tanah, dan organisme hidup yang unik.  Ekosistem adalah komunitas organisme hidup dan lingkungan fisiknya yang berinteraksi satu sama lain. Ekosistem dapat berupa ekosistem darat, seperti hutan dan padang rumput, atau ekosistem akuatik, seperti lautan dan danau.  Keanekaragaman hayati mengacu pada keragaman spesies hidup di bumi.  Keanekaragaman hayati sangat penting untuk menjaga keseimbangan ekosistem dan menyediakan jasa ekosistem, seperti penyerbukan tanaman dan penyediaan air bersih.  Konservasi keanekaragaman hayati sangat penting untuk memastikan keberlanjutan kehidupan di bumi.  Geografi fisik mempelajari bentang alam bumi,  termasuk pegunungan, lembah, sungai, danau, dan lautan. Geografi manusia mempelajari aktivitas manusia di bumi, termasuk populasi, permukiman, budaya, dan ekonomi.  Pemetaan adalah proses merepresentasikan permukaan bumi pada peta.  Peta digunakan untuk navigasi, perencanaan tata ruang, dan studi geografis.  Sistem Informasi Geografis (SIG) adalah sistem komputer yang digunakan untuk menyimpan, mengelola, menganalisis, dan menampilkan data geospasial.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama atmosfer bumi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menyediakan oksigen untuk bernapas"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Melindungi bumi dari meteor"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menyerap radiasi ultraviolet dan menjaga suhu planet"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Memantulkan cahaya matahari"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Atmosfer melindungi kehidupan dengan menyerap radiasi ultraviolet dan menjaga suhu planet tetap stabil."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Cuaca dan iklim adalah hal yang sama.",
+                    "correct_answer": false,
+                    "explanation": "Cuaca mengacu pada pola cuaca jangka pendek, sedangkan iklim mengacu pada pola cuaca jangka panjang."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan presipitasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Proses perubahan air dari cair menjadi gas"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Jatuhnya air dari atmosfer ke permukaan bumi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Proses meresapnya air ke dalam tanah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Aliran air di atas permukaan tanah"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Presipitasi adalah jatuhnya air dari atmosfer ke permukaan bumi dalam bentuk hujan, salju, hujan es, atau hujan beku."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja contoh bioma terestrial?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Hutan hujan tropis"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Gurun"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Lautan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Padang rumput"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Hutan hujan tropis, gurun, dan padang rumput adalah contoh bioma terestrial."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam geografi fisik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Aktivitas manusia di bumi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Bentang alam bumi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Populasi dan permukiman"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Budaya dan ekonomi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Geografi fisik mempelajari bentang alam bumi, termasuk pegunungan, lembah, sungai, danau, dan lautan."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Pelapukan batuan merupakan proses alami yang melibatkan pemecahan dan perubahan batuan di permukaan bumi.  Ada dua jenis utama pelapukan: pelapukan fisik dan pelapukan kimia.  Pelapukan fisik terjadi ketika batuan pecah menjadi potongan-potongan yang lebih kecil tanpa mengubah komposisi kimianya.  Contoh pelapukan fisik meliputi pembekuan dan pencairan air di celah batuan,  pemanasan dan pendinginan yang berulang,  serta aktivitas akar tumbuhan yang tumbuh di celah batuan. Pelapukan kimia terjadi ketika komposisi kimia batuan berubah akibat reaksi dengan air, oksigen, atau asam.  Contoh pelapukan kimia meliputi oksidasi mineral besi,  pelarutan batuan gamping oleh air hujan yang sedikit asam,  dan hidrolisis feldspar menjadi lempung.  Pelapukan batuan merupakan bagian penting dari siklus batuan dan berkontribusi pada pembentukan tanah.  Tanah terbentuk dari pelapukan batuan induk,  yang kemudian bercampur dengan bahan organik, air, udara, dan organisme hidup.  Jenis tanah yang terbentuk dipengaruhi oleh faktor-faktor seperti iklim, topografi, jenis batuan induk, dan waktu.  Tanah merupakan sumber daya alam yang penting untuk pertanian dan kehutanan.  Erosi tanah adalah proses hilangnya lapisan atas tanah yang subur akibat air, angin, atau aktivitas manusia.  Erosi tanah dapat menyebabkan degradasi lahan dan mengurangi produktivitas pertanian.  Praktik konservasi tanah, seperti terasering, penanaman pohon, dan rotasi tanaman,  dapat membantu mengurangi erosi tanah dan menjaga kesuburan tanah.  Pegunungan Himalaya, pegunungan tertinggi di dunia,  terbentuk akibat tabrakan lempeng India dan lempeng Eurasia.  Proses pembentukan pegunungan ini masih berlangsung hingga saat ini, menyebabkan gempa bumi yang sering terjadi di wilayah tersebut.  Pegunungan Alpen di Eropa juga terbentuk melalui proses yang sama,  yaitu tabrakan lempeng Afrika dan lempeng Eurasia.  Pegunungan memengaruhi iklim regional dengan menciptakan penghalang bagi angin dan awan, serta memengaruhi pola curah hujan.  Gurun Sahara, gurun terpanas di dunia,  terbentuk karena kombinasi faktor iklim dan geografis.  Sirkulasi atmosfer yang unik dan lokasinya di dekat garis balik utara menyebabkan curah hujan yang sangat rendah dan suhu yang ekstrem.  Gurun Gobi di Asia Tengah adalah gurun dingin yang terbentuk karena letaknya di bayangan hujan pegunungan Himalaya. Gurun memiliki keanekaragaman hayati yang rendah karena kondisi lingkungan yang keras.  Sungai Amazon, sungai terpanjang di dunia,  membentang melintasi Amerika Selatan dan memainkan peran penting dalam siklus air global.  Hutan hujan Amazon,  yang merupakan hutan hujan tropis terbesar di dunia,  memiliki keanekaragaman hayati yang sangat tinggi dan berperan penting dalam mengatur iklim global.  Sungai Nil di Afrika adalah sungai terpanjang kedua di dunia dan telah mendukung peradaban manusia selama ribuan tahun.  Delta sungai terbentuk di muara sungai,  di mana sungai bertemu dengan badan air yang lebih besar, seperti laut atau danau.  Delta sungai seringkali merupakan daerah yang subur dan mendukung pertanian, perikanan, dan permukiman manusia.  Delta Sungai Nil di Mesir dan delta Sungai Mississippi di Amerika Serikat adalah contoh delta sungai yang luas dan subur.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa dua jenis utama pelapukan batuan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pelapukan fisik dan pelapukan kimia"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pelapukan biologis dan pelapukan mekanik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pelapukan termal dan pelapukan hidrolik"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pelapukan glasial dan pelapukan angin"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Dua jenis utama pelapukan batuan adalah pelapukan fisik dan pelapukan kimia."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Pelapukan kimia mengubah komposisi kimia batuan.",
+                    "correct_answer": true,
+                    "explanation": "Pelapukan kimia melibatkan reaksi kimia yang mengubah komposisi kimia batuan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Bagaimana Pegunungan Himalaya terbentuk?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Aktivitas vulkanik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Tabrakan lempeng"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Erosi glasial"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pergerakan angin"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Pegunungan Himalaya terbentuk akibat tabrakan lempeng India dan lempeng Eurasia."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja faktor yang mempengaruhi pembentukan tanah?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Iklim"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Topografi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Jenis batuan induk"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Aktivitas manusia"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Faktor-faktor yang mempengaruhi pembentukan tanah meliputi iklim, topografi, jenis batuan induk, dan waktu."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang menyebabkan Gurun Sahara menjadi gurun terpanas di dunia?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Ketinggiannya yang tinggi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sirkulasi atmosfer yang unik dan lokasinya"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kedekatannya dengan kutub"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kelimpahan vegetasi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Gurun Sahara terpanas karena sirkulasi atmosfer yang unik dan lokasinya di dekat garis balik utara, yang menyebabkan curah hujan rendah dan suhu ekstrem."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Gempa bumi adalah getaran atau guncangan yang terjadi di permukaan bumi akibat pelepasan energi dari dalam bumi.  Energi ini dilepaskan ketika batuan di sepanjang patahan tiba-tiba pecah dan bergeser.  Sebagian besar gempa bumi terjadi di sepanjang batas lempeng tektonik,  tetapi gempa bumi juga dapat terjadi di dalam lempeng.  Magnitudo gempa bumi diukur menggunakan skala Richter,  yang merupakan skala logaritmik.  Setiap peningkatan satu angka pada skala Richter mewakili peningkatan sepuluh kali lipat dalam amplitudo gelombang seismik dan pelepasan energi sekitar 32 kali lipat.  Gempa bumi dapat menyebabkan kerusakan yang luas pada bangunan, infrastruktur, dan dapat memicu tsunami jika terjadi di bawah laut.  Tsunami adalah serangkaian gelombang laut besar yang disebabkan oleh perpindahan air yang tiba-tiba di dasar laut.  Perpindahan air ini dapat disebabkan oleh gempa bumi bawah laut, letusan gunung berapi, atau longsor bawah laut.  Tsunami dapat mencapai ketinggian puluhan meter dan menyebabkan kerusakan yang sangat besar di wilayah pesisir.  Sistem peringatan dini tsunami sangat penting untuk mengurangi risiko bencana ini.  Gunung berapi adalah lubang di permukaan bumi yang memungkinkan magma, abu vulkanik, dan gas keluar dari dalam bumi.  Letusan gunung berapi dapat berupa letusan eksplosif atau efusif,  tergantung pada viskositas magma dan kandungan gas.  Letusan eksplosif dapat melepaskan abu vulkanik dan gas dalam jumlah besar ke atmosfer,  yang dapat memengaruhi iklim global.  Letusan efusif menghasilkan aliran lava yang relatif lambat dan dapat membentuk bentang alam baru, seperti pulau vulkanik.  Gunung berapi sering ditemukan di sepanjang batas lempeng tektonik atau di atas titik panas mantel.  Vulkanisme merupakan bagian penting dari proses geologi bumi dan berkontribusi pada pembentukan batuan beku dan perubahan bentang alam.  Siklus hidrologi, atau siklus air,  menggambarkan pergerakan air yang terus-menerus di, di atas, dan di bawah permukaan bumi.  Proses utama dalam siklus hidrologi meliputi evaporasi, transpirasi, kondensasi, presipitasi, infiltrasi, dan limpasan. Evaporasi adalah proses perubahan air dari cair menjadi gas akibat panas matahari.  Transpirasi adalah proses pelepasan uap air dari tumbuhan ke atmosfer.  Kondensasi adalah proses perubahan uap air menjadi cair, membentuk awan. Presipitasi adalah jatuhnya air dari atmosfer ke permukaan bumi dalam bentuk hujan, salju, hujan es, atau hujan beku.  Infiltrasi adalah proses meresapnya air ke dalam tanah.  Limpasan adalah aliran air di atas permukaan tanah menuju sungai, danau, dan laut.  Siklus hidrologi sangat penting untuk kehidupan di bumi dan memengaruhi iklim, cuaca, dan ketersediaan air tawar.  Iklim global dipengaruhi oleh berbagai faktor, termasuk radiasi matahari, sirkulasi atmosfer dan lautan,  dan aktivitas manusia.  Radiasi matahari adalah sumber energi utama yang menggerakkan sistem iklim bumi.  Sirkulasi atmosfer dan lautan mendistribusikan panas dan kelembapan ke seluruh dunia. Aktivitas manusia,  terutama pembakaran bahan bakar fosil, telah meningkatkan konsentrasi gas rumah kaca di atmosfer,  menyebabkan pemanasan global dan perubahan iklim.  Dampak perubahan iklim meliputi kenaikan permukaan laut,  peningkatan frekuensi dan intensitas peristiwa cuaca ekstrem,  dan perubahan pola curah hujan.  Mitigasi dan adaptasi perubahan iklim merupakan tantangan global yang mendesak. Pelapukan batuan, baik pelapukan fisik maupun kimia, berperan penting dalam pembentukan tanah.  Tanah terbentuk dari pelapukan batuan induk,  yang kemudian bercampur dengan bahan organik, air, udara, dan organisme hidup.  Jenis tanah yang terbentuk dipengaruhi oleh faktor-faktor seperti iklim, topografi, jenis batuan induk, dan waktu. Erosi tanah, proses hilangnya lapisan atas tanah yang subur, merupakan masalah lingkungan yang serius dan dapat diperburuk oleh aktivitas manusia seperti deforestasi dan pertanian intensif. Konservasi tanah sangat penting untuk menjaga kesuburan tanah dan mencegah degradasi lahan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang menyebabkan gempa bumi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pergerakan lempeng tektonik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Letusan gunung berapi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Tsunami"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Badai"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Gempa bumi disebabkan oleh pergerakan lempeng tektonik."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Skala Richter mengukur intensitas gempa bumi.",
+                    "correct_answer": false,
+                    "explanation": "Skala Richter mengukur magnitudo gempa bumi, bukan intensitasnya."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan tsunami?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Gelombang badai"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Gelombang pasang"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Serangkaian gelombang laut besar yang disebabkan oleh perpindahan air di dasar laut"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Arus laut yang kuat"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Tsunami adalah serangkaian gelombang laut besar yang disebabkan oleh perpindahan air yang tiba-tiba di dasar laut."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja yang dilepaskan gunung berapi saat meletus?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Magma"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Abu vulkanik"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Gas"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Air"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Gunung berapi melepaskan magma, abu vulkanik, dan gas saat meletus."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Proses apa dalam siklus hidrologi yang melibatkan pelepasan uap air dari tumbuhan ke atmosfer?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Evaporasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Transpirasi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kondensasi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Presipitasi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Transpirasi adalah proses pelepasan uap air dari tumbuhan ke atmosfer."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Erosi adalah proses pengikisan dan pengangkutan material permukaan bumi oleh agen-agen seperti air, angin, es, atau gravitasi. Erosi air terjadi ketika air mengalir di atas permukaan tanah dan mengangkut partikel tanah. Erosi angin terjadi ketika angin bertiup dan mengangkut partikel tanah dan debu. Erosi es, atau glasial, terjadi ketika gletser bergerak dan mengikis batuan dan tanah. Erosi gravitasi terjadi ketika batuan dan tanah jatuh atau meluncur menuruni lereng. Erosi dapat menyebabkan degradasi lahan, hilangnya kesuburan tanah, dan sedimentasi di sungai dan danau. Praktik konservasi tanah, seperti terasering, penanaman pohon, dan rotasi tanaman, dapat membantu mengurangi erosi.  Peta topografi adalah peta yang menunjukkan fitur permukaan bumi, seperti ketinggian, kemiringan, dan bentuk lahan. Peta topografi menggunakan garis kontur untuk menghubungkan titik-titik dengan ketinggian yang sama, memungkinkan visualisasi tiga dimensi dari medan. Peta topografi digunakan dalam berbagai aplikasi, termasuk perencanaan tata ruang, konstruksi, dan rekreasi luar ruangan.  Sistem Informasi Geografis (SIG) adalah sistem komputer yang digunakan untuk menyimpan, mengelola, menganalisis, dan menampilkan data geospasial. SIG digunakan dalam berbagai aplikasi, termasuk pemetaan, perencanaan tata ruang, dan pengelolaan sumber daya alam. Data geospasial dapat berupa data vektor, yang merepresentasikan fitur geografis sebagai titik, garis, atau poligon, atau data raster, yang merepresentasikan fitur geografis sebagai grid sel.  Batas lempeng tektonik adalah batas antara dua atau lebih lempeng tektonik. Ada tiga jenis utama batas lempeng: konvergen, divergen, dan transform.  Batas konvergen terjadi ketika dua lempeng bertabrakan. Batas divergen terjadi ketika dua lempeng saling menjauh.  Batas transform terjadi ketika dua lempeng bergeser satu sama lain secara horizontal.  Aktivitas tektonik di batas lempeng dapat menyebabkan gempa bumi, letusan gunung berapi, dan pembentukan pegunungan.  Vulkanisme adalah proses keluarnya magma dari dalam bumi ke permukaan bumi. Magma yang mencapai permukaan disebut lava. Letusan gunung berapi dapat berupa letusan eksplosif, yang melepaskan abu vulkanik dan gas ke atmosfer, atau letusan efusif, yang melepaskan lava yang mengalir. Gunung berapi sering ditemukan di sepanjang batas lempeng tektonik atau di atas titik panas mantel.  Cuaca adalah kondisi atmosfer jangka pendek di suatu tempat tertentu, sedangkan iklim adalah kondisi rata-rata cuaca di suatu wilayah dalam jangka waktu yang lama. Cuaca dipengaruhi oleh faktor-faktor seperti suhu, kelembapan, tekanan udara, angin, dan curah hujan. Iklim dipengaruhi oleh faktor-faktor seperti lintang, ketinggian, jarak dari laut, dan arus laut. Perubahan iklim mengacu pada perubahan jangka panjang dalam pola cuaca global.  Bioma adalah komunitas ekologis utama yang diklasifikasikan berdasarkan vegetasi dominan. Bioma terestrial utama meliputi hutan hujan tropis, gurun, padang rumput, hutan gugur beriklim sedang, taiga, dan tundra. Bioma akuatik utama meliputi lautan, danau, dan sungai. Setiap bioma memiliki karakteristik iklim, tanah, dan organisme hidup yang unik.  Siklus batuan adalah proses geologi yang menggambarkan transformasi batuan dari satu jenis ke jenis lainnya melalui proses pelapukan, erosi, sedimentasi, dan metamorfisme. Pelapukan kimia melibatkan reaksi kimia yang mengubah komposisi mineral batuan. Pelapukan fisika adalah proses mekanis yang memecah batuan menjadi potongan yang lebih kecil tanpa mengubah komposisi kimianya. Erosi adalah proses pengangkutan material batuan yang telah lapuk. Metamorfisme adalah proses perubahan batuan yang sudah ada akibat tekanan dan suhu tinggi.  Sumber daya alam adalah sumber daya yang berasal dari bumi dan digunakan oleh manusia. Sumber daya alam dapat berupa sumber daya terbarukan, seperti energi surya dan angin, atau sumber daya tak terbarukan, seperti bahan bakar fosil. Pengelolaan sumber daya alam yang berkelanjutan sangat penting untuk memastikan ketersediaan sumber daya untuk generasi mendatang.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan erosi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Proses pembentukan batuan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Proses pelapukan batuan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Proses pengikisan dan pengangkutan material permukaan bumi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Proses pengendapan sedimen"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Erosi adalah proses pengikisan dan pengangkutan material permukaan bumi oleh agen-agen seperti air, angin, es, atau gravitasi."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Peta topografi menggunakan garis kontur untuk menunjukkan perbedaan suhu.",
+                    "correct_answer": false,
+                    "explanation": "Peta topografi menggunakan garis kontur untuk menghubungkan titik-titik dengan ketinggian yang sama."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa kepanjangan dari SIG?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Sistem Informasi Geologi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sistem Informasi Geografis"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sistem Informasi Geofisika"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sistem Informasi Geodesi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "SIG adalah singkatan dari Sistem Informasi Geografis."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja jenis batas lempeng tektonik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Konvergen"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Divergen"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Transform"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Statis"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Tiga jenis utama batas lempeng tektonik adalah konvergen, divergen, dan transform."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan vulkanisme?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Proses pembentukan batuan beku"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Proses keluarnya magma dari dalam bumi ke permukaan bumi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Proses pembentukan pegunungan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Proses pelapukan batuan"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Vulkanisme adalah proses keluarnya magma dari dalam bumi ke permukaan bumi."
+                }
+            ]
+        }
+    }
+]

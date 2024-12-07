@@ -1,0 +1,1225 @@
+[
+    {
+        "context": "Pondasi merupakan elemen struktur yang sangat penting dalam konstruksi bangunan.  Ia berfungsi untuk mentransfer beban dari struktur atas ke tanah di bawahnya.  Ada berbagai jenis pondasi, masing-masing cocok untuk kondisi tanah dan beban struktur yang berbeda.  Pemilihan jenis pondasi yang tepat sangat krusial untuk memastikan stabilitas dan keamanan bangunan. Faktor-faktor yang mempengaruhi pemilihan jenis pondasi meliputi kapasitas dukung tanah, jenis tanah, beban struktur, dan kondisi air tanah.  Beberapa jenis pondasi yang umum digunakan antara lain pondasi telapak, pondasi tiang pancang, pondasi rakit, dan pondasi sumuran. Perencanaan pondasi harus dilakukan dengan cermat oleh insinyur geoteknik untuk memastikan bahwa pondasi tersebut dapat menahan beban bangunan dengan aman.  Perhitungan yang teliti diperlukan untuk menentukan dimensi pondasi, kedalaman, dan tulangan yang diperlukan.  Material yang digunakan untuk pondasi haruslah berkualitas tinggi dan tahan terhadap kerusakan akibat air dan tanah.  Proses konstruksi pondasi harus diawasi dengan ketat untuk memastikan bahwa pekerjaan dilakukan sesuai dengan spesifikasi desain.  Pondasi yang dibangun dengan baik akan memberikan dukungan yang kuat dan tahan lama bagi bangunan.  Penting untuk melakukan investigasi tanah sebelum memulai konstruksi pondasi.  Investigasi tanah akan memberikan informasi tentang jenis tanah, kapasitas dukung tanah, dan kondisi air tanah.  Informasi ini sangat penting untuk menentukan jenis pondasi yang paling sesuai dan untuk merancang pondasi yang aman dan efisien.  Kesalahan dalam perencanaan atau konstruksi pondasi dapat menyebabkan masalah serius, seperti penurunan tanah, retak pada dinding, dan bahkan keruntuhan bangunan. Oleh karena itu, penting untuk memastikan bahwa pondasi dibangun dengan benar dan sesuai dengan standar yang berlaku.  Perawatan pondasi secara teratur juga penting untuk memastikan umur panjang dan kinerja pondasi.  Pemeriksaan rutin dan perbaikan yang diperlukan harus dilakukan untuk mencegah kerusakan lebih lanjut.  Pondasi yang terawat dengan baik akan memberikan dukungan yang andal bagi bangunan selama bertahun-tahun.  Dalam beberapa kasus, mungkin perlu untuk memperkuat pondasi yang ada jika beban bangunan meningkat atau jika terjadi perubahan kondisi tanah.  Metode penguatan pondasi dapat bervariasi tergantung pada jenis pondasi dan masalah spesifik yang dihadapi.  Konsultasi dengan insinyur geoteknik sangat dianjurkan untuk menentukan metode penguatan yang paling tepat.Pondasi yang kuat dan stabil sangat penting untuk keberhasilan setiap proyek konstruksi.  Dengan perencanaan dan konstruksi yang tepat, pondasi dapat memberikan dukungan yang andal dan tahan lama bagi bangunan, memastikan keamanan dan umur panjang struktur.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Sebuah bangunan bertingkat 5 akan dibangun di atas tanah lempung. Beban total bangunan diperkirakan 5000 ton.  Jika kapasitas dukung tanah lempung adalah 10 ton/m², berapakah luas minimum pondasi telapak yang dibutuhkan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "50 m²"
+                        },
+                        {
+                            "id": "b",
+                            "text": "100 m²"
+                        },
+                        {
+                            "id": "c",
+                            "text": "500 m²"
+                        },
+                        {
+                            "id": "d",
+                            "text": "1000 m²"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Luas minimum pondasi = Beban total / Kapasitas dukung tanah = 5000 ton / 10 ton/m² = 500 m²"
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Pondasi tiang pancang lebih cocok digunakan pada tanah lunak daripada pondasi telapak.",
+                    "correct_answer": true,
+                    "explanation": "Pondasi tiang pancang mentransfer beban ke lapisan tanah yang lebih keras di bawah tanah lunak, sedangkan pondasi telapak mungkin tidak memadai pada tanah lunak."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Sebuah pondasi telapak persegi dirancang untuk menahan beban 1000 kN.  Jika tegangan tanah yang diizinkan adalah 200 kPa, berapakah panjang sisi minimum pondasi tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "1 m"
+                        },
+                        {
+                            "id": "b",
+                            "text": "2.24 m"
+                        },
+                        {
+                            "id": "c",
+                            "text": "5 m"
+                        },
+                        {
+                            "id": "d",
+                            "text": "7.07 m"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Luas pondasi = Beban / Tegangan = 1000 kN / 200 kPa = 5 m².  Panjang sisi = √Luas = √5 m² = 2.24 m (dibulatkan ke atas)"
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Faktor apa saja yang perlu dipertimbangkan dalam pemilihan jenis pondasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kapasitas dukung tanah"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Jenis tanah"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Ketinggian bangunan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kondisi air tanah"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Anggaran proyek"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Kapasitas dukung tanah, jenis tanah, dan kondisi air tanah adalah faktor penting dalam pemilihan jenis pondasi. Ketinggian bangunan dan anggaran proyek juga berpengaruh, tetapi tidak sepenting tiga faktor pertama."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Sebuah pondasi tiang pancang terdiri dari 10 tiang, masing-masing dengan kapasitas dukung 200 ton.  Berapakah beban maksimum yang dapat ditahan oleh pondasi tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "200 ton"
+                        },
+                        {
+                            "id": "b",
+                            "text": "400 ton"
+                        },
+                        {
+                            "id": "c",
+                            "text": "1000 ton"
+                        },
+                        {
+                            "id": "d",
+                            "text": "2000 ton"
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Beban maksimum = Jumlah tiang * Kapasitas dukung per tiang = 10 * 200 ton = 2000 ton"
+                }
+            ]
+        }
+    },
+    {
+        "context": "Beton adalah material komposit yang terbuat dari agregat halus (pasir), agregat kasar (kerikil atau batu pecah), semen Portland, dan air.  Ini adalah salah satu material konstruksi yang paling banyak digunakan di dunia karena kekuatan, daya tahan, dan kemampuan adaptasinya.  Beton dapat dicetak menjadi berbagai bentuk dan ukuran, menjadikannya ideal untuk berbagai aplikasi konstruksi, dari pondasi dan dinding hingga jembatan dan bendungan.  Kekuatan beton ditentukan oleh rasio air-semen.  Rasio air-semen yang lebih rendah menghasilkan beton yang lebih kuat.  Beton juga dapat diperkuat dengan baja untuk meningkatkan kekuatan tariknya.  Beton bertulang adalah beton yang diperkuat dengan batang baja atau serat baja.  Beton pratekan adalah beton yang telah diberi tegangan tekan sebelum digunakan.  Beton pratekan lebih kuat dan lebih tahan lama daripada beton biasa. Ada berbagai jenis beton, masing-masing dengan sifat dan aplikasinya sendiri.  Beton mutu tinggi digunakan dalam konstruksi gedung pencakar langit dan struktur lainnya yang membutuhkan kekuatan tinggi.  Beton ringan digunakan dalam konstruksi yang membutuhkan berat yang lebih ringan.  Beton tahan sulfat digunakan dalam konstruksi yang terkena sulfat. Beton self-compacting concrete (SCC) adalah jenis beton yang dapat memadat sendiri tanpa memerlukan pemadatan mekanis.  Ini sangat berguna dalam konstruksi yang rumit atau sulit dijangkau.  Beton juga dapat dibuat dengan menggunakan bahan daur ulang, seperti beton daur ulang dan abu terbang, untuk mengurangi dampak lingkungannya.  Beton merupakan bahan konstruksi yang serbaguna dan tahan lama, tetapi penting untuk memilih jenis beton yang tepat untuk aplikasi spesifik.  Perawatan beton yang tepat juga penting untuk memastikan umur panjang dan kinerja struktur beton.  Beton harus dilindungi dari air dan bahan kimia yang dapat merusaknya.  Pemeriksaan dan pemeliharaan rutin harus dilakukan untuk mendeteksi dan memperbaiki kerusakan sedini mungkin.  Beton merupakan material konstruksi yang penting yang telah merevolusi industri konstruksi.  Dengan kemajuan teknologi, beton terus berkembang dan beradaptasi untuk memenuhi tuntutan konstruksi modern.  Beton merupakan material yang berkelanjutan dan dapat didaur ulang, menjadikannya pilihan yang bertanggung jawab terhadap lingkungan untuk konstruksi.  Beton juga merupakan material yang hemat biaya, menjadikannya pilihan yang menarik bagi banyak proyek konstruksi.  Beton dapat diproduksi secara lokal, mengurangi biaya transportasi dan emisi karbon dioksida.  Beton juga tahan api dan tahan terhadap hama, menjadikannya pilihan yang aman dan tahan lama untuk konstruksi.  Penting untuk bekerja sama dengan insinyur struktur dan profesional konstruksi yang berkualifikasi untuk memastikan bahwa beton digunakan dengan benar dan sesuai dengan standar yang berlaku.  Beton yang dirancang dan dibangun dengan benar dapat memberikan kinerja yang unggul dan umur panjang untuk setiap proyek konstruksi.  Penggunaan beton yang tepat dapat membantu menciptakan bangunan dan infrastruktur yang aman, tahan lama, dan berkelanjutan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Sebuah kolom beton berukuran 30 cm x 30 cm menahan beban aksial sebesar 1500 kN. Berapakah tegangan tekan pada kolom tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "16.67 MPa"
+                        },
+                        {
+                            "id": "b",
+                            "text": "1.67 MPa"
+                        },
+                        {
+                            "id": "c",
+                            "text": "166.7 kPa"
+                        },
+                        {
+                            "id": "d",
+                            "text": "16.67 kPa"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Tegangan = Beban / Luas = 1500 kN / (0.3 m * 0.3 m) = 16.67 MPa"
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Rasio air-semen yang lebih tinggi menghasilkan beton yang lebih kuat.",
+                    "correct_answer": false,
+                    "explanation": "Rasio air-semen yang lebih *rendah* menghasilkan beton yang lebih kuat karena lebih sedikit air berarti lebih sedikit pori-pori di dalam beton yang mengeras."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Berapa banyak semen yang dibutuhkan untuk membuat 1 m³ beton dengan rasio air-semen 0.5 dan  proporsi campuran 1:2:3 (semen:pasir:kerikil)?  Asumsikan kepadatan semen 1500 kg/m³.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "250 kg"
+                        },
+                        {
+                            "id": "b",
+                            "text": "333 kg"
+                        },
+                        {
+                            "id": "c",
+                            "text": "500 kg"
+                        },
+                        {
+                            "id": "d",
+                            "text": "667 kg"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Total bagian = 1 + 2 + 3 = 6.  Proporsi semen = 1/6.  Volume semen = (1/6) * 1 m³ = 0.167 m³.  Berat semen = 0.167 m³ * 1500 kg/m³ = 250 kg. Karena rasio air-semen 0.5, dibutuhkan air sebanyak 0.5 * 250 kg = 125 kg. Jadi, perbandingan berat total = 250 + 125 + 500 + 750= 1625 kg. Berat semen = (250/1625)*1500 = 333.33 kg."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja keuntungan menggunakan beton sebagai material konstruksi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kekuatan tinggi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Daya tahan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Ringan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Tahan api"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Mudah dibentuk"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d",
+                        "e"
+                    ],
+                    "explanation": "Beton memiliki kekuatan dan daya tahan tinggi, tahan api, dan mudah dibentuk.  Beton tidak selalu ringan, tergantung pada campurannya."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan beton pratekan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Beton yang dicampur dengan serat baja"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Beton yang diberi tegangan tekan sebelum digunakan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Beton yang dicampur dengan bahan kimia khusus"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Beton yang dikeringkan dengan cepat"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Beton pratekan adalah beton yang telah diberi tegangan tekan sebelum digunakan untuk meningkatkan kekuatan dan daya tahannya."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Baja struktural adalah material yang sangat penting dalam dunia konstruksi modern. Kekuatan dan  versatilitasnya memungkinkan pembangunan gedung pencakar langit, jembatan, stadion, dan berbagai  struktur lainnya yang kompleks.  Baja struktural terbuat dari paduan besi dan karbon, dengan  beberapa elemen lain ditambahkan untuk meningkatkan sifat spesifiknya, seperti kekuatan,  keuletan, dan ketahanan korosi. Proses produksi baja struktural dimulai dengan peleburan bijih besi  dalam tanur tinggi untuk menghasilkan besi kasar. Besi kasar kemudian diproses lebih lanjut dalam  tanur oksigen dasar untuk menghilangkan kotoran dan menghasilkan baja cair.  Baja cair  kemudian dicetak menjadi berbagai bentuk, seperti balok, kolom, pelat, dan profil baja lainnya.  Baja struktural diklasifikasikan berdasarkan kekuatan luluhnya, yang merupakan ukuran  tegangan yang dibutuhkan untuk menyebabkan deformasi permanen pada baja.  Semakin  tinggi kekuatan luluh, semakin kuat baja tersebut.  Baja struktural juga diklasifikasikan berdasarkan  komposisinya, seperti baja karbon, baja paduan rendah, dan baja tahan karat.  Baja karbon adalah  jenis baja struktural yang paling umum digunakan karena biayanya yang relatif rendah dan  ketersediaannya yang luas.  Baja paduan rendah mengandung sejumlah kecil elemen paduan,  seperti mangan, nikel, dan kromium, untuk meningkatkan kekuatan, keuletan, dan ketahanan  korosi.  Baja tahan karat sangat tahan terhadap korosi karena kandungan kromiumnya yang  tinggi.  Dalam desain struktur baja, penting untuk mempertimbangkan beban yang akan ditanggung  oleh struktur, seperti beban mati (berat struktur itu sendiri), beban hidup (beban yang  diakibatkan oleh orang, furnitur, dan peralatan), beban angin, dan beban gempa.  Perhitungan  yang cermat diperlukan untuk menentukan ukuran dan jenis profil baja yang tepat untuk  memastikan keamanan dan stabilitas struktur.  Sambungan pada struktur baja juga merupakan  aspek penting yang perlu dipertimbangkan. Sambungan harus dirancang untuk mentransfer  beban secara efisien dan aman antar elemen struktur.  Ada berbagai jenis sambungan,  termasuk sambungan baut, sambungan las, dan sambungan paku keling. Pemilihan jenis  sambungan yang tepat bergantung pada jenis struktur dan beban yang akan ditanggungnya.  Korosi adalah salah satu tantangan utama dalam penggunaan baja struktural.  Korosi  dapat melemahkan struktur dan mengurangi umur pakainya.  Oleh karena itu, penting untuk  melindungi baja dari korosi dengan menggunakan lapisan pelindung, seperti cat atau pelapisan  galvanis.  Perawatan struktur baja secara teratur juga penting untuk memastikan umur  panjang dan kinerjanya.  Pemeriksaan rutin dan perbaikan yang diperlukan harus dilakukan  untuk mencegah kerusakan lebih lanjut.Baja struktural adalah material yang berkelanjutan dan dapat didaur ulang, menjadikannya pilihan  yang bertanggung jawab terhadap lingkungan untuk konstruksi.  Dengan kemajuan teknologi,  baja struktural terus berkembang untuk memenuhi tuntutan konstruksi modern.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Sebuah balok baja dengan panjang 6 m menahan beban terdistribusi merata sebesar 20 kN/m.  Berapakah momen lentur maksimum pada balok tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "30 kNm"
+                        },
+                        {
+                            "id": "b",
+                            "text": "60 kNm"
+                        },
+                        {
+                            "id": "c",
+                            "text": "90 kNm"
+                        },
+                        {
+                            "id": "d",
+                            "text": "120 kNm"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Momen lentur maksimum pada balok dengan beban terdistribusi merata = (wL²) / 8 = (20 kN/m * 6² m²) / 8 = 90 kNm"
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Kekuatan luluh baja adalah ukuran tegangan yang dibutuhkan untuk menyebabkan deformasi permanen pada baja.",
+                    "correct_answer": true,
+                    "explanation": "Pernyataan ini benar. Kekuatan luluh adalah titik di mana baja mulai mengalami deformasi plastis atau permanen."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Sebuah kolom baja dengan luas penampang 100 cm² menahan beban aksial sebesar 500 kN.  Berapakah tegangan tekan pada kolom tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "5 MPa"
+                        },
+                        {
+                            "id": "b",
+                            "text": "50 MPa"
+                        },
+                        {
+                            "id": "c",
+                            "text": "500 MPa"
+                        },
+                        {
+                            "id": "d",
+                            "text": "5000 MPa"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Tegangan = Beban / Luas = 500 kN / 0.01 m² = 50 MPa"
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja jenis sambungan yang umum digunakan pada struktur baja?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Sambungan baut"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sambungan las"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sambungan lem"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sambungan paku keling"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Sambungan baut, sambungan las, dan sambungan paku keling adalah jenis sambungan yang umum digunakan pada struktur baja. Sambungan lem kurang umum digunakan dalam konstruksi baja struktural."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan baja paduan rendah?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Baja yang mengandung karbon dalam jumlah tinggi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Baja yang mengandung sejumlah kecil elemen paduan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Baja yang sangat tahan terhadap korosi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Baja yang diproduksi dengan proses khusus"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Baja paduan rendah mengandung sejumlah kecil elemen paduan untuk meningkatkan sifat seperti kekuatan, keuletan, dan ketahanan korosi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Jembatan adalah struktur yang dibangun untuk menyeberangi rintangan fisik, seperti sungai, lembah, atau jalan. Jembatan memainkan peran penting dalam transportasi, menghubungkan komunitas dan memfasilitasi perdagangan. Ada berbagai jenis jembatan, masing-masing dengan desain, bahan, dan metode konstruksi yang unik.  Pemilihan jenis jembatan yang tepat bergantung pada berbagai faktor, termasuk bentang, kondisi tanah, beban lalu lintas, dan anggaran. Beberapa jenis jembatan yang umum termasuk jembatan balok, jembatan lengkung, jembatan gantung, jembatan kabel, dan jembatan rangka batang. Jembatan balok adalah jenis jembatan yang paling sederhana, terdiri dari balok horizontal yang didukung oleh dua abutmen. Jembatan lengkung menggunakan lengkungan untuk mendistribusikan beban ke abutmen. Jembatan gantung menggunakan kabel utama dan kabel gantung untuk mendukung dek jembatan.  Jembatan kabel menggunakan kabel yang terpasang langsung ke menara untuk mendukung dek jembatan. Jembatan rangka batang menggunakan rangka batang untuk mendistribusikan beban. Desain dan konstruksi jembatan merupakan proses yang kompleks yang membutuhkan keahlian dari berbagai disiplin ilmu, termasuk teknik sipil, teknik struktur, dan teknik geoteknik.  Perhitungan yang cermat diperlukan untuk memastikan bahwa jembatan dapat menahan beban yang diharapkan dan kondisi lingkungan.  Material yang digunakan dalam konstruksi jembatan harus tahan lama dan tahan terhadap korosi.  Baja, beton, dan kayu adalah material yang umum digunakan dalam konstruksi jembatan.  Proses konstruksi jembatan dapat bervariasi tergantung pada jenis jembatan dan lokasinya.  Beberapa jembatan dibangun di lokasi, sementara yang lain dibangun di tempat lain dan kemudian diangkut ke lokasi akhir.  Pemeliharaan jembatan secara teratur sangat penting untuk memastikan umur panjang dan keamanannya.  Pemeriksaan rutin dan perbaikan yang diperlukan harus dilakukan untuk mencegah kerusakan lebih lanjut.  Inspeksi jembatan harus dilakukan oleh insinyur yang berkualifikasi untuk menilai kondisi jembatan dan mengidentifikasi potensi masalah.  Jembatan memainkan peran penting dalam infrastruktur kita dan berkontribusi pada pertumbuhan ekonomi dan pembangunan sosial.  Dengan desain, konstruksi, dan pemeliharaan yang tepat, jembatan dapat bertahan selama bertahun-tahun, menyediakan jalur transportasi yang aman dan andal bagi masyarakat. Jembatan juga dapat menjadi landmark yang ikonik, mewakili keindahan teknik dan inovasi manusia.  Jembatan terus berkembang dengan kemajuan teknologi, dan insinyur terus mencari cara baru untuk membangun jembatan yang lebih kuat, lebih tahan lama, dan lebih berkelanjutan. Jembatan merupakan bukti kecerdikan dan kreativitas manusia, dan mereka akan terus memainkan peran penting dalam menghubungkan dunia kita.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Sebuah jembatan balok sederhana dengan bentang 10 m menahan beban terdistribusi merata sebesar 50 kN/m. Berapakah reaksi vertikal pada setiap abutmen?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "125 kN"
+                        },
+                        {
+                            "id": "b",
+                            "text": "250 kN"
+                        },
+                        {
+                            "id": "c",
+                            "text": "500 kN"
+                        },
+                        {
+                            "id": "d",
+                            "text": "1000 kN"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Reaksi vertikal pada setiap abutmen = (Beban total) / 2 = (50 kN/m * 10 m) / 2 = 250 kN"
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Jembatan gantung menggunakan kabel utama dan kabel gantung untuk mendukung dek jembatan.",
+                    "correct_answer": true,
+                    "explanation": "Pernyataan ini benar. Kabel utama dan kabel gantung adalah elemen kunci dalam desain jembatan gantung."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Sebuah jembatan lengkung memiliki bentang 20 m dan tinggi 5 m. Berapakah panjang lengkungan tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "20 m"
+                        },
+                        {
+                            "id": "b",
+                            "text": "20.62 m"
+                        },
+                        {
+                            "id": "c",
+                            "text": "22.36 m"
+                        },
+                        {
+                            "id": "d",
+                            "text": "25 m"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Panjang lengkungan dapat dihitung menggunakan rumus untuk panjang busur lingkaran. Namun, karena jembatan lengkung biasanya bukan lingkaran sempurna, perhitungan yang lebih tepat akan melibatkan integral. Untuk perkiraan, kita bisa menggunakan rumus panjang busur parabola: L =  √(4h² + l²) ≈ √(4*5² + 20²) ≈ 22.36 m"
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja faktor yang mempengaruhi pemilihan jenis jembatan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Bentang"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kondisi tanah"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Bahan yang tersedia"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Estetika"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Beban lalu lintas"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "e"
+                    ],
+                    "explanation": "Bentang, kondisi tanah, dan beban lalu lintas adalah faktor utama dalam pemilihan jenis jembatan. Bahan yang tersedia dan estetika juga dipertimbangkan, tetapi tidak sepenting tiga faktor pertama."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Sebuah jembatan kabel memiliki dua menara dengan tinggi masing-masing 100 m.  Jika kabel utama membentuk sudut 30 derajat dengan horizontal, berapakah panjang kabel utama antara kedua menara?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "100 m"
+                        },
+                        {
+                            "id": "b",
+                            "text": "115.47 m"
+                        },
+                        {
+                            "id": "c",
+                            "text": "200 m"
+                        },
+                        {
+                            "id": "d",
+                            "text": "230.94 m"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Panjang kabel = Tinggi menara / sin(sudut) = 100 m / sin(30°) = 200 m"
+                }
+            ]
+        }
+    },
+    {
+        "context": "Tunnel boring machine (TBM), atau mesin bor terowongan, adalah mesin yang digunakan untuk  mengekskavasi terowongan melalui berbagai jenis tanah dan batuan. TBM memiliki  kemampuan untuk mengebor terowongan dengan diameter mulai dari kurang dari satu  meter hingga lebih dari 17 meter.  TBM modern dilengkapi dengan berbagai sistem  canggih, termasuk sistem pemotongan, sistem pengangkutan material yang digali,  sistem penyangga terowongan, dan sistem navigasi.  Ada berbagai jenis TBM, masing-masing  cocok untuk kondisi tanah dan batuan yang berbeda.  Beberapa jenis TBM yang umum  digunakan antara lain Earth Pressure Balance (EPB) TBM,  Hard Rock TBM, dan Slurry  TBM.  EPB TBM digunakan pada tanah lunak hingga sedang, Hard Rock TBM digunakan  pada batuan keras, dan Slurry TBM digunakan pada tanah yang sangat lunak atau  berair.  Prinsip kerja TBM melibatkan pemotongan dan penggalian tanah atau batuan di  depan kepala pemotong.  Material yang digali kemudian diangkut ke belakang mesin  melalui sistem pengangkutan.  Sistem penyangga terowongan dipasang di belakang  kepala pemotong untuk mencegah runtuhnya terowongan.  Sistem navigasi  memungkinkan operator untuk mengontrol arah dan kemiringan terowongan dengan  akurat.  Penggunaan TBM dalam konstruksi terowongan menawarkan beberapa  keuntungan dibandingkan metode penggalian tradisional, seperti penggalian  terbuka dan metode peledakan.  TBM dapat mengebor terowongan dengan lebih  cepat, lebih aman, dan dengan dampak lingkungan yang lebih kecil.  TBM juga  dapat mengebor terowongan dengan diameter yang lebih besar dan pada kedalaman  yang lebih besar.  Namun, TBM juga memiliki beberapa kelemahan, seperti biaya  yang tinggi dan kompleksitas operasional.  Perencanaan dan desain terowongan yang  menggunakan TBM harus dilakukan dengan cermat oleh insinyur yang  berpengalaman.  Perhitungan yang teliti diperlukan untuk menentukan jenis TBM yang  paling sesuai, diameter terowongan, dan metode penyangga.  Kondisi tanah dan  batuan, beban yang diharapkan, dan kondisi air tanah harus dipertimbangkan dalam  desain.  Proses konstruksi terowongan menggunakan TBM merupakan pekerjaan yang  kompleks dan membutuhkan koordinasi yang cermat antara berbagai tim, termasuk  tim pengeboran, tim penyangga, dan tim logistik.  Keamanan merupakan prioritas  utama dalam konstruksi terowongan, dan langkah-langkah keamanan yang ketat  harus diterapkan untuk melindungi pekerja dan lingkungan.  Setelah terowongan selesai  dibangun, lapisan akhir biasanya dipasang untuk melindungi terowongan dari air dan  bahan kimia.  Pemantauan dan pemeliharaan terowongan secara teratur juga penting  untuk memastikan umur panjang dan kinerjanya.  Pemeriksaan rutin dan perbaikan  yang diperlukan harus dilakukan untuk mencegah kerusakan lebih lanjut.  Penggunaan TBM telah merevolusi industri konstruksi terowongan, memungkinkan  pembangunan terowongan yang lebih panjang, lebih dalam, dan lebih kompleks.  TBM terus berkembang dengan kemajuan teknologi, dan para insinyur terus mencari  cara baru untuk meningkatkan efisiensi, keamanan, dan keberlanjutan TBM.  TBM  merupakan contoh yang bagus tentang bagaimana inovasi teknologi dapat  memecahkan tantangan teknik yang kompleks dan meningkatkan infrastruktur kita.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Sebuah TBM mengebor terowongan dengan laju 20 m/hari. Berapa lama waktu yang dibutuhkan untuk mengebor terowongan sepanjang 2 km?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "50 hari"
+                        },
+                        {
+                            "id": "b",
+                            "text": "100 hari"
+                        },
+                        {
+                            "id": "c",
+                            "text": "150 hari"
+                        },
+                        {
+                            "id": "d",
+                            "text": "200 hari"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Waktu = Panjang terowongan / Laju pengeboran = 2000 m / 20 m/hari = 100 hari"
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Earth Pressure Balance (EPB) TBM lebih cocok digunakan pada batuan keras daripada tanah lunak.",
+                    "correct_answer": false,
+                    "explanation": "EPB TBM dirancang untuk tanah lunak hingga sedang, sedangkan Hard Rock TBM digunakan untuk batuan keras."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Sebuah terowongan dengan diameter 5 m dan panjang 1 km akan digali menggunakan TBM. Berapakah volume tanah yang akan diekskavasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "19635 m³"
+                        },
+                        {
+                            "id": "b",
+                            "text": "7854 m³"
+                        },
+                        {
+                            "id": "c",
+                            "text": "3927 m³"
+                        },
+                        {
+                            "id": "d",
+                            "text": "9817,5 m³"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Luas penampang = πr² = π * (5/2)² = 19.635 m². Volume = Luas * Panjang = 19.635 m² * 1000 m = 19635 m³"
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja keuntungan menggunakan TBM dalam konstruksi terowongan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Lebih cepat"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Lebih aman"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Lebih murah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Dampak lingkungan lebih kecil"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Dapat mengebor terowongan dengan diameter yang lebih besar"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d",
+                        "e"
+                    ],
+                    "explanation": "TBM lebih cepat, lebih aman, berdampak lingkungan lebih kecil, dan dapat mengebor terowongan dengan diameter lebih besar. Namun, TBM biasanya lebih *mahal* daripada metode tradisional."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jenis TBM apa yang paling cocok digunakan pada tanah yang sangat lunak atau berair?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Earth Pressure Balance (EPB) TBM"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Hard Rock TBM"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Slurry TBM"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Open Face TBM"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Slurry TBM paling cocok digunakan pada tanah yang sangat lunak atau berair karena dapat menangani kondisi tanah yang sulit."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Manajemen proyek konstruksi adalah proses perencanaan, pengorganisasian, pengarahan, dan pengendalian sumber daya proyek untuk mencapai tujuan proyek tertentu. Tujuan ini biasanya didefinisikan dalam hal waktu, biaya, dan kualitas.  Manajemen proyek konstruksi melibatkan berbagai tugas, termasuk perencanaan, penjadwalan, penganggaran, pengadaan, manajemen risiko, dan pengendalian kualitas. Perencanaan proyek melibatkan pendefinisian ruang lingkup proyek, menetapkan tujuan, dan mengembangkan rencana untuk mencapai tujuan tersebut.  Penjadwalan proyek melibatkan penentuan urutan kegiatan, menetapkan durasi, dan mengembangkan jadwal proyek.  Penganggaran proyek melibatkan estimasi biaya dan mengembangkan anggaran proyek.  Pengadaan melibatkan pemilihan dan pengelolaan kontraktor dan pemasok.  Manajemen risiko melibatkan identifikasi, penilaian, dan mitigasi risiko proyek.  Pengendalian kualitas melibatkan pemantauan dan pengendalian kualitas pekerjaan konstruksi. Manajemen proyek konstruksi merupakan proses yang kompleks dan dinamis yang membutuhkan keahlian dari berbagai disiplin ilmu. Manajer proyek konstruksi harus memiliki pemahaman yang kuat tentang proses konstruksi, serta keterampilan manajemen proyek.  Mereka harus dapat berkomunikasi secara efektif dengan berbagai pemangku kepentingan, termasuk klien, kontraktor, dan konsultan.  Perangkat lunak manajemen proyek dapat digunakan untuk membantu manajer proyek dalam perencanaan, penjadwalan, dan pengendalian proyek konstruksi.  Perangkat lunak ini dapat membantu manajer proyek untuk melacak kemajuan, mengelola sumber daya, dan berkomunikasi dengan pemangku kepentingan. Manajemen proyek konstruksi yang efektif sangat penting untuk keberhasilan proyek konstruksi.  Proyek yang dikelola dengan baik akan selesai tepat waktu, sesuai anggaran, dan dengan kualitas yang dibutuhkan.  Manajemen proyek konstruksi yang buruk dapat menyebabkan keterlambatan, pembengkakan biaya, dan kualitas pekerjaan yang buruk.  Manajer proyek konstruksi harus mengikuti perkembangan tren dan teknologi terbaru dalam industri konstruksi.  Mereka juga harus terus meningkatkan keterampilan dan pengetahuan mereka untuk tetap efektif dalam peran mereka.  Sertifikasi profesional, seperti Project Management Professional (PMP), dapat membantu manajer proyek untuk menunjukkan keahlian mereka dan meningkatkan kredibilitas mereka.  Manajemen proyek konstruksi merupakan bidang yang menantang dan bermanfaat.  Manajer proyek konstruksi memainkan peran penting dalam membentuk lingkungan binaan kita.  Dengan perencanaan, pelaksanaan, dan pengendalian yang tepat, manajer proyek konstruksi dapat membantu untuk mewujudkan proyek-proyek konstruksi yang sukses.  Keberhasilan proyek konstruksi tidak hanya diukur dari penyelesaian proyek tepat waktu dan sesuai anggaran, tetapi juga dari kepuasan klien dan dampak positif pada komunitas.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Sebuah proyek konstruksi memiliki anggaran awal sebesar Rp 10 miliar dan dijadwalkan selesai dalam 12 bulan.  Setelah 6 bulan, proyek tersebut telah menghabiskan Rp 6 miliar, tetapi hanya 40% dari pekerjaan yang selesai. Berapakah estimasi biaya akhir proyek (EAC) menggunakan metode Earned Value Management (EVM) dengan asumsi kinerja akan sama seperti saat ini?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Rp 12 miliar"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Rp 15 miliar"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Rp 18 miliar"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Rp 20 miliar"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Earned Value (EV) = 40% * Rp 10 miliar = Rp 4 miliar. Actual Cost (AC) = Rp 6 miliar. Cost Performance Index (CPI) = EV / AC = Rp 4 miliar / Rp 6 miliar = 0.67. Estimate at Completion (EAC) = Budget at Completion (BAC) / CPI = Rp 10 miliar / 0.67 = Rp 15 miliar."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Manajemen risiko proyek melibatkan identifikasi, penilaian, dan mitigasi risiko proyek.",
+                    "correct_answer": true,
+                    "explanation": "Pernyataan ini benar. Manajemen risiko proyek mencakup identifikasi, penilaian, dan mitigasi risiko."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Sebuah proyek konstruksi dijadwalkan selesai dalam 200 hari dengan total biaya Rp 5 miliar.  Setelah 100 hari, proyek telah menghabiskan Rp 3 miliar dan 60% dari pekerjaan telah selesai. Berapakah Schedule Performance Index (SPI) dan Cost Performance Index (CPI) proyek tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "SPI = 1.2, CPI = 1.2"
+                        },
+                        {
+                            "id": "b",
+                            "text": "SPI = 1.2, CPI = 0.83"
+                        },
+                        {
+                            "id": "c",
+                            "text": "SPI = 0.83, CPI = 1.2"
+                        },
+                        {
+                            "id": "d",
+                            "text": "SPI = 0.83, CPI = 0.83"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Planned Value (PV) = 50% * Rp 5 miliar = Rp 2.5 miliar. Earned Value (EV) = 60% * Rp 5 miliar = Rp 3 miliar. Actual Cost (AC) = Rp 3 miliar. SPI = EV / PV = Rp 3 miliar / Rp 2.5 miliar = 1.2. CPI = EV / AC = Rp 3 miliar / Rp 3 miliar = 1."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja tugas yang terlibat dalam manajemen proyek konstruksi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Perencanaan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Penjadwalan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pemasaran"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Penganggaran"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Pengendalian kualitas"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d",
+                        "e"
+                    ],
+                    "explanation": "Perencanaan, penjadwalan, penganggaran, pengadaan, manajemen risiko, dan pengendalian kualitas adalah tugas yang terlibat dalam manajemen proyek konstruksi. Pemasaran biasanya bukan tanggung jawab langsung manajer proyek konstruksi."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa kepanjangan dari PMP?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Project Management Professional"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Professional Management Project"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Project Management Plan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Professional Management Plan"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "PMP adalah singkatan dari Project Management Professional."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sistem HVAC (Heating, Ventilation, and Air Conditioning) adalah teknologi yang digunakan untuk  mengontrol suhu, kelembapan, dan kualitas udara di dalam ruangan. Sistem HVAC  memainkan peran penting dalam kenyamanan dan kesehatan penghuni bangunan,  serta dalam efisiensi energi.  Ada berbagai jenis sistem HVAC, masing-masing  dengan prinsip kerja dan aplikasinya sendiri.  Beberapa jenis sistem HVAC yang umum  digunakan antara lain sistem AC sentral, sistem AC split, sistem VRF (Variable Refrigerant  Flow), dan sistem geothermal.  Sistem AC sentral menggunakan satu unit pusat untuk  mendinginkan atau memanaskan seluruh bangunan, sedangkan sistem AC split  menggunakan unit indoor dan outdoor yang terpisah untuk setiap ruangan atau zona.  Sistem VRF memungkinkan kontrol suhu individual untuk setiap ruangan, dan sistem  geothermal menggunakan energi panas bumi untuk memanaskan dan mendinginkan  bangunan.  Desain sistem HVAC harus mempertimbangkan berbagai faktor, termasuk  ukuran dan tata letak bangunan, jumlah penghuni, iklim, dan anggaran.  Perhitungan  yang cermat diperlukan untuk menentukan kapasitas sistem HVAC yang dibutuhkan  dan untuk memilih peralatan yang tepat.  Ducting, atau saluran udara, digunakan untuk  mendistribusikan udara yang dikondisikan ke seluruh bangunan.  Desain ducting yang  tepat sangat penting untuk memastikan aliran udara yang efisien dan merata.  Efisiensi  energi merupakan pertimbangan penting dalam desain dan pengoperasian sistem  HVAC.  Sistem HVAC yang efisien dapat mengurangi biaya energi dan  meminimalkan dampak lingkungan.  Penggunaan sensor, kontrol otomatis, dan  teknologi hemat energi lainnya dapat membantu meningkatkan efisiensi sistem HVAC.  Perawatan sistem HVAC secara teratur sangat penting untuk memastikan kinerja dan  umur panjang sistem.  Pemeriksaan rutin, pembersihan filter, dan perbaikan yang  diperlukan harus dilakukan untuk mencegah kerusakan dan menjaga efisiensi sistem.  Kualitas udara dalam ruangan (IAQ) merupakan aspek penting dari sistem HVAC.  Sistem  HVAC harus dirancang dan dioperasikan untuk menyediakan udara bersih dan  sehat bagi penghuni bangunan.  Filtrasi, ventilasi, dan pengendalian kelembapan  merupakan faktor penting dalam menjaga IAQ yang baik.  Sistem HVAC terus  berkembang dengan kemajuan teknologi.  Sistem HVAC pintar, yang  menggunakan kecerdasan buatan dan pembelajaran mesin, dapat mengoptimalkan  kinerja sistem dan meningkatkan efisiensi energi.  Integrasi sistem HVAC dengan  sistem bangunan lainnya, seperti sistem pencahayaan dan sistem keamanan,  dapat menciptakan bangunan yang lebih cerdas dan lebih efisien.  Sistem HVAC  memainkan peran penting dalam menciptakan lingkungan dalam ruangan yang  nyaman, sehat, dan berkelanjutan.  Dengan desain, instalasi, dan perawatan yang  tepat, sistem HVAC dapat memberikan manfaat yang signifikan bagi penghuni  bangunan dan lingkungan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Sebuah ruangan berukuran 5m x 4m x 3m membutuhkan pendinginan sebesar 1000 BTU/jam per meter kubik.  Berapa kapasitas AC yang dibutuhkan dalam ton?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "0.5 ton"
+                        },
+                        {
+                            "id": "b",
+                            "text": "1 ton"
+                        },
+                        {
+                            "id": "c",
+                            "text": "1.5 ton"
+                        },
+                        {
+                            "id": "d",
+                            "text": "2 ton"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Volume ruangan = 5m * 4m * 3m = 60 m³. Total pendinginan = 60 m³ * 1000 BTU/jam/m³ = 60000 BTU/jam. 1 ton pendinginan = 12000 BTU/jam. Kapasitas AC = 60000 BTU/jam / 12000 BTU/jam/ton = 5 ton."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Sistem VRF memungkinkan kontrol suhu individual untuk setiap ruangan.",
+                    "correct_answer": true,
+                    "explanation": "Pernyataan ini benar. Sistem VRF (Variable Refrigerant Flow) dirancang untuk memberikan kontrol suhu yang fleksibel dan independen untuk setiap zona atau ruangan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Sebuah gedung perkantoran membutuhkan aliran udara segar sebesar 20 CFM per orang.  Jika gedung tersebut menampung 100 orang, berapa total aliran udara segar yang dibutuhkan dalam m³/jam?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "108 m³/jam"
+                        },
+                        {
+                            "id": "b",
+                            "text": "169.92 m³/jam"
+                        },
+                        {
+                            "id": "c",
+                            "text": "283.2 m³/jam"
+                        },
+                        {
+                            "id": "d",
+                            "text": "339.84 m³/jam"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Total aliran udara = 20 CFM/orang * 100 orang = 2000 CFM. 1 CFM = 1.699 m³/jam. Total aliran udara = 2000 CFM * 1.699 m³/jam/CFM = 3398 m³/jam."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja komponen utama sistem HVAC?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pemanas"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Ventilasi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pendingin udara"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pencahayaan"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Ducting"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "e"
+                    ],
+                    "explanation": "Komponen utama sistem HVAC adalah pemanas, ventilasi, pendingin udara, dan ducting (saluran udara). Pencahayaan bukan bagian dari sistem HVAC."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan IAQ?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Indoor Air Quality"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Internal Air Quality"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Integrated Air Quality"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Improved Air Quality"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "IAQ adalah singkatan dari Indoor Air Quality (Kualitas Udara Dalam Ruangan)."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Manajemen konstruksi adalah disiplin profesional yang berkaitan dengan perencanaan, koordinasi,  penganggaran, dan pengawasan proyek konstruksi, mulai dari awal hingga selesai.  Tujuannya  adalah untuk mengelola waktu, biaya, dan kualitas proyek konstruksi.  Manajemen  konstruksi melibatkan berbagai tugas, termasuk perencanaan proyek, penjadwalan,  penganggaran, pengadaan, manajemen risiko, dan pengendalian kualitas.  Manajer  konstruksi bekerja sama dengan berbagai pemangku kepentingan, termasuk klien,  arsitek, insinyur, dan kontraktor.  Perencanaan proyek melibatkan pendefinisian ruang lingkup  proyek, menetapkan tujuan, dan mengembangkan rencana untuk mencapai tujuan tersebut.  Penjadwalan proyek melibatkan penentuan urutan kegiatan, menetapkan durasi, dan  mengembangkan jadwal proyek.  Penganggaran proyek melibatkan estimasi biaya dan  mengembangkan anggaran proyek.  Pengadaan melibatkan pemilihan dan pengelolaan  kontraktor dan pemasok.  Manajemen risiko melibatkan identifikasi, penilaian, dan mitigasi  risiko proyek.  Pengendalian kualitas melibatkan pemantauan dan pengendalian kualitas  pekerjaan konstruksi.  Manajemen konstruksi yang efektif sangat penting untuk keberhasilan  proyek konstruksi.  Proyek yang dikelola dengan baik akan selesai tepat waktu, sesuai  anggaran, dan dengan kualitas yang dibutuhkan.  Manajemen konstruksi yang buruk dapat  menyebabkan keterlambatan, pembengkakan biaya, dan kualitas pekerjaan yang buruk.  Manajer konstruksi harus memiliki pemahaman yang kuat tentang proses konstruksi,  serta keterampilan manajemen proyek.  Mereka harus dapat berkomunikasi secara efektif  dengan berbagai pemangku kepentingan.  Perangkat lunak manajemen konstruksi dapat  digunakan untuk membantu manajer konstruksi dalam perencanaan, penjadwalan, dan  pengendalian proyek konstruksi.  Perangkat lunak ini dapat membantu manajer konstruksi  untuk melacak kemajuan, mengelola sumber daya, dan berkomunikasi dengan pemangku  kepentingan.  Manajer konstruksi harus mengikuti perkembangan tren dan teknologi  terbaru dalam industri konstruksi.  Mereka juga harus terus meningkatkan keterampilan dan  pengetahuan mereka untuk tetap efektif dalam peran mereka.  Sertifikasi profesional, seperti  Certified Construction Manager (CCM), dapat membantu manajer konstruksi untuk  menunjukkan keahlian mereka dan meningkatkan kredibilitas mereka.  Manajemen konstruksi merupakan bidang yang menantang dan bermanfaat.  Manajer konstruksi memainkan  peran penting dalam membentuk lingkungan binaan kita.  Mereka bertanggung jawab untuk  menyampaikan proyek-proyek konstruksi yang aman, berkelanjutan, dan hemat biaya.  Manajemen konstruksi juga melibatkan kepatuhan terhadap peraturan dan standar  konstruksi yang berlaku.  Manajer konstruksi harus memastikan bahwa proyek konstruksi  memenuhi semua persyaratan hukum dan peraturan.  Manajemen konstruksi yang  berkelanjutan semakin penting dalam industri konstruksi.  Manajer konstruksi harus  mempertimbangkan dampak lingkungan dari proyek konstruksi dan berusaha untuk  meminimalkan dampak negatifnya.  Praktik konstruksi hijau, seperti penggunaan bahan  bangunan yang berkelanjutan dan hemat energi, dapat membantu mengurangi jejak karbon  dari proyek konstruksi.  Manajemen konstruksi yang efektif membutuhkan kerja sama  tim dan kolaborasi yang erat antara semua pemangku kepentingan.  Dengan bekerja sama  secara efektif, manajer konstruksi dapat memastikan keberhasilan proyek konstruksi  dan memberikan manfaat bagi klien, komunitas, dan lingkungan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Sebuah proyek konstruksi rumah dijadwalkan selesai dalam 180 hari.  Namun, karena cuaca buruk, proyek tersebut tertunda selama 30 hari.  Jika biaya overhead per hari adalah Rp 1 juta, berapakah tambahan biaya overhead akibat keterlambatan tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Rp 10 juta"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Rp 20 juta"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Rp 30 juta"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Rp 40 juta"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Tambahan biaya overhead = Keterlambatan (hari) * Biaya overhead per hari = 30 hari * Rp 1 juta/hari = Rp 30 juta."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Manajemen konstruksi hanya berfokus pada aspek teknis proyek.",
+                    "correct_answer": false,
+                    "explanation": "Manajemen konstruksi juga mencakup aspek non-teknis, seperti manajemen sumber daya manusia, komunikasi, dan manajemen risiko."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Sebuah proyek konstruksi gedung bertingkat memiliki anggaran awal Rp 50 miliar dan dijadwalkan selesai dalam 24 bulan.  Setelah 12 bulan, proyek telah menghabiskan Rp 30 miliar dan 40% dari pekerjaan telah selesai.  Berapakah Variance at Completion (VAC) proyek tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "-Rp 10 miliar"
+                        },
+                        {
+                            "id": "b",
+                            "text": "-Rp 20 miliar"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Rp 10 miliar"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Rp 20 miliar"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Earned Value (EV) = 40% * Rp 50 miliar = Rp 20 miliar.  Actual Cost (AC) = Rp 30 miliar.  Planned Value (PV) = 50% * Rp 50 miliar = Rp 25 miliar.  Estimate at Completion (EAC) = AC + (BAC - EV) = Rp 30 miliar + (Rp 50 miliar - Rp 20 miliar) = Rp 60 miliar.  Variance at Completion (VAC) = BAC - EAC = Rp 50 miliar - Rp 60 miliar = -Rp 10 miliar."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja manfaat dari manajemen konstruksi yang efektif?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Penyelesaian proyek tepat waktu"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pembengkakan biaya"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kualitas pekerjaan yang baik"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kepuasan klien"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Proyek sesuai anggaran"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c",
+                        "d",
+                        "e"
+                    ],
+                    "explanation": "Manajemen konstruksi yang efektif menghasilkan penyelesaian proyek tepat waktu dan sesuai anggaran, kualitas pekerjaan yang baik, dan kepuasan klien.  Pembengkakan biaya adalah hal negatif."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa kepanjangan dari CCM?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Certified Construction Manager"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Construction Certified Manager"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Construction Cost Management"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Certified Cost Management"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "CCM adalah singkatan dari Certified Construction Manager."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Rekayasa geoteknik adalah cabang ilmu teknik sipil yang berkaitan dengan sifat-sifat tanah dan  batuan, serta perilaku mereka di bawah pengaruh beban dan kondisi lingkungan.  Rekayasa  geoteknik memainkan peran penting dalam perencanaan, desain, dan konstruksi  pondasi, dinding penahan tanah, terowongan, bendungan, dan struktur lainnya yang  berinteraksi dengan tanah.  Insinyur geoteknik melakukan investigasi tanah untuk  mengumpulkan data tentang sifat-sifat tanah, seperti jenis tanah, kapasitas dukung tanah,  dan kondisi air tanah.  Data ini digunakan untuk mengembangkan model tanah dan  merancang pondasi dan struktur geoteknik lainnya.  Ada berbagai jenis uji tanah yang  digunakan untuk menentukan sifat-sifat tanah, termasuk uji penetrasi standar (SPT), uji  penetrasi kerucut (CPT), dan uji triaksial.  Uji SPT digunakan untuk mengukur  kepadatan relatif tanah, uji CPT digunakan untuk mengukur resistensi penetrasi  kerucut, dan uji triaksial digunakan untuk menentukan kekuatan geser tanah.  Desain  pondasi dan struktur geoteknik lainnya harus mempertimbangkan beban yang akan  ditanggung oleh struktur, seperti beban mati, beban hidup, beban angin, dan beban  gempa.  Perhitungan yang cermat diperlukan untuk menentukan dimensi pondasi,  kedalaman, dan tulangan yang diperlukan.  Insinyur geoteknik juga  mempertimbangkan stabilitas lereng, potensi penurunan tanah, dan pengaruh air tanah  terhadap desain.  Perangkat lunak analisis geoteknik dapat digunakan untuk  memodelkan perilaku tanah dan merancang pondasi dan struktur geoteknik  lainnya.  Perangkat lunak ini dapat membantu insinyur geoteknik untuk  memvisualisasikan kondisi tanah, menganalisis stabilitas lereng, dan  mengoptimalkan desain pondasi.  Rekayasa geoteknik merupakan bidang yang  kompleks dan dinamis yang membutuhkan pemahaman yang mendalam tentang  mekanika tanah dan batuan.  Insinyur geoteknik harus mengikuti perkembangan  tren dan teknologi terbaru dalam rekayasa geoteknik.  Mereka juga harus terus  meningkatkan keterampilan dan pengetahuan mereka untuk tetap efektif dalam peran  mereka.  Sertifikasi profesional, seperti Professional Engineer (PE) dengan spesialisasi  geoteknik, dapat membantu insinyur geoteknik untuk menunjukkan keahlian mereka  dan meningkatkan kredibilitas mereka.  Rekayasa geoteknik memainkan peran penting  dalam memastikan keamanan dan keberlanjutan proyek konstruksi.  Dengan  pemahaman yang baik tentang sifat-sifat tanah dan batuan, insinyur geoteknik  dapat merancang pondasi dan struktur geoteknik lainnya yang aman, andal, dan  berkelanjutan.  Rekayasa geoteknik juga berkontribusi pada perlindungan  lingkungan dengan meminimalkan dampak proyek konstruksi terhadap lingkungan.  Insinyur geoteknik bekerja sama dengan insinyur sipil, arsitek, dan profesional  konstruksi lainnya untuk memastikan keberhasilan proyek konstruksi.  Rekayasa  geoteknik merupakan bidang yang menantang dan bermanfaat yang menawarkan  peluang karir yang menarik bagi para insinyur yang tertarik pada mekanika tanah  dan batuan.  Dengan desain dan konstruksi yang tepat, pondasi dan struktur  geoteknik lainnya dapat memberikan dukungan yang kuat dan tahan lama bagi  bangunan dan infrastruktur, memastikan keamanan dan umur panjang struktur.  Rekayasa geoteknik terus berkembang dengan kemajuan teknologi, dan penelitian  berkelanjutan di bidang ini membantu meningkatkan pemahaman kita tentang perilaku  tanah dan batuan.  Rekayasa geoteknik merupakan bidang yang penting dalam  konstruksi, dan keahlian insinyur geoteknik sangat penting untuk keberhasilan  proyek konstruksi.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Sebuah pondasi telapak berukuran 2m x 3m akan dibangun di atas tanah dengan kapasitas dukung 150 kPa. Berapakah beban maksimum yang dapat ditahan oleh pondasi tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "450 kN"
+                        },
+                        {
+                            "id": "b",
+                            "text": "900 kN"
+                        },
+                        {
+                            "id": "c",
+                            "text": "1350 kN"
+                        },
+                        {
+                            "id": "d",
+                            "text": "1800 kN"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Beban maksimum = Kapasitas dukung * Luas pondasi = 150 kPa * (2m * 3m) = 900 kN"
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Uji penetrasi standar (SPT) digunakan untuk mengukur kekuatan geser tanah.",
+                    "correct_answer": false,
+                    "explanation": "Uji SPT digunakan untuk mengukur kepadatan relatif tanah, sedangkan uji triaksial digunakan untuk mengukur kekuatan geser tanah."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Sebuah lereng memiliki tinggi 10 m dan sudut kemiringan 30 derajat.  Berapakah panjang lereng tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "10 m"
+                        },
+                        {
+                            "id": "b",
+                            "text": "11.55 m"
+                        },
+                        {
+                            "id": "c",
+                            "text": "17.32 m"
+                        },
+                        {
+                            "id": "d",
+                            "text": "20 m"
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Panjang lereng = Tinggi / sin(sudut kemiringan) = 10 m / sin(30°) = 20 m"
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja jenis uji tanah yang umum digunakan dalam rekayasa geoteknik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Uji penetrasi standar (SPT)"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Uji penetrasi kerucut (CPT)"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Uji triaksial"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Uji tarik"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Uji tekan"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Uji SPT, CPT, dan triaksial adalah uji tanah yang umum digunakan. Uji tarik dan tekan lebih umum digunakan untuk material lain, seperti baja dan beton."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa tujuan utama rekayasa geoteknik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mendesain struktur atas bangunan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mempelajari sifat-sifat tanah dan batuan untuk desain pondasi dan struktur geoteknik lainnya"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengawasi pelaksanaan proyek konstruksi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengendalikan biaya proyek konstruksi"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Rekayasa geoteknik berfokus pada pemahaman sifat-sifat tanah dan batuan untuk mendukung perancangan pondasi dan struktur bawah tanah yang aman dan stabil."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Survei tanah adalah proses pengukuran dan pemetaan fitur fisik permukaan bumi, termasuk  elevasi, koordinat horizontal, dan bentuk lahan.  Survei tanah memainkan peran  penting dalam berbagai aplikasi, termasuk perencanaan dan desain konstruksi,  pemetaan, dan manajemen lahan.  Ada berbagai jenis survei tanah, masing-masing  dengan metode dan peralatan yang unik.  Beberapa jenis survei tanah yang umum  digunakan antara lain survei leveling, survei theodolit, survei total station, dan survei GPS.  Survei leveling digunakan untuk menentukan perbedaan elevasi antara titik-titik di  permukaan bumi.  Survei theodolit digunakan untuk mengukur sudut horizontal dan  vertikal.  Survei total station menggabungkan kemampuan theodolit dan EDM  (Electronic Distance Measurement) untuk mengukur sudut dan jarak secara  elektronik.  Survei GPS menggunakan sinyal dari satelit untuk menentukan koordinat  horizontal dan vertikal.  Data survei tanah digunakan untuk membuat peta,  gambar, dan model 3D dari permukaan bumi.  Data ini sangat penting untuk  perencanaan dan desain konstruksi, karena memungkinkan para insinyur dan arsitek  untuk memahami kondisi tapak dan merancang struktur yang aman dan stabil.  Survei  tanah juga digunakan dalam pemetaan untuk membuat peta topografi, peta kadaster,  dan peta tematik.  Dalam manajemen lahan, survei tanah digunakan untuk  menetapkan batas properti, memantau perubahan penggunaan lahan, dan  mengelola sumber daya alam.  Peralatan survei tanah terus berkembang dengan  kemajuan teknologi.  Total station modern dilengkapi dengan fitur-fitur canggih,  seperti pengukuran otomatis, penyimpanan data elektronik, dan kemampuan  komunikasi nirkabel.  Drone juga semakin banyak digunakan dalam survei tanah  untuk mengumpulkan data udara dan membuat model 3D dari permukaan bumi.  Akurasi merupakan faktor penting dalam survei tanah.  Kesalahan pengukuran  dapat menyebabkan kesalahan dalam desain dan konstruksi, yang dapat  mengakibatkan masalah serius.  Oleh karena itu, surveyor tanah harus  menggunakan peralatan yang dikalibrasi dengan baik dan mengikuti prosedur survei  yang ketat untuk memastikan akurasi pengukuran.  Survei tanah merupakan  profesi yang membutuhkan pengetahuan dan keterampilan khusus.  Surveyor tanah  harus memiliki pemahaman yang kuat tentang geometri, trigonometri, dan  pemetaan.  Mereka juga harus terampil dalam menggunakan peralatan survei dan  perangkat lunak pemetaan.  Sertifikasi profesional, seperti Licensed Surveyor,  dapat membantu surveyor tanah untuk menunjukkan keahlian mereka dan  meningkatkan kredibilitas mereka.  Survei tanah memainkan peran penting dalam  berbagai aplikasi, dan data yang akurat dan andal sangat penting untuk  pengambilan keputusan yang tepat dalam perencanaan, desain, dan konstruksi.  Survei tanah merupakan bidang yang terus berkembang dengan kemajuan  teknologi, dan surveyor tanah harus terus mengikuti perkembangan tren dan  teknologi terbaru untuk tetap efektif dalam peran mereka.  Survei tanah merupakan  bidang yang menantang dan bermanfaat yang menawarkan peluang karir yang  menarik bagi individu yang tertarik pada pemetaan dan pengukuran.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Sebuah survei leveling dilakukan untuk menentukan perbedaan elevasi antara dua titik.  Pembacaan rambu belakang adalah 1.5 m dan pembacaan rambu depan adalah 0.8 m. Berapakah perbedaan elevasi antara kedua titik tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "0.7 m"
+                        },
+                        {
+                            "id": "b",
+                            "text": "2.3 m"
+                        },
+                        {
+                            "id": "c",
+                            "text": "1.5 m"
+                        },
+                        {
+                            "id": "d",
+                            "text": "0.8 m"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Perbedaan elevasi = Rambu belakang - Rambu depan = 1.5 m - 0.8 m = 0.7 m"
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Survei theodolit digunakan untuk mengukur jarak secara elektronik.",
+                    "correct_answer": false,
+                    "explanation": "Survei theodolit digunakan untuk mengukur sudut, sedangkan survei total station atau GPS digunakan untuk mengukur jarak secara elektronik."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Sebuah survei total station mengukur jarak horizontal antara dua titik sebagai 100 m dan sudut vertikal sebagai 10 derajat.  Berapakah jarak miring antara kedua titik tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "98.48 m"
+                        },
+                        {
+                            "id": "b",
+                            "text": "101.54 m"
+                        },
+                        {
+                            "id": "c",
+                            "text": "100 m"
+                        },
+                        {
+                            "id": "d",
+                            "text": "17.36 m"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Jarak miring = Jarak horizontal / cos(sudut vertikal) = 100 m / cos(10°) = 101.54 m"
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Apa saja aplikasi survei tanah?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Perencanaan dan desain konstruksi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pemetaan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Manajemen lahan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Perancangan sistem irigasi"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Navigasi"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d",
+                        "e"
+                    ],
+                    "explanation": "Survei tanah digunakan dalam perencanaan dan desain konstruksi, pemetaan, manajemen lahan, perancangan sistem irigasi dan navigasi. "
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan EDM?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Electronic Distance Measurement"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Elevation Distance Measurement"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Engineering Design Management"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Environmental Data Management"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "EDM adalah singkatan dari Electronic Distance Measurement."
+                }
+            ]
+        }
+    }
+]

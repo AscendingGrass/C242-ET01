@@ -1,0 +1,1190 @@
+[
+    {
+        "context": "Dalam fisika klasik, energi kinetik suatu benda didefinisikan sebagai energi yang dimilikinya karena geraknya. Itu dihitung menggunakan rumus KE = 1/2 * m * v², di mana m adalah massa benda dan v adalah kecepatannya. Konservasi energi mekanik menyatakan bahwa jumlah energi kinetik dan energi potensial dalam sistem tertutup tetap konstan, dengan asumsi tidak ada gaya non-konservatif seperti gesekan yang bekerja. Konsep ini penting untuk memahami bagaimana energi diubah antara berbagai bentuk dalam sistem fisik. Fisika nuklir adalah bidang fisika yang berkaitan dengan inti atom, termasuk strukturnya, perilakunya, dan interaksinya. Peluruhan radioaktif, proses spontan di mana inti yang tidak stabil memancarkan partikel atau radiasi, diatur oleh konsep waktu paruh, waktu yang dibutuhkan setengah dari inti dalam sampel untuk meluruh. Fisi nuklir, pemisahan inti menjadi dua atau lebih inti yang lebih kecil, dan fusi nuklir, penggabungan dua atau lebih inti atom menjadi satu inti yang lebih besar, adalah proses yang melepaskan sejumlah besar energi, masing-masing penting dalam pembangkit listrik tenaga nuklir dan reaksi yang menggerakkan bintang. Mekanika kuantum adalah teori dasar fisika yang menggambarkan sifat fisik pada skala atom dan subatomik. Ia mendalilkan bahwa energi, momentum, momentum sudut, dan sifat-sifat lainnya dari sistem terikat terkadang terbatas pada nilai-nilai diskrit (kuantisasi), dan bahwa partikel menunjukkan sifat-sifat gelombang dan partikel (dualitas gelombang-partikel). Prinsip ketidakpastian, yang diformulasikan oleh Werner Heisenberg, menyatakan bahwa ada batasan mendasar pada seberapa akurat posisi dan momentum suatu partikel dapat diketahui secara bersamaan. Persamaan Schrödinger, persamaan gelombang yang menggambarkan bagaimana keadaan kuantum dari sistem fisik berubah seiring waktu, adalah persamaan mendasar dalam mekanika kuantum. Termodinamika, cabang fisika yang mempelajari hubungan antara panas dan bentuk energi lainnya, diatur oleh tiga hukum fundamental. Hukum pertama termodinamika adalah prinsip kekekalan energi yang diterapkan pada sistem termodinamika. Hukum kedua menyatakan bahwa entropi total sistem terisolasi hanya dapat meningkat seiring waktu. Hukum ketiga menyatakan bahwa entropi suatu sistem mendekati nilai konstan ketika suhunya mendekati nol mutlak. Prinsip-prinsip ini penting untuk memahami bagaimana sistem bertukar energi dan melakukan kerja. Teori relativitas khusus, yang dikembangkan oleh Albert Einstein, mendalilkan bahwa hukum fisika adalah sama untuk semua pengamat non-percepatan dan bahwa kecepatan cahaya dalam ruang hampa adalah sama untuk semua pengamat, terlepas dari gerak sumber cahaya atau pengamat. Teori ini memprediksi dilatasi waktu, di mana waktu melambat untuk benda yang bergerak relatif terhadap pengamat stasioner, dan kontraksi panjang, di mana panjang benda yang bergerak menyusut ke arah geraknya. Optik, cabang fisika yang mempelajari perilaku dan sifat cahaya, termasuk interaksinya dengan materi, dapat dibagi menjadi optik geometris, yang mempelajari perambatan cahaya dalam bentuk sinar, dan optik fisik, yang berfokus pada sifat gelombang cahaya seperti interferensi dan difraksi. Pembiasan adalah pembengkokan cahaya saat melewati dari satu medium ke medium lainnya, sementara refleksi adalah pemantulan cahaya dari suatu permukaan. Prinsip-prinsip ini merupakan dasar dari desain lensa dan cermin serta pemahaman kita tentang bagaimana kita melihat dunia. Fisika benda terkondensasi adalah studi tentang sifat fisik materi dalam fase padat dan cairnya. Area ini mengeksplorasi fenomena seperti superkonduktivitas, keadaan materi di mana hambatan listrik menghilang, dan magnet, sifat beberapa material untuk menarik atau menolak material lain karena adanya medan magnet. .... Model Standar fisika partikel mengklasifikasikan partikel elementer menjadi fermion, yang membentuk materi, dan boson, yang memediasi gaya. Fermion dibagi lagi menjadi quark, yang datang dalam enam rasa (atas, bawah, pesona, aneh, atas, bawah), dan lepton, yang juga termasuk elektron, muon, dan tau. Boson termasuk foton (pembawa elektromagnetisme), gluon (pembawa gaya nuklir kuat), dan boson W dan Z (pembawa gaya nuklir lemah). Boson Higgs, yang bertanggung jawab atas massa partikel lain, juga merupakan boson. .... Teori medan kuantum (TFT) adalah kerangka teoretis yang menggabungkan mekanika kuantum dengan relativitas khusus dan teori medan klasik. Ini menggambarkan partikel dasar sebagai eksitasi medan kuantum, entitas fisik yang ada di setiap titik dalam ruang-waktu.TFT menyediakan cara yang konsisten untuk menggambarkan penciptaan dan pemusnahan partikel, dan telah sangat sukses dalam menjelaskan interaksi fundamental.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Sebuah benda bermassa 2 kg jatuh bebas dari ketinggian 10 m. Berapa kecepatannya tepat sebelum menyentuh tanah? (g = 9.8 m/s²)",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "9.8 m/s"
+                        },
+                        {
+                            "id": "b",
+                            "text": "14 m/s"
+                        },
+                        {
+                            "id": "c",
+                            "text": "19.6 m/s"
+                        },
+                        {
+                            "id": "d",
+                            "text": "4.9 m/s"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Gunakan kekekalan energi mekanik: mgh = 1/2mv². Massa m dibatalkan, sehingga v = akar(2gh) = akar(2 * 9.8 m/s² * 10 m) ≈ 14 m/s."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Fisi nuklir adalah proses yang menggerakkan bintang.",
+                    "correct_answer": false,
+                    "explanation": "Fusi nuklir, bukan fisi, adalah proses yang menggerakkan bintang."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Suatu partikel memiliki energi kinetik 100 J dan massa 2 kg. Berapa kecepatannya?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "5 m/s"
+                        },
+                        {
+                            "id": "b",
+                            "text": "10 m/s"
+                        },
+                        {
+                            "id": "c",
+                            "text": "20 m/s"
+                        },
+                        {
+                            "id": "d",
+                            "text": "100 m/s"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Gunakan rumus untuk energi kinetik, KE = 1/2mv², dan selesaikan untuk v: v = akar(2*KE/m) = akar(2 * 100 J / 2 kg) = 10 m/s."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah dari berikut ini yang merupakan konsekuensi dari relativitas khusus?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Dilatasi waktu"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kontraksi panjang"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kuantisasi energi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kekekalan energi mekanik"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Dilatasi waktu dan kontraksi panjang adalah konsekuensi dari relativitas khusus."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Sudut kritis untuk antarmuka antara dua media transparan adalah sudut datang di mana sudut bias adalah 90 derajat. Jika indeks bias medium pertama adalah 1.5 dan indeks bias medium kedua adalah 1.2, berapa besar sudut kritis?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Tidak ada sudut kritis"
+                        },
+                        {
+                            "id": "b",
+                            "text": "30 derajat"
+                        },
+                        {
+                            "id": "c",
+                            "text": "45 derajat"
+                        },
+                        {
+                            "id": "d",
+                            "text": "56.4 derajat"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Sudut kritis hanya ada ketika cahaya merambat dari medium yang lebih padat secara optik (indeks bias lebih tinggi) ke medium yang kurang padat secara optik (indeks bias lebih rendah). Dalam kasus ini, cahaya merambat dari medium dengan indeks bias 1.5 ke medium dengan indeks bias 1.2, sehingga tidak ada sudut kritis. Pembiasan total internal tidak akan terjadi."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sistem operasi (OS) adalah perangkat lunak sistem yang mengelola perangkat keras komputer dan menyediakan layanan umum untuk program komputer. Kernel adalah inti dari sistem operasi. Kernel bertanggung jawab untuk mengelola sumber daya sistem. Sistem operasi modern mendukung multitasking, yang memungkinkan banyak program berjalan secara bersamaan. x64 adalah arsitektur prosesor 64-bit yang digunakan oleh kebanyakan komputer modern. Arsitektur x64 memungkinkan sistem operasi untuk mengakses lebih banyak memori daripada arsitektur 32-bit. Partisi disk adalah bagian logis dari hard disk drive yang diformat dengan sistem file.  Bootloader adalah program kecil yang dimuat saat komputer dinyalakan. Bootloader bertanggung jawab untuk memuat kernel sistem operasi ke dalam memori.  Virtualisasi adalah teknologi yang memungkinkan beberapa sistem operasi berjalan pada satu komputer fisik.  Containerisasi adalah teknologi yang memungkinkan beberapa aplikasi berjalan dalam isolasi pada satu sistem operasi. Sistem file mendefinisikan bagaimana data disimpan dan diambil pada perangkat penyimpanan. FAT32 adalah sistem file yang lebih lama dengan batasan ukuran file 4GB. NTFS adalah sistem file modern yang digunakan oleh Windows dengan dukungan untuk ukuran file yang lebih besar dan fitur keamanan yang lebih baik. Sistem operasi mengelola memori virtual dengan menukar halaman memori antara RAM dan disk. Paging memungkinkan sistem operasi untuk menjalankan program yang lebih besar dari memori fisik yang tersedia.  Interrupt adalah sinyal yang dikirim ke prosesor untuk menunjukkan bahwa suatu peristiwa membutuhkan perhatian.  Driver perangkat adalah program yang memungkinkan sistem operasi untuk berkomunikasi dengan perangkat keras.  BIOS (Basic Input/Output System) adalah firmware yang dijalankan saat komputer dinyalakan. BIOS menginisialisasi perangkat keras dan memuat bootloader. UEFI (Unified Extensible Firmware Interface) adalah pengganti modern untuk BIOS dengan fitur keamanan dan manajemen boot yang lebih baik.  Manajemen proses melibatkan penjadwalan dan alokasi sumber daya untuk proses yang berjalan.  Algoritma penjadwalan menentukan proses mana yang mendapatkan akses ke CPU.  Deadlock adalah situasi di mana dua atau lebih proses saling menunggu untuk melepaskan sumber daya yang mereka pegang.  Kernel mengelola ruang alamat proses, mencegah satu proses dari mengakses memori yang dialokasikan untuk proses lain.  Manajemen file melibatkan organisasi dan akses ke file pada perangkat penyimpanan.  Sistem operasi menyediakan antarmuka pengguna grafis (GUI) atau antarmuka baris perintah (CLI) untuk berinteraksi dengan pengguna.   API (Application Programming Interface) memungkinkan pengembang perangkat lunak untuk menggunakan layanan yang disediakan oleh sistem operasi.  Keamanan sistem operasi melindungi sistem dari akses yang tidak sah dan malware.  Firewall adalah sistem keamanan jaringan yang memantau dan mengontrol lalu lintas jaringan masuk dan keluar berdasarkan aturan keamanan yang telah ditentukan sebelumnya.  Sistem operasi menyediakan layanan jaringan untuk komunikasi antar komputer.  Stack jaringan adalah implementasi dari protokol jaringan TCP/IP yang memungkinkan komunikasi antar komputer.  Kinerja sistem operasi dipengaruhi oleh faktor-faktor seperti kecepatan CPU, jumlah RAM, dan kecepatan disk.  Optimasi sistem operasi dapat meningkatkan kinerja dengan mengurangi overhead dan penggunaan sumber daya.  Sistem operasi yang berbeda dirancang untuk tujuan yang berbeda.  Sistem operasi desktop seperti Windows dan macOS dirancang untuk penggunaan umum.  Sistem operasi server seperti Linux dirancang untuk menjalankan layanan jaringan.  Sistem operasi seluler seperti Android dan iOS dirancang untuk perangkat seluler.  Sistem operasi real-time dirancang untuk aplikasi yang membutuhkan waktu respons yang dapat diprediksi.  Sistem operasi embedded dirancang untuk perangkat dengan sumber daya terbatas.  Pengembangan sistem operasi terus berkembang dengan fitur dan teknologi baru.  Sistem operasi cloud dirancang untuk berjalan di lingkungan cloud.  Kecerdasan buatan dan pembelajaran mesin semakin terintegrasi ke dalam sistem operasi.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah sistem memiliki 4GB RAM dan menjalankan program berukuran 6GB, berapa banyak memori virtual yang dibutuhkan minimal (asumsikan overhead diabaikan)?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "2GB"
+                        },
+                        {
+                            "id": "b",
+                            "text": "4GB"
+                        },
+                        {
+                            "id": "c",
+                            "text": "6GB"
+                        },
+                        {
+                            "id": "d",
+                            "text": "10GB"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Memori virtual minimal yang dibutuhkan adalah selisih antara ukuran program dan RAM fisik, yaitu 6GB - 4GB = 2GB."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Sistem file FAT32 lebih modern dan lebih aman daripada NTFS.",
+                    "correct_answer": false,
+                    "explanation": "NTFS lebih modern dan aman daripada FAT32. FAT32 memiliki batasan ukuran file dan fitur keamanan yang lebih sedikit."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa perbedaan utama antara virtualisasi dan containerisasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Virtualisasi menjalankan beberapa OS pada satu mesin fisik, sementara containerisasi menjalankan beberapa aplikasi terisolasi pada satu OS."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Virtualisasi lebih aman daripada containerisasi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Containerisasi lebih efisien dalam penggunaan sumber daya daripada virtualisasi."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Virtualisasi hanya digunakan untuk server, sementara containerisasi hanya digunakan untuk aplikasi desktop."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Perbedaan utama terletak pada bagaimana mereka mengisolasi dan menjalankan perangkat lunak. Virtualisasi membuat mesin virtual yang masing-masing menjalankan OS lengkap, sedangkan containerisasi berbagi kernel OS host."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk komponen penting dari sebuah sistem operasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kernel"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Bootloader"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Driver perangkat"
+                        },
+                        {
+                            "id": "d",
+                            "text": "BIOS/UEFI"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Firewall"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Kernel, bootloader, dan driver perangkat adalah komponen inti OS. BIOS/UEFI adalah firmware, dan firewall adalah bagian dari sistem keamanan, bukan sistem operasi itu sendiri."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah CPU memiliki kecepatan clock 2GHz dan setiap instruksi membutuhkan rata-rata 4 siklus clock, berapa banyak instruksi yang dapat dieksekusi oleh CPU dalam 1 detik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "500 juta"
+                        },
+                        {
+                            "id": "b",
+                            "text": "1 miliar"
+                        },
+                        {
+                            "id": "c",
+                            "text": "2 miliar"
+                        },
+                        {
+                            "id": "d",
+                            "text": "8 miliar"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "CPU dapat mengeksekusi 2 miliar siklus clock per detik (2GHz). Karena setiap instruksi membutuhkan 4 siklus, CPU dapat mengeksekusi 2 miliar / 4 = 500 juta instruksi per detik."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sebuah sistem operasi (OS) modern bertanggung jawab untuk mengelola sumber daya perangkat keras dan menyediakan layanan untuk program aplikasi. Kernel, sebagai jantung dari OS, mengontrol akses ke CPU, memori, dan perangkat I/O.  Sistem file, seperti NTFS dan ext4, mengatur penyimpanan data pada disk. Proses dijadwalkan oleh kernel untuk berbagi waktu CPU secara adil.  Thread memungkinkan eksekusi konkuren dalam satu proses.  Virtualisasi memungkinkan beberapa OS berjalan di satu mesin fisik, meningkatkan pemanfaatan sumber daya. Containerisasi, seperti Docker, mengisolasi aplikasi dengan dependensi mereka, menyederhanakan penerapan.  Manajemen memori melibatkan alokasi dan dealokasi memori untuk proses. Teknik paging memungkinkan penggunaan memori virtual yang lebih besar dari RAM fisik. Perlindungan memori mencegah satu proses mengganggu memori proses lain.  Sistem operasi menangani interupsi dari perangkat keras untuk merespons peristiwa eksternal.  Driver perangkat menyediakan antarmuka standar untuk berinteraksi dengan perangkat keras yang berbeda.  BIOS atau UEFI menginisialisasi perangkat keras saat boot dan memuat bootloader.  Bootloader kemudian memuat kernel OS ke dalam memori.  Antarmuka pengguna, baik GUI maupun CLI, memungkinkan pengguna untuk berinteraksi dengan sistem. API menyediakan fungsi yang dapat digunakan oleh pengembang aplikasi. Keamanan adalah aspek penting dari OS, dengan mekanisme untuk otentikasi pengguna dan kontrol akses file.  Jaringan memungkinkan komputer untuk berkomunikasi satu sama lain, dengan OS mengelola stack protokol jaringan.  Kinerja OS dioptimalkan untuk kecepatan dan efisiensi.  Sistem operasi yang berbeda dirancang untuk kasus penggunaan yang berbeda, dari sistem embedded hingga server perusahaan.  Arsitektur mikrokernel mendelegasikan layanan OS ke proses server, meningkatkan modularitas dan ketahanan.  Sistem operasi modern sering menyertakan fitur seperti virtualisasi, containerisasi, dan dukungan untuk perangkat keras multi-core.  Kernel mengimplementasikan mekanisme sinkronisasi, seperti mutex dan semaphore, untuk mengoordinasikan akses ke sumber daya bersama oleh beberapa thread atau proses.  Teknik alokasi memori, seperti alokasi dinamis dan alokasi statis, digunakan untuk mengelola memori secara efisien.  Sistem operasi juga mengelola sistem file, yang menyediakan cara untuk mengatur dan menyimpan file di perangkat penyimpanan.  Sistem operasi berinteraksi dengan perangkat keras melalui driver perangkat, yang merupakan program perangkat lunak yang memungkinkan OS untuk berkomunikasi dengan perangkat keras tertentu.  Antarmuka pengguna grafis (GUI) menyediakan antarmuka visual bagi pengguna untuk berinteraksi dengan sistem, sementara antarmuka baris perintah (CLI) memungkinkan pengguna untuk berinteraksi dengan sistem melalui perintah teks.  API (Application Programming Interfaces) menyediakan sekumpulan fungsi dan prosedur yang dapat digunakan oleh pengembang perangkat lunak untuk mengakses layanan sistem operasi.  Keamanan sistem operasi sangat penting untuk melindungi sistem dari ancaman eksternal, seperti malware dan serangan jaringan.  Sistem operasi modern sering menyertakan firewall dan mekanisme keamanan lainnya untuk melindungi sistem dari akses yang tidak sah.  Jaringan adalah komponen penting dari banyak sistem operasi, memungkinkan komputer untuk berkomunikasi satu sama lain dan berbagi sumber daya.  Kinerja sistem operasi dipengaruhi oleh berbagai faktor, termasuk kecepatan CPU, jumlah RAM, dan kecepatan perangkat penyimpanan.  Sistem operasi yang berbeda dioptimalkan untuk kasus penggunaan yang berbeda, seperti penggunaan desktop, server, atau perangkat seluler. Pemilihan sistem operasi yang tepat bergantung pada kebutuhan spesifik pengguna atau aplikasi.  Pengembangan sistem operasi terus berkembang, dengan tren baru seperti komputasi awan, virtualisasi, dan containerisasi yang membentuk masa depan sistem operasi.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Sebuah proses memiliki 4 thread yang berjalan bersamaan. Jika setiap thread membutuhkan 25% dari waktu CPU, berapa total waktu CPU yang digunakan oleh proses tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "25%"
+                        },
+                        {
+                            "id": "b",
+                            "text": "50%"
+                        },
+                        {
+                            "id": "c",
+                            "text": "75%"
+                        },
+                        {
+                            "id": "d",
+                            "text": "100%"
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Meskipun setiap thread menggunakan 25% waktu CPU, mereka berjalan bersamaan, sehingga total penggunaan CPU adalah 100%."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Paging memungkinkan program yang lebih besar dari RAM fisik untuk berjalan.",
+                    "correct_answer": true,
+                    "explanation": "Paging memindahkan bagian program yang tidak aktif ke disk, memungkinkan program yang lebih besar untuk dijalankan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa tujuan utama dari driver perangkat?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menyediakan antarmuka standar untuk berinteraksi dengan perangkat keras."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mengontrol akses ke CPU."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengatur penyimpanan data pada disk."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menjadwalkan proses."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Driver perangkat memungkinkan OS untuk berkomunikasi dengan perangkat keras tanpa perlu mengetahui detail spesifik perangkat keras tersebut."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan teknik alokasi memori?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Alokasi statis"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Alokasi dinamis"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Alokasi otomatis"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Alokasi eksplisit"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Alokasi statis dilakukan pada waktu kompilasi, sedangkan alokasi dinamis dilakukan pada waktu proses."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah disk memiliki kapasitas 1TB dan dipartisi menjadi 4 partisi yang sama, berapa ukuran masing-masing partisi dalam GB?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "128GB"
+                        },
+                        {
+                            "id": "b",
+                            "text": "256GB"
+                        },
+                        {
+                            "id": "c",
+                            "text": "512GB"
+                        },
+                        {
+                            "id": "d",
+                            "text": "1024GB"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "1TB sama dengan 1024GB. Jika dibagi menjadi 4 partisi yang sama, masing-masing partisi akan berukuran 1024GB / 4 = 256GB."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Kernel, jantung dari sistem operasi, bertugas mengatur akses ke sumber daya sistem seperti CPU, memori, dan perangkat I/O.  Ia bertindak sebagai jembatan antara perangkat keras dan perangkat lunak, memungkinkan aplikasi untuk berinteraksi dengan perangkat keras melalui abstraksi yang disediakan kernel.  Kernel mengimplementasikan penjadwalan proses, yang menentukan proses mana yang mendapatkan akses ke CPU dan kapan.  Algoritma penjadwalan yang berbeda, seperti Round Robin dan Priority Scheduling, digunakan untuk memastikan pembagian waktu CPU yang adil dan efisien.  Kernel juga mengelola memori virtual, yang memungkinkan program untuk menggunakan lebih banyak memori daripada yang tersedia secara fisik.  Paging adalah teknik yang digunakan untuk mengimplementasikan memori virtual, di mana memori dibagi menjadi halaman-halaman yang dapat ditukar antara RAM dan disk.  Kernel juga bertanggung jawab untuk manajemen perangkat I/O, menyediakan driver perangkat yang memungkinkan OS untuk berkomunikasi dengan perangkat keras yang berbeda.  Sistem file, seperti FAT32, NTFS, dan ext4, digunakan untuk mengatur dan menyimpan file pada perangkat penyimpanan.  Bootloader adalah program kecil yang dimuat saat komputer dinyalakan, yang bertanggung jawab untuk memuat kernel OS ke dalam memori.  BIOS atau UEFI adalah firmware yang dijalankan saat komputer dinyalakan, yang menginisialisasi perangkat keras dan memuat bootloader.  Antarmuka pengguna, seperti GUI dan CLI, memungkinkan pengguna untuk berinteraksi dengan sistem. API menyediakan antarmuka pemrograman untuk pengembang aplikasi.  Keamanan sistem operasi melindungi sistem dari akses yang tidak sah dan malware.  Firewall adalah komponen penting dari keamanan sistem operasi, yang memantau dan mengontrol lalu lintas jaringan.  Jaringan memungkinkan komunikasi antar komputer, dan kernel mengelola stack protokol jaringan. Kinerja sistem operasi dipengaruhi oleh faktor-faktor seperti kecepatan CPU, jumlah RAM, dan kecepatan disk.  Virtualisasi dan containerisasi adalah teknologi yang meningkatkan pemanfaatan sumber daya. Arsitektur mikrokernel meningkatkan modularitas dan ketahanan.  Sistem operasi modern mendukung multi-core processing, memungkinkan eksekusi konkuren dari beberapa thread.  Kernel menggunakan mekanisme sinkronisasi untuk mengoordinasikan akses ke sumber daya bersama.  Alokasi memori yang efisien sangat penting untuk kinerja sistem operasi.  Sistem operasi mengelola file dan direktori pada perangkat penyimpanan.  Driver perangkat memungkinkan OS untuk berkomunikasi dengan perangkat keras.  GUI dan CLI menyediakan cara yang berbeda bagi pengguna untuk berinteraksi dengan sistem. API memungkinkan pengembang untuk mengakses layanan OS. Keamanan OS melindungi sistem dari ancaman.  Jaringan memungkinkan komunikasi antar komputer.  Kinerja OS dipengaruhi oleh kecepatan perangkat keras.  Virtualisasi dan containerisasi meningkatkan pemanfaatan sumber daya. Arsitektur mikrokernel meningkatkan modularitas.  Sistem operasi modern mendukung multi-core processing. Kernel menggunakan mekanisme sinkronisasi.  Alokasi memori yang efisien penting. Sistem operasi mengelola file.  Driver perangkat penting. GUI dan CLI penting. API penting. Keamanan OS penting. Jaringan penting. Kinerja OS penting. Virtualisasi dan containerisasi penting. Arsitektur mikrokernel penting. Sistem operasi modern penting. Kernel penting.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah sistem operasi menggunakan algoritma penjadwalan Round Robin dengan quantum time 10ms dan terdapat 4 proses yang siap dijalankan, berapa lama waktu yang dibutuhkan setiap proses untuk mendapatkan giliran CPU pertama kali?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "10ms"
+                        },
+                        {
+                            "id": "b",
+                            "text": "20ms"
+                        },
+                        {
+                            "id": "c",
+                            "text": "30ms"
+                        },
+                        {
+                            "id": "d",
+                            "text": "40ms"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Dengan 4 proses dan quantum time 10ms, setiap proses akan menunggu 3 proses lain untuk menyelesaikan quantum time mereka sebelum mendapatkan giliran, sehingga 3 * 10ms = 30ms."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Mikrokernel lebih rentan terhadap crash daripada kernel monolitik.",
+                    "correct_answer": false,
+                    "explanation": "Karena mikrokernel menjalankan layanan OS di ruang pengguna, crash pada satu layanan tidak akan mempengaruhi kernel secara keseluruhan, membuatnya lebih tahan crash."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama dari bootloader?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Memuat kernel sistem operasi ke dalam memori."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Mengatur akses ke CPU."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menyediakan antarmuka pengguna."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengendalikan akses ke perangkat I/O."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Bootloader adalah tahap awal proses booting yang bertugas memuat kernel OS."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam komponen keamanan sistem operasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Firewall"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Otentikasi pengguna"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Driver perangkat"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Sistem file"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Firewall dan otentikasi pengguna adalah bagian dari sistem keamanan OS."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah hard disk berputar pada 7200 RPM (revolutions per minute), berapa lama waktu yang dibutuhkan untuk satu putaran penuh dalam milidetik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "8.33ms"
+                        },
+                        {
+                            "id": "b",
+                            "text": "16.67ms"
+                        },
+                        {
+                            "id": "c",
+                            "text": "72ms"
+                        },
+                        {
+                            "id": "d",
+                            "text": "7200ms"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Ada 60.000 milidetik dalam satu menit.  Satu putaran membutuhkan waktu 60.000ms / 7200 RPM = 8.33ms."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Sistem operasi (OS) modern adalah kumpulan perangkat lunak kompleks yang bertindak sebagai perantara antara pengguna dan perangkat keras komputer.  Kernel, inti dari OS, bertanggung jawab untuk manajemen sumber daya tingkat rendah, termasuk penjadwalan CPU, manajemen memori, dan operasi I/O. Kernel menyediakan abstraksi perangkat keras, sehingga program aplikasi tidak perlu berinteraksi langsung dengan perangkat keras tertentu. Arsitektur x86 dan x64 mendefinisikan set instruksi yang dapat dijalankan oleh CPU.  Sistem operasi modern mendukung multitasking, memungkinkan beberapa program berjalan secara bersamaan.  Multithreading memungkinkan satu program untuk menjalankan beberapa thread eksekusi secara bersamaan.  Virtualisasi memungkinkan beberapa sistem operasi berjalan pada satu mesin fisik, meningkatkan pemanfaatan sumber daya dan fleksibilitas.  Containerisasi, teknologi yang lebih baru, mengisolasi aplikasi dan dependensinya dalam container yang ringan, menyederhanakan deployment dan meningkatkan portabilitas. Sistem file, seperti NTFS, ext4, dan APFS, mengatur penyimpanan data pada hard drive dan SSD.  Partisi disk membagi hard drive menjadi beberapa bagian logis. Bootloader adalah program pertama yang dijalankan saat komputer dihidupkan, yang bertugas memuat kernel OS ke dalam memori.  BIOS atau UEFI menginisialisasi perangkat keras dan menjalankan bootloader.  Manajemen memori adalah fungsi penting dari OS, yang mengalokasikan dan membebaskan memori untuk proses yang berbeda.  Paging dan segmentasi adalah teknik manajemen memori yang memungkinkan program untuk mengakses lebih banyak memori daripada yang tersedia secara fisik.  Perlindungan memori mencegah satu program dari mengakses memori yang dialokasikan untuk program lain.  Sistem operasi menangani interupsi dari perangkat keras, yang merupakan sinyal yang menandakan bahwa suatu peristiwa membutuhkan perhatian.  Driver perangkat adalah program perangkat lunak yang memungkinkan OS untuk berkomunikasi dengan perangkat keras tertentu.  Antarmuka pengguna (UI) menyediakan cara bagi pengguna untuk berinteraksi dengan sistem.  GUI menyediakan antarmuka visual, sedangkan CLI menyediakan antarmuka berbasis teks.  API memungkinkan pengembang perangkat lunak untuk mengakses layanan yang disediakan oleh OS.  Keamanan OS melindungi sistem dari akses yang tidak sah dan malware. Firewall mengontrol lalu lintas jaringan masuk dan keluar.  Jaringan memungkinkan komputer untuk berkomunikasi satu sama lain melalui protokol seperti TCP/IP. Stack jaringan adalah implementasi dari protokol ini.  Kinerja OS dipengaruhi oleh faktor-faktor seperti kecepatan CPU, jumlah RAM, dan kecepatan disk.  Optimasi OS dapat meningkatkan kinerja dengan mengurangi overhead.  Sistem operasi yang berbeda dirancang untuk tujuan yang berbeda, dari sistem embedded hingga server cloud.  Arsitektur mikrokernel mendelegasikan layanan OS ke proses server, meningkatkan modularitas dan ketahanan.  Sistem operasi modern sering menyertakan fitur seperti virtualisasi, containerisasi, dan dukungan untuk perangkat keras multi-core.  Kernel mengimplementasikan mekanisme sinkronisasi, seperti mutex dan semaphore, untuk mengoordinasikan akses ke sumber daya bersama oleh beberapa thread atau proses.  Teknik alokasi memori yang efisien sangat penting untuk kinerja OS.  Sistem file menyediakan cara untuk mengatur dan menyimpan file di perangkat penyimpanan. Driver perangkat memungkinkan OS untuk berkomunikasi dengan perangkat keras.  UI menyediakan cara bagi pengguna untuk berinteraksi dengan sistem. API memungkinkan pengembang untuk mengakses layanan OS.  Keamanan OS penting untuk melindungi sistem dari ancaman.  Jaringan memungkinkan komunikasi antar komputer.  Kinerja OS dipengaruhi oleh kecepatan perangkat keras.  Virtualisasi dan containerisasi meningkatkan pemanfaatan sumber daya.  Arsitektur mikrokernel meningkatkan modularitas dan ketahanan.  Sistem operasi modern mendukung multi-core processing.  Kernel menggunakan mekanisme sinkronisasi.  Alokasi memori yang efisien penting.  Sistem operasi mengelola file. Driver perangkat penting. UI penting. API penting. Keamanan penting. Jaringan penting. Kinerja penting. Virtualisasi dan containerisasi penting. Arsitektur mikrokernel penting. Sistem operasi modern penting. Kernel penting.   Manajemen daya penting untuk perangkat seluler.  Aksesibilitas penting bagi pengguna penyandang disabilitas.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah sistem memiliki 2 core CPU dan 4 thread siap dijalankan, berapa banyak thread yang dapat berjalan secara bersamaan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "1"
+                        },
+                        {
+                            "id": "b",
+                            "text": "2"
+                        },
+                        {
+                            "id": "c",
+                            "text": "3"
+                        },
+                        {
+                            "id": "d",
+                            "text": "4"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Hanya 2 thread yang dapat berjalan secara bersamaan, satu di setiap core."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Containerisasi lebih ringan dan portabel daripada virtualisasi.",
+                    "correct_answer": true,
+                    "explanation": "Container berbagi kernel OS host, membuatnya lebih ringan dan portabel."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa fungsi utama dari sistem file?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengatur penyimpanan data pada disk."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menjadwalkan proses."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menyediakan antarmuka pengguna."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengontrol akses ke perangkat I/O."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Sistem file menyediakan struktur untuk menyimpan dan mengambil data pada disk."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk teknik manajemen memori?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Paging"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Segmentasi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Caching"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Swapping"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Paging dan segmentasi adalah teknik manajemen memori. Swapping juga merupakan teknik manajemen memori yang memindahkan seluruh proses antara RAM dan disk."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah CPU memiliki kecepatan 2GHz dan menjalankan program yang membutuhkan 500 juta siklus clock, berapa lama waktu eksekusi program tersebut dalam milidetik?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "0.25ms"
+                        },
+                        {
+                            "id": "b",
+                            "text": "0.5ms"
+                        },
+                        {
+                            "id": "c",
+                            "text": "250ms"
+                        },
+                        {
+                            "id": "d",
+                            "text": "500ms"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "CPU mengeksekusi 2 miliar siklus per detik (2GHz).  Program membutuhkan 500 juta siklus, jadi waktu eksekusi adalah (500 juta / 2 miliar) detik = 0.25 detik = 250 milidetik."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Jaringan saraf tiruan (JST) adalah model komputasi yang terinspirasi oleh struktur dan fungsi otak manusia. JST terdiri dari sejumlah besar unit pemrosesan sederhana yang disebut neuron, yang saling terhubung dan diatur dalam lapisan-lapisan. Setiap koneksi antar neuron memiliki bobot yang terkait, yang menentukan kekuatan koneksi. JST belajar dengan menyesuaikan bobot ini berdasarkan data pelatihan.  Proses pembelajaran melibatkan pemberian input ke jaringan dan membandingkan output yang dihasilkan dengan output yang diinginkan. Perbedaan antara output yang dihasilkan dan output yang diinginkan disebut kesalahan. JST kemudian menyesuaikan bobotnya untuk meminimalkan kesalahan ini. Proses ini diulang untuk sejumlah besar data pelatihan hingga jaringan mencapai kinerja yang diinginkan.  JST dapat digunakan untuk berbagai tugas, termasuk klasifikasi, regresi, dan pengenalan pola.  Convolutional Neural Networks (CNN) adalah jenis JST khusus yang dirancang untuk memproses data gambar. CNN menggunakan lapisan konvolusional untuk mengekstrak fitur dari gambar.  Recurrent Neural Networks (RNN) adalah jenis JST lain yang dirancang untuk memproses data sekuensial, seperti teks atau ucapan. RNN memiliki koneksi berulang yang memungkinkan mereka untuk menyimpan informasi dari langkah waktu sebelumnya.  Long Short-Term Memory (LSTM) networks adalah jenis RNN khusus yang dapat mempelajari dependensi jangka panjang dalam data sekuensial.  JST telah mencapai hasil yang canggih di berbagai bidang, termasuk penglihatan komputer, pemrosesan bahasa alami, dan robotika.  Deep learning adalah subbidang pembelajaran mesin yang menggunakan JST dengan banyak lapisan (deep neural networks).  Deep learning telah merevolusi banyak bidang, termasuk pengenalan gambar, terjemahan mesin, dan mobil self-driving.  Pelatihan JST yang mendalam membutuhkan sejumlah besar data dan daya komputasi.  GPU (Graphics Processing Units) sering digunakan untuk mempercepat proses pelatihan.  Overfitting adalah masalah umum dalam pelatihan JST, di mana jaringan berkinerja sangat baik pada data pelatihan tetapi buruk pada data yang tidak terlihat.  Regularisasi adalah teknik yang digunakan untuk mencegah overfitting.  Dropout adalah teknik regularisasi di mana neuron secara acak dihapus selama pelatihan.  Optimasi adalah proses menemukan bobot terbaik untuk JST.  Gradient descent adalah algoritma optimasi yang umum digunakan.  Backpropagation adalah algoritma yang digunakan untuk menghitung gradien kesalahan sehubungan dengan bobot.  Fungsi aktivasi memperkenalkan nonlinieritas ke dalam JST.  ReLU (Rectified Linear Unit) adalah fungsi aktivasi yang umum digunakan.  Arsitektur JST dapat sangat bervariasi tergantung pada tugas.  Pemilihan arsitektur, fungsi aktivasi, dan algoritma optimasi yang tepat sangat penting untuk keberhasilan pelatihan JST.  Evaluasi kinerja JST dilakukan menggunakan metrik seperti akurasi, presisi, dan recall.  JST adalah alat yang ampuh untuk pembelajaran mesin dan memiliki potensi untuk merevolusi banyak bidang. Penelitian dan pengembangan di bidang JST terus berlanjut, dengan arsitektur dan algoritma baru yang terus dikembangkan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan 'kesalahan' dalam konteks pelatihan JST?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Perbedaan antara output yang dihasilkan dan output yang diinginkan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Jumlah neuron dalam jaringan."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kecepatan pembelajaran jaringan."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Jenis fungsi aktivasi yang digunakan."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Kesalahan adalah metrik yang digunakan untuk mengukur seberapa baik JST memprediksi output yang benar."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "CNN lebih cocok untuk memproses data sekuensial daripada RNN.",
+                    "correct_answer": false,
+                    "explanation": "RNN dirancang untuk data sekuensial, sementara CNN untuk data gambar."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa tujuan dari dropout dalam pelatihan JST?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mencegah overfitting."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Meningkatkan kecepatan pelatihan."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Mengurangi jumlah neuron dalam jaringan."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengubah fungsi aktivasi."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Dropout membantu mencegah overfitting dengan memaksa jaringan untuk belajar fitur yang lebih umum."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk jenis JST?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "CNN"
+                        },
+                        {
+                            "id": "b",
+                            "text": "RNN"
+                        },
+                        {
+                            "id": "c",
+                            "text": "SVM"
+                        },
+                        {
+                            "id": "d",
+                            "text": "K-Means"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "CNN dan RNN adalah jenis JST, sedangkan SVM dan K-Means adalah algoritma pembelajaran mesin yang berbeda."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika dataset pelatihan memiliki 1000 gambar dan batch size yang digunakan adalah 100, berapa banyak iterasi yang dibutuhkan untuk menyelesaikan satu epoch?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "1"
+                        },
+                        {
+                            "id": "b",
+                            "text": "10"
+                        },
+                        {
+                            "id": "c",
+                            "text": "100"
+                        },
+                        {
+                            "id": "d",
+                            "text": "1000"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Satu epoch berarti satu kali seluruh dataset dilatih. Dengan 1000 gambar dan batch size 100, dibutuhkan 1000/100 = 10 iterasi per epoch."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Pemrograman berorientasi objek (OOP) adalah paradigma pemrograman yang berfokus pada konsep objek, yang menggabungkan data (atribut) dan kode yang beroperasi pada data tersebut (metode).  Prinsip-prinsip dasar OOP meliputi enkapsulasi, pewarisan, dan polimorfisme.  Enkapsulasi menyembunyikan detail implementasi internal suatu objek dan hanya memperlihatkan antarmuka publik.  Pewarisan memungkinkan pembuatan kelas baru (kelas turunan) yang mewarisi atribut dan metode dari kelas yang sudah ada (kelas dasar).  Polimorfisme memungkinkan objek dari kelas yang berbeda untuk merespons pesan yang sama dengan cara yang berbeda.  Abstraksi adalah konsep penting dalam OOP, yang menyederhanakan interaksi dengan objek dengan menyembunyikan detail yang tidak perlu.  Kelas adalah blueprint untuk membuat objek. Objek adalah instance dari kelas.  Konstruktor adalah metode khusus yang dipanggil saat objek dibuat.  Destruktor adalah metode khusus yang dipanggil saat objek dihancurkan.  Method overloading memungkinkan kelas untuk memiliki beberapa metode dengan nama yang sama tetapi dengan parameter yang berbeda.  Method overriding memungkinkan kelas turunan untuk menyediakan implementasi yang berbeda dari metode yang diwarisi dari kelas dasar.  Interface mendefinisikan sekumpulan metode yang harus diimplementasikan oleh kelas.  Abstract class adalah kelas yang tidak dapat diinstansiasi secara langsung dan dimaksudkan untuk diwarisi oleh kelas lain.  Polimorfisme dicapai melalui method overriding dan interface.  Exception handling memungkinkan program untuk menangani kesalahan dan melanjutkan eksekusi.  Penggunaan OOP dapat meningkatkan modularitas, reusabilitas, dan maintainabilitas kode.  Bahasa pemrograman OOP yang populer termasuk Java, C++, Python, dan C#.  Design patterns adalah solusi umum untuk masalah desain perangkat lunak yang berulang.  SOLID principles adalah seperangkat prinsip desain untuk OOP yang mempromosikan kode yang fleksibel, maintainable, dan dapat diuji.  Dependency injection adalah teknik di mana dependensi suatu objek disediakan secara eksternal, bukan dibuat oleh objek itu sendiri.  Unit testing adalah proses pengujian unit-unit kode secara terpisah untuk memastikan mereka berfungsi dengan benar.  OOP adalah paradigma pemrograman yang kuat yang banyak digunakan dalam pengembangan perangkat lunak modern.  OOP memungkinkan pengembang untuk membuat kode yang lebih terstruktur, mudah dibaca, dan mudah dipelihara.  Prinsip-prinsip OOP seperti enkapsulasi, pewarisan, dan polimorfisme memungkinkan kode yang lebih fleksibel dan dapat digunakan kembali.  Banyak framework dan library populer dibangun menggunakan prinsip-prinsip OOP.  Pemahaman yang baik tentang OOP sangat penting bagi pengembang perangkat lunak modern.  Konsep-konsep OOP seperti abstraksi, enkapsulasi, pewarisan, dan polimorfisme membentuk dasar dari banyak bahasa pemrograman dan framework modern.  Penerapan prinsip-prinsip OOP yang tepat dapat menghasilkan kode yang lebih berkualitas, mudah dipelihara, dan mudah diuji.  OOP adalah paradigma pemrograman yang terus berkembang dengan konsep dan teknik baru yang terus bermunculan.  Pengembang perangkat lunak harus terus belajar dan beradaptasi dengan perkembangan terbaru dalam OOP untuk tetap relevan di industri.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan enkapsulasi dalam OOP?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menyembunyikan detail implementasi internal suatu objek."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Membuat kelas baru yang mewarisi dari kelas yang sudah ada."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Memungkinkan objek dari kelas yang berbeda merespons pesan yang sama dengan cara yang berbeda."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menyederhanakan interaksi dengan objek."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Enkapsulasi melindungi data internal objek dari akses langsung dari luar."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Sebuah abstract class dapat diinstansiasi secara langsung.",
+                    "correct_answer": false,
+                    "explanation": "Abstract class dirancang untuk diwarisi, bukan diinstansiasi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa perbedaan antara method overloading dan method overriding?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Overloading memiliki beberapa metode dengan nama yang sama tetapi parameter berbeda, overriding memiliki implementasi berbeda pada kelas turunan."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Overloading digunakan untuk pewarisan, overriding digunakan untuk polimorfisme."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Overloading terjadi pada kelas dasar, overriding terjadi pada kelas turunan."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Tidak ada perbedaan."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Ini adalah perbedaan kunci antara overloading dan overriding."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan prinsip SOLID?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Single Responsibility Principle"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Open/Closed Principle"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Liskov Substitution Principle"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Interface Segregation Principle"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Dependency Inversion Principle"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d",
+                        "e"
+                    ],
+                    "explanation": "Semua pilihan yang tertera merupakan prinsip SOLID."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah kelas memiliki 3 atribut integer dan 2 atribut double, berapa banyak byte memori yang dibutuhkan oleh satu objek dari kelas tersebut (asumsikan integer 4 byte dan double 8 byte)?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "14 byte"
+                        },
+                        {
+                            "id": "b",
+                            "text": "20 byte"
+                        },
+                        {
+                            "id": "c",
+                            "text": "28 byte"
+                        },
+                        {
+                            "id": "d",
+                            "text": "32 byte"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "(3 integer * 4 byte/integer) + (2 double * 8 byte/double) = 12 byte + 16 byte = 28 byte."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Basis data adalah kumpulan data terstruktur yang terorganisir dan disimpan secara sistematis, biasanya secara elektronik dalam sistem komputer. Basis data dikelola oleh sistem manajemen basis data (DBMS), yang merupakan perangkat lunak yang memungkinkan pengguna untuk mendefinisikan, membuat, memelihara, dan mengontrol akses ke basis data. Basis data relasional adalah jenis basis data yang paling umum, yang mengatur data dalam tabel dengan baris dan kolom.  Setiap baris mewakili satu record, dan setiap kolom mewakili satu atribut.  Skema basis data mendefinisikan struktur tabel, termasuk nama kolom, tipe data, dan batasan.  SQL (Structured Query Language) adalah bahasa standar untuk berinteraksi dengan basis data relasional.  Perintah SQL digunakan untuk membuat, memodifikasi, dan menghapus tabel, serta untuk mengambil dan memanipulasi data.  Normalisasi adalah proses mengorganisir data dalam basis data untuk mengurangi redundansi dan meningkatkan integritas data.  Ada beberapa bentuk normal, seperti bentuk normal pertama (1NF), bentuk normal kedua (2NF), dan bentuk normal ketiga (3NF).  Indeks adalah struktur data yang meningkatkan kecepatan pengambilan data.  Kunci primer adalah kolom atau sekumpulan kolom yang secara unik mengidentifikasi setiap baris dalam tabel.  Kunci asing adalah kolom atau sekumpulan kolom yang mereferensikan kunci primer di tabel lain, menciptakan hubungan antar tabel.  Integritas referensial memastikan bahwa kunci asing dalam satu tabel selalu merujuk ke kunci primer yang valid di tabel lain.  Transaksi adalah urutan operasi basis data yang diperlakukan sebagai satu unit kerja.  ACID properties (Atomicity, Consistency, Isolation, Durability) memastikan keandalan transaksi.  DBMS menyediakan mekanisme kontrol konkurensi untuk mengelola akses bersamaan ke basis data oleh banyak pengguna.  Backup dan recovery adalah proses penting untuk melindungi data dari kehilangan atau kerusakan.  Replikasi basis data menciptakan salinan basis data untuk meningkatkan ketersediaan dan kinerja.  Basis data NoSQL adalah alternatif untuk basis data relasional, yang dirancang untuk menangani data tidak terstruktur dan semi-terstruktur.  Big data mengacu pada kumpulan data yang sangat besar dan kompleks yang sulit diproses dengan metode tradisional.  Cloud databases adalah basis data yang dihosting di platform cloud.  Basis data memainkan peran penting dalam banyak aplikasi, mulai dari aplikasi web hingga sistem perusahaan.  Desain basis data yang baik sangat penting untuk kinerja dan skalabilitas aplikasi.  Pengembang basis data harus memiliki pemahaman yang kuat tentang konsep basis data dan SQL.  Keamanan basis data adalah aspek penting untuk melindungi data sensitif dari akses yang tidak sah.  Pengembangan basis data terus berkembang dengan teknologi baru seperti basis data NoSQL, big data, dan cloud databases. Basis data relasional masih banyak digunakan, tetapi basis data NoSQL semakin populer untuk aplikasi tertentu.  Pengembang basis data harus terus belajar dan beradaptasi dengan perkembangan terbaru dalam teknologi basis data.  Optimasi query sangat penting untuk kinerja basis data.  Indeks dapat secara signifikan meningkatkan kecepatan query.  DBMS menyediakan alat untuk memantau dan menganalisis kinerja basis data.  Pemahaman yang baik tentang normalisasi sangat penting untuk desain basis data yang baik.  Integritas data penting untuk memastikan keakuratan dan konsistensi data.  Transaksi memastikan bahwa operasi basis data dilakukan secara andal. Kontrol konkurensi mencegah konflik data saat banyak pengguna mengakses basis data secara bersamaan.  Backup dan recovery melindungi data dari kehilangan atau kerusakan.  Replikasi basis data meningkatkan ketersediaan dan kinerja.  Basis data NoSQL menawarkan fleksibilitas dan skalabilitas untuk menangani data tidak terstruktur.  Big data menghadirkan tantangan unik untuk pemrosesan dan analisis data.  Cloud databases menawarkan skalabilitas dan ketersediaan tinggi.  Basis data adalah komponen penting dari banyak aplikasi modern.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan normalisasi dalam konteks basis data?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Proses mengorganisir data untuk mengurangi redundansi dan meningkatkan integritas data."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Bahasa standar untuk berinteraksi dengan basis data."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Struktur data yang meningkatkan kecepatan pengambilan data."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kolom yang secara unik mengidentifikasi setiap baris dalam tabel."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Normalisasi bertujuan untuk mengurangi redundansi dan meningkatkan integritas data."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Kunci asing harus selalu merujuk ke kunci primer di tabel yang sama.",
+                    "correct_answer": false,
+                    "explanation": "Kunci asing merujuk ke kunci primer di tabel lain."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa kepanjangan dari ACID dalam konteks transaksi basis data?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Atomicity, Consistency, Isolation, Durability"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Accuracy, Completeness, Integrity, Dependability"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Availability, Confidentiality, Integrity, Durability"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Atomicity, Consistency, Integrity, Security"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "ACID properties menjamin keandalan transaksi basis data."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk jenis basis data?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Basis data relasional"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Basis data NoSQL"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Basis data hierarkis"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Basis data jaringan"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Semua pilihan yang tertera adalah jenis basis data."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah tabel memiliki 1000 baris dan sebuah query membutuhkan waktu 10ms untuk mengambil 100 baris, berapa lama waktu yang dibutuhkan untuk mengambil semua baris (asumsikan waktu pengambilan linier)?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "1ms"
+                        },
+                        {
+                            "id": "b",
+                            "text": "10ms"
+                        },
+                        {
+                            "id": "c",
+                            "text": "100ms"
+                        },
+                        {
+                            "id": "d",
+                            "text": "1000ms"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Jika 100 baris membutuhkan 10ms, maka 1000 baris membutuhkan 10ms * (1000/100) = 100ms."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Keamanan jaringan adalah praktik melindungi infrastruktur jaringan dan data dari akses yang tidak sah, penyalahgunaan, kerusakan, modifikasi, penghancuran, atau pengungkapan yang tidak sah. Ini melibatkan penerapan berbagai teknologi, proses, dan praktik terbaik untuk memastikan kerahasiaan, integritas, dan ketersediaan (CIA triad) sumber daya jaringan. Keamanan jaringan sangat penting untuk bisnis dari semua ukuran, karena pelanggaran keamanan dapat mengakibatkan kerugian finansial, kerusakan reputasi, dan masalah hukum.  Firewall adalah komponen penting dari keamanan jaringan, yang bertindak sebagai penghalang antara jaringan internal dan jaringan eksternal, seperti internet. Firewall memeriksa lalu lintas jaringan masuk dan keluar dan memblokir lalu lintas yang tidak sah berdasarkan aturan yang telah ditentukan.  Sistem deteksi intrusi (IDS) memantau lalu lintas jaringan untuk aktivitas yang mencurigakan dan memberi tahu administrator sistem jika ada potensi pelanggaran keamanan.  Sistem pencegahan intrusi (IPS) mengambil langkah lebih lanjut dengan secara aktif memblokir atau menghentikan lalu lintas berbahaya.  Virtual Private Network (VPN) menciptakan koneksi aman dan terenkripsi melalui jaringan publik, seperti internet, memungkinkan pengguna untuk mengakses sumber daya jaringan secara aman dari lokasi terpencil.  Enkripsi data mengubah data menjadi format yang tidak dapat dibaca untuk melindungi kerahasiaannya.  Algoritma enkripsi seperti AES dan RSA digunakan untuk mengenkripsi dan mendekripsi data.  Otentikasi pengguna memverifikasi identitas pengguna sebelum memberikan akses ke sumber daya jaringan.  Kata sandi, token, dan biometrik adalah metode umum untuk otentikasi pengguna.  Kontrol akses membatasi akses ke sumber daya jaringan berdasarkan peran pengguna dan izin.  Prinsip hak istimewa terkecil memberikan pengguna akses minimum yang diperlukan untuk melakukan tugas mereka.  Keamanan nirkabel melindungi jaringan nirkabel dari akses yang tidak sah.  WPA2 dan WPA3 adalah protokol keamanan nirkabel yang umum digunakan.  Analisis kerentanan mengidentifikasi kelemahan dalam sistem jaringan yang dapat dieksploitasi oleh penyerang.  Penetration testing mensimulasikan serangan dunia nyata untuk menguji efektivitas langkah-langkah keamanan jaringan.  Pembaruan perangkat lunak secara teratur sangat penting untuk menambal kerentanan keamanan yang diketahui.  Pelatihan kesadaran keamanan bagi pengguna dapat membantu mencegah serangan phishing dan rekayasa sosial.  Perencanaan pemulihan bencana memastikan bahwa bisnis dapat memulihkan operasi mereka setelah terjadi pelanggaran keamanan atau bencana alam.  Keamanan fisik melindungi perangkat keras jaringan dari akses yang tidak sah.  Pusat operasi keamanan (SOC) memantau keamanan jaringan dan merespons insiden keamanan.  Keamanan jaringan adalah proses yang berkelanjutan yang membutuhkan pemantauan dan peningkatan berkelanjutan untuk tetap mengikuti ancaman yang berkembang.  Teknologi baru, seperti kecerdasan buatan (AI) dan pembelajaran mesin (ML), digunakan untuk meningkatkan keamanan jaringan.  Keamanan cloud adalah area yang berkembang pesat, yang berfokus pada perlindungan data dan aplikasi yang disimpan di cloud.  Keamanan jaringan sangat penting untuk melindungi data dan sistem dari ancaman siber.  Organisasi harus berinvestasi dalam langkah-langkah keamanan jaringan yang kuat dan mendidik pengguna mereka tentang praktik terbaik keamanan.  Masa depan keamanan jaringan kemungkinan akan melibatkan lebih banyak otomatisasi, AI, dan ML untuk mendeteksi dan merespons ancaman secara real-time.  Keamanan jaringan adalah bidang yang terus berkembang, dan profesional keamanan harus terus belajar dan beradaptasi untuk tetap berada di depan ancaman yang berkembang.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa tujuan utama dari firewall dalam keamanan jaringan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Memblokir lalu lintas jaringan yang tidak sah."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Memantau lalu lintas jaringan untuk aktivitas yang mencurigakan."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Membuat koneksi aman melalui jaringan publik."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Mengenkripsi data untuk melindungi kerahasiaannya."
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Firewall bertindak sebagai barrier dan memfilter lalu lintas jaringan."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "IDS secara aktif memblokir lalu lintas berbahaya, sedangkan IPS hanya mendeteksinya.",
+                    "correct_answer": false,
+                    "explanation": "IPS yang secara aktif memblokir, sedangkan IDS hanya mendeteksi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa kepanjangan dari CIA triad dalam keamanan informasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Confidentiality, Integrity, Availability"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Central Intelligence Agency"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Cybersecurity, Infrastructure, Applications"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Control, Identification, Authentication"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "CIA triad adalah tiga prinsip dasar keamanan informasi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk metode otentikasi pengguna?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kata sandi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Token"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Enkripsi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Biometrik"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Kata sandi, token, dan biometrik digunakan untuk otentikasi."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika sebuah perusahaan mengalami kerugian $10.000 per jam akibat downtime jaringan, dan sebuah serangan siber menyebabkan downtime selama 4 jam, berapa total kerugian yang dialami perusahaan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "$10.000"
+                        },
+                        {
+                            "id": "b",
+                            "text": "$20.000"
+                        },
+                        {
+                            "id": "c",
+                            "text": "$40.000"
+                        },
+                        {
+                            "id": "d",
+                            "text": "$80.000"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Kerugian total adalah $10.000/jam * 4 jam = $40.000."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Cloud computing adalah pengiriman layanan komputasi—termasuk server, penyimpanan, basis data, jaringan, perangkat lunak, analitik, dan intelijen—melalui Internet (“cloud”). Cloud computing menawarkan inovasi yang lebih cepat, sumber daya yang fleksibel, dan skala ekonomi. Anda biasanya hanya membayar untuk layanan cloud yang Anda gunakan, membantu menurunkan biaya operasi Anda, menjalankan infrastruktur Anda dengan lebih efisien, dan meningkatkan skala saat kebutuhan bisnis Anda berubah.  Ada berbagai jenis layanan cloud, masing-masing menawarkan tingkat kontrol, fleksibilitas, dan manajemen yang berbeda.  Infrastructure as a Service (IaaS) menyediakan akses ke sumber daya komputasi dasar seperti server virtual, penyimpanan, dan jaringan. Pengguna memiliki kendali penuh atas sistem operasi dan aplikasi mereka.  Platform as a Service (PaaS) menyediakan platform untuk pengembang untuk membangun, menjalankan, dan mengelola aplikasi tanpa perlu mengelola infrastruktur yang mendasarinya.  Software as a Service (SaaS) menyediakan aplikasi perangkat lunak yang dihosting di cloud dan diakses melalui internet. Pengguna biasanya berlangganan aplikasi ini.  Cloud computing menawarkan banyak manfaat, termasuk skalabilitas, ketersediaan tinggi, penghematan biaya, dan peningkatan kolaborasi.  Skalabilitas memungkinkan pengguna untuk dengan mudah meningkatkan atau menurunkan sumber daya komputasi mereka sesuai kebutuhan.  Ketersediaan tinggi memastikan bahwa aplikasi dan data selalu tersedia, bahkan jika terjadi kegagalan perangkat keras.  Penghematan biaya dicapai dengan hanya membayar untuk sumber daya yang digunakan dan mengurangi kebutuhan akan investasi infrastruktur di tempat.  Cloud computing memfasilitasi kolaborasi dengan memungkinkan banyak pengguna untuk mengakses dan bekerja pada data dan aplikasi yang sama dari mana saja di dunia.  Ada berbagai penyedia layanan cloud, termasuk Amazon Web Services (AWS), Microsoft Azure, dan Google Cloud Platform (GCP).  Setiap penyedia menawarkan berbagai layanan dan harga.  Keamanan cloud adalah pertimbangan penting saat menggunakan cloud computing.  Penyedia cloud dan pengguna berbagi tanggung jawab untuk keamanan.  Pengguna bertanggung jawab untuk mengamankan data dan aplikasi mereka, sementara penyedia cloud bertanggung jawab untuk mengamankan infrastruktur yang mendasarinya.  Migrasi ke cloud adalah proses memindahkan aplikasi dan data dari infrastruktur di tempat ke cloud.  Ada berbagai strategi migrasi, termasuk rehosting, refactoring, dan replatforming.  Cloud computing telah merevolusi cara bisnis beroperasi dan telah menjadi teknologi penting bagi banyak organisasi.  Cloud computing memungkinkan bisnis untuk berinovasi lebih cepat, meningkatkan kelincahan, dan mengurangi biaya.  Masa depan cloud computing terus berkembang, dengan teknologi baru seperti serverless computing, edge computing, dan AI/ML yang membentuk lanskap cloud.  Cloud computing adalah pendorong utama transformasi digital dan akan terus memainkan peran penting dalam inovasi dan pertumbuhan bisnis.  Organisasi harus mengevaluasi kebutuhan mereka dan memilih layanan cloud yang tepat untuk memenuhi kebutuhan spesifik mereka.  Keamanan, tata kelola, dan kepatuhan adalah pertimbangan penting saat menggunakan cloud computing.  Cloud computing menawarkan berbagai peluang bagi bisnis dari semua ukuran untuk meningkatkan operasi mereka dan mencapai tujuan bisnis mereka.  Cloud computing telah menjadi teknologi yang mengganggu, yang mengubah cara bisnis mengelola TI dan mendorong inovasi.  Dengan cloud computing, bisnis dapat fokus pada kompetensi inti mereka dan membiarkan penyedia cloud mengelola infrastruktur TI mereka.  Cloud computing terus berkembang, dan bisnis harus tetap mengikuti tren dan teknologi terbaru untuk memaksimalkan manfaat cloud.  Cloud computing adalah pengubah permainan bagi bisnis dari semua ukuran, menawarkan skalabilitas, fleksibilitas, dan penghematan biaya yang tak tertandingi.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa model layanan cloud yang menyediakan akses ke sumber daya komputasi dasar seperti server virtual dan penyimpanan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "IaaS"
+                        },
+                        {
+                            "id": "b",
+                            "text": "PaaS"
+                        },
+                        {
+                            "id": "c",
+                            "text": "SaaS"
+                        },
+                        {
+                            "id": "d",
+                            "text": "None of the above"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "IaaS memberikan kontrol paling besar atas sumber daya komputasi."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Dalam SaaS, pengguna bertanggung jawab untuk mengelola sistem operasi dan aplikasi.",
+                    "correct_answer": false,
+                    "explanation": "Dalam SaaS, penyedia cloud mengelola segalanya, pengguna hanya mengakses aplikasi."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa manfaat utama dari ketersediaan tinggi dalam cloud computing?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mengurangi biaya."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Meningkatkan kolaborasi."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Memastikan aplikasi dan data selalu tersedia."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Memungkinkan peningkatan atau penurunan sumber daya dengan mudah."
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Ketersediaan tinggi menjamin akses konstan ke layanan cloud."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk penyedia layanan cloud utama?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "AWS"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Azure"
+                        },
+                        {
+                            "id": "c",
+                            "text": "GCP"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Oracle Cloud"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "d"
+                    ],
+                    "explanation": "Semua pilihan yang tertera adalah penyedia layanan cloud utama."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika biaya penyimpanan cloud adalah $0,02 per GB per bulan, dan sebuah perusahaan menyimpan 5TB data selama 6 bulan, berapa total biaya penyimpanan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "$600"
+                        },
+                        {
+                            "id": "b",
+                            "text": "$1200"
+                        },
+                        {
+                            "id": "c",
+                            "text": "$6000"
+                        },
+                        {
+                            "id": "d",
+                            "text": "$12000"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "5TB = 5120GB. Biaya per bulan: 5120GB * $0,02/GB = $102,4.  Total biaya selama 6 bulan: $102,4/bulan * 6 bulan = $614.4. Karena pilihan terdekat adalah $600, maka jawabannya adalah $600."
+                }
+            ]
+        }
+    }
+]

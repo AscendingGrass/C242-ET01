@@ -1,0 +1,1189 @@
+[
+    {
+        "context": "Dalam matematika, aljabar linear adalah studi tentang vektor dan ruang vektor. Vektor adalah besaran yang memiliki magnitudo dan arah. Ruang vektor adalah kumpulan vektor yang memenuhi aksioma tertentu. Aljabar linear digunakan dalam berbagai bidang, termasuk fisika, ilmu komputer, dan ekonomi. Salah satu konsep kunci dalam aljabar linear adalah matriks. Matriks adalah susunan angka yang disusun dalam baris dan kolom. Matriks digunakan untuk merepresentasikan transformasi linear, yang merupakan fungsi yang memetakan satu vektor ke vektor lain. Aljabar linear juga mempelajari sistem persamaan linear. Sistem persamaan linear adalah kumpulan persamaan yang melibatkan variabel yang tidak diketahui. Sistem persamaan linear dapat diselesaikan menggunakan berbagai metode, termasuk eliminasi Gauss dan eliminasi Gauss-Jordan. Geometri adalah cabang matematika yang mempelajari bentuk, ukuran, posisi relatif gambar, dan sifat-sifat ruang. Geometri berasal dari kata Yunani geo yang berarti \"bumi\" dan metria yang berarti \"pengukuran\". Geometri dibagi menjadi dua cabang utama: geometri bidang dan geometri padat. Geometri bidang mempelajari bangun datar dua dimensi, seperti garis, lingkaran, dan segitiga. Geometri padat mempelajari bangun ruang tiga dimensi, seperti kubus, bola, dan kerucut. Kalkulus adalah cabang matematika yang mempelajari perubahan. Kalkulus dikembangkan secara independen pada akhir abad ke-17 oleh Isaac Newton dan Gottfried Wilhelm Leibniz. Kalkulus dibagi menjadi dua cabang utama: kalkulus diferensial dan kalkulus integral. Kalkulus diferensial mempelajari laju perubahan fungsi, sedangkan kalkulus integral mempelajari akumulasi besaran, seperti luas, volume, dan panjang busur. Kalkulus digunakan dalam berbagai bidang, termasuk fisika, teknik, dan ekonomi. Dalam kalkulus diferensial, turunan dari suatu fungsi adalah ukuran seberapa cepat nilai fungsi berubah seiring perubahan inputnya. Secara geometris, turunan di suatu titik sama dengan kemiringan garis singgung grafik fungsi di titik tersebut. Dalam kalkulus integral, integral dari suatu fungsi adalah ukuran luas di bawah kurva fungsi. Integral juga dapat digunakan untuk menghitung volume dan panjang busur. Kalkulus adalah alat yang ampuh untuk memecahkan masalah yang melibatkan perubahan, dan telah merevolusi banyak bidang sains dan teknik.  Ada banyak aplikasi kalkulus dalam kehidupan nyata, termasuk dalam fisika, teknik, dan ekonomi.  Misalnya, kalkulus dapat digunakan untuk memodelkan gerakan benda, menghitung luas dan volume, dan mengoptimalkan fungsi.  Dengan memahami konsep-konsep dasar kalkulus, kita dapat lebih memahami dunia di sekitar kita.Trigonometri adalah cabang matematika yang mempelajari hubungan antara sudut dan sisi-sisi segitiga.  Trigonometri berasal dari kata Yunani trigonon yang berarti \"segitiga\" dan metron yang berarti \"ukuran\".  Trigonometri digunakan dalam berbagai bidang, termasuk navigasi, survei, dan astronomi. Ada enam fungsi trigonometri utama: sinus, cosinus, tangen, kotangen, cosecan, dan secan.  Fungsi-fungsi ini didefinisikan dalam istilah sudut dan sisi-sisi segitiga siku-siku.  Sinus dari suatu sudut adalah perbandingan sisi yang berhadapan dengan sudut dengan sisi miring. Cosinus dari suatu sudut adalah perbandingan sisi yang berdekatan dengan sudut dengan sisi miring. Tangen dari suatu sudut adalah perbandingan sisi yang berhadapan dengan sudut dengan sisi yang berdekatan dengan sudut.  Trigonometri digunakan untuk memecahkan berbagai masalah yang melibatkan segitiga, seperti menemukan panjang sisi atau ukuran sudut.  Trigonometri juga digunakan dalam berbagai aplikasi lain, seperti dalam fisika, teknik, dan musik.Statistika adalah cabang matematika yang berkaitan dengan pengumpulan, pengorganisasian, analisis, interpretasi, dan penyajian data.  Statistika digunakan dalam berbagai bidang, termasuk bisnis, perawatan kesehatan, dan ilmu sosial. Ada dua jenis utama statistik: statistik deskriptif dan statistik inferensial. Statistik deskriptif digunakan untuk meringkas dan menggambarkan data, sedangkan statistik inferensial digunakan untuk membuat kesimpulan tentang suatu populasi berdasarkan sampel data.  Statistika adalah alat yang ampuh untuk memahami dan menginterpretasikan data, dan digunakan dalam berbagai aplikasi.  Misalnya, statistik dapat digunakan untuk melacak tren, membuat prediksi, dan menguji hipotesis.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam aljabar linear?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Vektor dan ruang vektor"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Bentuk dan ukuran bangun"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Perubahan dan laju perubahan"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Pengumpulan dan analisis data"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Aljabar linear adalah studi tentang vektor dan ruang vektor, serta transformasi linear dan sistem persamaan linear."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Turunan dari suatu fungsi dalam kalkulus diferensial mengukur luas di bawah kurva fungsi tersebut.",
+                    "correct_answer": false,
+                    "explanation": "Turunan mengukur laju perubahan fungsi, bukan luas di bawah kurva. Luas di bawah kurva diukur oleh integral dalam kalkulus integral."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam trigonometri?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Hubungan antara sudut dan sisi-sisi segitiga"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Pengumpulan dan analisis data"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Sifat-sifat ruang"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Perubahan dan laju perubahan"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Trigonometri mempelajari hubungan antara sudut dan sisi-sisi segitiga."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Cabang matematika apa saja yang termasuk dalam kalkulus?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Kalkulus diferensial"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kalkulus integral"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Aljabar"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Geometri"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b"
+                    ],
+                    "explanation": "Kalkulus dibagi menjadi kalkulus diferensial dan kalkulus integral."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa perbedaan antara statistik deskriptif dan statistik inferensial?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Statistik deskriptif digunakan untuk meringkas data, sedangkan statistik inferensial digunakan untuk membuat kesimpulan tentang populasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Statistik deskriptif digunakan untuk membuat kesimpulan tentang populasi, sedangkan statistik inferensial digunakan untuk meringkas data"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Keduanya sama"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Tidak ada perbedaan yang signifikan"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Statistik deskriptif meringkas dan menggambarkan data, sedangkan statistik inferensial membuat kesimpulan tentang populasi berdasarkan sampel."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Dalam matematika diskrit, graf adalah struktur yang terdiri dari simpul (vertex) dan sisi (edge) yang menghubungkan simpul-simpul tersebut. Graf digunakan untuk memodelkan berbagai macam masalah, seperti jaringan sosial, jaringan transportasi, dan sirkuit elektronik.  Teori graf mempelajari sifat-sifat graf dan algoritma yang dapat digunakan untuk menganalisis dan memanipulasi graf. Ada berbagai jenis graf, termasuk graf berarah dan graf tak berarah, graf berbobot dan graf tak berbobot, serta graf terhubung dan graf tak terhubung.  Salah satu konsep kunci dalam teori graf adalah jalur, yang merupakan urutan simpul yang terhubung oleh sisi.  Siklus adalah jalur yang dimulai dan berakhir pada simpul yang sama.  Pohon adalah graf terhubung yang tidak mengandung siklus.  Algoritma Dijkstra adalah algoritma yang digunakan untuk menemukan jalur terpendek antara dua simpul dalam graf berbobot.  Teori graf memiliki banyak aplikasi dalam ilmu komputer, termasuk dalam desain algoritma, analisis jaringan, dan kecerdasan buatan. Kombinatorika adalah cabang matematika yang mempelajari cara menghitung atau menyusun objek-objek diskrit.  Objek diskrit adalah objek yang dapat dihitung, seperti bilangan bulat, huruf, dan graf. Kombinatorika digunakan dalam berbagai bidang, termasuk ilmu komputer, statistik, dan fisika.  Salah satu konsep kunci dalam kombinatorika adalah permutasi, yang merupakan susunan objek dalam urutan tertentu.  Kombinasi adalah pemilihan objek tanpa memperhatikan urutan.  Prinsip inklusi-eksklusi adalah teknik yang digunakan untuk menghitung jumlah elemen dalam gabungan beberapa himpunan. Kombinatorika memiliki banyak aplikasi dalam ilmu komputer, termasuk dalam analisis algoritma, kriptografi, dan teori informasi. Logika matematika adalah studi tentang penalaran matematika. Ini berkaitan dengan kebenaran dan bukti argumen matematika. Logika matematika digunakan dalam berbagai bidang, termasuk ilmu komputer, filsafat, dan linguistik. Salah satu konsep kunci dalam logika matematika adalah proposisi, yang merupakan pernyataan yang dapat berupa benar atau salah.  Operator logika, seperti konjungsi, disjungsi, implikasi, dan biimplikasi, digunakan untuk menggabungkan proposisi.  Tabel kebenaran digunakan untuk menentukan nilai kebenaran dari proposisi majemuk.  Sistem bukti formal digunakan untuk membuktikan teorema secara matematis. Logika matematika penting untuk pengembangan penalaran matematika yang ketat dan telah merevolusi banyak bidang matematika. Teori himpunan adalah cabang matematika yang mempelajari himpunan, yang merupakan kumpulan objek. Teori himpunan dikembangkan pada akhir abad ke-19 oleh Georg Cantor. Teori himpunan digunakan dalam berbagai bidang, termasuk matematika, ilmu komputer, dan filsafat. Salah satu konsep kunci dalam teori himpunan adalah keanggotaan himpunan, yang menunjukkan apakah suatu objek termasuk dalam suatu himpunan atau tidak.  Operasi himpunan, seperti gabungan, irisan, dan komplemen, digunakan untuk menggabungkan dan memanipulasi himpunan.  Diagram Venn digunakan untuk memvisualisasikan hubungan antara himpunan.  Aksioma teori himpunan, seperti aksioma ekstensionalitas dan aksioma pemilihan, memberikan dasar formal untuk teori himpunan.  Teori himpunan adalah dasar dari banyak cabang matematika dan telah merevolusi cara kita berpikir tentang matematika. Teori bilangan adalah cabang matematika yang mempelajari bilangan bulat. Teori bilangan adalah salah satu cabang matematika tertua dan telah dipelajari selama ribuan tahun.  Salah satu konsep kunci dalam teori bilangan adalah bilangan prima, yang merupakan bilangan bulat yang lebih besar dari 1 yang hanya habis dibagi 1 dan dirinya sendiri.  Teorema dasar aritmatika menyatakan bahwa setiap bilangan bulat yang lebih besar dari 1 dapat direpresentasikan secara unik sebagai produk dari bilangan prima.  Kongruensi adalah relasi ekivalen pada bilangan bulat yang digunakan untuk mempelajari sifat-sifat bilangan bulat modulo n.  Teori bilangan memiliki banyak aplikasi dalam kriptografi, yang merupakan studi tentang teknik untuk mengamankan komunikasi. Geometri analitik adalah studi tentang geometri menggunakan sistem koordinat. Geometri analitik dikembangkan pada abad ke-17 oleh René Descartes dan Pierre de Fermat. Geometri analitik digunakan dalam berbagai bidang, termasuk fisika, teknik, dan ilmu komputer.  Salah satu konsep kunci dalam geometri analitik adalah sistem koordinat Kartesius, yang menggunakan dua sumbu yang saling tegak lurus untuk menentukan posisi titik dalam bidang.  Persamaan linier dan kuadrat digunakan untuk merepresentasikan garis dan kurva dalam bidang.  Geometri analitik adalah alat yang ampuh untuk memecahkan masalah geometri menggunakan aljabar.  Dalam geometri analitik, kita dapat menggunakan aljabar untuk memecahkan masalah geometri dan sebaliknya.  Geometri analitik telah merevolusi studi geometri dan telah menjadi alat penting dalam matematika modern. Kalkulus vektor adalah cabang kalkulus yang mempelajari fungsi vektor. Fungsi vektor adalah fungsi yang memetakan vektor ke vektor lain. Kalkulus vektor digunakan dalam berbagai bidang, termasuk fisika, teknik, dan ilmu komputer. Salah satu konsep kunci dalam kalkulus vektor adalah gradien, yang merupakan vektor yang menunjuk ke arah laju perubahan terbesar dari suatu fungsi skalar. Divergensi adalah skalar yang mengukur seberapa banyak medan vektor menyebar dari suatu titik. Curl adalah vektor yang mengukur seberapa banyak medan vektor berputar di sekitar suatu titik.  Kalkulus vektor adalah alat yang ampuh untuk memecahkan masalah yang melibatkan fungsi vektor, dan telah merevolusi banyak bidang sains dan teknik.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan graf dalam matematika diskrit?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Struktur yang terdiri dari simpul dan sisi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Himpunan objek diskrit"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pernyataan yang dapat berupa benar atau salah"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Bilangan bulat yang lebih besar dari 1 yang hanya habis dibagi 1 dan dirinya sendiri"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Graf adalah struktur yang terdiri dari simpul (vertex) dan sisi (edge) yang menghubungkan simpul-simpul tersebut."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Permutasi adalah pemilihan objek tanpa memperhatikan urutan.",
+                    "correct_answer": false,
+                    "explanation": "Permutasi memperhatikan urutan, sedangkan kombinasi tidak memperhatikan urutan."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam logika matematika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Penalaran matematika"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Himpunan objek"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Bilangan bulat"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Geometri menggunakan sistem koordinat"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Logika matematika adalah studi tentang penalaran matematika."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Konsep apa saja yang terkait dengan teori himpunan?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Keanggotaan himpunan"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Operasi himpunan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Diagram Venn"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Bilangan prima"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "explanation": "Keanggotaan himpunan, operasi himpunan, dan diagram Venn adalah konsep-konsep yang terkait dengan teori himpunan."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam kalkulus vektor?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Fungsi vektor"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Bilangan bulat"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Himpunan objek"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Penalaran matematika"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Kalkulus vektor mempelajari fungsi vektor, gradien, divergensi, dan curl."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Aljabar abstrak, juga dikenal sebagai aljabar modern, mempelajari struktur aljabar seperti grup, ring, dan field.  Grup adalah himpunan dengan operasi biner yang memenuhi aksioma tertentu, seperti asosiatif, keberadaan elemen identitas, dan keberadaan invers. Contoh grup termasuk bilangan bulat dengan operasi penjumlahan dan bilangan real bukan nol dengan operasi perkalian.  Ring adalah struktur aljabar dengan dua operasi biner, biasanya disebut penjumlahan dan perkalian, yang memenuhi aksioma tertentu.  Field adalah ring komutatif dengan elemen identitas perkalian di mana setiap elemen bukan nol memiliki invers perkalian. Contoh field termasuk bilangan rasional, bilangan real, dan bilangan kompleks. Aljabar abstrak memiliki aplikasi dalam berbagai bidang matematika, termasuk teori bilangan, geometri aljabar, dan topologi aljabar.  Topologi adalah studi tentang sifat-sifat geometris yang dipertahankan di bawah transformasi kontinu, seperti peregangan dan pembengkokan, tetapi bukan merobek atau menempel.  Topologi berkaitan dengan konsep-konsep seperti keterhubungan, kekompakan, dan kontinuitas.  Salah satu konsep kunci dalam topologi adalah homeomorfisme, yang merupakan fungsi bijektif kontinu antara dua ruang topologi yang inversnya juga kontinu.  Dua ruang topologi dikatakan homeomorfik jika terdapat homeomorfisme di antara keduanya.  Contoh ruang topologi termasuk garis real, bidang, dan bola.  Topologi memiliki aplikasi dalam berbagai bidang matematika, termasuk analisis, geometri, dan aljabar. Analisis matematika adalah cabang matematika yang berkaitan dengan konsep limit, turunan, integral, dan deret tak hingga.  Analisis matematika dikembangkan dari kalkulus, dan mencakup topik-topik seperti fungsi real, fungsi kompleks, kalkulus variasi, dan persamaan diferensial.  Salah satu konsep kunci dalam analisis matematika adalah limit, yang merupakan nilai yang didekati oleh suatu fungsi saat inputnya mendekati suatu nilai tertentu.  Turunan dari suatu fungsi adalah ukuran seberapa cepat nilai fungsi berubah seiring perubahan inputnya.  Integral dari suatu fungsi adalah ukuran luas di bawah kurva fungsi.  Deret tak hingga adalah jumlah dari tak hingga banyak suku.  Analisis matematika memiliki aplikasi dalam berbagai bidang, termasuk fisika, teknik, dan ekonomi. Geometri diferensial adalah studi tentang kurva dan permukaan menggunakan teknik kalkulus.  Geometri diferensial dikembangkan pada abad ke-19 oleh Carl Friedrich Gauss dan Bernhard Riemann.  Salah satu konsep kunci dalam geometri diferensial adalah kelengkungan, yang merupakan ukuran seberapa banyak kurva atau permukaan menyimpang dari garis lurus atau bidang.  Geometri diferensial memiliki aplikasi dalam berbagai bidang, termasuk fisika, teknik, dan grafik komputer. Teori peluang adalah cabang matematika yang mempelajari keakekalan dan ketidakpastian.  Teori peluang digunakan dalam berbagai bidang, termasuk statistik, ilmu komputer, dan fisika.  Salah satu konsep kunci dalam teori peluang adalah variabel acak, yang merupakan variabel yang nilainya merupakan hasil numerik dari fenomena acak.  Distribusi probabilitas adalah fungsi yang menjelaskan kemungkinan nilai yang diambil oleh variabel acak.  Nilai yang diharapkan dari variabel acak adalah rata-rata dari semua nilai yang mungkin diambil oleh variabel acak, dibobotkan dengan probabilitasnya.  Teori peluang adalah alat yang ampuh untuk memodelkan dan menganalisis fenomena acak. Statistik matematika adalah studi tentang statistik dari sudut pandang matematika.  Statistik matematika berkaitan dengan pengembangan dan penerapan metode statistik untuk menganalisis data.  Salah satu konsep kunci dalam statistik matematika adalah estimasi, yang merupakan proses inferensi nilai parameter populasi dari sampel data.  Pengujian hipotesis adalah proses untuk menentukan apakah ada cukup bukti untuk menolak hipotesis nol.  Interval kepercayaan adalah rentang nilai yang kemungkinan berisi nilai sebenarnya dari parameter populasi.  Statistik matematika adalah alat yang ampuh untuk menganalisis data dan membuat kesimpulan tentang populasi. Kombinatorika enumeratif adalah studi tentang menghitung jumlah objek yang memenuhi kondisi tertentu. Kombinatorika enumeratif digunakan dalam berbagai bidang, termasuk ilmu komputer, statistik, dan fisika. Salah satu konsep kunci dalam kombinatorika enumeratif adalah fungsi pembangkit, yang merupakan deret pangkat yang koefisiennya mewakili jumlah objek dari ukuran tertentu.  Prinsip inklusi-eksklusi adalah teknik yang digunakan untuk menghitung jumlah elemen dalam gabungan beberapa himpunan.  Kombinatorika enumeratif adalah alat yang ampuh untuk memecahkan masalah penghitungan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam aljabar abstrak?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Struktur aljabar seperti grup, ring, dan field"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Sifat-sifat geometris yang dipertahankan di bawah transformasi kontinu"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Konsep limit, turunan, integral, dan deret tak hingga"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Keacakan dan ketidakpastian"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Aljabar abstrak mempelajari struktur aljabar seperti grup, ring, dan field."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Homeomorfisme adalah fungsi bijektif kontinu antara dua ruang topologi yang inversnya juga kontinu.",
+                    "correct_answer": true,
+                    "explanation": "Ini adalah definisi dari homeomorfisme."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan turunan dari suatu fungsi dalam analisis matematika?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Ukuran seberapa cepat nilai fungsi berubah seiring perubahan inputnya"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Luas di bawah kurva fungsi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Jumlah dari tak hingga banyak suku"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Nilai yang didekati oleh suatu fungsi saat inputnya mendekati suatu nilai tertentu"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Turunan mengukur laju perubahan fungsi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Cabang matematika apa saja yang menggunakan konsep limit?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Analisis matematika"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Aljabar abstrak"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Topologi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kalkulus"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "d"
+                    ],
+                    "explanation": "Analisis matematika dan kalkulus menggunakan konsep limit."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dimaksud dengan nilai yang diharapkan dari variabel acak dalam teori peluang?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Rata-rata dari semua nilai yang mungkin diambil oleh variabel acak, dibobotkan dengan probabilitasnya"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Nilai yang paling mungkin diambil oleh variabel acak"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Rentang nilai yang kemungkinan berisi nilai sebenarnya dari parameter populasi"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Proses inferensi nilai parameter populasi dari sampel data"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Nilai yang diharapkan adalah rata-rata tertimbang dari semua nilai yang mungkin."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Persamaan kuadrat adalah persamaan polinomial berderajat dua. Bentuk umum persamaan kuadrat adalah ax² + bx + c = 0, di mana a, b, dan c adalah konstanta dan a ≠ 0.  Solusi persamaan kuadrat, yang juga dikenal sebagai akar, dapat ditemukan menggunakan berbagai metode, termasuk pemfaktoran, melengkapi kuadrat, dan rumus kuadrat. Rumus kuadrat menyatakan bahwa akar persamaan kuadrat ax² + bx + c = 0 diberikan oleh x = (-b ± √(b² - 4ac)) / 2a. Diskriminan persamaan kuadrat, b² - 4ac, dapat digunakan untuk menentukan sifat akarnya. Jika diskriminan positif, persamaan tersebut memiliki dua akar real yang berbeda. Jika diskriminan nol, persamaan tersebut memiliki satu akar real berulang. Jika diskriminan negatif, persamaan tersebut memiliki dua akar kompleks.  Grafik persamaan kuadrat adalah parabola.  Parabola dapat terbuka ke atas atau ke bawah, tergantung pada tanda koefisien a.  Titik puncak parabola adalah titik tertinggi atau terendah pada grafik, dan koordinatnya dapat ditemukan menggunakan rumus (-b/2a, f(-b/2a)).  Persamaan kuadrat memiliki banyak aplikasi dalam matematika dan ilmu pengetahuan lainnya, termasuk fisika, teknik, dan ekonomi.  Misalnya, persamaan kuadrat dapat digunakan untuk memodelkan lintasan proyektil, menghitung luas dan volume, dan memecahkan masalah optimasi.  Dalam fisika, persamaan kuadrat dapat digunakan untuk memodelkan gerakan benda di bawah pengaruh gravitasi.  Dalam teknik, persamaan kuadrat dapat digunakan untuk mendesain jembatan dan bangunan.  Dalam ekonomi, persamaan kuadrat dapat digunakan untuk memodelkan penawaran dan permintaan.  Persamaan kuadrat adalah alat matematika yang penting dan memiliki aplikasi yang luas di dunia nyata.  Dengan memahami konsep-konsep dasar persamaan kuadrat, kita dapat memecahkan berbagai macam masalah dalam berbagai bidang.  Untuk lebih memahami persamaan kuadrat, penting untuk berlatih memecahkan berbagai jenis soal persamaan kuadrat.  Contoh soal: Tentukan akar-akar persamaan x² - 5x + 6 = 0.  Solusi: Kita dapat memfaktorkan persamaan tersebut sebagai (x - 2)(x - 3) = 0.  Oleh karena itu, akar-akarnya adalah x = 2 dan x = 3.  Contoh soal: Tentukan titik puncak parabola yang didefinisikan oleh persamaan y = x² - 4x + 3.  Solusi: Koordinat x dari titik puncak diberikan oleh -b/2a = -(-4)/2(1) = 2.  Koordinat y dari titik puncak diberikan oleh f(2) = 2² - 4(2) + 3 = -1.  Oleh karena itu, titik puncak parabola adalah (2, -1).  Contoh soal: Sebuah bola dilempar ke atas dengan kecepatan awal 20 m/s. Ketinggian bola setelah t detik diberikan oleh persamaan h(t) = -5t² + 20t.  Kapan bola mencapai ketinggian maksimum?  Solusi: Koordinat t dari titik puncak diberikan oleh -b/2a = -20/2(-5) = 2.  Oleh karena itu, bola mencapai ketinggian maksimum setelah 2 detik. Sistem persamaan linear adalah kumpulan dua atau lebih persamaan linear yang melibatkan variabel yang sama. Sistem persamaan linear dapat diselesaikan menggunakan berbagai metode, termasuk eliminasi, substitusi, dan metode grafik. Eliminasi melibatkan penggabungan persamaan untuk menghilangkan satu variabel. Substitusi melibatkan pemecahan satu persamaan untuk satu variabel dan mengganti ekspresi yang dihasilkan ke persamaan lainnya. Metode grafik melibatkan pembuatan grafik persamaan dan menemukan titik potongnya. Sistem persamaan linear memiliki banyak aplikasi dalam matematika dan ilmu pengetahuan lainnya, termasuk fisika, teknik, dan ekonomi. Misalnya, sistem persamaan linear dapat digunakan untuk memecahkan masalah yang melibatkan campuran, jarak, dan kecepatan.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Tentukan akar-akar persamaan x² - 10x + 21 = 0.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "x = 3 dan x = 7"
+                        },
+                        {
+                            "id": "b",
+                            "text": "x = -3 dan x = -7"
+                        },
+                        {
+                            "id": "c",
+                            "text": "x = 2 dan x = 10.5"
+                        },
+                        {
+                            "id": "d",
+                            "text": "x = -2 dan x = -10.5"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Persamaan dapat difaktorkan menjadi (x - 3)(x - 7) = 0, sehingga akar-akarnya adalah x = 3 dan x = 7."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Jika diskriminan persamaan kuadrat negatif, persamaan tersebut memiliki dua akar real yang berbeda.",
+                    "correct_answer": false,
+                    "explanation": "Jika diskriminan negatif, persamaan tersebut memiliki dua akar kompleks."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Tentukan titik puncak parabola y = -2x² + 8x - 5.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "(2, 3)"
+                        },
+                        {
+                            "id": "b",
+                            "text": "(-2, -29)"
+                        },
+                        {
+                            "id": "c",
+                            "text": "(2, -5)"
+                        },
+                        {
+                            "id": "d",
+                            "text": "(-2, 3)"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Titik puncak parabola y = ax² + bx + c adalah (-b/2a, f(-b/2a)).  Dalam hal ini, -b/2a = -8 / (2 * -2) = 2, dan f(2) = -2(2)² + 8(2) - 5 = 3.  Jadi, titik puncaknya adalah (2, 3)."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Metode apa saja yang dapat digunakan untuk menyelesaikan sistem persamaan linear?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Eliminasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Substitusi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pemfaktoran"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Metode grafik"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Eliminasi, substitusi, dan metode grafik adalah metode yang umum digunakan untuk menyelesaikan sistem persamaan linear."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Sebuah roket diluncurkan secara vertikal ke atas. Ketinggian roket h (dalam meter) setelah t detik diberikan oleh persamaan h(t) = -4.9t² + 196t.  Berapa ketinggian maksimum yang dicapai roket?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "1960 meter"
+                        },
+                        {
+                            "id": "b",
+                            "text": "20 meter"
+                        },
+                        {
+                            "id": "c",
+                            "text": "98 meter"
+                        },
+                        {
+                            "id": "d",
+                            "text": "1920.8 meter"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Waktu untuk mencapai ketinggian maksimum adalah -b/2a = -196/(2*-4.9) = 20 detik.  Ketinggian maksimum adalah h(20) = -4.9(20)² + 196(20) = 1960 meter."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Barisan dan deret adalah konsep fundamental dalam matematika. Barisan adalah daftar angka yang berurutan, sedangkan deret adalah jumlah dari barisan. Barisan dapat berupa aritmatika, di mana perbedaan antara suku-suku yang berurutan adalah konstan, atau geometri, di mana rasio antara suku-suku yang berurutan adalah konstan.  Suku ke-n dari barisan aritmatika diberikan oleh an = a1 + (n-1)d, di mana a1 adalah suku pertama dan d adalah beda.  Jumlah n suku pertama dari barisan aritmatika diberikan oleh Sn = n/2(2a1 + (n-1)d) atau Sn = n/2(a1 + an).  Suku ke-n dari barisan geometri diberikan oleh an = a1 * r^(n-1), di mana a1 adalah suku pertama dan r adalah rasio.  Jumlah n suku pertama dari barisan geometri diberikan oleh Sn = a1(1 - r^n) / (1 - r) untuk r ≠ 1.  Jika |r| < 1, jumlah tak hingga dari barisan geometri diberikan oleh S∞ = a1 / (1 - r). Barisan dan deret memiliki banyak aplikasi dalam matematika dan ilmu pengetahuan lainnya, termasuk fisika, teknik, dan keuangan.  Misalnya, barisan dan deret dapat digunakan untuk memodelkan pertumbuhan populasi, menghitung bunga majemuk, dan menganalisis data deret waktu.  Dalam fisika, barisan dan deret dapat digunakan untuk memodelkan gerakan benda dan peluruhan radioaktif.  Dalam teknik, barisan dan deret dapat digunakan untuk menganalisis sirkuit listrik dan sistem kontrol.  Dalam keuangan, barisan dan deret dapat digunakan untuk menghitung nilai pinjaman dan investasi.  Memahami barisan dan deret sangat penting untuk memahami berbagai konsep matematika lainnya, seperti limit, turunan, dan integral.  Dengan mempelajari barisan dan deret, kita dapat mengembangkan keterampilan pemecahan masalah dan pemikiran kritis yang berharga.  Limit adalah konsep dasar dalam kalkulus dan analisis matematika. Limit suatu fungsi adalah nilai yang didekati oleh fungsi tersebut ketika variabel inputnya mendekati suatu nilai tertentu.  Limit dapat digunakan untuk mendefinisikan turunan dan integral, dan memainkan peran penting dalam memahami perilaku fungsi.  Notasi limit ditulis sebagai lim(x→c) f(x) = L, yang berarti limit fungsi f(x) ketika x mendekati c adalah L.  Limit dapat dievaluasi menggunakan berbagai teknik, termasuk substitusi langsung, pemfaktoran, dan aturan L'Hôpital.  Turunan suatu fungsi adalah ukuran seberapa cepat fungsi tersebut berubah seiring perubahan inputnya.  Secara geometris, turunan suatu fungsi pada suatu titik sama dengan kemiringan garis singgung grafik fungsi pada titik tersebut.  Turunan dapat digunakan untuk menemukan nilai maksimum dan minimum suatu fungsi, serta untuk memecahkan masalah optimasi.  Notasi turunan ditulis sebagai f'(x) atau df/dx.  Turunan dapat dihitung menggunakan berbagai aturan, seperti aturan pangkat, aturan rantai, dan aturan hasil kali.  Integral suatu fungsi adalah generalisasi dari luas di bawah kurva fungsi.  Integral dapat digunakan untuk menghitung luas, volume, dan panjang busur.  Integral juga dapat digunakan untuk memecahkan persamaan diferensial dan memodelkan fenomena fisik.  Notasi integral ditulis sebagai ∫f(x)dx.  Integral dapat dihitung menggunakan berbagai teknik, termasuk integrasi dengan substitusi dan integrasi parsial. Vektor adalah besaran yang memiliki magnitudo dan arah. Vektor dapat direpresentasikan secara geometris sebagai panah yang menunjuk dari satu titik ke titik lain.  Vektor dapat dijumlahkan dan dikalikan dengan skalar.  Penjumlahan vektor dilakukan dengan menambahkan komponen yang sesuai.  Perkalian skalar dilakukan dengan mengalikan setiap komponen vektor dengan skalar.  Vektor memiliki banyak aplikasi dalam fisika dan teknik, termasuk dalam mekanika, elektromagnetisme, dan grafik komputer.  Produk titik dari dua vektor adalah skalar yang sama dengan produk dari magnitudo vektor dan kosinus sudut di antara keduanya.  Produk silang dari dua vektor adalah vektor yang tegak lurus terhadap kedua vektor dan magnitudonya sama dengan produk dari magnitudo vektor dan sinus sudut di antara keduanya. Matriks adalah susunan angka, simbol, atau ekspresi, yang disusun dalam baris dan kolom. Matriks dapat dijumlahkan, dikurangi, dan dikalikan.  Penjumlahan dan pengurangan matriks dilakukan dengan menambahkan atau mengurangi elemen yang sesuai.  Perkalian matriks lebih kompleks dan melibatkan penjumlahan produk dari elemen dalam baris pertama matriks pertama dan kolom pertama matriks kedua, dan seterusnya.  Matriks memiliki banyak aplikasi dalam matematika dan ilmu pengetahuan lainnya, termasuk dalam aljabar linear, kalkulus, dan fisika.  Determinan suatu matriks adalah skalar yang dapat dihitung dari elemen-elemen matriks.  Determinan suatu matriks persegi adalah nol jika dan hanya jika matriks tersebut singular, artinya tidak memiliki invers.  Invers suatu matriks adalah matriks yang jika dikalikan dengan matriks aslinya menghasilkan matriks identitas. Transpose suatu matriks diperoleh dengan menukar baris dan kolomnya.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Tentukan suku ke-10 dari barisan aritmatika 2, 5, 8, 11, ...",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "29"
+                        },
+                        {
+                            "id": "b",
+                            "text": "32"
+                        },
+                        {
+                            "id": "c",
+                            "text": "26"
+                        },
+                        {
+                            "id": "d",
+                            "text": "35"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Suku pertama a1 = 2 dan beda d = 3. Suku ke-10 adalah a10 = a1 + (10-1)d = 2 + 9*3 = 29."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Jumlah tak hingga dari deret geometri 1 + 1/2 + 1/4 + 1/8 + ... adalah 2.",
+                    "correct_answer": true,
+                    "explanation": "Suku pertama a1 = 1 dan rasio r = 1/2. Jumlah tak hingga adalah S∞ = a1 / (1 - r) = 1 / (1 - 1/2) = 2."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Hitunglah nilai dari  ∫(2x + 3) dx dari 0 sampai 2.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "10"
+                        },
+                        {
+                            "id": "b",
+                            "text": "8"
+                        },
+                        {
+                            "id": "c",
+                            "text": "12"
+                        },
+                        {
+                            "id": "d",
+                            "text": "6"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "∫(2x + 3) dx = x² + 3x + C.  Dari 0 sampai 2, hasilnya adalah (2² + 3*2) - (0² + 3*0) = 10."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan contoh penerapan barisan dan deret?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Pertumbuhan populasi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Bunga majemuk"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menghitung luas lingkaran"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Analisis data deret waktu"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Pertumbuhan populasi, bunga majemuk, dan analisis data deret waktu adalah contoh penerapan barisan dan deret."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika vektor a = (2, 3) dan vektor b = (4, 1), tentukan produk titik a dan b.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "11"
+                        },
+                        {
+                            "id": "b",
+                            "text": "14"
+                        },
+                        {
+                            "id": "c",
+                            "text": "8"
+                        },
+                        {
+                            "id": "d",
+                            "text": "3"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Produk titik a dan b adalah (2 * 4) + (3 * 1) = 8 + 3 = 11."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Transformasi geometri adalah cara untuk mengubah posisi, ukuran, atau bentuk suatu bangun geometri.  Ada beberapa jenis transformasi geometri, termasuk translasi, rotasi, refleksi, dilatasi, dan transformasi geser. Translasi menggeser suatu bangun tanpa mengubah ukuran atau bentuknya.  Rotasi memutar suatu bangun di sekitar suatu titik.  Refleksi mencerminkan suatu bangun di sekitar suatu garis.  Dilatasi mengubah ukuran suatu bangun, memperbesar atau memperkecilnya.  Transformasi geser mendistorsi suatu bangun dengan menggeser titik-titiknya secara horizontal atau vertikal dengan jumlah yang sebanding dengan jaraknya dari suatu garis tetap.  Transformasi geometri memiliki banyak aplikasi dalam matematika, fisika, teknik, dan grafik komputer.  Mereka digunakan dalam desain, animasi, robotika, dan pemrosesan gambar.  Dalam matematika, transformasi geometri digunakan untuk mempelajari sifat-sifat bangun geometri dan hubungannya satu sama lain.  Dalam fisika, transformasi geometri digunakan untuk memodelkan gerakan benda dan transformasi energi.  Dalam teknik, transformasi geometri digunakan dalam desain struktur, mesin, dan sistem lainnya.  Dalam grafik komputer, transformasi geometri digunakan untuk memanipulasi gambar dan membuat efek visual.  Komposisi transformasi adalah penerapan dua atau lebih transformasi secara berurutan.  Urutan transformasi penting, karena komposisi transformasi tidak selalu komutatif, artinya urutan transformasi dapat memengaruhi hasil akhir.  Matriks transformasi digunakan untuk merepresentasikan transformasi geometri.  Perkalian matriks dapat digunakan untuk menggabungkan transformasi.  Transformasi geometri adalah alat yang ampuh untuk memanipulasi dan menganalisis bangun geometri. Mereka memungkinkan kita untuk mengubah dan mempelajari bangun geometri dengan cara yang sistematis dan tepat.  Dengan memahami konsep-konsep dasar transformasi geometri, kita dapat memecahkan berbagai macam masalah dalam berbagai bidang. Trigonometri adalah cabang matematika yang mempelajari hubungan antara sudut dan sisi-sisi segitiga.  Identitas trigonometri adalah persamaan yang melibatkan fungsi trigonometri yang benar untuk semua nilai variabel. Identitas ini dapat digunakan untuk menyederhanakan ekspresi trigonometri dan memecahkan persamaan trigonometri.  Beberapa identitas trigonometri yang umum termasuk identitas Pythagoras (sin²x + cos²x = 1), identitas sudut ganda (sin2x = 2sinxcosx), dan identitas setengah sudut (sinx/2 = ±√((1 - cosx)/2)). Trigonometri memiliki banyak aplikasi dalam matematika, fisika, teknik, dan navigasi. Dalam fisika, trigonometri digunakan untuk memodelkan gerakan gelombang dan osilasi. Dalam teknik, trigonometri digunakan untuk mendesain jembatan dan bangunan. Dalam navigasi, trigonometri digunakan untuk menentukan posisi dan arah. Kalkulus adalah cabang matematika yang mempelajari perubahan.  Kalkulus diferensial mempelajari laju perubahan fungsi, sedangkan kalkulus integral mempelajari akumulasi kuantitas.  Turunan suatu fungsi adalah ukuran seberapa cepat fungsi tersebut berubah seiring perubahan inputnya.  Integral suatu fungsi adalah generalisasi dari luas di bawah kurva fungsi. Kalkulus memiliki banyak aplikasi dalam matematika, fisika, teknik, dan ekonomi.  Dalam fisika, kalkulus digunakan untuk memodelkan gerakan benda dan perilaku fluida.  Dalam teknik, kalkulus digunakan untuk mendesain struktur dan mesin.  Dalam ekonomi, kalkulus digunakan untuk memodelkan pertumbuhan ekonomi dan perilaku pasar.  Bilangan kompleks adalah bilangan yang dapat dinyatakan dalam bentuk a + bi, di mana a dan b adalah bilangan real dan i adalah unit imajiner, yang didefinisikan sebagai √(-1).  Bilangan kompleks dapat dijumlahkan, dikurangi, dikalikan, dan dibagi seperti bilangan real.  Bilangan kompleks memiliki banyak aplikasi dalam matematika, fisika, dan teknik.  Dalam fisika, bilangan kompleks digunakan untuk memodelkan gelombang dan osilasi.  Dalam teknik, bilangan kompleks digunakan untuk menganalisis sirkuit listrik.  Aljabar linear adalah cabang matematika yang mempelajari vektor dan ruang vektor. Vektor adalah besaran yang memiliki magnitudo dan arah. Ruang vektor adalah himpunan vektor yang memenuhi aksioma tertentu. Aljabar linear memiliki banyak aplikasi dalam matematika, fisika, ilmu komputer, dan ekonomi.  Dalam fisika, aljabar linear digunakan untuk memodelkan sistem fisik dan memecahkan persamaan.  Dalam ilmu komputer, aljabar linear digunakan dalam grafik komputer dan pembelajaran mesin.  Dalam ekonomi, aljabar linear digunakan untuk memodelkan pasar dan memprediksi perilaku ekonomi.  Probabilitas adalah ukuran seberapa besar kemungkinan suatu peristiwa akan terjadi.  Probabilitas suatu peristiwa selalu antara 0 dan 1, inklusif.  Probabilitas suatu peristiwa yang pasti terjadi adalah 1, sedangkan probabilitas suatu peristiwa yang tidak mungkin terjadi adalah 0.  Probabilitas dapat digunakan untuk membuat prediksi dan mengambil keputusan dalam situasi ketidakpastian.  Probabilitas memiliki banyak aplikasi dalam matematika, statistik, ilmu komputer, dan keuangan.  Dalam statistik, probabilitas digunakan untuk menganalisis data dan membuat kesimpulan tentang populasi.  Dalam ilmu komputer, probabilitas digunakan dalam kecerdasan buatan dan pembelajaran mesin. Dalam keuangan, probabilitas digunakan untuk memodelkan risiko dan membuat keputusan investasi.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Titik A(2, 3) ditranslasikan 3 satuan ke kanan dan 2 satuan ke atas. Tentukan koordinat titik A' setelah translasi.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "(5, 5)"
+                        },
+                        {
+                            "id": "b",
+                            "text": "(5, 1)"
+                        },
+                        {
+                            "id": "c",
+                            "text": "(-1, 5)"
+                        },
+                        {
+                            "id": "d",
+                            "text": "(-1, 1)"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Translasi 3 satuan ke kanan menambah 3 pada koordinat x, dan 2 satuan ke atas menambah 2 pada koordinat y. Jadi, A'(2+3, 3+2) = (5, 5)."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Rotasi selalu mengubah ukuran suatu bangun.",
+                    "correct_answer": false,
+                    "explanation": "Rotasi mengubah orientasi bangun, tetapi tidak ukurannya."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Jika sin x = 0.6 dan cos x = 0.8, berapakah nilai tan x?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "0.75"
+                        },
+                        {
+                            "id": "b",
+                            "text": "1.33"
+                        },
+                        {
+                            "id": "c",
+                            "text": "0.48"
+                        },
+                        {
+                            "id": "d",
+                            "text": "1.67"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "tan x = sin x / cos x = 0.6 / 0.8 = 0.75"
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan aplikasi dari transformasi geometri?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Desain"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Animasi"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Menghitung luas segitiga"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Robotika"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Desain, animasi, dan robotika memanfaatkan transformasi geometri."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Hitung turunan dari f(x) = 3x² - 2x + 1.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "6x - 2"
+                        },
+                        {
+                            "id": "b",
+                            "text": "6x + 1"
+                        },
+                        {
+                            "id": "c",
+                            "text": "3x - 2"
+                        },
+                        {
+                            "id": "d",
+                            "text": "x² - 2x"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Turunan dari 3x² adalah 6x, turunan dari -2x adalah -2, dan turunan dari 1 adalah 0. Jadi, turunan dari f(x) = 3x² - 2x + 1 adalah f'(x) = 6x - 2."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Kalkulus multivariabel memperluas konsep kalkulus satu variabel ke fungsi dengan banyak variabel.  Turunan parsial mengukur laju perubahan suatu fungsi terhadap satu variabel, dengan variabel lain dianggap konstan.  Gradien adalah vektor yang terdiri dari semua turunan parsial suatu fungsi dan menunjuk ke arah kenaikan tercuram. Integral lipat digunakan untuk menghitung volume di bawah permukaan atau akumulasi kuantitas di atas suatu wilayah.  Teorema Green, Teorema Stokes, dan Teorema Divergensi menghubungkan integral garis, integral permukaan, dan integral volume.  Kalkulus multivariabel memiliki aplikasi dalam fisika, teknik, ekonomi, dan grafik komputer.  Persamaan diferensial adalah persamaan yang menghubungkan suatu fungsi dengan turunannya.  Persamaan diferensial biasa (PDB) melibatkan fungsi satu variabel dan turunannya.  Persamaan diferensial parsial (PDP) melibatkan fungsi banyak variabel dan turunan parsialnya.  Solusi persamaan diferensial adalah fungsi yang memenuhi persamaan tersebut.  PDB dan PDP digunakan untuk memodelkan berbagai fenomena, seperti pertumbuhan populasi, peluruhan radioaktif, aliran fluida, dan difusi panas.  Metode untuk memecahkan PDB dan PDP meliputi pemisahan variabel, faktor integrasi, dan transformasi Laplace.  Aljabar linear numerik berkaitan dengan algoritma untuk memecahkan masalah dalam aljabar linear, seperti sistem persamaan linear, nilai eigen, dan vektor eigen.  Metode eliminasi Gauss adalah algoritma untuk menyelesaikan sistem persamaan linear dengan mengubah matriks augmented menjadi bentuk eselon baris tereduksi.  Dekomposisi LU memfaktorkan matriks menjadi produk dari matriks segitiga bawah dan matriks segitiga atas, yang dapat digunakan untuk menyelesaikan sistem persamaan linear secara efisien.  Metode iteratif, seperti metode Jacobi dan metode Gauss-Seidel, digunakan untuk menyelesaikan sistem persamaan linear yang besar dan jarang. Analisis numerik mempelajari algoritma untuk memecahkan masalah dalam analisis matematika, seperti mencari akar persamaan, interpolasi, dan integrasi numerik.  Metode bagi dua adalah algoritma untuk mencari akar persamaan dengan berulang kali membagi dua interval yang berisi akar.  Interpolasi polinomial digunakan untuk memperkirakan nilai suatu fungsi di titik-titik yang tidak diketahui dari nilai-nilainya di titik-titik yang diketahui.  Aturan trapesium dan aturan Simpson adalah metode untuk memperkirakan integral tentu. Optimisasi adalah proses menemukan nilai minimum atau maksimum suatu fungsi.  Optimisasi linier berkaitan dengan masalah di mana fungsi tujuan dan kendala adalah linier.  Metode simpleks adalah algoritma untuk memecahkan masalah optimasi linier.  Optimisasi nonlinier berkaitan dengan masalah di mana fungsi tujuan atau kendala adalah nonlinier.  Metode gradient descent adalah algoritma iteratif untuk menemukan minimum lokal suatu fungsi.  Optimisasi memiliki aplikasi dalam berbagai bidang, termasuk teknik, ekonomi, dan ilmu komputer.  Dalam teknik, optimisasi digunakan untuk mendesain struktur dan sistem yang efisien.  Dalam ekonomi, optimisasi digunakan untuk memaksimalkan keuntungan dan meminimalkan biaya.  Dalam ilmu komputer, optimisasi digunakan dalam pembelajaran mesin dan kecerdasan buatan. Matematika diskrit adalah cabang matematika yang mempelajari struktur diskrit, yang merupakan struktur matematika yang elemen-elemennya dapat dihitung.  Graf adalah struktur yang terdiri dari simpul (vertex) dan sisi (edge) yang menghubungkan simpul-simpul tersebut.  Graf digunakan untuk memodelkan berbagai macam masalah, seperti jaringan sosial, jaringan transportasi, dan sirkuit elektronik.  Kombinatorika mempelajari cara menghitung atau menyusun objek-objek diskrit. Logika matematika mempelajari penalaran matematika.  Teori himpunan mempelajari himpunan, yang merupakan kumpulan objek.  Teori bilangan mempelajari bilangan bulat.  Kriptografi adalah studi tentang teknik untuk mengamankan komunikasi.  Geometri komputasi mempelajari algoritma untuk memecahkan masalah geometri.  Algoritma dan struktur data adalah studi tentang algoritma dan struktur data, yang merupakan cara untuk mengatur dan menyimpan data secara efisien.  Teori informasi mempelajari kuantisasi, penyimpanan, dan komunikasi informasi. Teori komputasi mempelajari batas-batas apa yang dapat dihitung oleh komputer.  Aljabar Boolean adalah aljabar logika, yang digunakan dalam desain sirkuit digital.  Teori automata mempelajari model matematika komputasi.  Bahasa formal adalah himpunan string yang dibentuk dari alfabet. Teori graf digunakan dalam jaringan komputer, optimisasi, dan bioinformatika. Kombinatorika digunakan dalam analisis algoritma, kriptografi, dan bioinformatika. Logika matematika digunakan dalam verifikasi program dan kecerdasan buatan. Teori himpunan digunakan dalam basis data dan teori bahasa formal.  Teori bilangan digunakan dalam kriptografi dan teori coding. Kriptografi digunakan dalam keamanan komputer dan jaringan. Geometri komputasi digunakan dalam grafik komputer, robotika, dan sistem informasi geografis. Algoritma dan struktur data digunakan dalam semua bidang ilmu komputer. Teori informasi digunakan dalam kompresi data, komunikasi, dan pembelajaran mesin. Teori komputasi digunakan dalam desain bahasa pemrograman dan algoritma.  Aljabar Boolean digunakan dalam desain sirkuit digital dan logika komputer. Teori automata digunakan dalam pemrosesan bahasa alami dan kompilator. Bahasa formal digunakan dalam desain bahasa pemrograman dan kompilator.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Jika f(x, y) = x²y + 3xy³, hitung turunan parsial ∂f/∂x.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "2xy + 3y³"
+                        },
+                        {
+                            "id": "b",
+                            "text": "x² + 9xy²"
+                        },
+                        {
+                            "id": "c",
+                            "text": "2x + 3y²"
+                        },
+                        {
+                            "id": "d",
+                            "text": "2xy + 9xy²"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Turunan parsial ∂f/∂x dihitung dengan memperlakukan y sebagai konstanta. Turunan x²y terhadap x adalah 2xy, dan turunan 3xy³ terhadap x adalah 3y³. Jadi, ∂f/∂x = 2xy + 3y³."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Metode eliminasi Gauss digunakan untuk mencari nilai eigen dan vektor eigen.",
+                    "correct_answer": false,
+                    "explanation": "Metode eliminasi Gauss digunakan untuk menyelesaikan sistem persamaan linear, bukan untuk mencari nilai eigen dan vektor eigen."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang dipelajari dalam optimisasi?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Menemukan nilai minimum atau maksimum suatu fungsi"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Memecahkan persamaan diferensial"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Memfaktorkan matriks"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menghitung integral lipat"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Optimisasi berkaitan dengan menemukan nilai minimum atau maksimum suatu fungsi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang termasuk dalam matematika diskrit?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Graf"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Kombinatorika"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Kalkulus"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Logika matematika"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Teori himpunan"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d",
+                        "e"
+                    ],
+                    "explanation": "Graf, kombinatorika, logika matematika, dan teori himpunan adalah bagian dari matematika diskrit."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika A = [[1, 2], [3, 4]] dan B = [[5, 6], [7, 8]], hitung A + B.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "[[6, 8], [10, 12]]"
+                        },
+                        {
+                            "id": "b",
+                            "text": "[[19, 22], [43, 50]]"
+                        },
+                        {
+                            "id": "c",
+                            "text": "[[5, 12], [21, 32]]"
+                        },
+                        {
+                            "id": "d",
+                            "text": "[[4, 4], [4, 4]]"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Penjumlahan matriks dilakukan elemen per elemen: [[1+5, 2+6], [3+7, 4+8]] = [[6, 8], [10, 12]]."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Geometri analitik bidang mempelajari objek-objek geometri seperti titik, garis, dan kurva menggunakan sistem koordinat. Titik direpresentasikan oleh pasangan terurut (x, y), garis direpresentasikan oleh persamaan linear Ax + By + C = 0, dan kurva direpresentasikan oleh persamaan yang lebih kompleks. Jarak antara dua titik (x1, y1) dan (x2, y2) diberikan oleh √((x2-x1)² + (y2-y1)²).  Kemiringan suatu garis yang melalui titik (x1, y1) dan (x2, y2) adalah (y2-y1)/(x2-x1).  Persamaan garis dalam bentuk kemiringan-titik adalah y - y1 = m(x - x1), di mana m adalah kemiringan dan (x1, y1) adalah titik pada garis.  Persamaan lingkaran dengan pusat (h, k) dan jari-jari r adalah (x-h)² + (y-k)² = r².  Persamaan parabola dengan titik puncak (h, k) dan sumbu simetri sejajar sumbu y adalah y = a(x-h)² + k.  Irisan kerucut adalah kurva yang dibentuk oleh perpotongan bidang dengan kerucut.  Irisan kerucut meliputi lingkaran, elips, parabola, dan hiperbola.  Persamaan elips dengan pusat (h, k), sumbu semi-mayor a, dan sumbu semi-minor b adalah ((x-h)²/a²) + ((y-k)²/b²) = 1.  Persamaan hiperbola dengan pusat (h, k), sumbu transversal a, dan sumbu konjugasi b adalah ((x-h)²/a²) - ((y-k)²/b²) = 1. Geometri analitik ruang memperluas konsep geometri analitik bidang ke ruang tiga dimensi.  Titik direpresentasikan oleh tripel terurut (x, y, z).  Jarak antara dua titik (x1, y1, z1) dan (x2, y2, z2) diberikan oleh √((x2-x1)² + (y2-y1)² + (z2-z1)²).  Persamaan bidang dalam bentuk umum adalah Ax + By + Cz + D = 0.  Persamaan bola dengan pusat (h, k, l) dan jari-jari r adalah (x-h)² + (y-k)² + (z-l)² = r².  Vektor adalah besaran yang memiliki magnitudo dan arah.  Vektor dapat direpresentasikan secara geometris sebagai panah.  Vektor dapat dijumlahkan dan dikurangi, dan dikalikan dengan skalar.  Produk titik dari dua vektor adalah skalar, sedangkan produk silang dari dua vektor adalah vektor.  Vektor digunakan dalam fisika, teknik, dan grafik komputer.  Transformasi linear adalah fungsi yang memetakan satu ruang vektor ke ruang vektor lain sambil mempertahankan operasi penjumlahan vektor dan perkalian skalar.  Transformasi linear dapat direpresentasikan oleh matriks.  Matriks dapat dijumlahkan, dikurangi, dikalikan, dan diinverskan.  Determinan suatu matriks adalah skalar yang dapat dihitung dari elemen-elemen matriks.  Nilai eigen dan vektor eigen adalah konsep penting dalam aljabar linear yang digunakan dalam berbagai aplikasi. Transformasi affine adalah transformasi linear yang diikuti oleh translasi. Transformasi affine mempertahankan paralelisme, tetapi tidak harus mempertahankan jarak atau sudut. Transformasi affine digunakan dalam grafik komputer untuk memanipulasi objek 3D. Geometri proyektif adalah studi tentang sifat-sifat geometris yang invarian di bawah transformasi proyektif. Transformasi proyektif adalah transformasi yang memetakan garis ke garis, tetapi tidak harus mempertahankan jarak atau sudut. Geometri proyektif digunakan dalam grafik komputer dan visi komputer. Geometri non-Euclidean adalah studi tentang geometri yang tidak memenuhi postulat paralel Euclid. Geometri non-Euclidean meliputi geometri hiperbolik dan geometri eliptik.  Geometri hiperbolik digunakan dalam teori relativitas khusus. Geometri eliptik digunakan dalam navigasi dan kartografi.  Topologi adalah studi tentang sifat-sifat geometris yang dipertahankan di bawah transformasi kontinu, seperti peregangan dan pembengkokan, tetapi bukan merobek atau menempel.  Topologi digunakan dalam berbagai bidang matematika, termasuk analisis, geometri, dan aljabar. Topologi aljabar menggunakan alat aljabar untuk mempelajari ruang topologi.  Topologi diferensial mempelajari sifat-sifat manifold diferensial. Geometri aljabar mempelajari objek-objek geometri yang didefinisikan oleh persamaan polinomial. Geometri aljabar digunakan dalam teori bilangan, kriptografi, dan fisika teoretis. Geometri diferensial mempelajari sifat-sifat kurva dan permukaan menggunakan kalkulus.  Geometri diferensial digunakan dalam fisika, teknik, dan grafik komputer.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Tentukan jarak antara titik A(1, 2) dan B(4, 6).",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "5"
+                        },
+                        {
+                            "id": "b",
+                            "text": "√29"
+                        },
+                        {
+                            "id": "c",
+                            "text": "7"
+                        },
+                        {
+                            "id": "d",
+                            "text": "√25"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Jarak = √((4-1)² + (6-2)²) = √(3² + 4²) = √(9 + 16) = √25 = 5."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Persamaan lingkaran dengan pusat (0, 0) dan jari-jari 3 adalah x² + y² = 9.",
+                    "correct_answer": true,
+                    "explanation": "Persamaan lingkaran dengan pusat (h, k) dan jari-jari r adalah (x-h)² + (y-k)² = r².  Dalam hal ini, h = 0, k = 0, dan r = 3, sehingga persamaannya adalah x² + y² = 9."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Tentukan kemiringan garis yang melalui titik (2, 3) dan (5, 9).",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "2"
+                        },
+                        {
+                            "id": "b",
+                            "text": "1/2"
+                        },
+                        {
+                            "id": "c",
+                            "text": "-2"
+                        },
+                        {
+                            "id": "d",
+                            "text": "-1/2"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "Kemiringan = (y2 - y1) / (x2 - x1) = (9 - 3) / (5 - 2) = 6 / 3 = 2."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan irisan kerucut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Lingkaran"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Elips"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Parabola"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Kubus"
+                        },
+                        {
+                            "id": "e",
+                            "text": "Hiperbola"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "c",
+                        "e"
+                    ],
+                    "explanation": "Lingkaran, elips, parabola, dan hiperbola adalah irisan kerucut."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika vektor a = (1, 2, 3) dan vektor b = (4, 5, 6), tentukan produk titik a . b.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "32"
+                        },
+                        {
+                            "id": "b",
+                            "text": "( -3, 6, -3)"
+                        },
+                        {
+                            "id": "c",
+                            "text": "(-3, -10, -18)"
+                        },
+                        {
+                            "id": "d",
+                            "text": "38"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "a . b = (1*4) + (2*5) + (3*6) = 4 + 10 + 18 = 32."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Teori bilangan mempelajari sifat-sifat bilangan bulat.  Bilangan prima adalah bilangan bulat lebih besar dari 1 yang hanya habis dibagi 1 dan dirinya sendiri.  Teorema Fundamental Aritmatika menyatakan bahwa setiap bilangan bulat lebih besar dari 1 dapat ditulis secara unik sebagai produk bilangan prima.  Kongruensi adalah relasi ekivalen pada bilangan bulat.  a ≡ b (mod n) berarti a dan b memiliki sisa yang sama ketika dibagi oleh n.  Aritmatika modular mempelajari operasi pada bilangan bulat modulo n.  Fungsi aritmatika adalah fungsi yang didefinisikan pada bilangan bulat positif.  Beberapa fungsi aritmatika yang penting meliputi fungsi phi Euler, fungsi pembagi, dan fungsi Möbius.  Teori bilangan analitik menggunakan metode analisis matematika untuk mempelajari bilangan bulat.  Teorema bilangan prima menyatakan bahwa jumlah bilangan prima kurang dari x kira-kira sama dengan x/ln(x).  Hipotesis Riemann adalah salah satu masalah terbuka terpenting dalam matematika, yang berkaitan dengan distribusi bilangan prima.  Teori bilangan aljabar mempelajari bilangan aljabar, yang merupakan akar dari polinomial dengan koefisien bilangan bulat.  Bilangan bulat Gaussian adalah bilangan kompleks dalam bentuk a + bi, di mana a dan b adalah bilangan bulat.  Bilangan bulat Eisenstein adalah bilangan kompleks dalam bentuk a + bω, di mana a dan b adalah bilangan bulat dan ω adalah akar pangkat tiga kompleks dari 1.  Teori bilangan komputasional berkaitan dengan algoritma untuk memecahkan masalah dalam teori bilangan, seperti pemfaktoran bilangan bulat dan pengujian keprimaan.  Algoritma Euclidean digunakan untuk menemukan faktor persekutuan terbesar dari dua bilangan bulat.  Pengujian keprimaan Miller-Rabin adalah algoritma probabilistik untuk menentukan apakah suatu bilangan prima.  Kriptografi adalah studi tentang teknik untuk mengamankan komunikasi dengan adanya pihak ketiga yang disebut adversaries.  Kriptografi digunakan dalam berbagai aplikasi, seperti perbankan online, email, dan perdagangan elektronik.  Kriptografi kunci publik menggunakan dua kunci: kunci publik untuk enkripsi dan kunci privat untuk dekripsi.  RSA adalah algoritma kriptografi kunci publik yang didasarkan pada kesulitan memfaktorkan bilangan bulat besar.  Kriptografi kurva eliptik menggunakan kurva eliptik untuk membangun sistem kriptografi.  Teori coding mempelajari desain kode untuk mendeteksi dan mengoreksi kesalahan dalam transmisi data.  Kode linier adalah kode yang didefinisikan oleh matriks pembangkit.  Kode Hamming adalah kode linier yang dapat mendeteksi dan mengoreksi kesalahan bit tunggal.  Teori bilangan kombinatorial mempelajari masalah penghitungan dalam teori bilangan.  Teorema Ramsey menyatakan bahwa dalam graf yang cukup besar, selalu ada subgraf lengkap atau subgraf independen yang besar.  Teori bilangan aditif mempelajari representasi bilangan bulat sebagai jumlah dari bilangan bulat dari tipe tertentu.  Masalah Waring menanyakan apakah setiap bilangan bulat positif dapat direpresentasikan sebagai jumlah dari pangkat k tetap.  Teori bilangan probabilistik menggunakan metode probabilistik untuk mempelajari bilangan bulat.  Teorema Erdős-Kac menyatakan bahwa jumlah faktor prima dari suatu bilangan bulat terdistribusi normal.  Teori bilangan geometris mempelajari objek-objek geometri yang terkait dengan bilangan bulat, seperti kisi dan bentuk kuadrat.  Teorema Minkowski menyatakan bahwa setiap himpunan cembung dalam ruang Euclidean yang simetris terhadap titik asal dan volumenya lebih besar dari 2^n berisi titik kisi bukan nol.  Teori bilangan transendental mempelajari bilangan transendental, yang merupakan bilangan yang bukan akar dari polinomial bukan nol dengan koefisien bilangan bulat.  e dan π adalah contoh bilangan transendental.  Teorema Lindemann-Weierstrass menyatakan bahwa jika α1, α2, ..., αn adalah bilangan aljabar yang berbeda secara linear di atas bilangan rasional, maka e^α1, e^α2, ..., e^αn berbeda secara linear di atas bilangan aljabar.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Manakah dari bilangan berikut yang merupakan bilangan prima?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "1"
+                        },
+                        {
+                            "id": "b",
+                            "text": "4"
+                        },
+                        {
+                            "id": "c",
+                            "text": "9"
+                        },
+                        {
+                            "id": "d",
+                            "text": "11"
+                        }
+                    ],
+                    "correct_answer": "d",
+                    "explanation": "Bilangan prima hanya habis dibagi 1 dan dirinya sendiri. 11 memenuhi kriteria ini."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "15 ≡ 3 (mod 4) adalah benar.",
+                    "correct_answer": false,
+                    "explanation": "15 dibagi 4 menghasilkan sisa 3, sedangkan 3 dibagi 4 menghasilkan sisa 3. Jadi, 15 ≡ 3 (mod 4)."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Berapakah FPB dari 24 dan 36?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "6"
+                        },
+                        {
+                            "id": "b",
+                            "text": "2"
+                        },
+                        {
+                            "id": "c",
+                            "text": "12"
+                        },
+                        {
+                            "id": "d",
+                            "text": "24"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Faktor dari 24 adalah 1, 2, 3, 4, 6, 8, 12, dan 24. Faktor dari 36 adalah 1, 2, 3, 4, 6, 9, 12, 18, dan 36.  FPB dari 24 dan 36 adalah 12."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan algoritma yang digunakan dalam teori bilangan komputasional?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Algoritma Euclidean"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Metode simpleks"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pengujian keprimaan Miller-Rabin"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Metode gradient descent"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "c"
+                    ],
+                    "explanation": "Algoritma Euclidean dan pengujian keprimaan Miller-Rabin digunakan dalam teori bilangan komputasional."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "RSA adalah algoritma kriptografi yang didasarkan pada kesulitan apa?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Memfaktorkan bilangan bulat besar"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Menemukan logaritma diskrit"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Memecahkan persamaan eliptik"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Menghitung integral lipat"
+                        }
+                    ],
+                    "correct_answer": "a",
+                    "explanation": "RSA didasarkan pada kesulitan memfaktorkan bilangan bulat besar."
+                }
+            ]
+        }
+    },
+    {
+        "context": "Statistika deskriptif digunakan untuk meringkas dan menggambarkan karakteristik utama dari suatu kumpulan data.  Ukuran pemusatan, seperti mean, median, dan modus, menggambarkan nilai pusat data. Mean adalah rata-rata aritmatika, median adalah nilai tengah ketika data diurutkan, dan modus adalah nilai yang paling sering muncul.  Ukuran penyebaran, seperti rentang, varians, dan deviasi standar, mengukur seberapa tersebar data. Rentang adalah perbedaan antara nilai maksimum dan minimum, varians adalah rata-rata kuadrat selisih antara setiap nilai data dan mean, dan deviasi standar adalah akar kuadrat dari varians.  Distribusi frekuensi menunjukkan berapa kali setiap nilai data muncul dalam kumpulan data. Histogram dan diagram batang digunakan untuk memvisualisasikan distribusi frekuensi.  Statistika inferensial digunakan untuk membuat kesimpulan tentang suatu populasi berdasarkan sampel data.  Estimasi titik digunakan untuk memperkirakan nilai parameter populasi, seperti mean atau proporsi.  Interval kepercayaan memberikan rentang nilai yang kemungkinan berisi nilai sebenarnya dari parameter populasi.  Pengujian hipotesis digunakan untuk menguji klaim tentang suatu populasi.  Hipotesis nol adalah pernyataan tentang populasi yang diasumsikan benar kecuali ada bukti yang cukup untuk menolaknya.  Hipotesis alternatif adalah pernyataan yang bertentangan dengan hipotesis nol.  Nilai-p adalah probabilitas untuk mengamati data sampel yang diberikan atau lebih ekstrem, dengan asumsi hipotesis nol benar.  Jika nilai-p kurang dari tingkat signifikansi yang telah ditentukan sebelumnya (biasanya 0,05), hipotesis nol ditolak.  Regresi linier digunakan untuk memodelkan hubungan linier antara dua variabel.  Variabel dependen adalah variabel yang diprediksi, dan variabel independen adalah variabel yang digunakan untuk memprediksi variabel dependen.  Persamaan regresi linier adalah y = mx + b, di mana y adalah variabel dependen, x adalah variabel independen, m adalah kemiringan, dan b adalah intersep-y.  Koefisien korelasi mengukur kekuatan dan arah hubungan linier antara dua variabel.  Koefisien korelasi berkisar antara -1 hingga 1, di mana -1 menunjukkan korelasi negatif sempurna, 0 menunjukkan tidak ada korelasi, dan 1 menunjukkan korelasi positif sempurna.  Analisis varians (ANOVA) digunakan untuk membandingkan mean dari dua atau lebih kelompok.  ANOVA satu arah digunakan untuk membandingkan mean dari dua atau lebih kelompok independen.  ANOVA dua arah digunakan untuk membandingkan mean dari dua atau lebih kelompok yang diklasifikasikan berdasarkan dua faktor.  Analisis multivariat digunakan untuk menganalisis data dengan banyak variabel.  Analisis komponen utama (PCA) digunakan untuk mengurangi dimensi data dengan menemukan kombinasi linear dari variabel asli yang menjelaskan sebagian besar varians dalam data.  Analisis faktor digunakan untuk mengidentifikasi faktor-faktor laten yang mendasari serangkaian variabel yang diamati.  Analisis cluster digunakan untuk mengelompokkan objek ke dalam cluster berdasarkan kesamaannya.  Data mining adalah proses menemukan pola dalam data dalam jumlah besar.  Data mining digunakan dalam berbagai aplikasi, seperti pemasaran, keuangan, dan perawatan kesehatan.  Pembelajaran mesin adalah jenis kecerdasan buatan yang memungkinkan komputer untuk belajar dari data tanpa diprogram secara eksplisit.  Pembelajaran mesin digunakan dalam berbagai aplikasi, seperti pengenalan gambar, pemrosesan bahasa alami, dan robotika.",
+        "questions": {
+            "questions": [
+                {
+                    "id": 1,
+                    "type": "multiple_choice",
+                    "question": "Hitung mean dari data berikut: 2, 4, 6, 8, 10.",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "5"
+                        },
+                        {
+                            "id": "b",
+                            "text": "6"
+                        },
+                        {
+                            "id": "c",
+                            "text": "7"
+                        },
+                        {
+                            "id": "d",
+                            "text": "8"
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Mean = (2 + 4 + 6 + 8 + 10) / 5 = 30 / 5 = 6."
+                },
+                {
+                    "id": 2,
+                    "type": "true_false",
+                    "question": "Deviasi standar adalah akar kuadrat dari varians.",
+                    "correct_answer": true,
+                    "explanation": "Ini adalah definisi dari deviasi standar."
+                },
+                {
+                    "id": 3,
+                    "type": "multiple_choice",
+                    "question": "Apa yang digunakan untuk menguji klaim tentang suatu populasi dalam statistika inferensial?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Estimasi titik"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Interval kepercayaan"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Pengujian hipotesis"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Regresi linier"
+                        }
+                    ],
+                    "correct_answer": "c",
+                    "explanation": "Pengujian hipotesis digunakan untuk menguji klaim tentang suatu populasi."
+                },
+                {
+                    "id": 4,
+                    "type": "multibox",
+                    "question": "Manakah yang merupakan ukuran pemusatan data?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Mean"
+                        },
+                        {
+                            "id": "b",
+                            "text": "Median"
+                        },
+                        {
+                            "id": "c",
+                            "text": "Rentang"
+                        },
+                        {
+                            "id": "d",
+                            "text": "Modus"
+                        }
+                    ],
+                    "correct_answer": [
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "explanation": "Mean, median, dan modus adalah ukuran pemusatan data."
+                },
+                {
+                    "id": 5,
+                    "type": "multiple_choice",
+                    "question": "Jika koefisien korelasi antara dua variabel adalah -0.8, apa yang dapat disimpulkan tentang hubungan antara kedua variabel tersebut?",
+                    "options": [
+                        {
+                            "id": "a",
+                            "text": "Terdapat korelasi positif yang kuat."
+                        },
+                        {
+                            "id": "b",
+                            "text": "Terdapat korelasi negatif yang kuat."
+                        },
+                        {
+                            "id": "c",
+                            "text": "Tidak ada korelasi."
+                        },
+                        {
+                            "id": "d",
+                            "text": "Terdapat korelasi positif yang lemah."
+                        }
+                    ],
+                    "correct_answer": "b",
+                    "explanation": "Koefisien korelasi -0.8 menunjukkan korelasi negatif yang kuat, yang berarti bahwa ketika satu variabel meningkat, variabel lainnya cenderung menurun."
+                }
+            ]
+        }
+    }
+]
