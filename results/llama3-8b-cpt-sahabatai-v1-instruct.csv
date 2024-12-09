@@ -1,0 +1,1891 @@
+output,nll_sum,valid_tokens,nll_mean,perplexity,parsable,parse_fail_reason
+"Berikut adalah soal yang dibuat berdasarkan data yang diberikan:
+
+**Soal Pilihan Ganda (Multiple Choice)**
+
+1. Apa jenis makanan yang harus diberikan kepada kucing?
+
+A) Makanan nabati
+B) Makanan kaya protein hewani
+C) Makanan yang mengandung banyak karbohidrat
+D) Makanan yang mengandung banyak lemak
+
+Jawaban: B) Makanan kaya protein hewani
+
+**Soal Benar/Salah (True or False)**
+
+2. Kucing dapat mendarat dengan kakinya ketika jatuh dari ketinggian.
+
+A) Benar
+B) Salah
+
+Jawaban: A) Benar
+
+**Soal Multi-Box Choice (Multiple Correct Answers)**
+
+3. Berikut adalah ras kucing yang populer:
+
+A) Persia
+B) Siam
+C) Maine Coon
+D) Sphynx
+E) Ragdoll
+
+Jawaban: A, B, C, D
+
+**Soal HOTS (Higher Order Thinking Skills)**
+
+4. Jelaskan peran kucing liar dalam ekosistem.
+
+Jawaban: Kucing liar membantu mengendalikan populasi hewan pengerat, sehingga menjaga keseimbangan ekosistem.
+
+**Soal HOTS (Higher Order Thinking Skills)**
+
+5. Apa yang membuat kucing menjadi hewan peliharaan yang populer?
+
+Jawaban: Kucing memiliki sifat yang mandiri, lincah, dan penyayang, serta memiliki indra penciuman dan pendengaran yang tajam, serta penglihatan malam yang sangat baik.",115.25,547,0.21069469835466179,1.2345353918342203,0,Error: Invalid JSON format
+"Berikut adalah soal yang dibuat berdasarkan materi fotosintesis dengan tingkatan mudah:
+
+**Soal Pilihan Ganda (Multiple Choice)**
+
+1. Di mana proses fotosintesis terjadi?
+
+A) Kloroplas
+B) Mitokondria
+C) Ribosom
+D) Inti sel
+
+Jawaban: A) Kloroplas
+
+2. Apa yang digunakan sebagai bahan baku dalam fotosintesis?
+
+A) Karbon dioksida dan oksigen
+B) Air dan karbon dioksida
+C) Glukosa dan oksigen
+D) Oksigen dan karbon dioksida
+
+Jawaban: B) Air dan karbon dioksida
+
+3. Apa yang dilepaskan sebagai produk sampingan dari fotosintesis?
+
+A) Glukosa dan karbon dioksida
+B) Oksigen dan karbon dioksida
+C) Air dan karbon dioksida
+D) Oksigen dan glukosa
+
+Jawaban: B) Oksigen dan karbon dioksida
+
+4. Apa yang digunakan oleh tumbuhan sebagai sumber energi?
+
+A) Oksigen
+B) Karbon dioksida
+C) Glukosa
+D) Air
+
+Jawaban: C) Glukosa
+
+5. Apa yang memainkan peran penting dalam menjaga keseimbangan oksigen di atmosfer bumi?
+
+A) Respirasi
+B) Fotosintesis
+C) Transpirasi
+D) Evaporasi
+
+Jawaban: B) Fotosintesis
+
+**Soal Benar/Salah (True or False)**
+
+1. Fotosintesis terjadi di mitokondria. (Benar/Salah)
+
+Jawaban: Salah
+
+2. Tumbuhan menggunakan oksigen sebagai bahan baku dalam fotosintesis. (Benar/Salah)
+
+Jawaban: Salah
+
+3. Glukosa yang dihasilkan selama fotosintesis digunakan oleh tumbuhan sebagai sumber energi. (Benar/Salah)
+
+Jawaban: Benar
+
+4. Fotosintesis memainkan peran penting dalam menjaga keseimbangan karbon dioksida di atmosfer bumi. (Benar/Salah)
+
+Jawaban: Salah
+
+5. Tanpa fotosintesis, kehidupan seperti yang kita kenal tidak akan mungkin terjadi. (Benar/Salah)
+
+Jawaban: Benar",124.8125,554,0.225293321299639,1.2526901029970987,0,Error: Invalid JSON format
+"Berikut adalah soal yang dibuat berdasarkan data yang diberikan:
+
+**Soal Pilihan Ganda (Multiple Choice)**
+
+1. Apa yang dimaksud dengan sistem tata surya kita?
+
+A) Kumpulan bintang yang terdiri dari Matahari dan planet-planet
+B) Kumpulan planet yang terdiri dari Merkurius hingga Neptunus
+C) Kumpulan benda langit yang mengorbit Matahari
+D) Kumpulan benda langit yang terdiri dari bintang dan planet kerdil
+
+Jawaban: C) Kumpulan benda langit yang mengorbit Matahari
+
+2. Apa yang dimaksud dengan planet terestrial?
+
+A) Planet yang terbuat dari es dan gas
+B) Planet yang terbuat dari batuan dan logam
+C) Planet yang terbuat dari hidrogen dan helium
+D) Planet yang terbuat dari batuan dan es
+
+Jawaban: B) Planet yang terbuat dari batuan dan logam
+
+3. Apa yang dimaksud dengan planet kerdil?
+
+A) Planet yang lebih besar dari planet
+B) Planet yang lebih kecil dari planet
+C) Planet yang terbuat dari es dan gas
+D) Planet yang terbuat dari batuan dan logam
+
+Jawaban: B) Planet yang lebih kecil dari planet
+
+4. Apa yang dimaksud dengan meteoroid?
+
+A) Benda langit yang terbuat dari es dan gas
+B) Benda langit yang terbuat dari batuan dan logam
+C) Benda langit yang mengorbit Matahari
+D) Benda langit yang terbuat dari hidrogen dan helium
+
+Jawaban: C) Benda langit yang mengorbit Matahari
+
+5. Apa yang dimaksud dengan meteor?
+
+A) Benda langit yang terbuat dari es dan gas
+B) Benda langit yang terbuat dari batuan dan logam
+C) Benda langit yang terbuat dari hidrogen dan helium
+D) Benda langit yang terbakar saat memasuki atmosfer Bumi
+
+Jawaban: D) Benda langit yang terbakar saat memasuki atmosfer Bumi
+
+**Soal Benar/Salah (True or False)**
+
+1. Matahari adalah planet terestrial. (Benar/Salah)
+
+Jawaban: Salah
+
+2. Bulan adalah planet kerdil. (Benar/Salah)
+
+Jawaban: Salah
+
+3. Komet terbuat dari batuan dan logam. (Benar/Salah)
+
+Jawaban: Salah
+
+4. Meteoroid adalah benda langit yang terbuat dari es dan gas. (Benar/Salah)
+
+Jawaban: Salah
+
+5. Meteor adalah benda langit yang terbuat dari hidrogen dan helium. (Benar/Salah)
+
+Jawaban: Salah
+
+**Soal Multi-Box Choice (Multiple Correct Answers)**
+
+1. Apa yang dimaksud dengan sistem tata surya kita?
+
+A) Kumpulan bintang yang terdiri dari Matahari dan planet-planet
+B) Kumpulan planet yang terdiri dari Merkurius hingga Neptunus
+C) Kumpulan benda langit yang mengorbit Matahari
+D) Kumpulan benda langit yang terdiri dari bintang dan planet kerdil
+
+Jawaban: C) Kumpulan benda langit yang mengorbit Matahari
+
+2. Apa yang dimaksud dengan planet terestrial?
+
+A) Planet yang terbuat dari es dan gas
+B) Planet yang terbuat dari batuan dan logam
+C) Planet yang terbuat dari hidrogen dan helium
+D) Planet yang terbuat dari batuan dan es
+
+Jawaban: B) Planet yang terbuat dari batuan dan logam
+
+3. Apa yang dimaksud dengan planet kerdil?
+
+A) Planet yang lebih besar dari planet
+B) Planet yang lebih kecil dari planet
+C) Planet yang terbuat dari es dan gas
+D) Planet yang terbuat dari batuan dan logam
+
+Jawaban: B) Planet yang lebih kecil dari planet
+
+4. Apa yang dimaksud dengan meteoroid?
+
+A) Benda langit yang terbuat dari es dan gas
+B) Benda langit yang terbuat dari batuan dan logam
+C) Benda langit yang mengorbit Matahari
+D) Benda langit yang terbuat dari hidrogen dan helium
+
+Jawaban: C) Benda langit yang mengorbit Matahari
+
+5. Apa yang dimaksud dengan meteor?
+
+A) Benda langit yang terbuat dari es dan gas
+B) Benda langit yang terbuat dari batuan dan logam
+C) Benda langit yang terbuat dari hidrogen dan helium
+D) Benda langit yang terbakar saat memasuki atmosfer Bumi
+
+Jawaban: D) Benda langit yang terbakar saat memasuki atmosfer Bumi",116.375,526,0.22124524714828897,1.247629370592331,0,Error: Invalid JSON format
+"Berikut adalah soal yang dibuat berdasarkan materi yang diberikan:
+
+**Soal Pilihan Ganda (Multiple Choice)**
+
+1. Apa yang terjadi pada uap air di atmosfer ketika suhu turun?
+
+A) Uap air menjadi cair
+B) Uap air menjadi padat
+C) Uap air tetap menjadi gas
+D) Uap air menguap lebih cepat
+
+Jawaban: B) Uap air menjadi padat
+
+**Soal Benar/Salah (True or False)**
+
+2. Siklus air didorong oleh energi angin.
+
+Jawaban: FALSE
+
+**Soal Multi-Box Choice (Multiple Correct Answers)**
+
+3. Berikut adalah tahapan siklus air, kecuali:
+
+A) Evaporasi
+B) Transpirasi
+C) Kondensasi
+D) Infiltrasi
+E) Fotosintesis
+
+Jawaban: E) Fotosintesis
+
+**Soal HOTS (Higher Order Thinking Skills)**
+
+4. Jelaskan peran siklus air dalam menyediakan air tawar untuk kehidupan di Bumi.
+
+Jawaban: Siklus air menyediakan air tawar yang kita butuhkan untuk minum, memasak, dan pertanian dengan mengubah air laut menjadi air hujan yang kemudian mengalir ke sungai, danau, dan laut.
+
+**Soal HOTS (Higher Order Thinking Skills)**
+
+5. Jelaskan bagaimana siklus air mempengaruhi kehidupan di Bumi.
+
+Jawaban: Siklus air mempengaruhi kehidupan di Bumi dengan menyediakan air tawar yang kita butuhkan untuk kehidupan sehari-hari, serta mempengaruhi iklim dan cuaca di Bumi.",119.0625,567,0.2099867724867725,1.2336617415718127,0,Error: Invalid JSON format
+"Berikut adalah soal yang dibuat berdasarkan data yang diberikan:
+
+**Soal Pilihan Ganda (Multiple Choice)**
+
+1. Sistem organ tubuh manusia yang memberikan dukungan dan perlindungan bagi tubuh adalah:
+   a) Sistem saraf
+   b) Sistem otot
+   c) Sistem kerangka
+   d) Sistem endokrin
+   e) Sistem kardiovaskular
+
+Jawaban: c) Sistem kerangka
+
+2. Sistem organ tubuh manusia yang memungkinkan gerakan adalah:
+   a) Sistem saraf
+   b) Sistem otot
+   c) Sistem kerangka
+   d) Sistem endokrin
+   e) Sistem kardiovaskular
+
+Jawaban: b) Sistem otot
+
+3. Sistem organ tubuh manusia yang mengontrol dan mengoordinasikan fungsi tubuh adalah:
+   a) Sistem saraf
+   b) Sistem otot
+   c) Sistem kerangka
+   d) Sistem endokrin
+   e) Sistem kardiovaskular
+
+Jawaban: a) Sistem saraf
+
+4. Sistem organ tubuh manusia yang menghasilkan hormon yang mengatur berbagai proses tubuh adalah:
+   a) Sistem saraf
+   b) Sistem otot
+   c) Sistem kerangka
+   d) Sistem endokrin
+   e) Sistem kardiovaskular
+
+Jawaban: d) Sistem endokrin
+
+5. Sistem organ tubuh manusia yang mengangkut darah ke seluruh tubuh adalah:
+   a) Sistem saraf
+   b) Sistem otot
+   c) Sistem kerangka
+   d) Sistem endokrin
+   e) Sistem kardiovaskular
+
+Jawaban: e) Sistem kardiovaskular
+
+6. Sistem organ tubuh manusia yang membantu melawan infeksi adalah:
+   a) Sistem saraf
+   b) Sistem otot
+   c) Sistem kerangka
+   d) Sistem endokrin
+   e) Sistem limfatik
+
+Jawaban: e) Sistem limfatik
+
+7. Sistem organ tubuh manusia yang memasok oksigen ke tubuh dan mengeluarkan karbon dioksida adalah:
+   a) Sistem saraf
+   b) Sistem otot
+   c) Sistem kerangka
+   d) Sistem endokrin
+   e) Sistem pernapasan
+
+Jawaban: e) Sistem pernapasan
+
+8. Sistem organ tubuh manusia yang memecah makanan menjadi nutrisi yang dapat diserap oleh tubuh adalah:
+   a) Sistem saraf
+   b) Sistem otot
+   c) Sistem kerangka
+   d) Sistem endokrin
+   e) Sistem pencernaan
+
+Jawaban: e) Sistem pencernaan
+
+9. Sistem organ tubuh manusia yang mengeluarkan limbah dari tubuh adalah:
+   a) Sistem saraf
+   b) Sistem otot
+   c) Sistem kerangka
+   d) Sistem endokrin
+   e) Sistem urinaria
+
+Jawaban: e) Sistem urinaria
+
+10. Sistem organ tubuh manusia yang melindungi tubuh dari lingkungan luar adalah:
+   a) Sistem saraf
+   b) Sistem otot
+   c) Sistem kerangka
+   d) Sistem endokrin
+   e) Sistem integumen
+
+Jawaban: e) Sistem integumen
+
+**Soal Benar/Salah (True or False)**
+
+11. Sistem organ tubuh manusia yang menghasilkan hormon yang mengatur berbagai proses tubuh adalah sistem saraf. (Benar/Salah)
+
+Jawaban: Salah
+
+12. Sistem organ tubuh manusia yang memungkinkan gerakan adalah sistem saraf. (Benar/Salah)
+
+Jawaban: Salah
+
+13. Sistem organ tubuh manusia yang memberikan dukungan dan perlindungan bagi tubuh adalah sistem otot. (Benar/Salah)
+
+Jawaban: Salah
+
+14. Sistem organ tubuh manusia yang mengangkut darah ke seluruh tubuh adalah sistem endokrin. (Benar/Salah)
+
+Jawaban: Salah
+
+15. Sistem organ tubuh manusia yang membantu melawan infeksi adalah sistem pernapasan. (Benar/Salah)
+
+Jawaban: Salah
+
+**Soal Multi-Box Choice (Multiple Correct Answers)**
+
+16. Pilihlah sistem organ tubuh manusia yang bekerja sama untuk menjaga homeostasis:
+   a) Sistem saraf
+   b) Sistem otot
+   c) Sistem kerangka
+   d) Sistem endokrin
+   e) Sistem kardiovaskular
+   f) Sistem limfatik
+   g) Sistem pernapasan
+   h) Sistem pencernaan
+   i) Sistem urinaria
+   j) Sistem integumen
+
+Jawaban: a, b, c, d, e, f, g, h, i, j
+
+**Soal HOTS (Higher Order Thinking Skills)**
+
+17. Jelaskan bagaimana sistem organ tubuh manusia bekerja sama untuk menjaga keseimbangan internal tubuh.
+
+Jawaban: Sistem organ tubuh manusia bekerja sama untuk menjaga keseimbangan internal tubuh dengan mengatur berbagai proses tubuh, seperti menghasilkan hormon, mengangkut darah, memecah makanan, dan mengeluarkan limbah. Sistem organ tubuh manusia juga bekerja sama untuk melindungi tubuh dari lingkungan luar dan menjaga kesehatan tubuh secara keseluruhan.
+
+18. Jelaskan bagaimana sistem organ tubuh manusia memungkinkan gerakan.
+
+Jawaban: Sistem organ tubuh manusia memungkinkan gerakan dengan adanya sistem otot yang memungkinkan kontraksi dan relaksasi otot, sehingga memungkinkan pergerakan tubuh.
+
+19. Jelaskan bagaimana sistem organ tubuh manusia menghasilkan hormon yang mengatur berbagai proses tubuh.
+
+Jawaban: Sistem organ tubuh manusia menghasilkan hormon yang mengatur berbagai proses tubuh dengan adanya sistem endokrin yang menghasilkan hormon yang kemudian disekresi ke dalam aliran darah dan berdifusi ke seluruh tubuh.
+
+20. Jelaskan bagaimana sistem organ tubuh manusia mengangkut darah ke seluruh tubuh.
+
+Jawaban: Sistem organ tubuh manusia mengangkut darah ke seluruh tubuh dengan adanya sistem kardiovaskular yang terdiri dari jantung dan pembuluh darah yang memungkinkan darah mengalir ke seluruh tubuh.",142.0,588,0.24149659863945577,1.2731531244573577,0,Error: Invalid JSON format
+"Berikut adalah soal dengan tingkatan Mudah (Tingkat Analisis Kasus Mudah, Tingkat Hafalan Mudah) berdasarkan data yang diberikan:
+
+**Soal Pilihan Ganda (Multiple Choice)**
+
+1. Apa yang dimaksud dengan Internet?
+
+A) Jaringan komputer global yang menghubungkan perangkat di seluruh dunia
+B) Sistem dokumen hiperteks yang saling terhubung
+C) Cara untuk mengirim dan menerima pesan elektronik
+D) Platform online untuk berbagi konten
+
+Jawaban: A) Jaringan komputer global yang menghubungkan perangkat di seluruh dunia
+
+2. Apa yang digunakan untuk mengirimkan data di Internet?
+
+A) Protokol standar TCP/IP
+B) Sistem dokumen hiperteks
+C) Platform online untuk berbagi konten
+D) Jaringan komputer global
+
+Jawaban: A) Protokol standar TCP/IP
+
+3. Apa yang dimaksud dengan World Wide Web (WWW)?
+
+A) Jaringan komputer global
+B) Sistem dokumen hiperteks yang saling terhubung
+C) Cara untuk mengirim dan menerima pesan elektronik
+D) Platform online untuk berbagi konten
+
+Jawaban: B) Sistem dokumen hiperteks yang saling terhubung
+
+4. Apa yang dihosting di server web?
+
+A) Jaringan komputer global
+B) Sistem dokumen hiperteks
+C) Situs web
+D) Platform online untuk berbagi konten
+
+Jawaban: C) Situs web
+
+5. Apa yang dimaksud dengan Email?
+
+A) Jaringan komputer global
+B) Sistem dokumen hiperteks
+C) Cara untuk mengirim dan menerima pesan elektronik
+D) Platform online untuk berbagi konten
+
+Jawaban: C) Cara untuk mengirim dan menerima pesan elektronik
+
+6. Apa yang dimaksud dengan Media Sosial?
+
+A) Jaringan komputer global
+B) Sistem dokumen hiperteks
+C) Platform online untuk berbagi konten
+D) Cara untuk mengirim dan menerima pesan elektronik
+
+Jawaban: C) Platform online untuk berbagi konten
+
+7. Apa yang dimaksud dengan E-commerce?
+
+A) Jaringan komputer global
+B) Sistem dokumen hiperteks
+C) Pembelian dan penjualan barang dan jasa secara online
+D) Platform online untuk berbagi konten
+
+Jawaban: C) Pembelian dan penjualan barang dan jasa secara online
+
+8. Apa yang dimaksud dengan Cloud Computing?
+
+A) Jaringan komputer global
+B) Sistem dokumen hiperteks
+C) Pengiriman layanan komputasi melalui internet
+D) Platform online untuk berbagi konten
+
+Jawaban: C) Pengiriman layanan komputasi melalui internet
+
+9. Apa yang dimaksud dengan Keamanan Siber?
+
+A) Jaringan komputer global
+B) Sistem dokumen hiperteks
+C) Praktik melindungi sistem komputer dan jaringan dari pencurian atau kerusakan
+D) Platform online untuk berbagi konten
+
+Jawaban: C) Praktik melindungi sistem komputer dan jaringan dari pencurian atau kerusakan
+
+10. Apa yang telah merevolusi cara kita hidup, bekerja, dan berkomunikasi?
+
+A) Jaringan komputer global
+B) Sistem dokumen hiperteks
+C) Internet
+D) Platform online untuk berbagi konten
+
+Jawaban: C) Internet",136.5,550,0.24818181818181817,1.281692946091405,0,Error: Invalid JSON format
+"Berikut adalah soal yang dibuat berdasarkan teks tersebut:
+
+**Soal Pilihan Ganda (Multiple Choice)**
+
+1. Apa yang melindungi kehidupan di Bumi dari radiasi berbahaya dari Matahari?
+
+A) Atmosfer
+B) Bulan
+C) Inti Bumi
+D) Kerak Bumi
+
+Jawaban: A) Atmosfer
+
+2. Apa yang menyebabkan siang dan malam di Bumi?
+
+A) Perubahan musim
+B) Rotasi Bumi
+C) Revolusi Bumi
+D) Gerak Bumi
+
+Jawaban: B) Rotasi Bumi
+
+3. Apa yang merupakan lapisan terdalam Bumi?
+
+A) Kerak
+B) Mantel
+C) Inti
+D) Atmosfer
+
+Jawaban: C) Inti
+
+4. Apa yang merupakan rumah bagi jutaan spesies tumbuhan dan hewan di Bumi?
+
+A) Hutan
+B) Gurun
+C) Tundra
+D) Semua pilihan di atas
+
+Jawaban: D) Semua pilihan di atas
+
+5. Apa yang merupakan tanggung jawab manusia terhadap Bumi?
+
+A) Melindungi Bumi dari radiasi berbahaya
+B) Mengorbit Bumi
+C) Melindungi Bumi dan sumber dayanya
+D) Menghancurkan Bumi
+
+Jawaban: C) Melindungi Bumi dan sumber dayanya
+
+**Soal Benar/Salah (True or False)**
+
+1. Bumi memiliki dua satelit alami. (Benar/Salah)
+
+Jawaban: Salah (Bumi hanya memiliki satu satelit alami, yaitu Bulan)
+
+2. Inti Bumi terbuat dari batuan padat. (Benar/Salah)
+
+Jawaban: Salah (Inti Bumi terbuat dari besi dan nikel)
+
+3. Atmosfer Bumi terbuat dari oksigen dan nitrogen. (Benar/Salah)
+
+Jawaban: Benar
+
+4. Bumi memiliki medan magnet yang melindungi kehidupan dari partikel bermuatan dari Matahari. (Benar/Salah)
+
+Jawaban: Benar
+
+5. Manusia adalah salah satu spesies yang hidup di Bulan. (Benar/Salah)
+
+Jawaban: Salah (Manusia hidup di Bumi, bukan di Bulan)
+
+**Soal Multi-Box Choice (Multiple Correct Answers)**
+
+1. Apa yang merupakan lapisan-lapisan Bumi?
+
+A) Kerak, mantel, inti
+B) Atmosfer, kerak, mantel
+C) Inti, mantel, atmosfer
+D) Kerak, atmosfer, inti
+
+Jawaban: A) Kerak, mantel, inti
+
+2. Apa yang merupakan ekosistem di Bumi?
+
+A) Hutan, gurun, tundra
+B) Lautan, hutan, gurun
+C) Tundra, hutan, lautan
+D) Semua pilihan di atas
+
+Jawaban: D) Semua pilihan di atas
+
+3. Apa yang merupakan tanggung jawab manusia terhadap Bumi?
+
+A) Melindungi Bumi dari radiasi berbahaya
+B) Mengorbit Bumi
+C) Melindungi Bumi dan sumber dayanya
+D) Semua pilihan di atas
+
+Jawaban: D) Semua pilihan di atas",100.0625,547,0.18292961608775138,1.20072989303919,0,Error: Invalid JSON format
+"Berikut adalah soal yang dibuat berdasarkan materi tentang sel:
+
+**Soal Pilihan Ganda (Multiple Choice)**
+
+1. Apa yang membedakan sel tumbuhan dan sel hewan?
+
+A) Sel tumbuhan memiliki kloroplas, sedangkan sel hewan tidak.
+B) Sel tumbuhan memiliki dinding sel, sedangkan sel hewan tidak.
+C) Sel tumbuhan memiliki mitokondria, sedangkan sel hewan tidak.
+D) Sel tumbuhan memiliki nukleus, sedangkan sel hewan tidak.
+
+Jawaban: B) Sel tumbuhan memiliki dinding sel, sedangkan sel hewan tidak.
+
+**Soal Benar/Salah (True or False)**
+
+2. Sel hewan memiliki kloroplas.
+
+A) Benar
+B) Salah
+
+Jawaban: B) Salah
+
+**Soal Multi-Box Choice (Multiple Correct Answers)**
+
+3. Berikut adalah organel yang dimiliki oleh baik sel tumbuhan maupun sel hewan, kecuali:
+
+A) Membran sel
+B) Sitoplasma
+C) Nukleus
+D) Kloroplas
+E) Ribosom
+
+Jawaban: D) Kloroplas (karena hanya dimiliki oleh sel tumbuhan)
+
+**Soal HOTS (Higher Order Thinking Skills)**
+
+4. Jelaskan perbedaan utama antara sel tumbuhan dan sel hewan berdasarkan informasi yang diberikan.
+
+Jawaban: Sel tumbuhan memiliki dinding sel dan kloroplas, sedangkan sel hewan tidak memiliki dinding sel dan kloroplas.",120.9375,520,0.2325721153846154,1.2618414412587406,0,Error: Invalid JSON format
+"Berikut adalah soal yang dibuat berdasarkan data yang diberikan:
+
+**Soal Pilihan Ganda (Multiple Choice)**
+
+1. Apa rumus kimia air?
+
+A) H₂O
+B) H₂S
+C) O₂H
+D) O₂S
+
+Jawaban: A) H₂O
+
+2. Apa yang dimaksud dengan air sebagai pelarut universal?
+
+A) Air hanya dapat melarutkan zat tertentu
+B) Air dapat melarutkan banyak zat
+C) Air tidak dapat melarutkan zat
+D) Air hanya dapat melarutkan zat yang berat
+
+Jawaban: B) Air dapat melarutkan banyak zat
+
+3. Apa yang menyebabkan air memiliki tegangan permukaan yang tinggi?
+
+A) Air memiliki titik didih yang rendah
+B) Air memiliki kalor jenis yang rendah
+C) Air memiliki struktur molekul yang kompleks
+D) Air memiliki gaya tarik-menarik antar molekul yang kuat
+
+Jawaban: D) Air memiliki gaya tarik-menarik antar molekul yang kuat
+
+4. Apa yang dimaksud dengan titik didih air?
+
+A) Suhu di mana air berubah menjadi gas
+B) Suhu di mana air berubah menjadi cair
+C) Suhu di mana air berubah menjadi padat
+D) Suhu di mana air berubah menjadi plasma
+
+Jawaban: A) Suhu di mana air berubah menjadi gas
+
+5. Apa yang dimaksud dengan kalor jenis air?
+
+A) Kemampuan air untuk menyerap panas
+B) Kemampuan air untuk melepaskan panas
+C) Kemampuan air untuk mengubah suhu
+D) Kemampuan air untuk mengubah bentuk
+
+Jawaban: A) Kemampuan air untuk menyerap panas
+
+**Soal Benar/Salah (True or False)**
+
+1. Air memiliki titik didih yang rendah. (Benar/Salah)
+
+Jawaban: Salah
+
+2. Air memiliki kalor jenis yang rendah. (Benar/Salah)
+
+Jawaban: Salah
+
+3. Air digunakan oleh tumbuhan untuk fotosintesis. (Benar/Salah)
+
+Jawaban: Benar
+
+4. Air menutupi sekitar 100% permukaan bumi. (Benar/Salah)
+
+Jawaban: Salah
+
+5. Kita harus melestarikan sumber daya air kita. (Benar/Salah)
+
+Jawaban: Benar
+
+**Soal Multi-Box Choice (Multiple Correct Answers)**
+
+1. Apa saja sifat-sifat air yang menjadikannya penting untuk kehidupan?
+
+A) Tegangan permukaan yang tinggi
+B) Titik didih yang tinggi
+C) Kalor jenis yang tinggi
+D) Semua jawaban benar
+
+Jawaban: D) Semua jawaban benar
+
+2. Apa saja contoh penggunaan air dalam kehidupan sehari-hari?
+
+A) Minum
+B) Memasak
+C) Pertanian
+D) Semua jawaban benar
+
+Jawaban: D) Semua jawaban benar
+
+3. Apa saja sumber daya air yang ada di Bumi?
+
+A) Air tawar
+B) Air asin
+C) Air laut
+D) Semua jawaban benar
+
+Jawaban: D) Semua jawaban benar",135.125,563,0.2400088809946714,1.271260440328468,0,Error: Invalid JSON format
+"Berikut adalah soal yang dibuat berdasarkan data yang diberikan:
+
+**Soal Pilihan Ganda (Multiple Choice)**
+
+1. Apa komponen utama udara yang paling banyak terkandung?
+
+A) Oksigen
+B) Nitrogen
+C) Argon
+D) Karbon dioksida
+
+Jawaban: B) Nitrogen
+
+**Soal Benar/Salah (True or False)**
+
+2. Udara juga mengandung sejumlah kecil gas lain, seperti karbon dioksida, neon, helium, metana, kripton, hidrogen, dan xenon.
+
+Jawaban: Benar
+
+**Soal Multi-Box Choice (Multiple Correct Answers)**
+
+3. Apa fungsi utama lapisan ozon di atmosfer?
+
+A) Menyerap radiasi ultraviolet dari Matahari
+B) Menghasilkan oksigen
+C) Melindungi kehidupan dari radiasi berbahaya
+D) Menghasilkan karbon dioksida
+
+Jawaban: A) Menyerap radiasi ultraviolet dari Matahari, C) Melindungi kehidupan dari radiasi berbahaya
+
+**Soal HOTS (Higher Order Thinking Skills)**
+
+4. Jelaskan bagaimana polusi udara dapat menyebabkan masalah kesehatan!
+
+Jawaban: Polusi udara dapat menyebabkan masalah kesehatan seperti asma dan penyakit jantung karena partikel-partikel polutan yang terkandung dalam udara dapat menyebabkan iritasi pada saluran pernapasan dan meningkatkan risiko penyakit jantung.
+
+**Soal HOTS (Higher Order Thinking Skills)**
+
+5. Jelaskan bagaimana tumbuhan menggunakan karbon dioksida di udara untuk fotosintesis!
+
+Jawaban: Tumbuhan menggunakan karbon dioksida di udara untuk fotosintesis dengan cara mengubahnya menjadi glukosa dan oksigen melalui proses kimia yang melibatkan cahaya matahari, air, dan karbon dioksida.",132.5,556,0.2383093525179856,1.269101731921651,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkatan Sedang (Tingkat Analisis Kasus Sedang, Tingkat Hafalan Sedang) berdasarkan data yang diberikan:
+
+**Soal 1: Multiple Choice**
+Apa yang dimaksud dengan ""neural network"" dalam konteks deep learning?
+
+A) Jaringan saraf biologis di otak manusia
+B) Struktur dua dimensi yang terdiri dari baris dan kolom
+C) Kumpulan angka yang disusun dalam urutan tertentu
+D) Proses pembelajaran dalam neural network
+
+Jawaban: A) Jaringan saraf biologis di otak manusia
+
+**Soal 2: True/False**
+Operasi konvolusi digunakan dalam Convolutional Neural Network (CNN) untuk mengekstrak fitur-fitur penting dari gambar.
+
+Jawaban: True
+
+**Soal 3: Multiple Choice**
+Apa yang dimaksud dengan ""matriks"" dalam konteks deep learning?
+
+A) Kumpulan angka yang disusun dalam urutan tertentu
+B) Struktur dua dimensi yang terdiri dari baris dan kolom
+C) Proses pembelajaran dalam neural network
+D) Operasi matematika pada vektor
+
+Jawaban: B) Struktur dua dimensi yang terdiri dari baris dan kolom
+
+**Soal 4: Multiple Choice**
+Apa yang dimaksud dengan ""backpropagation"" dalam konteks deep learning?
+
+A) Proses menghitung output dari neural network berdasarkan input yang diberikan
+B) Proses menghitung gradien dari fungsi loss terhadap bobot-bobot dalam neural network
+C) Proses memperbarui bobot-bobot dalam neural network agar model dapat mencapai kinerja yang optimal
+D) Proses menghitung gradien secara efisien menggunakan chain rule dalam kalkulus
+
+Jawaban: B) Proses menghitung gradien dari fungsi loss terhadap bobot-bobot dalam neural network
+
+**Soal 5: Multiple Choice**
+Apa yang dimaksud dengan ""fungsi loss"" dalam konteks deep learning?
+
+A) Fungsi yang digunakan untuk mengukur perbedaan antara prediksi model dan nilai sebenarnya
+B) Fungsi yang digunakan untuk memperkenalkan non-linearitas dalam neural network
+C) Fungsi yang digunakan untuk memperbarui bobot-bobot dalam neural network
+D) Fungsi yang digunakan untuk menghitung gradien dari fungsi loss terhadap bobot-bobot dalam neural network
+
+Jawaban: A) Fungsi yang digunakan untuk mengukur perbedaan antara prediksi model dan nilai sebenarnya",197.5,727,0.2716643741403026,1.3121465370900915,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkatan Sedang (Tingkat Analisis Kasus Sedang, Tingkat Hafalan Sedang) berdasarkan data yang diberikan:
+
+**Soal 1: Multiple Choice**
+Apa yang dimaksud dengan arsitektur dasar dari Artificial Neural Networks (ANN)?
+
+A) Input layer, hidden layer, dan output layer
+B) Input layer, output layer, dan pooling layer
+C) Hidden layer, output layer, dan convolutional layer
+D) Input layer, convolutional layer, dan output layer
+
+Jawaban: A) Input layer, hidden layer, dan output layer
+
+**Soal 2: True or False**
+True atau False: Proses pembelajaran pada ANN melibatkan penyesuaian bobot koneksi antar neuron untuk meminimalkan perbedaan antara prediksi dan nilai sebenarnya.
+
+Jawaban: True
+
+**Soal 3: Multiple Choice**
+Apa yang dimaksud dengan Recurrent Neural Networks (RNN)?
+
+A) Jaringan saraf yang dirancang untuk memproses data grid-like seperti gambar
+B) Jaringan saraf yang dirancang untuk memproses data sekuensial seperti teks atau deret waktu
+C) Jaringan saraf yang dirancang untuk memproses data spasial seperti suara
+D) Jaringan saraf yang dirancang untuk memproses data numerik seperti angka
+
+Jawaban: B) Jaringan saraf yang dirancang untuk memproses data sekuensial seperti teks atau deret waktu
+
+**Soal 4: Multiple Choice**
+Apa yang dimaksud dengan teknik regularisasi dalam deep learning?
+
+A) Meningkatkan kompleksitas model
+B) Membatasi kompleksitas model
+C) Meningkatkan ukuran model
+D) Meningkatkan jumlah lapisan model
+
+Jawaban: B) Membatasi kompleksitas model
+
+**Soal 5: Multiple Choice**
+Apa yang dimaksud dengan metrik evaluasi akurasi?
+
+A) Ukuran kinerja model pada tugas tertentu
+B) Ukuran kompleksitas model
+C) Ukuran ukuran model
+D) Ukuran jumlah lapisan model
+
+Jawaban: A) Ukuran kinerja model pada tugas tertentu",251.5,698,0.36031518624641834,1.4337812514810475,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkatan Sedang (Tingkat Analisis Kasus Sedang, Tingkat Hafalan Sedang) berdasarkan data yang diberikan:
+
+**Soal 1: Multiple Choice**
+Jelaskan perbedaan antara feedforward neural networks dan convolutional neural networks dalam deep learning.
+
+A) Feedforward neural networks menggunakan filter konvolusi untuk mengekstrak fitur spasial dari data, sedangkan convolutional neural networks menggunakan filter konvolusi untuk mengekstrak fitur spasial dari data.
+B) Feedforward neural networks menggunakan koneksi berulang untuk memproses data sekuensial, sedangkan convolutional neural networks menggunakan koneksi berulang untuk memproses data spasial.
+C) Feedforward neural networks menggunakan matriks untuk menyimpan bobot koneksi antar neuron, sedangkan convolutional neural networks menggunakan vektor untuk menyimpan bobot koneksi antar neuron.
+D) Feedforward neural networks menggunakan fungsi aktivasi ReLU, sedangkan convolutional neural networks menggunakan fungsi aktivasi sigmoid.
+
+Jawaban: A) Feedforward neural networks menggunakan filter konvolusi untuk mengekstrak fitur spasial dari data, sedangkan convolutional neural networks menggunakan filter konvolusi untuk mengekstrak fitur spasial dari data.
+
+**Soal 2: Benar/Salah**
+Deep learning menggunakan aljabar linear untuk memahami dan mengimplementasikan algoritma.
+
+Benar atau Salah?
+
+Jawaban: Benar
+
+**Soal 3: Multiple Choice**
+Jelaskan peran matriks dan vektor dalam deep learning.
+
+A) Matriks digunakan untuk menyimpan bobot koneksi antar neuron, sedangkan vektor digunakan untuk merepresentasikan input dan output.
+B) Matriks digunakan untuk merepresentasikan input dan output, sedangkan vektor digunakan untuk menyimpan bobot koneksi antar neuron.
+C) Matriks digunakan untuk menyimpan bobot koneksi antar neuron dan vektor digunakan untuk merepresentasikan input dan output.
+D) Matriks digunakan untuk merepresentasikan input dan output dan vektor digunakan untuk menyimpan bobot koneksi antar neuron.
+
+Jawaban: C) Matriks digunakan untuk menyimpan bobot koneksi antar neuron dan vektor digunakan untuk merepresentasikan input dan output.
+
+**Soal 4: Multi-Box Choice**
+Jelaskan jenis-jenis jaringan saraf yang digunakan dalam deep learning.
+
+A) Feedforward neural networks, convolutional neural networks, dan recurrent neural networks
+B) Convolutional neural networks, recurrent neural networks, dan generative adversarial networks
+C) Feedforward neural networks, recurrent neural networks, dan autoencoder
+D) Convolutional neural networks, generative adversarial networks, dan autoencoder
+
+Jawaban: A) Feedforward neural networks, convolutional neural networks, dan recurrent neural networks",221.75,705,0.31453900709219856,1.369627776710385,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkatan Sedang (Tingkat Analisis Kasus Sedang, Tingkat Hafalan Sedang) berdasarkan data yang diberikan:
+
+**Soal 1: Multiple Choice**
+
+Pilihlah jawaban yang paling tepat!
+
+1. Apa yang dimaksud dengan inflasi?
+
+a) Penurunan harga barang dan jasa
+b) Kenaikan harga barang dan jasa secara umum dan terus-menerus dalam suatu periode tertentu
+c) Penurunan produksi barang dan jasa
+d) Peningkatan pendapatan per kapita
+
+Jawaban: b) Kenaikan harga barang dan jasa secara umum dan terus-menerus dalam suatu periode tertentu
+
+**Soal 2: Multi-Box Choice**
+
+Pilihlah jawaban yang paling tepat!
+
+1. Apa saja jenis inflasi yang disebutkan dalam teks?
+
+a) Inflasi tari-tarik dan inflasi dorongan biaya
+b) Inflasi tari-tarik, inflasi dorongan biaya, dan inflasi impor
+c) Inflasi impor dan inflasi tari-tarik
+d) Inflasi tari-tarik dan inflasi impor
+
+Jawaban: b) Inflasi tari-tarik, inflasi dorongan biaya, dan inflasi impor
+
+**Soal 3: True/False**
+
+Benarkan atau salahkan pernyataan berikut!
+
+1. Inflasi dapat disebabkan oleh penurunan pasokan.
+
+a) Benar
+b) Salah
+
+Jawaban: b) Salah
+
+**Soal 4: Multiple Choice**
+
+Pilihlah jawaban yang paling tepat!
+
+1. Apa yang dimaksud dengan pasar modal?
+
+a) Tempat di mana investor dapat membeli dan menjual saham, obligasi, dan instrumen keuangan lainnya
+b) Tempat di mana bank, bisnis, dan pemerintah meminjam uang
+c) Tempat di mana individu dapat membeli dan menjual komoditas
+d) Tempat di mana perusahaan dapat memperoleh pinjaman
+
+Jawaban: a) Tempat di mana investor dapat membeli dan menjual saham, obligasi, dan instrumen keuangan lainnya
+
+**Soal 5: Multi-Box Choice**
+
+Pilihlah jawaban yang paling tepat!
+
+1. Apa saja manfaat investasi asing langsung (FDI)?
+
+a) Penciptaan lapangan kerja, transfer teknologi, dan peningkatan produktivitas
+b) Penciptaan lapangan kerja dan peningkatan produktivitas
+c) Transfer teknologi dan peningkatan produktivitas
+d) Penciptaan lapangan kerja dan transfer teknologi
+
+Jawaban: a) Penciptaan lapangan kerja, transfer teknologi, dan peningkatan produktivitas",240.25,815,0.29478527607361965,1.3428379882820354,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkatan Sedang (Tingkat Analisis Kasus Sedang, Tingkat Hafalan Sedang) berdasarkan data yang diberikan:
+
+**Soal 1: Multiple Choice**
+Pilihlah jawaban yang paling tepat untuk menggambarkan perbedaan antara ekonomi mikro dan ekonomi makro.
+
+A) Ekonomi mikro mempelajari perilaku individu, sedangkan ekonomi makro mempelajari perilaku perusahaan.
+B) Ekonomi mikro mempelajari perilaku perusahaan, sedangkan ekonomi makro mempelajari perilaku individu.
+C) Ekonomi mikro mempelajari perilaku individu dan perusahaan, sedangkan ekonomi makro mempelajari perilaku agregat.
+D) Ekonomi mikro mempelajari perilaku agregat, sedangkan ekonomi makro mempelajari perilaku individu dan perusahaan.
+
+Jawaban: C) Ekonomi mikro mempelajari perilaku individu dan perusahaan, sedangkan ekonomi makro mempelajari perilaku agregat.
+
+**Soal 2: True or False**
+Benar atau salah, pasar saham adalah tempat investor membeli dan menjual saham perusahaan swasta.
+
+A) Benar
+B) Salah
+
+Jawaban: B) Salah (Pasar saham adalah tempat investor membeli dan menjual saham perusahaan publik)
+
+**Soal 3: Multiple Choice**
+Pilihlah jawaban yang paling tepat untuk menggambarkan strategi investasi yang penting untuk mengurangi risiko.
+
+A) Diversifikasi portofolio
+B) Berinvestasi di pasar saham
+C) Membeli saham perusahaan yang stabil
+D) Membeli obligasi yang memiliki tingkat bunga tinggi
+
+Jawaban: A) Diversifikasi portofolio
+
+**Soal 4: Multiple Choice**
+Pilihlah jawaban yang paling tepat untuk menggambarkan peran asuransi dalam mengurangi risiko.
+
+A) Asuransi hanya melindungi dari risiko keuangan
+B) Asuransi melindungi dari risiko keuangan dan operasional
+C) Asuransi melindungi dari risiko keuangan dan kepatuhan
+D) Asuransi melindungi dari semua jenis risiko
+
+Jawaban: C) Asuransi melindungi dari risiko keuangan dan kepatuhan
+
+**Soal 5: Multiple Choice**
+Pilihlah jawaban yang paling tepat untuk menggambarkan tujuan utama dari perencanaan keuangan.
+
+A) Meningkatkan pendapatan
+B) Mengurangi risiko
+C) Mencapai tujuan keuangan
+D) Meningkatkan pengeluaran
+
+Jawaban: C) Mencapai tujuan keuangan",286.0,835,0.34251497005988024,1.4084854386157635,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkatan Sedang (Tingkat Analisis Kasus Sedang, Tingkat Hafalan Sedang) berdasarkan data yang diberikan:
+
+**Soal 1: Multiple Choice**
+Pilihlah jawaban yang paling tepat!
+
+1. Pasar modal menyediakan platform bagi perusahaan untuk mengumpulkan modal melalui penerbitan apa?
+
+A) Saham dan obligasi
+B) Reksa dana dan obligasi
+C) Saham dan reksa dana
+D) Obligasi dan emas
+
+Jawaban: A) Saham dan obligasi
+
+**Soal 2: True/False**
+Benar atau salah!
+
+1. Reksa dana menawarkan diversifikasi instan dan manajemen profesional.
+
+A) Benar
+B) Salah
+
+Jawaban: A) Benar
+
+**Soal 3: Multiple Choice**
+Pilihlah jawaban yang paling tepat!
+
+1. Investasi properti melibatkan pembelian, kepemilikan, dan penjualan apa?
+
+A) Tanah, bangunan, dan rumah
+B) Saham, obligasi, dan reksa dana
+C) Emas, perak, dan komoditas
+D) Properti, saham, dan obligasi
+
+Jawaban: A) Tanah, bangunan, dan rumah
+
+**Soal 4: Multiple Choice**
+Pilihlah jawaban yang paling tepat!
+
+1. Derivatif adalah instrumen keuangan yang nilainya berasal dari aset dasar apa?
+
+A) Saham, obligasi, komoditas, dan mata uang
+B) Saham dan obligasi
+C) Komoditas dan mata uang
+D) Emas dan perak
+
+Jawaban: A) Saham, obligasi, komoditas, dan mata uang
+
+**Soal 5: Multiple Choice**
+Pilihlah jawaban yang paling tepat!
+
+1. Kebijakan fiskal adalah penggunaan pengeluaran dan perpajakan pemerintah untuk memengaruhi perekonomian apa?
+
+A) Pertumbuhan ekonomi yang stabil dan inflasi yang rendah
+B) Pertumbuhan ekonomi yang tinggi dan inflasi yang tinggi
+C) Defisit anggaran dan utang pemerintah
+D) Stabilitas ekonomi makro dan pertumbuhan ekonomi yang sehat
+
+Jawaban: A) Pertumbuhan ekonomi yang stabil dan inflasi yang rendah",237.375,745,0.3186241610738255,1.3752343611590385,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkatan Sedang (Tingkat Analisis Kasus Sedang, Tingkat Hafalan Sedang) berdasarkan data yang diberikan:
+
+**Soal 1: Multiple Choice**
+Apa yang dimaksud dengan akuntansi sebagai bahasa bisnis?
+
+A) Akuntansi adalah sistem pengendalian internal
+B) Akuntansi adalah proses perencanaan keuangan
+C) Akuntansi adalah bahasa bisnis yang menyediakan kerangka kerja untuk mencatat, menganalisis, dan mengkomunikasikan informasi keuangan
+D) Akuntansi adalah sistem informasi akuntansi (AIS)
+
+Jawaban: C
+
+**Soal 2: True/False**
+Akuntansi biaya berfokus pada pelacakan dan analisis biaya yang terkait dengan produksi barang atau jasa.
+
+A) Benar
+B) Salah
+
+Jawaban: A
+
+**Soal 3: Multiple Choice**
+Apa yang dimaksud dengan analisis rasio keuangan?
+
+A) Analisis rasio keuangan digunakan untuk mengevaluasi kinerja keuangan dan mengidentifikasi tren
+B) Analisis rasio keuangan digunakan untuk menentukan harga jual produk
+C) Analisis rasio keuangan digunakan untuk menghitung laba bersih perusahaan
+D) Analisis rasio keuangan digunakan untuk menghitung biaya produksi
+
+Jawaban: A
+
+**Soal 4: Multi-Box Choice**
+Pilihlah aspek kunci yang dinilai dalam analisis rasio keuangan!
+
+A) Profitabilitas
+B) Likuiditas
+C) Solvabilitas
+D) Semua jawaban benar
+
+Jawaban: D
+
+**Soal 5: Multiple Choice**
+Apa yang dimaksud dengan akuntansi forensik?
+
+A) Akuntansi forensik melibatkan penggunaan keterampilan akuntansi dan investigasi untuk mendeteksi dan mencegah penipuan
+B) Akuntansi forensik melibatkan penggunaan keterampilan akuntansi dan investigasi untuk meningkatkan efisiensi operasional
+C) Akuntansi forensik melibatkan penggunaan keterampilan akuntansi dan investigasi untuk meningkatkan transparansi pelaporan keuangan
+D) Akuntansi forensik melibatkan penggunaan keterampilan akuntansi dan investigasi untuk meningkatkan pengendalian internal
+
+Jawaban: A
+
+**Soal 6: Multiple Choice**
+Apa yang dimaksud dengan perencanaan pajak?
+
+A) Perencanaan pajak adalah proses mengoptimalkan strategi pajak untuk meminimalkan kewajiban pajak secara legal
+B) Perencanaan pajak adalah proses menghitung biaya produksi
+C) Perencanaan pajak adalah proses menghitung laba bersih perusahaan
+D) Perencanaan pajak adalah proses menghitung harga jual produk
+
+Jawaban: A
+
+**Soal 7: Multiple Choice**
+Apa yang dimaksud dengan sistem informasi akuntansi (AIS)?
+
+A) Sistem informasi akuntansi (AIS) adalah sistem yang mengumpulkan, menyimpan, dan memproses data keuangan dan akuntansi yang digunakan oleh pengambil keputusan
+B) Sistem informasi akuntansi (AIS) adalah sistem yang digunakan untuk menghitung laba bersih perusahaan
+C) Sistem informasi akuntansi (AIS) adalah sistem yang digunakan untuk menghitung biaya produksi
+D) Sistem informasi akuntansi (AIS) adalah sistem yang digunakan untuk menghitung harga jual produk
+
+Jawaban: A
+
+**Soal 8: Multiple Choice**
+Apa yang dimaksud dengan akuntansi manajemen?
+
+A) Akuntansi manajemen menyediakan informasi keuangan kepada manajer internal untuk pengambilan keputusan
+B) Akuntansi manajemen menyediakan informasi keuangan kepada pihak eksternal untuk pengambilan keputusan
+C) Akuntansi manajemen menyediakan informasi keuangan untuk meningkatkan efisiensi operasional
+D) Akuntansi manajemen menyediakan informasi keuangan untuk meningkatkan transparansi pelaporan keuangan
+
+Jawaban: A
+
+**Soal 9: Multiple Choice**
+Apa yang dimaksud dengan analisis biaya-volume-laba (CVP)?
+
+A) Analisis biaya-volume-laba (CVP) adalah alat yang digunakan dalam akuntansi manajemen untuk memahami hubungan antara biaya, volume, dan laba
+B) Analisis biaya-volume-laba (CVP) adalah alat yang digunakan dalam akuntansi keuangan untuk memahami hubungan antara biaya, volume, dan laba
+C) Analisis biaya-volume-laba (CVP) adalah alat yang digunakan dalam akuntansi biaya untuk memahami hubungan antara biaya, volume, dan laba
+D) Analisis biaya-volume-laba (CVP) adalah alat yang digunakan dalam akuntansi forensik untuk memahami hubungan antara biaya, volume, dan laba
+
+Jawaban: A
+
+**Soal 10: Multiple Choice**
+Apa yang dimaksud dengan pengendalian internal?
+
+A) Pengendalian internal adalah proses yang dirancang untuk memastikan keandalan pelaporan keuangan, efektivitas dan efisiensi operasi, dan kepatuhan terhadap hukum dan peraturan
+B) Pengendalian internal adalah proses yang dirancang untuk meningkatkan transparansi pelaporan keuangan
+C) Pengendalian internal adalah proses yang dirancang untuk meningkatkan efisiensi operasional
+D) Pengendalian internal adalah proses yang dirancang untuk meningkatkan pengendalian biaya
+
+Jawaban: A",217.25,694,0.31304034582132567,1.3675767059199857,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkatan Sedang (Tingkat Analisis Kasus Sedang, Tingkat Hafalan Sedang) berdasarkan data yang diberikan:
+
+**Soal 1: Multiple Choice**
+Apa yang menyebabkan perubahan iklim?
+
+A) Aktivitas manusia
+B) Variasi siklus matahari
+C) Perubahan cuaca alami
+D) Peristiwa alam lainnya
+
+Jawaban: A) Aktivitas manusia
+
+**Soal 2: True/False**
+Perubahan iklim dapat menyebabkan peningkatan suhu global.
+
+A) Benar
+B) Salah
+
+Jawaban: A) Benar
+
+**Soal 3: Multiple Choice**
+Apa yang merupakan contoh emisi gas rumah kaca yang menyebabkan perubahan iklim?
+
+A) Karbon dioksida dan metana
+B) Oksigen dan nitrogen
+C) Helium dan hidrogen
+D) Argon dan neon
+
+Jawaban: A) Karbon dioksida dan metana
+
+**Soal 4: Multi-Box Choice**
+Pilihlah dampak perubahan iklim yang benar:
+
+A) Naiknya permukaan laut
+B) Peristiwa cuaca ekstrem yang lebih sering dan intens
+C) Perubahan pola curah hujan
+D) Semua jawaban benar
+
+Jawaban: D) Semua jawaban benar
+
+**Soal 5: Multiple Choice**
+Apa yang dilakukan oleh Panel Antarpemerintah tentang Perubahan Iklim (IPCC)?
+
+A) Melakukan penelitian sendiri tentang perubahan iklim
+B) Meninjau dan menilai informasi ilmiah tentang perubahan iklim
+C) Membuat kebijakan tentang perubahan iklim
+D) Memberikan informasi ilmiah tentang perubahan iklim kepada pemerintah
+
+Jawaban: B) Meninjau dan menilai informasi ilmiah tentang perubahan iklim",259.25,865,0.2997109826589595,1.3494687313447704,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkatan Sedang (Tingkat Analisis Kasus Sedang, Tingkat Hafalan Sedang) berdasarkan data yang diberikan:
+
+**Soal 1: Multiple Choice**
+Apa yang menyebabkan perubahan iklim terutama sejak tahun 1800-an?
+
+A) Variasi siklus matahari
+B) Aktivitas manusia
+C) Perubahan cuaca alami
+D) Peristiwa alam lainnya
+
+Jawaban: B) Aktivitas manusia
+
+**Soal 2: True/False**
+Perjanjian Paris bertujuan untuk membatasi pemanasan global hingga jauh di bawah 2 derajat Celcius, jika memungkinkan 1,5 derajat Celcius, di atas tingkat pra-industri.
+
+Jawaban: True
+
+**Soal 3: Multiple Choice**
+Apa yang dapat dilakukan untuk mengurangi emisi gas rumah kaca?
+
+A) Meningkatkan efisiensi energi
+B) Mengadopsi praktik pertanian berkelanjutan
+C) Membakar lebih banyak bahan bakar fosil
+D) Semua jawaban di atas
+
+Jawaban: D) Semua jawaban di atas
+
+**Soal 4: Multi-Box Choice**
+Pilihlah dampak perubahan iklim yang sudah dirasakan di seluruh dunia.
+
+A) Kenaikan permukaan laut
+B) Peristiwa cuaca ekstrem yang lebih sering dan intens
+C) Perubahan pola curah hujan
+D) Semua jawaban di atas
+
+Jawaban: D) Semua jawaban di atas
+
+**Soal 5: True/False**
+Gletser Thwaites di Antartika dijuluki ""Gletser Kiamat"" karena pencairannya dapat menyebabkan kenaikan permukaan laut yang signifikan.
+
+Jawaban: True",199.0,760,0.2618421052631579,1.2993213702261772,0,Error: Invalid JSON format
+"Berikut adalah soal dengan tingkatan Sedang (Tingkat Analisis Kasus Sedang, Tingkat Hafalan Sedang) berdasarkan data yang diberikan:
+
+**Soal Pilihan Ganda**
+
+1. Apa yang dimaksud dengan perubahan iklim?
+
+A) Perubahan cuaca yang terjadi dalam waktu singkat
+B) Perubahan suhu dan pola cuaca jangka panjang
+C) Perubahan musim yang terjadi setiap tahun
+D) Perubahan cuaca yang terjadi karena aktivitas manusia
+
+Jawaban: B) Perubahan suhu dan pola cuaca jangka panjang
+
+2. Apa yang menjadi pendorong utama perubahan iklim sejak tahun 1800-an?
+
+A) Aktivitas alami
+B) Aktivitas manusia
+C) Perubahan cuaca global
+D) Perubahan musim
+
+Jawaban: B) Aktivitas manusia
+
+3. Apa yang terjadi ketika gas rumah kaca seperti karbon dioksida, metana, dan dinitrogen oksida memerangkap panas di atmosfer?
+
+A) Suhu bumi menurun
+B) Suhu bumi tetap stabil
+C) Suhu bumi meningkat
+D) Cuaca menjadi lebih stabil
+
+Jawaban: C) Suhu bumi meningkat
+
+**Soal Benar/Salah**
+
+4. Benar atau salah: Pemanasan global adalah peningkatan suhu rata-rata bumi dari waktu ke waktu.
+
+Jawaban: Benar
+
+5. Benar atau salah: Efek rumah kaca adalah proses alami yang menghangatkan permukaan bumi.
+
+Jawaban: Benar
+
+**Soal Multi-Box Choice**
+
+6. Pilihlah gas rumah kaca utama yang dilepaskan oleh aktivitas manusia:
+
+A) Karbon dioksida
+B) Metana
+C) Nitro oksida
+D) Gas berfluorinasi
+E) Semua jawaban benar
+
+Jawaban: E) Semua jawaban benar
+
+**Soal HOTS**
+
+7. Jelaskan dampak perubahan iklim terhadap keanekaragaman hayati dan ekosistem.
+
+Jawaban: Perubahan iklim dapat mengganggu habitat alami dan mengancam kelangsungan hidup spesies, serta mengubah pola cuaca yang dapat mempengaruhi distribusi dan kelimpahan spesies.
+
+8. Jelaskan langkah-langkah mitigasi yang dapat dilakukan untuk mengurangi dampak perubahan iklim.
+
+Jawaban: Langkah-langkah mitigasi melibatkan pengurangan emisi gas rumah kaca melalui beralih ke sumber energi terbarukan, meningkatkan efisiensi energi, dan mengadopsi praktik berkelanjutan.",305.25,851,0.358695652173913,1.431461073202774,0,Error: Invalid JSON format
+"Berikut adalah contoh soal yang dapat dibuat berdasarkan materi yang diberikan:
+
+**Soal 1: Multiple Choice**
+
+Pilihlah metode transfer learning yang paling sesuai untuk tugas klasifikasi gambar medis:
+
+A) Fine-tuning
+B) Frozen feature extraction
+C) Transfer learning dengan bobot yang dibekukan
+D) Transfer learning dengan klasifikasi baru
+
+Jawaban: A) Fine-tuning
+
+**Soal 2: True/False**
+
+Backpropagation adalah algoritma inti dalam pelatihan jaringan saraf tiruan yang menghitung gradien dari fungsi kerugian terhadap bobot jaringan.
+
+Jawaban: True
+
+**Soal 3: Multiple Choice**
+
+Arsitektur transformer menggunakan mekanisme self-attention untuk mempertimbangkan hubungan antara semua kata dalam sebuah kalimat. Apakah pernyataan ini benar?
+
+A) Benar
+B) Salah
+
+Jawaban: A) Benar
+
+**Soal 4: Multi-Box Choice**
+
+Pilihlah varian dari gradient descent yang paling sesuai untuk menemukan nilai minimum dari fungsi kerugian:
+
+A) Stochastic gradient descent (SGD)
+B) Momentum
+C) Adam
+D) Gradient descent dengan learning rate tetap
+
+Jawaban: A) Stochastic gradient descent (SGD)
+
+**Soal 5: Multiple Choice**
+
+Representasi matriks memainkan peran penting dalam deep learning karena memungkinkan kita untuk melakukan operasi matematika secara efisien pada data dalam jumlah besar. Apakah pernyataan ini benar?
+
+A) Benar
+B) Salah
+
+Jawaban: A) Benar",275.75,767,0.35951760104302477,1.4326381446930914,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkatan Sulit (Tingkat Analisis Kasus Sulit, Tingkat Hafalan Susah, Kompleksitas soal Sulit, gabungan beberapa materi) yang dihasilkan dari teks tersebut:
+
+**Soal 1: Analisis Kasus Sulit**
+
+Sebuah model CNN telah dilatih untuk mengklasifikasikan gambar hewan. Namun, model tersebut sering kali salah mengklasifikasikan gambar kucing sebagai anjing. Analisislah kasus ini dan berikan solusi untuk meningkatkan akurasi model.
+
+**Jawaban:**
+
+Kasus ini kemungkinan disebabkan oleh beberapa faktor, seperti:
+
+* **Overfitting:** Model mungkin terlalu kompleks dan menghafal pola yang spesifik pada gambar pelatihan, sehingga tidak dapat generalisasi dengan baik pada gambar baru.
+* **Kurangnya data:** Dataset pelatihan mungkin terlalu kecil atau tidak mencakup variasi gambar kucing yang cukup.
+* **Kurangnya regularisasi:** Model mungkin tidak memiliki teknik regularisasi yang cukup untuk mencegah overfitting.
+
+Solusi untuk meningkatkan akurasi model adalah:
+
+* **Meningkatkan ukuran dataset pelatihan:** Dengan menambahkan lebih banyak gambar kucing dan anjing, model dapat belajar pola yang lebih umum dan tidak terlalu spesifik.
+* **Menggunakan teknik regularisasi yang lebih kuat:** Menambahkan dropout atau L2 regularization dapat membantu mencegah overfitting dan meningkatkan generalisasi model.
+* **Menggunakan data augmentation:** Menerapkan teknik data augmentation seperti flipping, cropping, atau rotation dapat membantu meningkatkan variasi gambar dan mencegah overfitting.
+
+**Soal 2: Tingkat Hafalan Susah**
+
+Sebuah model RNN telah dilatih untuk memprediksi nilai saham berdasarkan data historis. Namun, model tersebut sering kali salah memprediksi nilai saham pada hari berikutnya. Analisislah kasus ini dan berikan solusi untuk meningkatkan akurasi model.
+
+**Jawaban:**
+
+Kasus ini kemungkinan disebabkan oleh beberapa faktor, seperti:
+
+* **Kurangnya data:** Dataset pelatihan mungkin terlalu kecil atau tidak mencakup variasi data saham yang cukup.
+* **Kurangnya kompleksitas model:** Model mungkin terlalu sederhana dan tidak dapat menangkap pola yang kompleks dalam data saham.
+* **Kurangnya optimisasi:** Model mungkin tidak memiliki algoritma optimisasi yang cukup untuk menemukan parameter yang optimal.
+
+Solusi untuk meningkatkan akurasi model adalah:
+
+* **Meningkatkan ukuran dataset pelatihan:** Dengan menambahkan lebih banyak data saham, model dapat belajar pola yang lebih umum dan tidak terlalu spesifik.
+* **Menggunakan model yang lebih kompleks:** Menambahkan lapisan RNN yang lebih banyak atau menggunakan model yang lebih kompleks seperti LSTM dapat membantu meningkatkan kemampuan model untuk menangkap pola yang kompleks.
+* **Menggunakan optimisasi yang lebih kuat:** Menggunakan algoritma optimisasi seperti Adam atau RMSprop dapat membantu meningkatkan akurasi model.
+
+**Soal 3: Kompleksitas Soal Sulit**
+
+Sebuah model CNN telah dilatih untuk mengklasifikasikan gambar hewan dengan menggunakan dataset yang sangat besar. Namun, model tersebut sering kali salah mengklasifikasikan gambar kucing sebagai anjing. Analisislah kasus ini dan berikan solusi untuk meningkatkan akurasi model.
+
+**Jawaban:**
+
+Kasus ini kemungkinan disebabkan oleh beberapa faktor, seperti:
+
+* **Overfitting:** Model mungkin terlalu kompleks dan menghafal pola yang spesifik pada gambar pelatihan, sehingga tidak dapat generalisasi dengan baik pada gambar baru.
+* **Kurangnya regularisasi:** Model mungkin tidak memiliki teknik regularisasi yang cukup untuk mencegah overfitting.
+* **Kurangnya data augmentation:** Model mungkin tidak menggunakan teknik data augmentation yang cukup untuk meningkatkan variasi gambar.
+
+Solusi untuk meningkatkan akurasi model adalah:
+
+* **Menggunakan teknik regularisasi yang lebih kuat:** Menambahkan dropout atau L2 regularization dapat membantu mencegah overfitting dan meningkatkan generalisasi model.
+* **Menggunakan data augmentation:** Menerapkan teknik data augmentation seperti flipping, cropping, atau rotation dapat membantu meningkatkan variasi gambar dan mencegah overfitting.
+* **Menggunakan model yang lebih sederhana:** Mengurangi jumlah lapisan atau menggunakan model yang lebih sederhana dapat membantu mengurangi kompleksitas model dan mencegah overfitting.
+
+**Soal 4: Gabungan Beberapa Materi**
+
+Sebuah model deep learning telah dilatih untuk mengklasifikasikan gambar hewan dengan menggunakan dataset yang sangat besar. Namun, model tersebut sering kali salah mengklasifikasikan gambar kucing sebagai anjing. Analisislah kasus ini dan berikan solusi untuk meningkatkan akurasi model.
+
+**Jawaban:**
+
+Kasus ini kemungkinan disebabkan oleh beberapa faktor, seperti:
+
+* **Overfitting:** Model mungkin terlalu kompleks dan menghafal pola yang spesifik pada gambar pelatihan, sehingga tidak dapat generalisasi dengan baik pada gambar baru.
+* **Kurangnya regularisasi:** Model mungkin tidak memiliki teknik regularisasi yang cukup untuk mencegah overfitting.
+* **Kurangnya data augmentation:** Model mungkin tidak menggunakan teknik data augmentation yang cukup untuk meningkatkan variasi gambar.
+
+Solusi untuk meningkatkan akurasi model adalah:
+
+* **Menggunakan teknik regularisasi yang lebih kuat:** Menambahkan dropout atau L2 regularization dapat membantu mencegah overfitting dan meningkatkan generalisasi model.
+* **Menggunakan data augmentation:** Menerapkan teknik data augmentation seperti flipping, cropping, atau rotation dapat membantu meningkatkan variasi gambar dan mencegah overfitting.
+* **Menggunakan model yang lebih sederhana:** Mengurangi jumlah lapisan atau menggunakan model yang lebih sederhana dapat membantu mengurangi kompleksitas model dan mencegah overfitting.
+* **Menggunakan optimisasi yang lebih kuat:** Menggunakan algoritma optimisasi seperti Adam atau RMSprop dapat membantu meningkatkan akurasi model.
+
+**Soal 5: Gabungan Beberapa Materi**
+
+Sebuah model deep learning telah dilatih untuk memprediksi nilai saham berdasarkan data historis. Namun, model tersebut sering kali salah memprediksi nilai saham pada hari berikutnya. Analisislah kasus ini dan berikan solusi untuk meningkatkan akurasi model.
+
+**Jawaban:**
+
+Kasus ini kemungkinan disebabkan oleh beberapa faktor, seperti:
+
+* **Kurangnya data:** Dataset pelatihan mungkin terlalu kecil atau tidak mencakup variasi data saham yang cukup.
+* **Kurangnya kompleksitas model:** Model mungkin terlalu sederhana dan tidak dapat menangkap pola yang kompleks dalam data saham.
+* **Kurangnya optimisasi:** Model mungkin tidak memiliki algoritma optimisasi yang cukup untuk menemukan parameter yang optimal.
+
+Solusi untuk meningkatkan akurasi model adalah:
+
+* **Meningkatkan ukuran dataset pelatihan:** Dengan menambahkan lebih banyak data saham, model dapat belajar pola yang lebih umum dan tidak terlalu spesifik.
+* **Menggunakan model yang lebih kompleks:** Menambahkan lapisan RNN yang lebih banyak atau menggunakan model yang lebih kompleks seperti LSTM dapat membantu meningkatkan kemampuan model untuk menangkap pola yang kompleks.
+* **Menggunakan optimisasi yang lebih kuat:** Menggunakan algoritma optimisasi seperti Adam atau RMSprop dapat membantu meningkatkan akurasi model.
+* **Menggunakan data augmentation:** Menerapkan teknik data augmentation seperti flipping, cropping, atau rotation dapat membantu meningkatkan variasi data saham dan mencegah overfitting.",195.125,687,0.2840247452692867,1.3284658035901176,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkatan Sulit (Tingkat Analisis Kasus Sulit, Tingkat Hafalan Susah, Kompleksitas soal Sulit, gabungan beberapa materi) yang dihasilkan dari data yang diberikan:
+
+**Soal 1: Multiple Choice**
+
+Dalam konteks deep learning, algoritma apa yang digunakan untuk melatih jaringan saraf dan menghitung gradien dari fungsi kerugian terhadap bobot jaringan?
+
+A) Gradient Descent
+B) Backpropagation
+C) Stochastic Gradient Descent
+D) Momentum
+
+**Jawaban:** B) Backpropagation
+
+**Soal 2: True/False**
+
+Pada forward pass, input data dipropagasikan maju melalui jaringan untuk menghasilkan output. Pernyataan ini benar atau salah?
+
+A) Benar
+B) Salah
+
+**Jawaban:** A) Benar
+
+**Soal 3: Multi-Box Choice**
+
+Pilihlah teknik data augmentation yang digunakan untuk meningkatkan ukuran dan variasi dataset pelatihan dengan mengubah data yang ada.
+
+A) Flipping
+B) Cropping
+C) Rotation
+D) Adding noise
+E) Semua pilihan di atas
+
+**Jawaban:** E) Semua pilihan di atas
+
+**Soal 4: Multiple Choice**
+
+Dalam konteks deep learning, representasi matriks sangat penting karena memungkinkan operasi matematika yang efisien pada data dalam jumlah besar. Operasi matriks apa yang digunakan secara luas dalam perhitungan deep learning?
+
+A) Perkalian
+B) Transposisi
+C) Penjumlahan
+D) Pengurangan
+
+**Jawaban:** A) Perkalian
+
+**Soal 5: True/False**
+
+Pemilihan learning rate yang tepat sangat penting untuk konvergensi yang cepat dan stabil dalam algoritma optimisasi gradient descent. Pernyataan ini benar atau salah?
+
+A) Benar
+B) Salah
+
+**Jawaban:** A) Benar
+
+**Soal 6: Multiple Choice**
+
+Dalam konteks deep learning, transfer learning memungkinkan kita untuk memanfaatkan pengetahuan yang telah dipelajari oleh model pada satu tugas untuk tugas yang berbeda tetapi terkait. Teknik apa yang digunakan untuk melakukan transfer learning?
+
+A) Fine-tuning
+B) Frozen feature extraction
+C) Kedua-duanya
+D) Tidak ada pilihan di atas
+
+**Jawaban:** C) Kedua-duanya",270.5,726,0.3725895316804408,1.4514884275238749,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkat kesulitan yang berbeda-beda:
+
+**Soal Tingkat Analisis Kasus Sulit**
+
+1. Jelaskan bagaimana proses backpropagation dalam jaringan saraf tiruan dapat digunakan untuk memperbarui bobot neuron. Berikan contoh langkah-langkahnya dan jelaskan bagaimana kesalahan antara output dan target digunakan untuk menghitung kesalahan.
+
+**Soal Tingkat Hafalan Susah**
+
+2. Sebutkan dan jelaskan tiga jenis fungsi aktivasi yang umum digunakan dalam jaringan saraf tiruan, yaitu sigmoid, ReLU, dan softmax. Jelaskan bagaimana masing-masing fungsi aktivasi tersebut bekerja dan kapan mereka digunakan.
+
+**Soal Kompleksitas Soal Sulit**
+
+3. Jelaskan bagaimana teknik regularisasi dapat digunakan untuk mencegah overfitting dalam jaringan saraf tiruan. Sebutkan tiga teknik regularisasi yang umum digunakan, yaitu L1 dan L2 regularization, dropout, dan early stopping. Jelaskan bagaimana masing-masing teknik tersebut bekerja dan kapan mereka digunakan.
+
+**Soal Gabungan Beberapa Materi**
+
+4. Jelaskan bagaimana transfer learning dapat digunakan dalam jaringan saraf tiruan untuk meningkatkan kinerja model pada tugas yang berbeda. Sebutkan dua teknik transfer learning yang umum digunakan, yaitu fine-tuning dan frozen feature extraction. Jelaskan bagaimana masing-masing teknik tersebut bekerja dan kapan mereka digunakan.
+
+**Soal Tingkat Analisis Kasus Sulit**
+
+5. Jelaskan bagaimana data augmentation dapat digunakan dalam jaringan saraf tiruan untuk meningkatkan kinerja model pada tugas yang berbeda. Sebutkan tiga teknik data augmentation yang umum digunakan, yaitu flipping, cropping, dan rotation. Jelaskan bagaimana masing-masing teknik tersebut bekerja dan kapan mereka digunakan.
+
+**Soal Tingkat Hafalan Susah**
+
+6. Sebutkan dan jelaskan dua jenis jaringan saraf tiruan yang umum digunakan dalam deep learning, yaitu Multilayer Perceptrons (MLPs) dan Convolutional Neural Networks (CNNs). Jelaskan bagaimana masing-masing jenis jaringan tersebut bekerja dan kapan mereka digunakan.
+
+**Soal Kompleksitas Soal Sulit**
+
+7. Jelaskan bagaimana representasi matriks digunakan dalam deep learning untuk operasi yang efisien pada data dalam jumlah besar. Sebutkan dua operasi matriks yang umum digunakan dalam jaringan saraf tiruan, yaitu forward pass dan backward pass. Jelaskan bagaimana masing-masing operasi tersebut bekerja dan kapan mereka digunakan.
+
+**Soal Gabungan Beberapa Materi**
+
+8. Jelaskan bagaimana Transformer dapat digunakan dalam jaringan saraf tiruan untuk memproses data sekuensial secara paralel. Sebutkan dua kelebihan Transformer dibandingkan dengan RNN, yaitu kecepatan dan kemampuan menangkap dependensi jangka panjang. Jelaskan bagaimana Transformer bekerja dan kapan mereka digunakan.",229.25,757,0.3028401585204756,1.3536980700460033,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkat kesulitan yang berbeda-beda:
+
+**Soal Tingkat Analisis Kasus Sulit**
+
+1. Jelaskan bagaimana arsitektur jaringan saraf tiruan (ANN) yang dalam memungkinkan model deep learning untuk mempelajari fitur hierarkis dari data mentah. Berikan contoh aplikasi di mana fitur tingkat rendah digabungkan untuk membentuk fitur tingkat tinggi yang lebih abstrak.
+
+**Soal Tingkat Hafalan Susah**
+
+2. Jelaskan perbedaan antara Convolutional Neural Networks (CNNs) dan Recurrent Neural Networks (RNNs) dalam konteks pengolahan data gambar dan data sekuensial. Berikan contoh aplikasi di mana masing-masing jenis jaringan saraf digunakan.
+
+**Soal Kompleksitas Soal Sulit**
+
+3. Jelaskan bagaimana mekanisme self-attention dalam Transformer memungkinkan pemrosesan paralel dan penangkapan dependensi jangka panjang dalam Natural Language Processing (NLP). Berikan contoh aplikasi di mana Transformer digunakan untuk memecahkan masalah NLP yang kompleks.
+
+**Soal Gabungan Beberapa Materi**
+
+4. Jelaskan bagaimana deep learning dapat digunakan untuk memecahkan masalah pengenalan gambar menggunakan CNN, dan bagaimana deep learning dapat digunakan untuk memecahkan masalah pemrosesan bahasa alami menggunakan Transformer. Berikan contoh aplikasi di mana kedua jenis jaringan saraf digunakan secara bersamaan untuk memecahkan masalah yang kompleks.
+
+**Soal Tingkat Analisis Kasus Sulit**
+
+5. Jelaskan bagaimana teknik regularisasi seperti L1 dan L2 regularization, dropout, dan early stopping digunakan untuk mencegah overfitting dalam pelatihan model deep learning. Berikan contoh aplikasi di mana teknik-teknik ini digunakan untuk meningkatkan kinerja model.
+
+**Soal Tingkat Hafalan Susah**
+
+6. Jelaskan bagaimana data augmentation dapat digunakan untuk meningkatkan ukuran dan variasi dataset pelatihan dalam deep learning. Berikan contoh aplikasi di mana data augmentation digunakan untuk meningkatkan kinerja model.
+
+**Soal Kompleksitas Soal Sulit**
+
+7. Jelaskan bagaimana representasi matriks memungkinkan operasi yang efisien pada data dalam jumlah besar dalam deep learning. Berikan contoh aplikasi di mana representasi matriks digunakan untuk meningkatkan kinerja model.
+
+**Soal Gabungan Beberapa Materi**
+
+8. Jelaskan bagaimana deep learning dapat digunakan untuk memecahkan masalah pengenalan gambar menggunakan CNN, dan bagaimana deep learning dapat digunakan untuk memecahkan masalah regresi menggunakan model yang dilatih dengan representasi matriks. Berikan contoh aplikasi di mana kedua jenis jaringan saraf digunakan secara bersamaan untuk memecahkan masalah yang kompleks.
+
+**Soal Tingkat Analisis Kasus Sulit**
+
+9. Jelaskan bagaimana teknik interpretasi model deep learning seperti visualisasi aktivasi dan saliency maps dapat membantu memahami bagaimana model membuat keputusan. Berikan contoh aplikasi di mana teknik-teknik ini digunakan untuk meningkatkan kinerja model.
+
+**Soal Tingkat Hafalan Susah**
+
+10. Jelaskan bagaimana deep learning terus berkembang pesat dengan penelitian baru yang berfokus pada peningkatan arsitektur, algoritma optimisasi, dan teknik regularisasi. Berikan contoh aplikasi di mana penelitian-penelitian ini digunakan untuk meningkatkan kinerja model.",184.25,590,0.31228813559322033,1.3665483875383633,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkat kesulitan yang berbeda-beda:
+
+**Soal Tingkat Analisis Kasus Sulit**
+
+1. **Pemrosesan Bahasa Alami dan Kecerdasan Buatan:**
+
+Pernyataan berikut ini benar atau salah?
+
+Pemrosesan Bahasa Alami (NLP) adalah cabang kecerdasan buatan yang berfokus pada interaksi antara komputer dan manusia melalui bahasa alami.
+
+**Jawaban:** Benar
+
+**Soal Tingkat Hafalan Susah**
+
+2. **Arsitektur Transformer dalam NLP:**
+
+Apa yang dimaksud dengan mekanisme self-attention dalam arsitektur Transformer?
+
+**Jawaban:** Mekanisme self-attention memungkinkan model untuk mempertimbangkan hubungan antara semua kata dalam sebuah kalimat, terlepas dari jaraknya.
+
+**Soal Kompleksitas Soal Sulit**
+
+3. **Model Berbasis Transformer dalam NLP:**
+
+Jelaskan perbedaan antara model BERT dan GPT dalam konteks NLP.
+
+**Jawaban:** Model BERT (Bidirectional Encoder Representations from Transformers) dan GPT (Generative Pre-trained Transformer) adalah dua model berbasis Transformer yang digunakan dalam NLP. Perbedaan utama antara keduanya adalah arah pengolahan informasi. BERT adalah model pre-trained yang dapat digunakan untuk tugas-tugas seperti klasifikasi teks dan pengenalan entitas, sedangkan GPT adalah model generatif yang dapat digunakan untuk menghasilkan teks yang realistis dan koheren.
+
+**Soal Gabungan Beberapa Materi**
+
+4. **Pemrosesan Awal Teks dalam NLP:**
+
+Jelaskan langkah-langkah yang dilakukan dalam proses tokenisasi, stemming, dan lemmatization dalam pemrosesan awal teks dalam NLP.
+
+**Jawaban:** Proses tokenisasi membagi teks menjadi unit-unit individual, seperti kata atau subkata. Stemming dan lemmatization mereduksi kata ke bentuk dasarnya. Proses ini dilakukan untuk membersihkan dan menyiapkan data teks untuk model deep learning.
+
+**Soal Tingkat Analisis Kasus Sulit**
+
+5. **Data Augmentation dalam NLP:**
+
+Jelaskan teknik data augmentation yang digunakan dalam NLP dan contoh-contoh implementasinya.
+
+**Jawaban:** Teknik data augmentation dalam NLP dapat melibatkan teknik seperti back translation, synonym replacement, dan random insertion/deletion. Back translation menerjemahkan teks ke bahasa lain dan kemudian kembali ke bahasa asli. Synonym replacement mengganti kata dengan sinonimnya. Random insertion/deletion menyisipkan atau menghapus kata secara acak.
+
+**Soal Tingkat Hafalan Susah**
+
+6. **Evaluasi Model NLP:**
+
+Jelaskan metrik yang digunakan untuk mengevaluasi kualitas terjemahan mesin dalam NLP.
+
+**Jawaban:** Bleu score digunakan untuk mengevaluasi kualitas terjemahan mesin.
+
+**Soal Kompleksitas Soal Sulit**
+
+7. **Perkembangan Terbaru dalam NLP:**
+
+Jelaskan perkembangan terbaru dalam NLP yang meliputi model bahasa yang besar, seperti GPT-3.
+
+**Jawaban:** Model bahasa yang besar, seperti GPT-3, dapat menghasilkan teks yang sangat realistis dan koheren. Model-model ini dilatih pada dataset teks yang sangat besar dan memiliki miliaran parameter.",183.375,709,0.258638928067701,1.2951660722742173,0,Error: Invalid JSON format
+"Berikut adalah soal yang dibuat berdasarkan materi yang diberikan:
+
+**Soal 1: Multiple Choice**
+
+Apa yang dimaksud dengan visi komputer?
+
+A) Bidang ilmu komputer yang berfokus pada pengembangan algoritma dan teknik untuk memungkinkan komputer ""melihat"" dan menafsirkan suara
+B) Bidang ilmu komputer yang berfokus pada pengembangan algoritma dan teknik untuk memungkinkan komputer ""mendengar"" dan menafsirkan gambar
+C) Bidang ilmu komputer yang berfokus pada pengembangan algoritma dan teknik untuk memungkinkan komputer ""melihat"" dan menafsirkan gambar dan video
+D) Bidang ilmu komputer yang berfokus pada pengembangan algoritma dan teknik untuk memungkinkan komputer ""menghitung"" dan menafsirkan data
+
+Jawaban: C) Bidang ilmu komputer yang berfokus pada pengembangan algoritma dan teknik untuk memungkinkan komputer ""melihat"" dan menafsirkan gambar dan video
+
+**Soal 2: True/False**
+
+Deep learning telah menjadi pendorong utama kemajuan dalam visi komputer dalam beberapa tahun terakhir.
+
+A) Benar
+B) Salah
+
+Jawaban: A) Benar
+
+**Soal 3: Multiple Choice**
+
+Apa yang dimaksud dengan Convolutional Neural Networks (CNNs)?
+
+A) Arsitektur jaringan saraf yang dirancang khusus untuk memproses data teks
+B) Arsitektur jaringan saraf yang dirancang khusus untuk memproses data audio
+C) Arsitektur jaringan saraf yang dirancang khusus untuk memproses data gambar
+D) Arsitektur jaringan saraf yang dirancang khusus untuk memproses data video
+
+Jawaban: C) Arsitektur jaringan saraf yang dirancang khusus untuk memproses data gambar
+
+**Soal 4: Multi-Box Choice**
+
+Apa saja metode deep learning yang digunakan untuk deteksi objek?
+
+A) YOLO (You Only Look Once)
+B) Faster R-CNN
+C) U-Net
+D) Mask R-CNN
+E) Semua jawaban di atas
+
+Jawaban: E) Semua jawaban di atas
+
+**Soal 5: True/False**
+
+Pengenalan gambar melibatkan klasifikasi gambar ke dalam kategori yang telah ditentukan.
+
+A) Benar
+B) Salah
+
+Jawaban: A) Benar
+
+**Soal 6: Multiple Choice**
+
+Apa yang dimaksud dengan transfer learning?
+
+A) Teknik untuk meningkatkan akurasi model visi komputer dengan menggunakan data yang lebih besar
+B) Teknik untuk mengurangi dimensi data dengan menggunakan lapisan pooling
+C) Teknik untuk menggunakan kembali model yang telah dilatih pada dataset besar untuk tugas visi komputer yang spesifik
+D) Teknik untuk meningkatkan variasi data dengan menggunakan teknik augmentasi
+
+Jawaban: C) Teknik untuk menggunakan kembali model yang telah dilatih pada dataset besar untuk tugas visi komputer yang spesifik
+
+**Soal 7: True/False**
+
+Intersection over Union (IoU) digunakan untuk mengukur tumpang tindih antara bounding box yang diprediksi dan ground truth dalam deteksi objek.
+
+A) Benar
+B) Salah
+
+Jawaban: A) Benar
+
+**Soal 8: Multiple Choice**
+
+Apa saja tantangan dalam visi komputer?
+
+A) Variasi pencahayaan, skala objek, oklusi, dan viewpoint variation
+B) Variasi pencahayaan, skala objek, dan viewpoint variation
+C) Variasi pencahayaan dan skala objek
+D) Variasi pencahayaan dan viewpoint variation
+
+Jawaban: A) Variasi pencahayaan, skala objek, oklusi, dan viewpoint variation",208.0,724,0.287292817679558,1.332814427970116,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkat kesulitan yang berbeda-beda:
+
+**Soal 1: Tingkat Hafalan Susah**
+
+1. Apa yang dimaksud dengan Generative Adversarial Networks (GANs)?
+
+A) Jaringan saraf yang digunakan untuk mengklasifikasikan data
+B) Jaringan saraf yang digunakan untuk menghasilkan data sintetis
+C) Jaringan saraf yang digunakan untuk memprediksi hasil
+D) Jaringan saraf yang digunakan untuk mengenali pola
+
+Jawaban: B) Jaringan saraf yang digunakan untuk menghasilkan data sintetis
+
+**Soal 2: Tingkat Analisis Kasus Sulit**
+
+2. Jelaskan perbedaan antara generator dan discriminator dalam GANs.
+
+A) Generator digunakan untuk mengklasifikasikan data, sedangkan discriminator digunakan untuk menghasilkan data sintetis
+B) Generator digunakan untuk menghasilkan data sintetis, sedangkan discriminator digunakan untuk mengklasifikasikan data
+C) Generator digunakan untuk mengklasifikasikan data, sedangkan discriminator digunakan untuk memprediksi hasil
+D) Generator digunakan untuk menghasilkan data sintetis, sedangkan discriminator digunakan untuk mengenali pola
+
+Jawaban: B) Generator digunakan untuk menghasilkan data sintetis, sedangkan discriminator digunakan untuk mengklasifikasikan data
+
+**Soal 3: Kompleksitas Soal Sulit**
+
+3. Jelaskan bagaimana GANs dapat digunakan untuk meningkatkan resolusi gambar.
+
+A) Dengan menggunakan teknik deep learning untuk menghasilkan gambar yang lebih tajam
+B) Dengan menggunakan teknik reinforcement learning untuk mengoptimalkan kualitas gambar
+C) Dengan menggunakan teknik transfer learning untuk mengadaptasi model gambar yang sudah ada
+D) Dengan menggunakan teknik generative adversarial networks untuk menghasilkan gambar yang lebih detail
+
+Jawaban: D) Dengan menggunakan teknik generative adversarial networks untuk menghasilkan gambar yang lebih detail
+
+**Soal 4: Gabungan Beberapa Materi**
+
+4. Jelaskan bagaimana GANs dapat digunakan dalam kombinasi dengan reinforcement learning untuk meningkatkan kualitas gambar.
+
+A) Dengan menggunakan GANs untuk menghasilkan gambar yang lebih realistis, dan reinforcement learning untuk mengoptimalkan kualitas gambar
+B) Dengan menggunakan reinforcement learning untuk menghasilkan gambar yang lebih realistis, dan GANs untuk mengoptimalkan kualitas gambar
+C) Dengan menggunakan GANs untuk menghasilkan gambar yang lebih detail, dan reinforcement learning untuk mengoptimalkan kualitas gambar
+D) Dengan menggunakan reinforcement learning untuk menghasilkan gambar yang lebih detail, dan GANs untuk mengoptimalkan kualitas gambar
+
+Jawaban: A) Dengan menggunakan GANs untuk menghasilkan gambar yang lebih realistis, dan reinforcement learning untuk mengoptimalkan kualitas gambar",157.5,633,0.24881516587677724,1.2825049604810348,0,Error: Invalid JSON format
+"Berikut adalah contoh soal yang dapat dibuat berdasarkan materi yang disediakan:
+
+**Soal 1: Multiple Choice**
+
+Apa yang dimaksud dengan backpropagation dalam pelatihan deep learning?
+
+A) Proses meminimalkan kesalahan dengan memperbarui bobot jaringan
+B) Proses memproses data secara berurutan dalam jaringan saraf
+C) Proses menghitung gradien dari fungsi kerugian terhadap bobot jaringan
+D) Proses memilih arsitektur jaringan yang optimal
+
+Jawaban: C) Proses menghitung gradien dari fungsi kerugian terhadap bobot jaringan
+
+**Soal 2: True/False**
+
+Jaringan saraf konvolusional (CNNs) efektif dalam tugas visi komputer karena kemampuannya mengekstrak fitur spasial hierarkis.
+
+A) Benar
+B) Salah
+
+Jawaban: A) Benar
+
+**Soal 3: Multiple Choice**
+
+Apa yang dimaksud dengan regularisasi dalam deep learning?
+
+A) Proses meminimalkan kesalahan dengan memperbarui bobot jaringan
+B) Proses mengontrol kompleksitas model dengan menambahkan penalti pada fungsi kerugian
+C) Proses memilih arsitektur jaringan yang optimal
+D) Proses memproses data secara berurutan dalam jaringan saraf
+
+Jawaban: B) Proses mengontrol kompleksitas model dengan menambahkan penalti pada fungsi kerugian
+
+**Soal 4: Multi-Box Choice**
+
+Apa yang dimaksud dengan transfer learning dalam deep learning?
+
+A) Proses meminimalkan kesalahan dengan memperbarui bobot jaringan
+B) Proses memproses data secara berurutan dalam jaringan saraf
+C) Proses memanfaatkan pengetahuan dari model yang telah dilatih pada satu tugas untuk tugas yang berbeda
+D) Proses memilih arsitektur jaringan yang optimal
+
+Jawaban: C) Proses memanfaatkan pengetahuan dari model yang telah dilatih pada satu tugas untuk tugas yang berbeda
+
+**Soal 5: True/False**
+
+Representasi matriks dan tensor memungkinkan operasi yang efisien pada data multidimensi dalam deep learning.
+
+A) Benar
+B) Salah
+
+Jawaban: A) Benar",242.875,692,0.35097543352601157,1.4204524299758892,0,Error: Invalid JSON format
+"Berikut adalah contoh soal dengan tingkat kesulitan yang berbeda-beda:
+
+**Soal 1: Tingkat Analisis Kasus Sulit**
+
+Pertanyaan: Jelaskan bagaimana SGD dapat mengatasi masalah overfitting pada dataset yang besar.
+
+Jawaban: SGD dapat mengatasi masalah overfitting pada dataset yang besar dengan menggunakan mini-batch, yaitu menghitung gradien dari fungsi kerugian pada subset acak dari data pelatihan. Dengan menggunakan mini-batch, SGD dapat mempercepat konvergensi dan mengurangi risiko overfitting karena model tidak terlalu kompleks dan tidak terlalu tergantung pada data pelatihan.
+
+**Soal 2: Tingkat Hafalan Susah**
+
+Pertanyaan: Jelaskan perbedaan antara L1 dan L2 regularization.
+
+Jawaban: L1 regularization menambahkan penalti pada fungsi kerugian berdasarkan besarnya bobot, sedangkan L2 regularization menambahkan penalti pada fungsi kerugian berdasarkan kuadrat dari bobot. L1 regularization cenderung menghasilkan model yang lebih sederhana dan lebih mudah diinterpretasi, sedangkan L2 regularization cenderung menghasilkan model yang lebih kompleks dan lebih akurat.
+
+**Soal 3: Kompleksitas Soal Sulit**
+
+Pertanyaan: Jelaskan bagaimana transfer learning dapat digunakan untuk meningkatkan kinerja model pada tugas yang berbeda.
+
+Jawaban: Transfer learning memungkinkan kita untuk memanfaatkan pengetahuan yang telah dipelajari oleh model pada satu tugas (tugas sumber) untuk tugas yang berbeda, tetapi terkait (tugas target). Dengan menggunakan teknik transfer learning seperti fine-tuning atau frozen feature extraction, kita dapat meningkatkan kinerja model pada tugas target dengan memanfaatkan pengetahuan yang telah dipelajari oleh model pada tugas sumber.
+
+**Soal 4: Gabungan Beberapa Materi**
+
+Pertanyaan: Jelaskan bagaimana kombinasi antara SGD, regularisasi, dan transfer learning dapat meningkatkan kinerja model pada tugas visi komputer.
+
+Jawaban: Kombinasi antara SGD, regularisasi, dan transfer learning dapat meningkatkan kinerja model pada tugas visi komputer dengan beberapa cara. SGD dapat mempercepat konvergensi dan mengurangi risiko overfitting, regularisasi dapat mencegah overfitting dengan menambahkan penalti pada fungsi kerugian, dan transfer learning dapat memanfaatkan pengetahuan yang telah dipelajari oleh model pada tugas sumber untuk tugas target. Dengan menggunakan kombinasi ini, kita dapat meningkatkan kinerja model pada tugas visi komputer dan menghasilkan model yang lebih akurat dan lebih efektif.",184.125,640,0.2876953125,1.3333509868478253,0,Error: Invalid JSON format
