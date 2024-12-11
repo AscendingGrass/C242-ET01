@@ -12,7 +12,7 @@ suffixes = range(10, 71, 10)
 
 for difficulty in prefixes:
     for suffix in suffixes:
-        with open(f"dataset/{difficulty}_{suffix}.json", 'r', encoding='utf-8') as f:
+        with open(f"dataset/raw/{difficulty}_{suffix}.json", 'r', encoding='utf-8') as f:
             data = json.load(f)
         
         if suffix == 10:

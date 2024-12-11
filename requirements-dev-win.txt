@@ -1,4 +1,0 @@
-python-dotenv # REMOVE ON DEPLOYMENT
-google-generativeai
-# unsloth # only works on linux
-ollama

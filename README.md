@@ -1,51 +1,19 @@
 # C242-ET01
+This repository contains code and resources for fine-tuning and testing AI models for this project, including two Colab Notebooks and a dataset.
 
-## Repository Setup Instructions
+## Repository Structure
+Our repository is organized into the following directories & files:
 
-### 1. Clone the Repository
-- Clone the repository to your local machine.
+* `dataset`: This directory contains the dataset used in this project.
+* `results`: This directory contains the test results of our models and other openly available models on our test set.
+* `C242_ET01_Llama_3_1_8b_+_Unsloth_2x_faster_finetuning.ipynb`: This is a Colab Notebook that contains our fine-tuning code. The train set can be found in the `dataset` directory.
+* `C242_ET01_Benchmark.ipynb`: This is a Colab Notebook for testing our models. The results can be found in the `results` directory and the test set can be found in the `dataset` directory.
 
----
+## Models
+Our finetuned models are available here:
+* [Llama-3.2_3B_C242-ET01](https://huggingface.co/AscendingGrass/Llama-3.2_3B_C242-ET01)
+* [Llama-3.1_8B_C242-ET01](https://huggingface.co/AscendingGrass/Llama-3.1_8B_C242-ET01)
 
-### 2. Open in VS Code
-- Open the cloned repository in **Visual Studio Code (VS Code)**.
-
----
-
-### 3. Set Up the Virtual Environment
-1. Press **Ctrl + Shift + P** in VS Code.
-2. Search for and select **Python: Create Environment**.
-3. Choose **venv** as the environment type.
-4. Select a Python interpreter (any version of your choice).
-5. Use the `requirements-dev-win.txt` file to install the necessary dependencies if your os is windows. Use `requirements-dev.txt` if you're on linux.
-
----
-
-### 4. Activate the Virtual Environment
-1. Open the terminal in VS Code (**Ctrl + Shift + `**).
-2. Activate the virtual environment by typing:  
-   `.venv/Scripts/activate`
-3. To deactivate the environment, type:  
-   `deactivate`
-
----
-
-### 5. Create a `.env` File
-1. In the root folder of the repository, create a new file named `.env`.
-2. Use the format from `C242-ET01/.env_format` as a template.
-3. Fill in the `GENAI_API_KEY` with your API key from **Google AI Studio**.
-
----
-
-### 6. Adding New Scripts
-- Place any new scripts directly in the root folder of the repository.
-
----
-
-### 7. Using the Wrapper
-- Refer to the example script located at `C242-ET01/example_gemini.py` to learn how to use the wrapper.
-
----
-
-## Our Webapps
-[Dicoding Generative AI Web Application](https://github.com/RayaSatriatama/Dicoding-GenAI-WebApps/tree/main)
+The 4bit GGUF version of those models are available here:
+* [Llama-3.2_3B_C242-ET01_GGUF](https://huggingface.co/AscendingGrass/Llama-3.2_3B_C242-ET01_GGUF)
+* [Llama-3.1_8B_C242-ET01_GGUF](https://huggingface.co/AscendingGrass/Llama-3.1_8B_C242-ET01_GGUF)
