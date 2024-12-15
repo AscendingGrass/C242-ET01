@@ -5,6 +5,10 @@ Indonesia’s educational technology sector faces significant challenges in leve
 ## C242-ET01
 This repository contains code and resources for fine-tuning and testing AI models for this project, including two Colab Notebooks and a dataset.
 
+## IMPORTANT DEPLOY LINK
+Due to changes made directly by Google Cloud, we were forced to update the deployment link, which now redirects to the following link:
+[Dicoding Generative AI](https://s.id/DicodingGENAI)
+
 ## Repository Structure
 Our repository is organized into the following directories & files:
 
