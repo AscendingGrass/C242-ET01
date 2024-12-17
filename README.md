@@ -7,7 +7,7 @@ This repository contains code and resources for fine-tuning and testing AI model
 
 ## IMPORTANT DEPLOY LINK
 Due to changes made directly by Google Cloud, we were forced to update the deployment link, which now redirects to the following link:
-[Dicoding Generative AI](https://s.id/DicodingGENAI)
+[Dicoding Generative AI](http://34.64.88.23:5173/)
 
 ## Repository Structure
 Our repository is organized into the following directories & files:
